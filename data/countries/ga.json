@@ -1,0 +1,217 @@
+{
+  "code": "GA",
+  "states": [
+    {
+      "name": "Estuaire Province",
+      "state_code": "1",
+      "latitude": "0.44328640",
+      "longitude": "10.08072980",
+      "cities": [
+        {
+          "name": "Cocobeach",
+          "latitude": "1.00019000",
+          "longitude": "9.58229000"
+        },
+        {
+          "name": "Libreville",
+          "latitude": "0.39241000",
+          "longitude": "9.45356000"
+        },
+        {
+          "name": "Ntoum",
+          "latitude": "0.39051000",
+          "longitude": "9.76096000"
+        }
+      ]
+    },
+    {
+      "name": "Haut-Ogooué Province",
+      "state_code": "2",
+      "latitude": "-1.47625440",
+      "longitude": "13.91439900",
+      "cities": [
+        {
+          "name": "Franceville",
+          "latitude": "-1.63333000",
+          "longitude": "13.58357000"
+        },
+        {
+          "name": "Lékoni",
+          "latitude": "-1.58431000",
+          "longitude": "14.25905000"
+        },
+        {
+          "name": "Moanda",
+          "latitude": "-1.56652000",
+          "longitude": "13.19870000"
+        },
+        {
+          "name": "Mounana",
+          "latitude": "-1.40850000",
+          "longitude": "13.15857000"
+        },
+        {
+          "name": "Okondja",
+          "latitude": "-0.65487000",
+          "longitude": "13.67533000"
+        }
+      ]
+    },
+    {
+      "name": "Moyen-Ogooué Province",
+      "state_code": "3",
+      "latitude": "-0.44278400",
+      "longitude": "10.43965600",
+      "cities": [
+        {
+          "name": "Lambaréné",
+          "latitude": "-0.70010000",
+          "longitude": "10.24055000"
+        },
+        {
+          "name": "Ndjolé",
+          "latitude": "-0.17827000",
+          "longitude": "10.76488000"
+        }
+      ]
+    },
+    {
+      "name": "Ngounié Province",
+      "state_code": "4",
+      "latitude": "-1.49303030",
+      "longitude": "10.98070030",
+      "cities": [
+        {
+          "name": "Fougamou",
+          "latitude": "-1.21544000",
+          "longitude": "10.58378000"
+        },
+        {
+          "name": "Mbigou",
+          "latitude": "-1.90046000",
+          "longitude": "11.90600000"
+        },
+        {
+          "name": "Mimongo",
+          "latitude": "-1.61952000",
+          "longitude": "11.60675000"
+        },
+        {
+          "name": "Mouila",
+          "latitude": "-1.86846000",
+          "longitude": "11.05594000"
+        },
+        {
+          "name": "Ndendé",
+          "latitude": "-2.40077000",
+          "longitude": "11.35813000"
+        }
+      ]
+    },
+    {
+      "name": "Nyanga Province",
+      "state_code": "5",
+      "latitude": "-2.88210330",
+      "longitude": "11.16173560",
+      "cities": [
+        {
+          "name": "Mayumba",
+          "latitude": "-3.43198000",
+          "longitude": "10.65540000"
+        },
+        {
+          "name": "Tchibanga",
+          "latitude": "-2.93323000",
+          "longitude": "10.98178000"
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Ivindo Province",
+      "state_code": "6",
+      "latitude": "0.88183110",
+      "longitude": "13.17403480",
+      "cities": [
+        {
+          "name": "Booué",
+          "latitude": "-0.09207000",
+          "longitude": "11.93846000"
+        },
+        {
+          "name": "Makokou",
+          "latitude": "0.57381000",
+          "longitude": "12.86419000"
+        },
+        {
+          "name": "Zadie",
+          "latitude": "0.92582000",
+          "longitude": "13.90813000"
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Lolo Province",
+      "state_code": "7",
+      "latitude": "-0.88440930",
+      "longitude": "12.43805810",
+      "cities": [
+        {
+          "name": "Koulamoutou",
+          "latitude": "-1.13667000",
+          "longitude": "12.46399000"
+        },
+        {
+          "name": "Lastoursville",
+          "latitude": "-0.81742000",
+          "longitude": "12.70818000"
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Maritime Province",
+      "state_code": "8",
+      "latitude": "-1.34659750",
+      "longitude": "9.72326730",
+      "cities": [
+        {
+          "name": "Gamba",
+          "latitude": "-2.65000000",
+          "longitude": "10.00000000"
+        },
+        {
+          "name": "Omboué",
+          "latitude": "-1.57464000",
+          "longitude": "9.26184000"
+        },
+        {
+          "name": "Port-Gentil",
+          "latitude": "-0.71933000",
+          "longitude": "8.78151000"
+        }
+      ]
+    },
+    {
+      "name": "Woleu-Ntem Province",
+      "state_code": "9",
+      "latitude": "2.29898270",
+      "longitude": "11.44669140",
+      "cities": [
+        {
+          "name": "Bitam",
+          "latitude": "2.07597000",
+          "longitude": "11.50065000"
+        },
+        {
+          "name": "Mitzic",
+          "latitude": "0.78205000",
+          "longitude": "11.54904000"
+        },
+        {
+          "name": "Oyem",
+          "latitude": "1.59950000",
+          "longitude": "11.57933000"
+        }
+      ]
+    }
+  ]
+}

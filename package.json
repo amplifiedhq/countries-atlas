@@ -1,0 +1,70 @@
+{
+  "name": "@amplifiedhq/countries-atlas",
+  "version": "0.0.1",
+  "description": "Uncover the world with a single lightweight library - countries, codes, currencies, flags, languages, cities, and more 🌎",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.(js|ts)\"",
+    "lint": "eslint src --ext .js,.ts",
+    "lint:fix": "eslint src --fix --ext .js,.ts",
+    "test": "jest --config jest.config.js",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test && npm run lint",
+    "preversion": "npm run lint",
+    "version": "npm run format && git add -A src",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amplifiedhq/countries-atlas.git"
+  },
+  "contributors": [
+    {
+      "name": "Josiah Endurance",
+      "email": "hendurhance.dev@gmail.com"
+    },
+    {
+      "name": "Abdulrazaq Adewale",
+      "email": "classyrazy014@gmail.com"
+    }
+  ],
+  "keywords": [
+    "internationalization",
+    "i18n",
+    "countries",
+    "country",
+    "country-codes",
+    "geography",
+    "states",
+    "provinces",
+    "cities",
+    "continents",
+    "flags",
+    "languages",
+    "currencies",
+    "timezones",
+    "countries-atlas"
+  ],
+  "author": "AmplifiedHQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amplifiedhq/countries-atlas/issues"
+  },
+  "homepage": "https://github.com/amplifiedhq/countries-atlas#readme",
+  "devDependencies": {
+    "@types/jest": "29.4.0",
+    "@typescript-eslint/eslint-plugin": "5.54.0",
+    "@typescript-eslint/parser": "5.52.0",
+    "eslint": "8.35.0",
+    "eslint-plugin-jest": "27.2.1",
+    "jest": "29.4.3",
+    "prettier": "2.8.4",
+    "ts-jest": "29.0.5",
+    "typescript": "4.9.5"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}

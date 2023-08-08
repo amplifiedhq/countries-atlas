@@ -1,0 +1,511 @@
+{
+  "code": "JO",
+  "states": [
+    {
+      "name": "Ajloun Governorate",
+      "state_code": "AJ",
+      "latitude": "32.33255840",
+      "longitude": "35.75168440",
+      "cities": [
+        {
+          "name": "‘Ajlūn",
+          "latitude": "32.33326000",
+          "longitude": "35.75279000"
+        },
+        {
+          "name": "‘Anjarah",
+          "latitude": "32.30630000",
+          "longitude": "35.75653000"
+        },
+        {
+          "name": "‘Ayn Jannah",
+          "latitude": "32.33466000",
+          "longitude": "35.76370000"
+        },
+        {
+          "name": "Ḩalāwah",
+          "latitude": "32.38433000",
+          "longitude": "35.66167000"
+        },
+        {
+          "name": "Şakhrah",
+          "latitude": "32.37087000",
+          "longitude": "35.84267000"
+        }
+      ]
+    },
+    {
+      "name": "Amman Governorate",
+      "state_code": "AM",
+      "latitude": "31.94536330",
+      "longitude": "35.92838950",
+      "cities": [
+        {
+          "name": "Al Jīzah",
+          "latitude": "31.69893000",
+          "longitude": "35.95530000"
+        },
+        {
+          "name": "Al Jubayhah",
+          "latitude": "32.01071000",
+          "longitude": "35.89802000"
+        },
+        {
+          "name": "Amman",
+          "latitude": "31.95522000",
+          "longitude": "35.94503000"
+        },
+        {
+          "name": "Ḩayy al Bunayyāt",
+          "latitude": "31.89603000",
+          "longitude": "35.88465000"
+        },
+        {
+          "name": "Ḩayy al Quwaysimah",
+          "latitude": "31.91037000",
+          "longitude": "35.94975000"
+        },
+        {
+          "name": "Jāwā",
+          "latitude": "31.85247000",
+          "longitude": "35.93928000"
+        },
+        {
+          "name": "Saḩāb",
+          "latitude": "31.87032000",
+          "longitude": "36.00479000"
+        },
+        {
+          "name": "Umm as Summāq",
+          "latitude": "31.88542000",
+          "longitude": "35.85430000"
+        },
+        {
+          "name": "Wādī as Sīr",
+          "latitude": "31.95450000",
+          "longitude": "35.81831000"
+        }
+      ]
+    },
+    {
+      "name": "Aqaba Governorate",
+      "state_code": "AQ",
+      "latitude": "29.53208600",
+      "longitude": "35.00628210",
+      "cities": [
+        {
+          "name": "Aqaba",
+          "latitude": "29.52667000",
+          "longitude": "35.00778000"
+        },
+        {
+          "name": "Tala Bay",
+          "latitude": "29.40842000",
+          "longitude": "34.97918000"
+        }
+      ]
+    },
+    {
+      "name": "Balqa Governorate",
+      "state_code": "BA",
+      "latitude": "32.03668060",
+      "longitude": "35.72884800",
+      "cities": [
+        {
+          "name": "Al Karāmah",
+          "latitude": "31.95439000",
+          "longitude": "35.58033000"
+        },
+        {
+          "name": "As Salţ",
+          "latitude": "32.03917000",
+          "longitude": "35.72722000"
+        },
+        {
+          "name": "Yarqā",
+          "latitude": "31.97583000",
+          "longitude": "35.69638000"
+        }
+      ]
+    },
+    {
+      "name": "Irbid Governorate",
+      "state_code": "IR",
+      "latitude": "32.55696360",
+      "longitude": "35.84789650",
+      "cities": [
+        {
+          "name": "Ar Ramthā",
+          "latitude": "32.55873000",
+          "longitude": "36.00816000"
+        },
+        {
+          "name": "Ash Shajarah",
+          "latitude": "32.64391000",
+          "longitude": "35.94175000"
+        },
+        {
+          "name": "Aţ Ţayyibah",
+          "latitude": "32.54304000",
+          "longitude": "35.71756000"
+        },
+        {
+          "name": "Aţ Ţurrah",
+          "latitude": "32.63979000",
+          "longitude": "35.98943000"
+        },
+        {
+          "name": "Aydūn",
+          "latitude": "32.50528000",
+          "longitude": "35.85809000"
+        },
+        {
+          "name": "Bayt Īdis",
+          "latitude": "32.43775000",
+          "longitude": "35.69765000"
+        },
+        {
+          "name": "Bayt Yāfā",
+          "latitude": "32.52253000",
+          "longitude": "35.78618000"
+        },
+        {
+          "name": "Dayr Yūsuf",
+          "latitude": "32.48701000",
+          "longitude": "35.79635000"
+        },
+        {
+          "name": "Ḩakamā",
+          "latitude": "32.59354000",
+          "longitude": "35.88320000"
+        },
+        {
+          "name": "Ḩātim",
+          "latitude": "32.64492000",
+          "longitude": "35.77771000"
+        },
+        {
+          "name": "Irbid",
+          "latitude": "32.55556000",
+          "longitude": "35.85000000"
+        },
+        {
+          "name": "Judita",
+          "latitude": "32.40792000",
+          "longitude": "35.70802000"
+        },
+        {
+          "name": "Kafr Abīl",
+          "latitude": "32.41752000",
+          "longitude": "35.66305000"
+        },
+        {
+          "name": "Kafr Asad",
+          "latitude": "32.59800000",
+          "longitude": "35.71266000"
+        },
+        {
+          "name": "Kafr Sawm",
+          "latitude": "32.68527000",
+          "longitude": "35.80102000"
+        },
+        {
+          "name": "Kharjā",
+          "latitude": "32.65988000",
+          "longitude": "35.88782000"
+        },
+        {
+          "name": "Kitim",
+          "latitude": "32.43834000",
+          "longitude": "35.89677000"
+        },
+        {
+          "name": "Kurayyimah",
+          "latitude": "32.27639000",
+          "longitude": "35.59938000"
+        },
+        {
+          "name": "Malkā",
+          "latitude": "32.67645000",
+          "longitude": "35.74851000"
+        },
+        {
+          "name": "Qumaym",
+          "latitude": "32.57174000",
+          "longitude": "35.73452000"
+        },
+        {
+          "name": "Saḩam al Kaffārāt",
+          "latitude": "32.69848000",
+          "longitude": "35.77438000"
+        },
+        {
+          "name": "Sāl",
+          "latitude": "32.56897000",
+          "longitude": "35.91185000"
+        },
+        {
+          "name": "Şammā",
+          "latitude": "32.57102000",
+          "longitude": "35.68984000"
+        },
+        {
+          "name": "Tibnah",
+          "latitude": "32.47521000",
+          "longitude": "35.73056000"
+        },
+        {
+          "name": "Umm Qays",
+          "latitude": "32.65348000",
+          "longitude": "35.68457000"
+        },
+        {
+          "name": "Waqqāş",
+          "latitude": "32.54214000",
+          "longitude": "35.60508000"
+        },
+        {
+          "name": "Zaḩar",
+          "latitude": "32.56670000",
+          "longitude": "35.77811000"
+        }
+      ]
+    },
+    {
+      "name": "Jerash Governorate",
+      "state_code": "JA",
+      "latitude": "32.27472370",
+      "longitude": "35.89609540",
+      "cities": [
+        {
+          "name": "Al Kittah",
+          "latitude": "32.27685000",
+          "longitude": "35.84114000"
+        },
+        {
+          "name": "Balīlā",
+          "latitude": "32.39109000",
+          "longitude": "35.93832000"
+        },
+        {
+          "name": "Burmā",
+          "latitude": "32.21930000",
+          "longitude": "35.78507000"
+        },
+        {
+          "name": "Jarash",
+          "latitude": "32.28082000",
+          "longitude": "35.89929000"
+        },
+        {
+          "name": "Qafqafā",
+          "latitude": "32.34851000",
+          "longitude": "35.93864000"
+        },
+        {
+          "name": "Raymūn",
+          "latitude": "32.28202000",
+          "longitude": "35.82779000"
+        },
+        {
+          "name": "Sakib",
+          "latitude": "32.28431000",
+          "longitude": "35.80909000"
+        },
+        {
+          "name": "Sūf",
+          "latitude": "32.31372000",
+          "longitude": "35.83713000"
+        }
+      ]
+    },
+    {
+      "name": "Karak Governorate",
+      "state_code": "KA",
+      "latitude": "31.18535270",
+      "longitude": "35.70476820",
+      "cities": [
+        {
+          "name": "‘Ayy",
+          "latitude": "31.13371000",
+          "longitude": "35.64375000"
+        },
+        {
+          "name": "‘Izrā",
+          "latitude": "31.15889000",
+          "longitude": "35.69278000"
+        },
+        {
+          "name": "Adir",
+          "latitude": "31.20217000",
+          "longitude": "35.76155000"
+        },
+        {
+          "name": "Al Khinzīrah",
+          "latitude": "31.05056000",
+          "longitude": "35.60606000"
+        },
+        {
+          "name": "Al Mazār al Janūbī",
+          "latitude": "31.06722000",
+          "longitude": "35.69486000"
+        },
+        {
+          "name": "Al Qaşr",
+          "latitude": "31.31407000",
+          "longitude": "35.74393000"
+        },
+        {
+          "name": "Ar Rabbah",
+          "latitude": "31.26923000",
+          "longitude": "35.73829000"
+        },
+        {
+          "name": "Karak City",
+          "latitude": "31.16368000",
+          "longitude": "35.76204000"
+        },
+        {
+          "name": "Safi",
+          "latitude": "31.03608000",
+          "longitude": "35.46544000"
+        }
+      ]
+    },
+    {
+      "name": "Ma'an Governorate",
+      "state_code": "MN",
+      "latitude": "30.19267890",
+      "longitude": "35.72493190",
+      "cities": [
+        {
+          "name": "Al Jafr",
+          "latitude": "30.31840000",
+          "longitude": "36.17775000"
+        },
+        {
+          "name": "Al Quwayrah",
+          "latitude": "29.80045000",
+          "longitude": "35.31160000"
+        },
+        {
+          "name": "Ash Shawbak",
+          "latitude": "30.52134000",
+          "longitude": "35.57135000"
+        },
+        {
+          "name": "Aţ Ţayyibah",
+          "latitude": "30.25125000",
+          "longitude": "35.46570000"
+        },
+        {
+          "name": "Ma'an",
+          "latitude": "30.19624000",
+          "longitude": "35.73405000"
+        },
+        {
+          "name": "Petra",
+          "latitude": "30.32096000",
+          "longitude": "35.47895000"
+        },
+        {
+          "name": "Qīr Moāv",
+          "latitude": "31.18248000",
+          "longitude": "35.69999000"
+        }
+      ]
+    },
+    {
+      "name": "Madaba Governorate",
+      "state_code": "MD",
+      "latitude": "31.71960970",
+      "longitude": "35.79327540",
+      "cities": [
+        {
+          "name": "Mādabā",
+          "latitude": "31.71599000",
+          "longitude": "35.79392000"
+        }
+      ]
+    },
+    {
+      "name": "Mafraq Governorate",
+      "state_code": "MA",
+      "latitude": "32.34169230",
+      "longitude": "36.20201750",
+      "cities": [
+        {
+          "name": "Al Ḩamrā’",
+          "latitude": "32.44017000",
+          "longitude": "36.15265000"
+        },
+        {
+          "name": "Mafraq",
+          "latitude": "32.34289000",
+          "longitude": "36.20804000"
+        },
+        {
+          "name": "Rehab",
+          "latitude": "32.32341000",
+          "longitude": "36.09087000"
+        },
+        {
+          "name": "Rukban",
+          "latitude": "33.31405000",
+          "longitude": "38.70342000"
+        },
+        {
+          "name": "Şabḩā",
+          "latitude": "32.32696000",
+          "longitude": "36.50159000"
+        },
+        {
+          "name": "Umm al Qiţţayn",
+          "latitude": "32.31449000",
+          "longitude": "36.62826000"
+        }
+      ]
+    },
+    {
+      "name": "Tafilah Governorate",
+      "state_code": "AT",
+      "latitude": "30.83380630",
+      "longitude": "35.61605130",
+      "cities": [
+        {
+          "name": "Aţ Ţafīlah",
+          "latitude": "30.83752000",
+          "longitude": "35.60442000"
+        },
+        {
+          "name": "Buşayrā",
+          "latitude": "30.73256000",
+          "longitude": "35.60943000"
+        }
+      ]
+    },
+    {
+      "name": "Zarqa Governorate",
+      "state_code": "AZ",
+      "latitude": "32.06085050",
+      "longitude": "36.09421210",
+      "cities": [
+        {
+          "name": "Al Azraq ash Shamālī",
+          "latitude": "31.88209000",
+          "longitude": "36.83017000"
+        },
+        {
+          "name": "Russeifa",
+          "latitude": "32.01778000",
+          "longitude": "36.04639000"
+        },
+        {
+          "name": "Zarqa",
+          "latitude": "32.07275000",
+          "longitude": "36.08796000"
+        }
+      ]
+    }
+  ]
+}

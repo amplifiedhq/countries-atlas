@@ -1,0 +1,1009 @@
+.flag {
+  position: relative;
+  display: inline-block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* width:height aspect ratio of flag images is 4:3 */
+  width: 40px;
+  height: 30px;
+}
+
+.flag-ad {
+  background-image: url('../svg/ad.svg');
+}
+
+.flag-ae {
+  background-image: url('../svg/ae.svg');
+}
+
+.flag-af {
+  background-image: url('../svg/af.svg');
+}
+
+.flag-ag {
+  background-image: url('../svg/ag.svg');
+}
+
+.flag-ai {
+  background-image: url('../svg/ai.svg');
+}
+
+.flag-al {
+  background-image: url('../svg/al.svg');
+}
+
+.flag-am {
+  background-image: url('../svg/am.svg');
+}
+
+.flag-ao {
+  background-image: url('../svg/ao.svg');
+}
+
+.flag-aq {
+  background-image: url('../svg/aq.svg');
+}
+
+.flag-ar {
+  background-image: url('../svg/ar.svg');
+}
+
+.flag-as {
+  background-image: url('../svg/as.svg');
+}
+
+.flag-at {
+  background-image: url('../svg/at.svg');
+}
+
+.flag-au {
+  background-image: url('../svg/au.svg');
+}
+
+.flag-aw {
+  background-image: url('../svg/aw.svg');
+}
+
+.flag-ax {
+  background-image: url('../svg/ax.svg');
+}
+
+.flag-az {
+  background-image: url('../svg/az.svg');
+}
+
+.flag-ba {
+  background-image: url('../svg/ba.svg');
+}
+
+.flag-bb {
+  background-image: url('../svg/bb.svg');
+}
+
+.flag-bd {
+  background-image: url('../svg/bd.svg');
+}
+
+.flag-be {
+  background-image: url('../svg/be.svg');
+}
+
+.flag-bf {
+  background-image: url('../svg/bf.svg');
+}
+
+.flag-bg {
+  background-image: url('../svg/bg.svg');
+}
+
+.flag-bh {
+  background-image: url('../svg/bh.svg');
+}
+
+.flag-bi {
+  background-image: url('../svg/bi.svg');
+}
+
+.flag-bj {
+  background-image: url('../svg/bj.svg');
+}
+
+.flag-bl {
+  background-image: url('../svg/bl.svg');
+}
+
+.flag-bm {
+  background-image: url('../svg/bm.svg');
+}
+
+.flag-bn {
+  background-image: url('../svg/bn.svg');
+}
+
+.flag-bo {
+  background-image: url('../svg/bo.svg');
+}
+
+.flag-bq {
+  background-image: url('../svg/bq.svg');
+}
+
+.flag-br {
+  background-image: url('../svg/br.svg');
+}
+
+.flag-bs {
+  background-image: url('../svg/bs.svg');
+}
+
+.flag-bt {
+  background-image: url('../svg/bt.svg');
+}
+
+.flag-bv {
+  background-image: url('../svg/bv.svg');
+}
+
+.flag-bw {
+  background-image: url('../svg/bw.svg');
+}
+
+.flag-by {
+  background-image: url('../svg/by.svg');
+}
+
+.flag-bz {
+  background-image: url('../svg/bz.svg');
+}
+
+.flag-ca {
+  background-image: url('../svg/ca.svg');
+}
+
+.flag-cc {
+  background-image: url('../svg/cc.svg');
+}
+
+.flag-cd {
+  background-image: url('../svg/cd.svg');
+}
+
+.flag-cf {
+  background-image: url('../svg/cf.svg');
+}
+
+.flag-cg {
+  background-image: url('../svg/cg.svg');
+}
+
+.flag-ch {
+  background-image: url('../svg/ch.svg');
+}
+
+.flag-ci {
+  background-image: url('../svg/ci.svg');
+}
+
+.flag-ck {
+  background-image: url('../svg/ck.svg');
+}
+
+.flag-cl {
+  background-image: url('../svg/cl.svg');
+}
+
+.flag-cm {
+  background-image: url('../svg/cm.svg');
+}
+
+.flag-cn {
+  background-image: url('../svg/cn.svg');
+}
+
+.flag-co {
+  background-image: url('../svg/co.svg');
+}
+
+.flag-cr {
+  background-image: url('../svg/cr.svg');
+}
+
+.flag-cu {
+  background-image: url('../svg/cu.svg');
+}
+
+.flag-cv {
+  background-image: url('../svg/cv.svg');
+}
+
+.flag-cw {
+  background-image: url('../svg/cw.svg');
+}
+
+.flag-cx {
+  background-image: url('../svg/cx.svg');
+}
+
+.flag-cy {
+  background-image: url('../svg/cy.svg');
+}
+
+.flag-cz {
+  background-image: url('../svg/cz.svg');
+}
+
+.flag-de {
+  background-image: url('../svg/de.svg');
+}
+
+.flag-dj {
+  background-image: url('../svg/dj.svg');
+}
+
+.flag-dk {
+  background-image: url('../svg/dk.svg');
+}
+
+.flag-dm {
+  background-image: url('../svg/dm.svg');
+}
+
+.flag-do {
+  background-image: url('../svg/do.svg');
+}
+
+.flag-dz {
+  background-image: url('../svg/dz.svg');
+}
+
+.flag-ec {
+  background-image: url('../svg/ec.svg');
+}
+
+.flag-ee {
+  background-image: url('../svg/ee.svg');
+}
+
+.flag-eg {
+  background-image: url('../svg/eg.svg');
+}
+
+.flag-eh {
+  background-image: url('../svg/eh.svg');
+}
+
+.flag-er {
+  background-image: url('../svg/er.svg');
+}
+
+.flag-es {
+  background-image: url('../svg/es.svg');
+}
+
+.flag-et {
+  background-image: url('../svg/et.svg');
+}
+
+.flag-fi {
+  background-image: url('../svg/fi.svg');
+}
+
+.flag-fj {
+  background-image: url('../svg/fj.svg');
+}
+
+.flag-fk {
+  background-image: url('../svg/fk.svg');
+}
+
+.flag-fm {
+  background-image: url('../svg/fm.svg');
+}
+
+.flag-fo {
+  background-image: url('../svg/fo.svg');
+}
+
+.flag-fr {
+  background-image: url('../svg/fr.svg');
+}
+
+.flag-ga {
+  background-image: url('../svg/ga.svg');
+}
+
+.flag-gb {
+  background-image: url('../svg/gb.svg');
+}
+
+.flag-gd {
+  background-image: url('../svg/gd.svg');
+}
+
+.flag-ge {
+  background-image: url('../svg/ge.svg');
+}
+
+.flag-gf {
+  background-image: url('../svg/gf.svg');
+}
+
+.flag-gg {
+  background-image: url('../svg/gg.svg');
+}
+
+.flag-gh {
+  background-image: url('../svg/gh.svg');
+}
+
+.flag-gi {
+  background-image: url('../svg/gi.svg');
+}
+
+.flag-gl {
+  background-image: url('../svg/gl.svg');
+}
+
+.flag-gm {
+  background-image: url('../svg/gm.svg');
+}
+
+.flag-gn {
+  background-image: url('../svg/gn.svg');
+}
+
+.flag-gp {
+  background-image: url('../svg/gp.svg');
+}
+
+.flag-gq {
+  background-image: url('../svg/gq.svg');
+}
+
+.flag-gr {
+  background-image: url('../svg/gr.svg');
+}
+
+.flag-gs {
+  background-image: url('../svg/gs.svg');
+}
+
+.flag-gt {
+  background-image: url('../svg/gt.svg');
+}
+
+.flag-gu {
+  background-image: url('../svg/gu.svg');
+}
+
+.flag-gw {
+  background-image: url('../svg/gw.svg');
+}
+
+.flag-gy {
+  background-image: url('../svg/gy.svg');
+}
+
+.flag-hk {
+  background-image: url('../svg/hk.svg');
+}
+
+.flag-hm {
+  background-image: url('../svg/hm.svg');
+}
+
+.flag-hn {
+  background-image: url('../svg/hn.svg');
+}
+
+.flag-hr {
+  background-image: url('../svg/hr.svg');
+}
+
+.flag-ht {
+  background-image: url('../svg/ht.svg');
+}
+
+.flag-hu {
+  background-image: url('../svg/hu.svg');
+}
+
+.flag-id {
+  background-image: url('../svg/id.svg');
+}
+
+.flag-ie {
+  background-image: url('../svg/ie.svg');
+}
+
+.flag-il {
+  background-image: url('../svg/il.svg');
+}
+
+.flag-im {
+  background-image: url('../svg/im.svg');
+}
+
+.flag-in {
+  background-image: url('../svg/in.svg');
+}
+
+.flag-io {
+  background-image: url('../svg/io.svg');
+}
+
+.flag-iq {
+  background-image: url('../svg/iq.svg');
+}
+
+.flag-ir {
+  background-image: url('../svg/ir.svg');
+}
+
+.flag-is {
+  background-image: url('../svg/is.svg');
+}
+
+.flag-it {
+  background-image: url('../svg/it.svg');
+}
+
+.flag-je {
+  background-image: url('../svg/je.svg');
+}
+
+.flag-jm {
+  background-image: url('../svg/jm.svg');
+}
+
+.flag-jo {
+  background-image: url('../svg/jo.svg');
+}
+
+.flag-jp {
+  background-image: url('../svg/jp.svg');
+}
+
+.flag-ke {
+  background-image: url('../svg/ke.svg');
+}
+
+.flag-kg {
+  background-image: url('../svg/kg.svg');
+}
+
+.flag-kh {
+  background-image: url('../svg/kh.svg');
+}
+
+.flag-ki {
+  background-image: url('../svg/ki.svg');
+}
+
+.flag-km {
+  background-image: url('../svg/km.svg');
+}
+
+.flag-kn {
+  background-image: url('../svg/kn.svg');
+}
+
+.flag-kp {
+  background-image: url('../svg/kp.svg');
+}
+
+.flag-kr {
+  background-image: url('../svg/kr.svg');
+}
+
+.flag-kw {
+  background-image: url('../svg/kw.svg');
+}
+
+.flag-ky {
+  background-image: url('../svg/ky.svg');
+}
+
+.flag-kz {
+  background-image: url('../svg/kz.svg');
+}
+
+.flag-la {
+  background-image: url('../svg/la.svg');
+}
+
+.flag-lb {
+  background-image: url('../svg/lb.svg');
+}
+
+.flag-lc {
+  background-image: url('../svg/lc.svg');
+}
+
+.flag-li {
+  background-image: url('../svg/li.svg');
+}
+
+.flag-lk {
+  background-image: url('../svg/lk.svg');
+}
+
+.flag-lr {
+  background-image: url('../svg/lr.svg');
+}
+
+.flag-ls {
+  background-image: url('../svg/ls.svg');
+}
+
+.flag-lt {
+  background-image: url('../svg/lt.svg');
+}
+
+.flag-lu {
+  background-image: url('../svg/lu.svg');
+}
+
+.flag-lv {
+  background-image: url('../svg/lv.svg');
+}
+
+.flag-ly {
+  background-image: url('../svg/ly.svg');
+}
+
+.flag-ma {
+  background-image: url('../svg/ma.svg');
+}
+
+.flag-mc {
+  background-image: url('../svg/mc.svg');
+}
+
+.flag-md {
+  background-image: url('../svg/md.svg');
+}
+
+.flag-me {
+  background-image: url('../svg/me.svg');
+}
+
+.flag-mf {
+  background-image: url('../svg/mf.svg');
+}
+
+.flag-sx {
+  background-image: url('../svg/sx.svg');
+}
+
+.flag-mg {
+  background-image: url('../svg/mg.svg');
+}
+
+.flag-mh {
+  background-image: url('../svg/mh.svg');
+}
+
+.flag-mk {
+  background-image: url('../svg/mk.svg');
+}
+
+.flag-ml {
+  background-image: url('../svg/ml.svg');
+}
+
+.flag-mm {
+  background-image: url('../svg/mm.svg');
+}
+
+.flag-mn {
+  background-image: url('../svg/mn.svg');
+}
+
+.flag-mo {
+  background-image: url('../svg/mo.svg');
+}
+
+.flag-mp {
+  background-image: url('../svg/mp.svg');
+}
+
+.flag-mq {
+  background-image: url('../svg/mq.svg');
+}
+
+.flag-mr {
+  background-image: url('../svg/mr.svg');
+}
+
+.flag-ms {
+  background-image: url('../svg/ms.svg');
+}
+
+.flag-mt {
+  background-image: url('../svg/mt.svg');
+}
+
+.flag-mu {
+  background-image: url('../svg/mu.svg');
+}
+
+.flag-mv {
+  background-image: url('../svg/mv.svg');
+}
+
+.flag-mw {
+  background-image: url('../svg/mw.svg');
+}
+
+.flag-mx {
+  background-image: url('../svg/mx.svg');
+}
+
+.flag-my {
+  background-image: url('../svg/my.svg');
+}
+
+.flag-mz {
+  background-image: url('../svg/mz.svg');
+}
+
+.flag-na {
+  background-image: url('../svg/na.svg');
+}
+
+.flag-nc {
+  background-image: url('../svg/nc.svg');
+}
+
+.flag-ne {
+  background-image: url('../svg/ne.svg');
+}
+
+.flag-nf {
+  background-image: url('../svg/nf.svg');
+}
+
+.flag-ng {
+  background-image: url('../svg/ng.svg');
+}
+
+.flag-ni {
+  background-image: url('../svg/ni.svg');
+}
+
+.flag-nl {
+  background-image: url('../svg/nl.svg');
+}
+
+.flag-no {
+  background-image: url('../svg/no.svg');
+}
+
+.flag-np {
+  background-image: url('../svg/np.svg');
+}
+
+.flag-nr {
+  background-image: url('../svg/nr.svg');
+}
+
+.flag-nu {
+  background-image: url('../svg/nu.svg');
+}
+
+.flag-nz {
+  background-image: url('../svg/nz.svg');
+}
+
+.flag-om {
+  background-image: url('../svg/om.svg');
+}
+
+.flag-pa {
+  background-image: url('../svg/pa.svg');
+}
+
+.flag-pe {
+  background-image: url('../svg/pe.svg');
+}
+
+.flag-pf {
+  background-image: url('../svg/pf.svg');
+}
+
+.flag-pg {
+  background-image: url('../svg/pg.svg');
+}
+
+.flag-ph {
+  background-image: url('../svg/ph.svg');
+}
+
+.flag-pk {
+  background-image: url('../svg/pk.svg');
+}
+
+.flag-pl {
+  background-image: url('../svg/pl.svg');
+}
+
+.flag-pm {
+  background-image: url('../svg/pm.svg');
+}
+
+.flag-pn {
+  background-image: url('../svg/pn.svg');
+}
+
+.flag-pr {
+  background-image: url('../svg/pr.svg');
+}
+
+.flag-ps {
+  background-image: url('../svg/ps.svg');
+}
+
+.flag-pt {
+  background-image: url('../svg/pt.svg');
+}
+
+.flag-pw {
+  background-image: url('../svg/pw.svg');
+}
+
+.flag-py {
+  background-image: url('../svg/py.svg');
+}
+
+.flag-qa {
+  background-image: url('../svg/qa.svg');
+}
+
+.flag-re {
+  background-image: url('../svg/re.svg');
+}
+
+.flag-ro {
+  background-image: url('../svg/ro.svg');
+}
+
+.flag-rs {
+  background-image: url('../svg/rs.svg');
+}
+
+.flag-ru {
+  background-image: url('../svg/ru.svg');
+}
+
+.flag-rw {
+  background-image: url('../svg/rw.svg');
+}
+
+.flag-sa {
+  background-image: url('../svg/sa.svg');
+}
+
+.flag-sb {
+  background-image: url('../svg/sb.svg');
+}
+
+.flag-sc {
+  background-image: url('../svg/sc.svg');
+}
+
+.flag-sd {
+  background-image: url('../svg/sd.svg');
+}
+
+.flag-se {
+  background-image: url('../svg/se.svg');
+}
+
+.flag-sg {
+  background-image: url('../svg/sg.svg');
+}
+
+.flag-sh {
+  background-image: url('../svg/sh.svg');
+}
+
+.flag-si {
+  background-image: url('../svg/si.svg');
+}
+
+.flag-sj {
+  background-image: url('../svg/sj.svg');
+}
+
+.flag-sk {
+  background-image: url('../svg/sk.svg');
+}
+
+.flag-sl {
+  background-image: url('../svg/sl.svg');
+}
+
+.flag-sm {
+  background-image: url('../svg/sm.svg');
+}
+
+.flag-sn {
+  background-image: url('../svg/sn.svg');
+}
+
+.flag-so {
+  background-image: url('../svg/so.svg');
+}
+
+.flag-sr {
+  background-image: url('../svg/sr.svg');
+}
+
+.flag-ss {
+  background-image: url('../svg/ss.svg');
+}
+
+.flag-st {
+  background-image: url('../svg/st.svg');
+}
+
+.flag-sv {
+  background-image: url('../svg/sv.svg');
+}
+
+.flag-sy {
+  background-image: url('../svg/sy.svg');
+}
+
+.flag-sz {
+  background-image: url('../svg/sz.svg');
+}
+
+.flag-tc {
+  background-image: url('../svg/tc.svg');
+}
+
+.flag-td {
+  background-image: url('../svg/td.svg');
+}
+
+.flag-tf {
+  background-image: url('../svg/tf.svg');
+}
+
+.flag-tg {
+  background-image: url('../svg/tg.svg');
+}
+
+.flag-th {
+  background-image: url('../svg/th.svg');
+}
+
+.flag-tj {
+  background-image: url('../svg/tj.svg');
+}
+
+.flag-tk {
+  background-image: url('../svg/tk.svg');
+}
+
+.flag-tl {
+  background-image: url('../svg/tl.svg');
+}
+
+.flag-tm {
+  background-image: url('../svg/tm.svg');
+}
+
+.flag-tn {
+  background-image: url('../svg/tn.svg');
+}
+
+.flag-to {
+  background-image: url('../svg/to.svg');
+}
+
+.flag-tr {
+  background-image: url('../svg/tr.svg');
+}
+
+.flag-tt {
+  background-image: url('../svg/tt.svg');
+}
+
+.flag-tv {
+  background-image: url('../svg/tv.svg');
+}
+
+.flag-tw {
+  background-image: url('../svg/tw.svg');
+}
+
+.flag-tz {
+  background-image: url('../svg/tz.svg');
+}
+
+.flag-ua {
+  background-image: url('../svg/ua.svg');
+}
+
+.flag-ug {
+  background-image: url('../svg/ug.svg');
+}
+
+.flag-um {
+  background-image: url('../svg/um.svg');
+}
+
+.flag-us {
+  background-image: url('../svg/us.svg');
+}
+
+.flag-uy {
+  background-image: url('../svg/uy.svg');
+}
+
+.flag-uz {
+  background-image: url('../svg/uz.svg');
+}
+
+.flag-va {
+  background-image: url('../svg/va.svg');
+}
+
+.flag-vc {
+  background-image: url('../svg/vc.svg');
+}
+
+.flag-ve {
+  background-image: url('../svg/ve.svg');
+}
+
+.flag-vg {
+  background-image: url('../svg/vg.svg');
+}
+
+.flag-vi {
+  background-image: url('../svg/vi.svg');
+}
+
+.flag-vn {
+  background-image: url('../svg/vn.svg');
+}
+
+.flag-vu {
+  background-image: url('../svg/vu.svg');
+}
+
+.flag-wf {
+  background-image: url('../svg/wf.svg');
+}
+
+.flag-ws {
+  background-image: url('../svg/ws.svg');
+}
+
+.flag-xk {
+  background-image: url('../svg/xk.svg');
+}
+
+.flag-ye {
+  background-image: url('../svg/ye.svg');
+}
+
+.flag-yt {
+  background-image: url('../svg/yt.svg');
+}
+
+.flag-za {
+  background-image: url('../svg/za.svg');
+}
+
+.flag-zm {
+  background-image: url('../svg/zm.svg');
+}
+
+.flag-zw {
+  background-image: url('../svg/zw.svg');
+}

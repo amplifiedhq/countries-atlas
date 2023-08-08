@@ -1,0 +1,573 @@
+{
+  "code": "GM",
+  "states": [
+    {
+      "name": "Banjul",
+      "state_code": "B",
+      "latitude": "13.45487610",
+      "longitude": "-16.57903230",
+      "cities": [
+        {
+          "name": "Bakau",
+          "latitude": "13.47806000",
+          "longitude": "-16.68194000"
+        },
+        {
+          "name": "Banjul",
+          "latitude": "13.45274000",
+          "longitude": "-16.57803000"
+        },
+        {
+          "name": "Kombo Saint Mary District",
+          "latitude": "13.44389000",
+          "longitude": "-16.64583000"
+        },
+        {
+          "name": "Serekunda",
+          "latitude": "13.43833000",
+          "longitude": "-16.67806000"
+        }
+      ]
+    },
+    {
+      "name": "Central River Division",
+      "state_code": "M",
+      "latitude": "13.59944690",
+      "longitude": "-14.89216680",
+      "cities": [
+        {
+          "name": "Bansang",
+          "latitude": "13.43333000",
+          "longitude": "-14.65000000"
+        },
+        {
+          "name": "Brikama Nding",
+          "latitude": "13.53333000",
+          "longitude": "-14.93333000"
+        },
+        {
+          "name": "Dankunku",
+          "latitude": "13.56667000",
+          "longitude": "-15.31667000"
+        },
+        {
+          "name": "Denton",
+          "latitude": "13.50000000",
+          "longitude": "-14.93333000"
+        },
+        {
+          "name": "Fulladu West",
+          "latitude": "13.50000000",
+          "longitude": "-14.75000000"
+        },
+        {
+          "name": "Galleh Manda",
+          "latitude": "13.43333000",
+          "longitude": "-14.78333000"
+        },
+        {
+          "name": "Georgetown",
+          "latitude": "13.54039000",
+          "longitude": "-14.76374000"
+        },
+        {
+          "name": "Jakhaly",
+          "latitude": "13.55000000",
+          "longitude": "-14.96667000"
+        },
+        {
+          "name": "Janjanbureh",
+          "latitude": "13.53564000",
+          "longitude": "-14.76515000"
+        },
+        {
+          "name": "Jarreng",
+          "latitude": "13.61667000",
+          "longitude": "-15.18333000"
+        },
+        {
+          "name": "Karantaba",
+          "latitude": "13.66667000",
+          "longitude": "-15.03333000"
+        },
+        {
+          "name": "Kass Wollof",
+          "latitude": "13.78333000",
+          "longitude": "-14.93333000"
+        },
+        {
+          "name": "Kuntaur",
+          "latitude": "13.67085000",
+          "longitude": "-14.88977000"
+        },
+        {
+          "name": "Kunting",
+          "latitude": "13.53333000",
+          "longitude": "-14.66667000"
+        },
+        {
+          "name": "Lower Saloum",
+          "latitude": "13.71667000",
+          "longitude": "-15.36667000"
+        },
+        {
+          "name": "Niamina East District",
+          "latitude": "13.63333000",
+          "longitude": "-15.08333000"
+        },
+        {
+          "name": "Niamina West District",
+          "latitude": "13.58333000",
+          "longitude": "-15.25000000"
+        },
+        {
+          "name": "Niani",
+          "latitude": "13.66667000",
+          "longitude": "-14.91667000"
+        },
+        {
+          "name": "Nianija District",
+          "latitude": "13.72900000",
+          "longitude": "-15.09100000"
+        },
+        {
+          "name": "Pateh Sam",
+          "latitude": "13.61667000",
+          "longitude": "-15.06667000"
+        },
+        {
+          "name": "Sami",
+          "latitude": "13.58333000",
+          "longitude": "-15.20000000"
+        },
+        {
+          "name": "Sami District",
+          "latitude": "13.58333000",
+          "longitude": "-14.58333000"
+        },
+        {
+          "name": "Saruja",
+          "latitude": "13.55000000",
+          "longitude": "-14.91667000"
+        },
+        {
+          "name": "Sukuta",
+          "latitude": "13.61667000",
+          "longitude": "-14.91667000"
+        },
+        {
+          "name": "Upper Saloum",
+          "latitude": "13.75000000",
+          "longitude": "-15.20000000"
+        },
+        {
+          "name": "Wassu",
+          "latitude": "13.69094000",
+          "longitude": "-14.87884000"
+        }
+      ]
+    },
+    {
+      "name": "Lower River Division",
+      "state_code": "L",
+      "latitude": "13.35533060",
+      "longitude": "-15.92299000",
+      "cities": [
+        {
+          "name": "Baro Kunda",
+          "latitude": "13.48333000",
+          "longitude": "-15.26667000"
+        },
+        {
+          "name": "Bureng",
+          "latitude": "13.41667000",
+          "longitude": "-15.28333000"
+        },
+        {
+          "name": "Jali",
+          "latitude": "13.35000000",
+          "longitude": "-15.96667000"
+        },
+        {
+          "name": "Jarra Central",
+          "latitude": "13.41667000",
+          "longitude": "-15.41667000"
+        },
+        {
+          "name": "Jarra East",
+          "latitude": "13.41667000",
+          "longitude": "-15.25000000"
+        },
+        {
+          "name": "Jarra West",
+          "latitude": "13.41667000",
+          "longitude": "-15.53333000"
+        },
+        {
+          "name": "Jenoi",
+          "latitude": "13.48333000",
+          "longitude": "-15.56667000"
+        },
+        {
+          "name": "Jifarong",
+          "latitude": "13.30000000",
+          "longitude": "-15.86667000"
+        },
+        {
+          "name": "Kaiaf",
+          "latitude": "13.40000000",
+          "longitude": "-15.61667000"
+        },
+        {
+          "name": "Karantaba",
+          "latitude": "13.43333000",
+          "longitude": "-15.51667000"
+        },
+        {
+          "name": "Keneba",
+          "latitude": "13.32889000",
+          "longitude": "-16.01500000"
+        },
+        {
+          "name": "Kiang Central",
+          "latitude": "13.40000000",
+          "longitude": "-15.75000000"
+        },
+        {
+          "name": "Kiang East",
+          "latitude": "13.41667000",
+          "longitude": "-15.63333000"
+        },
+        {
+          "name": "Kiang West District",
+          "latitude": "13.33333000",
+          "longitude": "-16.00000000"
+        },
+        {
+          "name": "Mansa Konko",
+          "latitude": "13.44325000",
+          "longitude": "-15.53570000"
+        },
+        {
+          "name": "Nioro",
+          "latitude": "13.35000000",
+          "longitude": "-15.75000000"
+        },
+        {
+          "name": "Sankwia",
+          "latitude": "13.46667000",
+          "longitude": "-15.51667000"
+        },
+        {
+          "name": "Si Kunda",
+          "latitude": "13.43333000",
+          "longitude": "-15.56667000"
+        },
+        {
+          "name": "Soma",
+          "latitude": "13.43333000",
+          "longitude": "-15.53333000"
+        },
+        {
+          "name": "Sutukung",
+          "latitude": "13.46667000",
+          "longitude": "-15.26667000"
+        },
+        {
+          "name": "Toniataba",
+          "latitude": "13.43333000",
+          "longitude": "-15.58333000"
+        },
+        {
+          "name": "Wellingara Ba",
+          "latitude": "13.41667000",
+          "longitude": "-15.40000000"
+        }
+      ]
+    },
+    {
+      "name": "North Bank Division",
+      "state_code": "N",
+      "latitude": "13.52854360",
+      "longitude": "-16.01699710",
+      "cities": [
+        {
+          "name": "Bambali",
+          "latitude": "13.48333000",
+          "longitude": "-15.33333000"
+        },
+        {
+          "name": "Barra",
+          "latitude": "13.48278000",
+          "longitude": "-16.54556000"
+        },
+        {
+          "name": "Central Baddibu",
+          "latitude": "13.53333000",
+          "longitude": "-15.91667000"
+        },
+        {
+          "name": "Chilla",
+          "latitude": "13.55000000",
+          "longitude": "-16.28333000"
+        },
+        {
+          "name": "Daru Rilwan",
+          "latitude": "13.55000000",
+          "longitude": "-15.98333000"
+        },
+        {
+          "name": "Essau",
+          "latitude": "13.48389000",
+          "longitude": "-16.53472000"
+        },
+        {
+          "name": "Farafenni",
+          "latitude": "13.56667000",
+          "longitude": "-15.60000000"
+        },
+        {
+          "name": "Gunjur",
+          "latitude": "13.52278000",
+          "longitude": "-16.02778000"
+        },
+        {
+          "name": "Jokadu",
+          "latitude": "13.53333000",
+          "longitude": "-16.18333000"
+        },
+        {
+          "name": "Katchang",
+          "latitude": "13.50000000",
+          "longitude": "-15.75000000"
+        },
+        {
+          "name": "Kerewan",
+          "latitude": "13.48980000",
+          "longitude": "-16.08879000"
+        },
+        {
+          "name": "Lamin",
+          "latitude": "13.35222000",
+          "longitude": "-16.43389000"
+        },
+        {
+          "name": "Lower Baddibu District",
+          "latitude": "13.50000000",
+          "longitude": "-16.05000000"
+        },
+        {
+          "name": "Lower Niumi District",
+          "latitude": "13.53333000",
+          "longitude": "-16.41667000"
+        },
+        {
+          "name": "No Kunda",
+          "latitude": "13.56667000",
+          "longitude": "-15.83333000"
+        },
+        {
+          "name": "Saba",
+          "latitude": "13.51639000",
+          "longitude": "-16.04917000"
+        },
+        {
+          "name": "Sara Kunda",
+          "latitude": "13.53333000",
+          "longitude": "-15.41667000"
+        },
+        {
+          "name": "Upper Baddibu",
+          "latitude": "13.55000000",
+          "longitude": "-15.66667000"
+        },
+        {
+          "name": "Upper Niumi District",
+          "latitude": "13.40000000",
+          "longitude": "-16.33333000"
+        }
+      ]
+    },
+    {
+      "name": "Upper River Division",
+      "state_code": "U",
+      "latitude": "13.42573660",
+      "longitude": "-14.00723480",
+      "cities": [
+        {
+          "name": "Bakadagy",
+          "latitude": "13.30000000",
+          "longitude": "-14.38333000"
+        },
+        {
+          "name": "Basse Santa Su",
+          "latitude": "13.30995000",
+          "longitude": "-14.21373000"
+        },
+        {
+          "name": "Brifu",
+          "latitude": "13.50000000",
+          "longitude": "-13.93333000"
+        },
+        {
+          "name": "Daba Kunda",
+          "latitude": "13.31667000",
+          "longitude": "-14.30000000"
+        },
+        {
+          "name": "Demba Kunda",
+          "latitude": "13.25000000",
+          "longitude": "-14.26667000"
+        },
+        {
+          "name": "Diabugu",
+          "latitude": "13.38333000",
+          "longitude": "-14.40000000"
+        },
+        {
+          "name": "Diabugu Basilla",
+          "latitude": "13.33333000",
+          "longitude": "-13.95000000"
+        },
+        {
+          "name": "Fulladu East",
+          "latitude": "13.33333000",
+          "longitude": "-14.25000000"
+        },
+        {
+          "name": "Gunjur Kuta",
+          "latitude": "13.53333000",
+          "longitude": "-14.11667000"
+        },
+        {
+          "name": "Kantora",
+          "latitude": "13.41667000",
+          "longitude": "-13.91667000"
+        },
+        {
+          "name": "Koina",
+          "latitude": "13.48333000",
+          "longitude": "-13.86667000"
+        },
+        {
+          "name": "Kumbija",
+          "latitude": "13.26667000",
+          "longitude": "-14.18333000"
+        },
+        {
+          "name": "Nyamanari",
+          "latitude": "13.33333000",
+          "longitude": "-13.86667000"
+        },
+        {
+          "name": "Perai",
+          "latitude": "13.38333000",
+          "longitude": "-14.03333000"
+        },
+        {
+          "name": "Sabi",
+          "latitude": "13.23333000",
+          "longitude": "-14.20000000"
+        },
+        {
+          "name": "Sandu",
+          "latitude": "13.41667000",
+          "longitude": "-14.36667000"
+        },
+        {
+          "name": "Sudowol",
+          "latitude": "13.36667000",
+          "longitude": "-13.96667000"
+        },
+        {
+          "name": "Sun Kunda",
+          "latitude": "13.38333000",
+          "longitude": "-13.85000000"
+        },
+        {
+          "name": "Sutukoba",
+          "latitude": "13.50000000",
+          "longitude": "-14.01667000"
+        },
+        {
+          "name": "Wuli",
+          "latitude": "13.50000000",
+          "longitude": "-14.08333000"
+        }
+      ]
+    },
+    {
+      "name": "West Coast Division",
+      "state_code": "W",
+      "latitude": "5.97727980",
+      "longitude": "116.07542880",
+      "cities": [
+        {
+          "name": "Abuko",
+          "latitude": "13.40417000",
+          "longitude": "-16.65583000"
+        },
+        {
+          "name": "Brikama",
+          "latitude": "13.27136000",
+          "longitude": "-16.64944000"
+        },
+        {
+          "name": "Foni Bondali",
+          "latitude": "13.21667000",
+          "longitude": "-15.93333000"
+        },
+        {
+          "name": "Foni Brefet",
+          "latitude": "13.21667000",
+          "longitude": "-16.33333000"
+        },
+        {
+          "name": "Foni Jarrol",
+          "latitude": "13.23333000",
+          "longitude": "-15.83333000"
+        },
+        {
+          "name": "Foni Kansala",
+          "latitude": "13.21667000",
+          "longitude": "-16.05000000"
+        },
+        {
+          "name": "Gunjur",
+          "latitude": "13.20194000",
+          "longitude": "-16.73389000"
+        },
+        {
+          "name": "Kombo Central District",
+          "latitude": "13.25000000",
+          "longitude": "-16.66667000"
+        },
+        {
+          "name": "Kombo East District",
+          "latitude": "13.21667000",
+          "longitude": "-16.51667000"
+        },
+        {
+          "name": "Kombo North District",
+          "latitude": "13.36667000",
+          "longitude": "-16.66667000"
+        },
+        {
+          "name": "Kombo South District",
+          "latitude": "13.25000000",
+          "longitude": "-16.75000000"
+        },
+        {
+          "name": "Somita",
+          "latitude": "13.20583000",
+          "longitude": "-16.30556000"
+        },
+        {
+          "name": "Sukuta",
+          "latitude": "13.41033000",
+          "longitude": "-16.70815000"
+        }
+      ]
+    }
+  ]
+}

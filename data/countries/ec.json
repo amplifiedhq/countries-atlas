@@ -1,0 +1,759 @@
+{
+  "code": "EC",
+  "states": [
+    {
+      "name": "Azuay Province",
+      "state_code": "A",
+      "latitude": "-2.89430680",
+      "longitude": "-78.99683440",
+      "cities": [
+        {
+          "name": "Cantón San Fernando",
+          "latitude": "-3.13349000",
+          "longitude": "-79.26893000"
+        },
+        {
+          "name": "Cuenca",
+          "latitude": "-2.90055000",
+          "longitude": "-79.00453000"
+        },
+        {
+          "name": "Gualaceo",
+          "latitude": "-2.89264000",
+          "longitude": "-78.77814000"
+        },
+        {
+          "name": "La Unión",
+          "latitude": "-2.85000000",
+          "longitude": "-78.78333000"
+        },
+        {
+          "name": "Llacao",
+          "latitude": "-2.86667000",
+          "longitude": "-78.88333000"
+        },
+        {
+          "name": "Nulti",
+          "latitude": "-2.91667000",
+          "longitude": "-78.85000000"
+        }
+      ]
+    },
+    {
+      "name": "Bolívar Province",
+      "state_code": "B",
+      "latitude": "-1.70958280",
+      "longitude": "-79.04504290",
+      "cities": [
+        {
+          "name": "Guaranda",
+          "latitude": "-1.59263000",
+          "longitude": "-79.00098000"
+        },
+        {
+          "name": "San Miguel",
+          "latitude": "-1.70884000",
+          "longitude": "-79.04311000"
+        }
+      ]
+    },
+    {
+      "name": "Cañar Province",
+      "state_code": "F",
+      "latitude": "-2.55893150",
+      "longitude": "-78.93881910",
+      "cities": [
+        {
+          "name": "Azogues",
+          "latitude": "-2.73969000",
+          "longitude": "-78.84860000"
+        },
+        {
+          "name": "Cañar",
+          "latitude": "-2.56062000",
+          "longitude": "-78.93940000"
+        },
+        {
+          "name": "La Troncal",
+          "latitude": "-2.42355000",
+          "longitude": "-79.33977000"
+        }
+      ]
+    },
+    {
+      "name": "Carchi Province",
+      "state_code": "C",
+      "latitude": "0.50269120",
+      "longitude": "-77.90425210",
+      "cities": [
+        {
+          "name": "El Ángel",
+          "latitude": "0.62279000",
+          "longitude": "-77.94003000"
+        },
+        {
+          "name": "San Gabriel",
+          "latitude": "0.59318000",
+          "longitude": "-77.83078000"
+        },
+        {
+          "name": "Tulcán",
+          "latitude": "0.81187000",
+          "longitude": "-77.71727000"
+        }
+      ]
+    },
+    {
+      "name": "Chimborazo Province",
+      "state_code": "H",
+      "latitude": "-1.66479950",
+      "longitude": "-78.65432550",
+      "cities": [
+        {
+          "name": "Alausí",
+          "latitude": "-2.20329000",
+          "longitude": "-78.84714000"
+        },
+        {
+          "name": "Guano",
+          "latitude": "-1.60789000",
+          "longitude": "-78.63105000"
+        },
+        {
+          "name": "Riobamba",
+          "latitude": "-1.67098000",
+          "longitude": "-78.64712000"
+        }
+      ]
+    },
+    {
+      "name": "Cotopaxi Province",
+      "state_code": "X",
+      "latitude": "-0.83842060",
+      "longitude": "-78.66626780",
+      "cities": [
+        {
+          "name": "La Maná",
+          "latitude": "-0.94094000",
+          "longitude": "-79.22506000"
+        },
+        {
+          "name": "Latacunga",
+          "latitude": "-0.93521000",
+          "longitude": "-78.61554000"
+        },
+        {
+          "name": "Pujilí",
+          "latitude": "-0.95759000",
+          "longitude": "-78.69636000"
+        },
+        {
+          "name": "San Miguel de Salcedo",
+          "latitude": "-1.04547000",
+          "longitude": "-78.59063000"
+        },
+        {
+          "name": "Saquisilí",
+          "latitude": "-0.83990000",
+          "longitude": "-78.66700000"
+        }
+      ]
+    },
+    {
+      "name": "El Oro Province",
+      "state_code": "O",
+      "latitude": "-3.25924130",
+      "longitude": "-79.95835410",
+      "cities": [
+        {
+          "name": "Huaquillas",
+          "latitude": "-3.47523000",
+          "longitude": "-80.23084000"
+        },
+        {
+          "name": "Machala",
+          "latitude": "-3.25861000",
+          "longitude": "-79.96053000"
+        },
+        {
+          "name": "Pasaje",
+          "latitude": "-3.32561000",
+          "longitude": "-79.80697000"
+        },
+        {
+          "name": "Piñas",
+          "latitude": "-3.68107000",
+          "longitude": "-79.68083000"
+        },
+        {
+          "name": "Portovelo",
+          "latitude": "-3.72145000",
+          "longitude": "-79.62187000"
+        },
+        {
+          "name": "Puerto Bolívar",
+          "latitude": "-3.26649000",
+          "longitude": "-79.99749000"
+        },
+        {
+          "name": "Santa Rosa",
+          "latitude": "-3.44882000",
+          "longitude": "-79.95952000"
+        },
+        {
+          "name": "Zaruma",
+          "latitude": "-3.69132000",
+          "longitude": "-79.61174000"
+        }
+      ]
+    },
+    {
+      "name": "Esmeraldas",
+      "state_code": "E",
+      "latitude": "0.96817890",
+      "longitude": "-79.65172020",
+      "cities": [
+        {
+          "name": "Esmeraldas",
+          "latitude": "0.95920000",
+          "longitude": "-79.65397000"
+        },
+        {
+          "name": "Muisne",
+          "latitude": "0.61129000",
+          "longitude": "-80.01863000"
+        },
+        {
+          "name": "Pampanal de Bolívar",
+          "latitude": "1.35251000",
+          "longitude": "-78.89360000"
+        },
+        {
+          "name": "Rio Verde",
+          "latitude": "1.06235000",
+          "longitude": "-79.39939000"
+        },
+        {
+          "name": "Rosa Zarate",
+          "latitude": "0.32779000",
+          "longitude": "-79.47407000"
+        },
+        {
+          "name": "San Lorenzo de Esmeraldas",
+          "latitude": "1.28626000",
+          "longitude": "-78.83514000"
+        },
+        {
+          "name": "Valdez",
+          "latitude": "1.24917000",
+          "longitude": "-78.98306000"
+        }
+      ]
+    },
+    {
+      "name": "Galápagos Province",
+      "state_code": "W",
+      "latitude": "-0.95376910",
+      "longitude": "-90.96560190",
+      "cities": [
+        {
+          "name": "Puerto Ayora",
+          "latitude": "-0.74018000",
+          "longitude": "-90.31380000"
+        },
+        {
+          "name": "Puerto Baquerizo Moreno",
+          "latitude": "-0.90172000",
+          "longitude": "-89.61021000"
+        },
+        {
+          "name": "Puerto Villamil",
+          "latitude": "-0.95542000",
+          "longitude": "-90.96654000"
+        }
+      ]
+    },
+    {
+      "name": "Guayas Province",
+      "state_code": "G",
+      "latitude": "-1.95748390",
+      "longitude": "-79.91927020",
+      "cities": [
+        {
+          "name": "Alfredo Baquerizo Moreno",
+          "latitude": "-1.91667000",
+          "longitude": "-79.51667000"
+        },
+        {
+          "name": "Baláo",
+          "latitude": "-2.91100000",
+          "longitude": "-79.81441000"
+        },
+        {
+          "name": "Balzar",
+          "latitude": "-1.36501000",
+          "longitude": "-79.90494000"
+        },
+        {
+          "name": "Colimes",
+          "latitude": "-1.54553000",
+          "longitude": "-80.01165000"
+        },
+        {
+          "name": "Coronel Marcelino Maridueña",
+          "latitude": "-2.20924000",
+          "longitude": "-79.43248000"
+        },
+        {
+          "name": "El Triunfo",
+          "latitude": "-1.93333000",
+          "longitude": "-79.96667000"
+        },
+        {
+          "name": "Eloy Alfaro",
+          "latitude": "-2.17579000",
+          "longitude": "-79.85519000"
+        },
+        {
+          "name": "Guayaquil",
+          "latitude": "-2.19616000",
+          "longitude": "-79.88621000"
+        },
+        {
+          "name": "La Libertad",
+          "latitude": "-2.23300000",
+          "longitude": "-80.91039000"
+        },
+        {
+          "name": "Lomas de Sargentillo",
+          "latitude": "-1.88333000",
+          "longitude": "-80.08333000"
+        },
+        {
+          "name": "Milagro",
+          "latitude": "-2.13404000",
+          "longitude": "-79.59415000"
+        },
+        {
+          "name": "Naranjal",
+          "latitude": "-2.67364000",
+          "longitude": "-79.61830000"
+        },
+        {
+          "name": "Naranjito",
+          "latitude": "-2.16671000",
+          "longitude": "-79.46540000"
+        },
+        {
+          "name": "Palestina",
+          "latitude": "-1.93709000",
+          "longitude": "-79.71396000"
+        },
+        {
+          "name": "Pedro Carbo",
+          "latitude": "-1.81563000",
+          "longitude": "-80.23309000"
+        },
+        {
+          "name": "Playas",
+          "latitude": "-2.63199000",
+          "longitude": "-80.38808000"
+        },
+        {
+          "name": "Samborondón",
+          "latitude": "-1.96276000",
+          "longitude": "-79.72402000"
+        },
+        {
+          "name": "Santa Lucía",
+          "latitude": "-2.18333000",
+          "longitude": "-80.00000000"
+        },
+        {
+          "name": "Velasco Ibarra",
+          "latitude": "-1.04376000",
+          "longitude": "-79.63837000"
+        },
+        {
+          "name": "Yaguachi Nuevo",
+          "latitude": "-2.09680000",
+          "longitude": "-79.69485000"
+        }
+      ]
+    },
+    {
+      "name": "Imbabura Province",
+      "state_code": "I",
+      "latitude": "0.34997680",
+      "longitude": "-78.12601290",
+      "cities": [
+        {
+          "name": "Atuntaqui",
+          "latitude": "0.33247000",
+          "longitude": "-78.21371000"
+        },
+        {
+          "name": "Cotacachi",
+          "latitude": "0.30107000",
+          "longitude": "-78.26428000"
+        },
+        {
+          "name": "Ibarra",
+          "latitude": "0.35171000",
+          "longitude": "-78.12233000"
+        },
+        {
+          "name": "Otavalo",
+          "latitude": "0.23457000",
+          "longitude": "-78.26248000"
+        },
+        {
+          "name": "Pimampiro",
+          "latitude": "0.39116000",
+          "longitude": "-77.94068000"
+        }
+      ]
+    },
+    {
+      "name": "Los Ríos Province",
+      "state_code": "R",
+      "latitude": "-1.02306070",
+      "longitude": "-79.46088970",
+      "cities": [
+        {
+          "name": "Babahoyo",
+          "latitude": "-1.80217000",
+          "longitude": "-79.53443000"
+        },
+        {
+          "name": "Catarama",
+          "latitude": "-1.57504000",
+          "longitude": "-79.45998000"
+        },
+        {
+          "name": "Montalvo",
+          "latitude": "-1.79008000",
+          "longitude": "-79.28759000"
+        },
+        {
+          "name": "Palenque",
+          "latitude": "-1.43795000",
+          "longitude": "-79.75647000"
+        },
+        {
+          "name": "Quevedo",
+          "latitude": "-1.02863000",
+          "longitude": "-79.46352000"
+        },
+        {
+          "name": "Ventanas",
+          "latitude": "-1.44158000",
+          "longitude": "-79.45943000"
+        },
+        {
+          "name": "Vinces",
+          "latitude": "-1.55611000",
+          "longitude": "-79.75191000"
+        }
+      ]
+    },
+    {
+      "name": "Manabí Province",
+      "state_code": "M",
+      "latitude": "-1.05434340",
+      "longitude": "-80.45264400",
+      "cities": [
+        {
+          "name": "Bahía de Caráquez",
+          "latitude": "-0.59792000",
+          "longitude": "-80.42367000"
+        },
+        {
+          "name": "Calceta",
+          "latitude": "-0.84582000",
+          "longitude": "-80.16389000"
+        },
+        {
+          "name": "Cantón Portoviejo",
+          "latitude": "-1.05000000",
+          "longitude": "-80.45000000"
+        },
+        {
+          "name": "Chone",
+          "latitude": "-0.69819000",
+          "longitude": "-80.09361000"
+        },
+        {
+          "name": "Jipijapa",
+          "latitude": "-1.34872000",
+          "longitude": "-80.57875000"
+        },
+        {
+          "name": "Junín",
+          "latitude": "-0.92777000",
+          "longitude": "-80.20583000"
+        },
+        {
+          "name": "Manta",
+          "latitude": "-0.96212000",
+          "longitude": "-80.71271000"
+        },
+        {
+          "name": "Montecristi",
+          "latitude": "-1.04576000",
+          "longitude": "-80.65889000"
+        },
+        {
+          "name": "Paján",
+          "latitude": "-1.55238000",
+          "longitude": "-80.42958000"
+        },
+        {
+          "name": "Pedernales",
+          "latitude": "0.07167000",
+          "longitude": "-80.05250000"
+        },
+        {
+          "name": "Portoviejo",
+          "latitude": "-1.05458000",
+          "longitude": "-80.45445000"
+        },
+        {
+          "name": "Rocafuerte",
+          "latitude": "-0.92360000",
+          "longitude": "-80.44946000"
+        },
+        {
+          "name": "San Vicente",
+          "latitude": "-0.60435000",
+          "longitude": "-80.40267000"
+        },
+        {
+          "name": "Santa Ana",
+          "latitude": "-1.20726000",
+          "longitude": "-80.37132000"
+        },
+        {
+          "name": "Sucre",
+          "latitude": "-1.27974000",
+          "longitude": "-80.41885000"
+        },
+        {
+          "name": "Tosagua",
+          "latitude": "-0.78679000",
+          "longitude": "-80.23473000"
+        }
+      ]
+    },
+    {
+      "name": "Morona-Santiago Province",
+      "state_code": "S",
+      "latitude": "-2.30510620",
+      "longitude": "-78.11468660",
+      "cities": [
+        {
+          "name": "Gualaquiza",
+          "latitude": "-3.40359000",
+          "longitude": "-78.58166000"
+        },
+        {
+          "name": "Macas",
+          "latitude": "-2.30868000",
+          "longitude": "-78.11135000"
+        },
+        {
+          "name": "Palora",
+          "latitude": "-1.70131000",
+          "longitude": "-77.96516000"
+        },
+        {
+          "name": "Sucúa",
+          "latitude": "-2.45866000",
+          "longitude": "-78.17171000"
+        }
+      ]
+    },
+    {
+      "name": "Napo Province",
+      "state_code": "N",
+      "latitude": "-0.99559640",
+      "longitude": "-77.81296840",
+      "cities": [
+        {
+          "name": "Archidona",
+          "latitude": "-0.90950000",
+          "longitude": "-77.80772000"
+        },
+        {
+          "name": "Tena",
+          "latitude": "-0.99380000",
+          "longitude": "-77.81286000"
+        }
+      ]
+    },
+    {
+      "name": "Orellana Province",
+      "state_code": "D",
+      "latitude": "-0.45451630",
+      "longitude": "-76.99502860",
+      "cities": [
+        {
+          "name": "Boca Suno",
+          "latitude": "-0.69832000",
+          "longitude": "-77.14083000"
+        },
+        {
+          "name": "Francisco de Orellana Canton",
+          "latitude": "-0.46667000",
+          "longitude": "-76.96667000"
+        },
+        {
+          "name": "Loreto Canton",
+          "latitude": "-0.69487000",
+          "longitude": "-77.30255000"
+        },
+        {
+          "name": "Puerto Francisco de Orellana",
+          "latitude": "-0.46645000",
+          "longitude": "-76.98719000"
+        }
+      ]
+    },
+    {
+      "name": "Pastaza Province",
+      "state_code": "Y",
+      "latitude": "-1.48822650",
+      "longitude": "-78.00310570",
+      "cities": [
+        {
+          "name": "Puyo",
+          "latitude": "-1.48369000",
+          "longitude": "-78.00257000"
+        }
+      ]
+    },
+    {
+      "name": "Pichincha Province",
+      "state_code": "P",
+      "latitude": "-0.14648470",
+      "longitude": "-78.47519450",
+      "cities": [
+        {
+          "name": "Cayambe",
+          "latitude": "0.04084000",
+          "longitude": "-78.14524000"
+        },
+        {
+          "name": "Machachi",
+          "latitude": "-0.51011000",
+          "longitude": "-78.56712000"
+        },
+        {
+          "name": "Quito",
+          "latitude": "-0.22985000",
+          "longitude": "-78.52495000"
+        },
+        {
+          "name": "Sangolquí",
+          "latitude": "-0.33405000",
+          "longitude": "-78.45217000"
+        },
+        {
+          "name": "Tutamandahostel",
+          "latitude": "-0.19727000",
+          "longitude": "-78.49750000"
+        }
+      ]
+    },
+    {
+      "name": "Santa Elena Province",
+      "state_code": "SE",
+      "latitude": "-2.22671050",
+      "longitude": "-80.85949900",
+      "cities": [
+        {
+          "name": "Salinas",
+          "latitude": "-2.21452000",
+          "longitude": "-80.95151000"
+        },
+        {
+          "name": "Santa Elena",
+          "latitude": "-2.22622000",
+          "longitude": "-80.85873000"
+        }
+      ]
+    },
+    {
+      "name": "Santo Domingo de los Tsáchilas Province",
+      "state_code": "SD",
+      "latitude": "-0.25218820",
+      "longitude": "-79.18793830",
+      "cities": [
+        {
+          "name": "Santo Domingo de los Colorados",
+          "latitude": "-0.25305000",
+          "longitude": "-79.17536000"
+        }
+      ]
+    },
+    {
+      "name": "Sucumbíos Province",
+      "state_code": "U",
+      "latitude": "0.08892310",
+      "longitude": "-76.88975570",
+      "cities": [
+        {
+          "name": "Nueva Loja",
+          "latitude": "0.08600000",
+          "longitude": "-76.89528000"
+        }
+      ]
+    },
+    {
+      "name": "Tungurahua Province",
+      "state_code": "T",
+      "latitude": "-1.26352840",
+      "longitude": "-78.56608520",
+      "cities": [
+        {
+          "name": "Ambato",
+          "latitude": "-1.24908000",
+          "longitude": "-78.61675000"
+        },
+        {
+          "name": "Baños",
+          "latitude": "-1.39699000",
+          "longitude": "-78.42289000"
+        },
+        {
+          "name": "Pelileo",
+          "latitude": "-1.32990000",
+          "longitude": "-78.54341000"
+        },
+        {
+          "name": "Píllaro",
+          "latitude": "-1.17414000",
+          "longitude": "-78.54676000"
+        }
+      ]
+    },
+    {
+      "name": "Zamora-Chinchipe Province",
+      "state_code": "Z",
+      "latitude": "-4.06558920",
+      "longitude": "-78.95035250",
+      "cities": [
+        {
+          "name": "Yantzaza",
+          "latitude": "-3.83261000",
+          "longitude": "-78.76076000"
+        },
+        {
+          "name": "Zamora",
+          "latitude": "-4.06685000",
+          "longitude": "-78.95488000"
+        }
+      ]
+    }
+  ]
+}

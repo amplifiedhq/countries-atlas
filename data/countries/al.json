@@ -1,0 +1,995 @@
+{
+  "code": "AL",
+  "states": [
+    {
+      "name": "Berat County",
+      "state_code": "01",
+      "latitude": "40.69530120",
+      "longitude": "20.04496620",
+      "cities": []
+    },
+    {
+      "name": "Berat District",
+      "state_code": "BR",
+      "latitude": "40.70863770",
+      "longitude": "19.94373140",
+      "cities": [
+        {
+          "name": "Banaj",
+          "latitude": "40.82492000",
+          "longitude": "19.84074000"
+        },
+        {
+          "name": "Bashkia Berat",
+          "latitude": "40.69997000",
+          "longitude": "19.94983000"
+        },
+        {
+          "name": "Bashkia Kuçovë",
+          "latitude": "40.82489000",
+          "longitude": "19.95350000"
+        },
+        {
+          "name": "Bashkia Poliçan",
+          "latitude": "40.58608000",
+          "longitude": "20.04535000"
+        },
+        {
+          "name": "Bashkia Skrapar",
+          "latitude": "40.56036000",
+          "longitude": "20.25477000"
+        },
+        {
+          "name": "Berat",
+          "latitude": "40.70583000",
+          "longitude": "19.95222000"
+        },
+        {
+          "name": "Çorovodë",
+          "latitude": "40.50417000",
+          "longitude": "20.22722000"
+        },
+        {
+          "name": "Kuçovë",
+          "latitude": "40.80028000",
+          "longitude": "19.91667000"
+        },
+        {
+          "name": "Poliçan",
+          "latitude": "40.61222000",
+          "longitude": "20.09806000"
+        },
+        {
+          "name": "Rrethi i Beratit",
+          "latitude": "40.66667000",
+          "longitude": "20.00000000"
+        },
+        {
+          "name": "Rrethi i Kuçovës",
+          "latitude": "40.83333000",
+          "longitude": "19.91667000"
+        },
+        {
+          "name": "Rrethi i Skraparit",
+          "latitude": "40.55000000",
+          "longitude": "20.26667000"
+        },
+        {
+          "name": "Ura Vajgurore",
+          "latitude": "40.76889000",
+          "longitude": "19.87778000"
+        }
+      ]
+    },
+    {
+      "name": "Bulqizë District",
+      "state_code": "BU",
+      "latitude": "41.49425870",
+      "longitude": "20.21471570",
+      "cities": []
+    },
+    {
+      "name": "Delvinë District",
+      "state_code": "DL",
+      "latitude": "39.94813640",
+      "longitude": "20.09558910",
+      "cities": []
+    },
+    {
+      "name": "Devoll District",
+      "state_code": "DV",
+      "latitude": "40.64473470",
+      "longitude": "20.95066360",
+      "cities": []
+    },
+    {
+      "name": "Dibër County",
+      "state_code": "09",
+      "latitude": "41.58881630",
+      "longitude": "20.23556470",
+      "cities": [
+        {
+          "name": "Bashkia Bulqizë",
+          "latitude": "41.47152000",
+          "longitude": "20.33192000"
+        },
+        {
+          "name": "Bashkia Klos",
+          "latitude": "41.50826000",
+          "longitude": "20.07107000"
+        },
+        {
+          "name": "Bashkia Mat",
+          "latitude": "41.63317000",
+          "longitude": "20.01228000"
+        },
+        {
+          "name": "Bulqizë",
+          "latitude": "41.49167000",
+          "longitude": "20.22194000"
+        },
+        {
+          "name": "Burrel",
+          "latitude": "41.61028000",
+          "longitude": "20.00889000"
+        },
+        {
+          "name": "Klos",
+          "latitude": "41.50694000",
+          "longitude": "20.08667000"
+        },
+        {
+          "name": "Peshkopi",
+          "latitude": "41.68500000",
+          "longitude": "20.42889000"
+        },
+        {
+          "name": "Rrethi i Bulqizës",
+          "latitude": "41.50000000",
+          "longitude": "20.33333000"
+        },
+        {
+          "name": "Rrethi i Dibrës",
+          "latitude": "41.75000000",
+          "longitude": "20.33333000"
+        },
+        {
+          "name": "Rrethi i Matit",
+          "latitude": "41.58333000",
+          "longitude": "20.08333000"
+        },
+        {
+          "name": "Ulëz",
+          "latitude": "41.68278000",
+          "longitude": "19.89333000"
+        }
+      ]
+    },
+    {
+      "name": "Dibër District",
+      "state_code": "DI",
+      "latitude": "41.58881630",
+      "longitude": "20.23556470",
+      "cities": []
+    },
+    {
+      "name": "Durrës County",
+      "state_code": "02",
+      "latitude": "41.50809720",
+      "longitude": "19.61631850",
+      "cities": []
+    },
+    {
+      "name": "Durrës District",
+      "state_code": "DR",
+      "latitude": "41.37065170",
+      "longitude": "19.52110630",
+      "cities": [
+        {
+          "name": "Bashkia Durrës",
+          "latitude": "41.42743000",
+          "longitude": "19.48690000"
+        },
+        {
+          "name": "Bashkia Krujë",
+          "latitude": "41.50091000",
+          "longitude": "19.72571000"
+        },
+        {
+          "name": "Bashkia Shijak",
+          "latitude": "41.33558000",
+          "longitude": "19.58977000"
+        },
+        {
+          "name": "Durrës",
+          "latitude": "41.32355000",
+          "longitude": "19.45469000"
+        },
+        {
+          "name": "Durrës District",
+          "latitude": "41.31660000",
+          "longitude": "19.45000000"
+        },
+        {
+          "name": "Fushë-Krujë",
+          "latitude": "41.47833000",
+          "longitude": "19.71778000"
+        },
+        {
+          "name": "Krujë",
+          "latitude": "41.50917000",
+          "longitude": "19.79278000"
+        },
+        {
+          "name": "Rrethi i Krujës",
+          "latitude": "41.55000000",
+          "longitude": "19.75000000"
+        },
+        {
+          "name": "Shijak",
+          "latitude": "41.34556000",
+          "longitude": "19.56722000"
+        },
+        {
+          "name": "Sukth",
+          "latitude": "41.38056000",
+          "longitude": "19.53778000"
+        }
+      ]
+    },
+    {
+      "name": "Elbasan County",
+      "state_code": "03",
+      "latitude": "41.12666720",
+      "longitude": "20.23556470",
+      "cities": []
+    },
+    {
+      "name": "Fier County",
+      "state_code": "04",
+      "latitude": "40.91913920",
+      "longitude": "19.66393090",
+      "cities": [
+        {
+          "name": "Ballsh",
+          "latitude": "40.59889000",
+          "longitude": "19.73472000"
+        },
+        {
+          "name": "Bashkia Divjakë",
+          "latitude": "40.95716000",
+          "longitude": "19.52364000"
+        },
+        {
+          "name": "Bashkia Fier",
+          "latitude": "40.72937000",
+          "longitude": "19.48690000"
+        },
+        {
+          "name": "Bashkia Mallakastër",
+          "latitude": "40.55669000",
+          "longitude": "19.77347000"
+        },
+        {
+          "name": "Bashkia Patos",
+          "latitude": "40.67793000",
+          "longitude": "19.65591000"
+        },
+        {
+          "name": "Divjakë",
+          "latitude": "40.99667000",
+          "longitude": "19.52944000"
+        },
+        {
+          "name": "Fier",
+          "latitude": "40.72389000",
+          "longitude": "19.55611000"
+        },
+        {
+          "name": "Fier-Çifçi",
+          "latitude": "40.71667000",
+          "longitude": "19.56667000"
+        },
+        {
+          "name": "Lushnjë",
+          "latitude": "40.94194000",
+          "longitude": "19.70500000"
+        },
+        {
+          "name": "Patos",
+          "latitude": "40.68333000",
+          "longitude": "19.61944000"
+        },
+        {
+          "name": "Patos Fshat",
+          "latitude": "40.64278000",
+          "longitude": "19.65083000"
+        },
+        {
+          "name": "Roskovec",
+          "latitude": "40.73750000",
+          "longitude": "19.70222000"
+        },
+        {
+          "name": "Rrethi i Mallakastrës",
+          "latitude": "40.55000000",
+          "longitude": "19.78333000"
+        }
+      ]
+    },
+    {
+      "name": "Fier District",
+      "state_code": "FR",
+      "latitude": "40.72750400",
+      "longitude": "19.56275960",
+      "cities": []
+    },
+    {
+      "name": "Gjirokastër County",
+      "state_code": "05",
+      "latitude": "40.06728740",
+      "longitude": "20.10452290",
+      "cities": []
+    },
+    {
+      "name": "Gjirokastër District",
+      "state_code": "GJ",
+      "latitude": "40.06728740",
+      "longitude": "20.10452290",
+      "cities": [
+        {
+          "name": "Bashkia Dropull",
+          "latitude": "39.98584000",
+          "longitude": "20.30529000"
+        },
+        {
+          "name": "Bashkia Kelcyrë",
+          "latitude": "40.36196000",
+          "longitude": "20.16476000"
+        },
+        {
+          "name": "Bashkia Libohovë",
+          "latitude": "40.10754000",
+          "longitude": "20.25753000"
+        },
+        {
+          "name": "Bashkia Memaliaj",
+          "latitude": "40.41524000",
+          "longitude": "19.96911000"
+        },
+        {
+          "name": "Bashkia Përmet",
+          "latitude": "40.23246000",
+          "longitude": "20.41091000"
+        },
+        {
+          "name": "Bashkia Tepelenë",
+          "latitude": "40.26736000",
+          "longitude": "19.97003000"
+        },
+        {
+          "name": "Gjinkar",
+          "latitude": "40.19944000",
+          "longitude": "20.40611000"
+        },
+        {
+          "name": "Gjirokastër",
+          "latitude": "40.07583000",
+          "longitude": "20.13889000"
+        },
+        {
+          "name": "Këlcyrë",
+          "latitude": "40.31306000",
+          "longitude": "20.18944000"
+        },
+        {
+          "name": "Lazarat",
+          "latitude": "40.04667000",
+          "longitude": "20.14750000"
+        },
+        {
+          "name": "Libohovë",
+          "latitude": "40.03111000",
+          "longitude": "20.26306000"
+        },
+        {
+          "name": "Memaliaj",
+          "latitude": "40.35167000",
+          "longitude": "19.98028000"
+        },
+        {
+          "name": "Përmet",
+          "latitude": "40.23361000",
+          "longitude": "20.35167000"
+        },
+        {
+          "name": "Tepelenë",
+          "latitude": "40.29583000",
+          "longitude": "20.01917000"
+        }
+      ]
+    },
+    {
+      "name": "Gramsh District",
+      "state_code": "GR",
+      "latitude": "40.86698730",
+      "longitude": "20.18493230",
+      "cities": []
+    },
+    {
+      "name": "Has District",
+      "state_code": "HA",
+      "latitude": "42.79013360",
+      "longitude": "-83.61220120",
+      "cities": []
+    },
+    {
+      "name": "Kavajë District",
+      "state_code": "KA",
+      "latitude": "41.18445290",
+      "longitude": "19.56275960",
+      "cities": []
+    },
+    {
+      "name": "Kolonjë District",
+      "state_code": "ER",
+      "latitude": "40.33732620",
+      "longitude": "20.67946760",
+      "cities": []
+    },
+    {
+      "name": "Korçë County",
+      "state_code": "06",
+      "latitude": "40.59056700",
+      "longitude": "20.61689210",
+      "cities": [
+        {
+          "name": "Bashkia Devoll",
+          "latitude": "40.60078000",
+          "longitude": "20.93814000"
+        },
+        {
+          "name": "Bashkia Kolonjë",
+          "latitude": "40.31420000",
+          "longitude": "20.61482000"
+        },
+        {
+          "name": "Bashkia Maliq",
+          "latitude": "40.75508000",
+          "longitude": "20.60748000"
+        },
+        {
+          "name": "Bashkia Pustec",
+          "latitude": "40.83591000",
+          "longitude": "20.89405000"
+        },
+        {
+          "name": "Bilisht",
+          "latitude": "40.62750000",
+          "longitude": "20.99000000"
+        },
+        {
+          "name": "Ersekë",
+          "latitude": "40.33778000",
+          "longitude": "20.67889000"
+        },
+        {
+          "name": "Korçë",
+          "latitude": "40.61861000",
+          "longitude": "20.78083000"
+        },
+        {
+          "name": "Leskovik",
+          "latitude": "40.15139000",
+          "longitude": "20.59722000"
+        },
+        {
+          "name": "Libonik",
+          "latitude": "40.70444000",
+          "longitude": "20.70861000"
+        },
+        {
+          "name": "Maliq",
+          "latitude": "40.70583000",
+          "longitude": "20.69972000"
+        },
+        {
+          "name": "Mborje",
+          "latitude": "40.60333000",
+          "longitude": "20.80306000"
+        },
+        {
+          "name": "Pogradec",
+          "latitude": "40.90250000",
+          "longitude": "20.65250000"
+        },
+        {
+          "name": "Rrethi i Devollit",
+          "latitude": "40.58333000",
+          "longitude": "20.91667000"
+        },
+        {
+          "name": "Rrethi i Kolonjës",
+          "latitude": "40.25000000",
+          "longitude": "20.66667000"
+        },
+        {
+          "name": "Velçan",
+          "latitude": "40.95472000",
+          "longitude": "20.46222000"
+        },
+        {
+          "name": "Voskopojë",
+          "latitude": "40.63306000",
+          "longitude": "20.58889000"
+        }
+      ]
+    },
+    {
+      "name": "Korçë District",
+      "state_code": "KO",
+      "latitude": "40.59056700",
+      "longitude": "20.61689210",
+      "cities": []
+    },
+    {
+      "name": "Krujë District",
+      "state_code": "KR",
+      "latitude": "41.50947650",
+      "longitude": "19.77107320",
+      "cities": []
+    },
+    {
+      "name": "Kuçovë District",
+      "state_code": "KC",
+      "latitude": "40.78370630",
+      "longitude": "19.87823480",
+      "cities": []
+    },
+    {
+      "name": "Kukës County",
+      "state_code": "07",
+      "latitude": "42.08074640",
+      "longitude": "20.41429230",
+      "cities": []
+    },
+    {
+      "name": "Kukës District",
+      "state_code": "KU",
+      "latitude": "42.08074640",
+      "longitude": "20.41429230",
+      "cities": [
+        {
+          "name": "Bajram Curri",
+          "latitude": "42.35734000",
+          "longitude": "20.07679000"
+        },
+        {
+          "name": "Krumë",
+          "latitude": "42.19694000",
+          "longitude": "20.41333000"
+        },
+        {
+          "name": "Kukës",
+          "latitude": "42.07694000",
+          "longitude": "20.42194000"
+        },
+        {
+          "name": "Rrethi i Hasit",
+          "latitude": "42.16667000",
+          "longitude": "20.33333000"
+        },
+        {
+          "name": "Rrethi i Kukësit",
+          "latitude": "42.00000000",
+          "longitude": "20.33333000"
+        }
+      ]
+    },
+    {
+      "name": "Kurbin District",
+      "state_code": "KB",
+      "latitude": "41.64126440",
+      "longitude": "19.70559500",
+      "cities": []
+    },
+    {
+      "name": "Lezhë County",
+      "state_code": "08",
+      "latitude": "41.78137590",
+      "longitude": "19.80679160",
+      "cities": [
+        {
+          "name": "Bashkia Kurbin",
+          "latitude": "41.62215000",
+          "longitude": "19.70734000"
+        },
+        {
+          "name": "Bashkia Lezhë",
+          "latitude": "41.81320000",
+          "longitude": "19.64121000"
+        },
+        {
+          "name": "Bashkia Mirditë",
+          "latitude": "41.80953000",
+          "longitude": "19.99024000"
+        },
+        {
+          "name": "Kurbnesh",
+          "latitude": "41.77972000",
+          "longitude": "20.08361000"
+        },
+        {
+          "name": "Laç",
+          "latitude": "41.63556000",
+          "longitude": "19.71306000"
+        },
+        {
+          "name": "Lezhë",
+          "latitude": "41.78361000",
+          "longitude": "19.64361000"
+        },
+        {
+          "name": "Mamurras",
+          "latitude": "41.57750000",
+          "longitude": "19.69222000"
+        },
+        {
+          "name": "Milot",
+          "latitude": "41.68389000",
+          "longitude": "19.71556000"
+        },
+        {
+          "name": "Rrëshen",
+          "latitude": "41.76750000",
+          "longitude": "19.87556000"
+        },
+        {
+          "name": "Rrethi i Kurbinit",
+          "latitude": "41.63333000",
+          "longitude": "19.71667000"
+        },
+        {
+          "name": "Rubik",
+          "latitude": "41.77444000",
+          "longitude": "19.78611000"
+        },
+        {
+          "name": "Shëngjin",
+          "latitude": "41.81361000",
+          "longitude": "19.59389000"
+        }
+      ]
+    },
+    {
+      "name": "Lezhë District",
+      "state_code": "LE",
+      "latitude": "41.78607300",
+      "longitude": "19.64607580",
+      "cities": []
+    },
+    {
+      "name": "Librazhd District",
+      "state_code": "LB",
+      "latitude": "41.18292320",
+      "longitude": "20.31747690",
+      "cities": []
+    },
+    {
+      "name": "Lushnjë District",
+      "state_code": "LU",
+      "latitude": "40.94198300",
+      "longitude": "19.69964280",
+      "cities": []
+    },
+    {
+      "name": "Malësi e Madhe District",
+      "state_code": "MM",
+      "latitude": "42.42451730",
+      "longitude": "19.61631850",
+      "cities": []
+    },
+    {
+      "name": "Mallakastër District",
+      "state_code": "MK",
+      "latitude": "40.52733760",
+      "longitude": "19.78297910",
+      "cities": []
+    },
+    {
+      "name": "Mat District",
+      "state_code": "MT",
+      "latitude": "41.59376750",
+      "longitude": "19.99732440",
+      "cities": []
+    },
+    {
+      "name": "Mirditë District",
+      "state_code": "MR",
+      "latitude": "41.76428600",
+      "longitude": "19.90205090",
+      "cities": []
+    },
+    {
+      "name": "Peqin District",
+      "state_code": "PQ",
+      "latitude": "41.04709020",
+      "longitude": "19.75023840",
+      "cities": []
+    },
+    {
+      "name": "Përmet District",
+      "state_code": "PR",
+      "latitude": "40.23618370",
+      "longitude": "20.35173340",
+      "cities": []
+    },
+    {
+      "name": "Pogradec District",
+      "state_code": "PG",
+      "latitude": "40.90153140",
+      "longitude": "20.65562890",
+      "cities": []
+    },
+    {
+      "name": "Pukë District",
+      "state_code": "PU",
+      "latitude": "42.04697720",
+      "longitude": "19.89609680",
+      "cities": []
+    },
+    {
+      "name": "Sarandë District",
+      "state_code": "SR",
+      "latitude": "39.85921190",
+      "longitude": "20.02710010",
+      "cities": []
+    },
+    {
+      "name": "Shkodër County",
+      "state_code": "10",
+      "latitude": "42.15037100",
+      "longitude": "19.66393090",
+      "cities": []
+    },
+    {
+      "name": "Shkodër District",
+      "state_code": "SH",
+      "latitude": "42.06929850",
+      "longitude": "19.50325590",
+      "cities": [
+        {
+          "name": "Bashkia Malësi e Madhe",
+          "latitude": "42.36798000",
+          "longitude": "19.58977000"
+        },
+        {
+          "name": "Bashkia Pukë",
+          "latitude": "42.02997000",
+          "longitude": "19.92778000"
+        },
+        {
+          "name": "Bashkia Vau i Dejës",
+          "latitude": "42.04834000",
+          "longitude": "19.69999000"
+        },
+        {
+          "name": "Fushë-Arrëz",
+          "latitude": "42.06222000",
+          "longitude": "20.01667000"
+        },
+        {
+          "name": "Koplik",
+          "latitude": "42.21361000",
+          "longitude": "19.43639000"
+        },
+        {
+          "name": "Pukë",
+          "latitude": "42.04444000",
+          "longitude": "19.89972000"
+        },
+        {
+          "name": "Rrethi i Malësia e Madhe",
+          "latitude": "42.33333000",
+          "longitude": "19.58333000"
+        },
+        {
+          "name": "Rrethi i Shkodrës",
+          "latitude": "42.06917000",
+          "longitude": "19.53506000"
+        },
+        {
+          "name": "Shkodër",
+          "latitude": "42.06828000",
+          "longitude": "19.51258000"
+        },
+        {
+          "name": "Vau i Dejës",
+          "latitude": "42.01000000",
+          "longitude": "19.62472000"
+        },
+        {
+          "name": "Vukatanë",
+          "latitude": "42.02806000",
+          "longitude": "19.54778000"
+        }
+      ]
+    },
+    {
+      "name": "Skrapar District",
+      "state_code": "SK",
+      "latitude": "40.53499460",
+      "longitude": "20.28322170",
+      "cities": []
+    },
+    {
+      "name": "Tepelenë District",
+      "state_code": "TE",
+      "latitude": "40.29666320",
+      "longitude": "20.01816730",
+      "cities": []
+    },
+    {
+      "name": "Tirana County",
+      "state_code": "11",
+      "latitude": "41.24275980",
+      "longitude": "19.80679160",
+      "cities": []
+    },
+    {
+      "name": "Tirana District",
+      "state_code": "TR",
+      "latitude": "41.32754590",
+      "longitude": "19.81869820",
+      "cities": [
+        {
+          "name": "Bashkia Kavajë",
+          "latitude": "41.18127000",
+          "longitude": "19.55579000"
+        },
+        {
+          "name": "Bashkia Vorë",
+          "latitude": "41.39804000",
+          "longitude": "19.67703000"
+        },
+        {
+          "name": "Kamëz",
+          "latitude": "41.38167000",
+          "longitude": "19.76028000"
+        },
+        {
+          "name": "Kavajë",
+          "latitude": "41.18556000",
+          "longitude": "19.55694000"
+        },
+        {
+          "name": "Krrabë",
+          "latitude": "41.21556000",
+          "longitude": "19.97139000"
+        },
+        {
+          "name": "Rrethi i Kavajës",
+          "latitude": "41.16667000",
+          "longitude": "19.58333000"
+        },
+        {
+          "name": "Rrethi i Tiranës",
+          "latitude": "41.33333000",
+          "longitude": "19.91667000"
+        },
+        {
+          "name": "Rrogozhinë",
+          "latitude": "41.07639000",
+          "longitude": "19.66528000"
+        },
+        {
+          "name": "Sinaballaj",
+          "latitude": "41.06889000",
+          "longitude": "19.69944000"
+        },
+        {
+          "name": "Tirana",
+          "latitude": "41.32750000",
+          "longitude": "19.81889000"
+        },
+        {
+          "name": "Vorë",
+          "latitude": "41.39083000",
+          "longitude": "19.65500000"
+        }
+      ]
+    },
+    {
+      "name": "Tropojë District",
+      "state_code": "TP",
+      "latitude": "42.39821510",
+      "longitude": "20.16259550",
+      "cities": []
+    },
+    {
+      "name": "Vlorë County",
+      "state_code": "12",
+      "latitude": "40.15009600",
+      "longitude": "19.80679160",
+      "cities": [
+        {
+          "name": "Bashkia Finiq",
+          "latitude": "39.84393000",
+          "longitude": "20.16659000"
+        },
+        {
+          "name": "Bashkia Himarë",
+          "latitude": "40.11581000",
+          "longitude": "19.81389000"
+        },
+        {
+          "name": "Bashkia Konispol",
+          "latitude": "39.70064000",
+          "longitude": "20.13353000"
+        },
+        {
+          "name": "Bashkia Selenicë",
+          "latitude": "40.39503000",
+          "longitude": "19.65958000"
+        },
+        {
+          "name": "Bashkia Vlorë",
+          "latitude": "40.41340000",
+          "longitude": "19.49792000"
+        },
+        {
+          "name": "Delvinë",
+          "latitude": "39.95111000",
+          "longitude": "20.09778000"
+        },
+        {
+          "name": "Himarë",
+          "latitude": "40.10167000",
+          "longitude": "19.74472000"
+        },
+        {
+          "name": "Konispol",
+          "latitude": "39.65889000",
+          "longitude": "20.18139000"
+        },
+        {
+          "name": "Ksamil",
+          "latitude": "39.76889000",
+          "longitude": "19.99972000"
+        },
+        {
+          "name": "Orikum",
+          "latitude": "40.32528000",
+          "longitude": "19.47139000"
+        },
+        {
+          "name": "Rrethi i Delvinës",
+          "latitude": "39.91667000",
+          "longitude": "20.08333000"
+        },
+        {
+          "name": "Sarandë",
+          "latitude": "39.87534000",
+          "longitude": "20.00477000"
+        },
+        {
+          "name": "Selenicë",
+          "latitude": "40.53056000",
+          "longitude": "19.63583000"
+        },
+        {
+          "name": "Vlorë",
+          "latitude": "40.46860000",
+          "longitude": "19.48318000"
+        }
+      ]
+    },
+    {
+      "name": "Vlorë District",
+      "state_code": "VL",
+      "latitude": "40.46606680",
+      "longitude": "19.49135600",
+      "cities": []
+    }
+  ]
+}

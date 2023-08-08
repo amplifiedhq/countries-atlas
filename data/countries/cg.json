@@ -1,0 +1,185 @@
+{
+  "code": "CG",
+  "states": [
+    {
+      "name": "Bouenza Department",
+      "state_code": "11",
+      "latitude": "-4.11280790",
+      "longitude": "13.72891670",
+      "cities": [
+        {
+          "name": "Kayes",
+          "latitude": "-4.20493000",
+          "longitude": "13.28608000"
+        },
+        {
+          "name": "Madingou",
+          "latitude": "-4.15361000",
+          "longitude": "13.55000000"
+        }
+      ]
+    },
+    {
+      "name": "Brazzaville",
+      "state_code": "BZV",
+      "latitude": "-4.26335970",
+      "longitude": "15.24288530",
+      "cities": [
+        {
+          "name": "Brazzaville",
+          "latitude": "-4.26613000",
+          "longitude": "15.28318000"
+        }
+      ]
+    },
+    {
+      "name": "Cuvette Department",
+      "state_code": "8",
+      "latitude": "-0.28774460",
+      "longitude": "16.15809370",
+      "cities": [
+        {
+          "name": "Makoua",
+          "latitude": "0.00694000",
+          "longitude": "15.63333000"
+        },
+        {
+          "name": "Owando",
+          "latitude": "-0.48193000",
+          "longitude": "15.89988000"
+        }
+      ]
+    },
+    {
+      "name": "Cuvette-Ouest Department",
+      "state_code": "15",
+      "latitude": "0.14475500",
+      "longitude": "14.47233010",
+      "cities": [
+        {
+          "name": "Ewo",
+          "latitude": "-0.87250000",
+          "longitude": "14.82056000"
+        }
+      ]
+    },
+    {
+      "name": "Kouilou Department",
+      "state_code": "5",
+      "latitude": "-4.14284130",
+      "longitude": "11.88917210",
+      "cities": []
+    },
+    {
+      "name": "Lékoumou Department",
+      "state_code": "2",
+      "latitude": "-3.17038200",
+      "longitude": "13.35872880",
+      "cities": [
+        {
+          "name": "Sibiti",
+          "latitude": "-3.68192000",
+          "longitude": "13.34985000"
+        }
+      ]
+    },
+    {
+      "name": "Likouala Department",
+      "state_code": "7",
+      "latitude": "2.04392400",
+      "longitude": "17.66888700",
+      "cities": [
+        {
+          "name": "Impfondo",
+          "latitude": "1.61804000",
+          "longitude": "18.05981000"
+        }
+      ]
+    },
+    {
+      "name": "Niari Department",
+      "state_code": "9",
+      "latitude": "-3.18427000",
+      "longitude": "12.25479190",
+      "cities": [
+        {
+          "name": "Dolisie",
+          "latitude": "-4.19834000",
+          "longitude": "12.66664000"
+        },
+        {
+          "name": "Mossendjo",
+          "latitude": "-2.94968000",
+          "longitude": "12.70423000"
+        }
+      ]
+    },
+    {
+      "name": "Plateaux Department",
+      "state_code": "14",
+      "latitude": "-2.06800880",
+      "longitude": "15.40680790",
+      "cities": [
+        {
+          "name": "Djambala",
+          "latitude": "-2.54472000",
+          "longitude": "14.75333000"
+        },
+        {
+          "name": "Gamboma",
+          "latitude": "-1.87639000",
+          "longitude": "15.86444000"
+        }
+      ]
+    },
+    {
+      "name": "Pointe-Noire",
+      "state_code": "16",
+      "latitude": "-4.76916230",
+      "longitude": "11.86636200",
+      "cities": [
+        {
+          "name": "Loandjili",
+          "latitude": "-4.75611000",
+          "longitude": "11.85778000"
+        },
+        {
+          "name": "Pointe-Noire",
+          "latitude": "-4.77609000",
+          "longitude": "11.86352000"
+        }
+      ]
+    },
+    {
+      "name": "Pool Department",
+      "state_code": "12",
+      "latitude": "-3.77626280",
+      "longitude": "14.84546190",
+      "cities": [
+        {
+          "name": "Kinkala",
+          "latitude": "-4.36139000",
+          "longitude": "14.76444000"
+        }
+      ]
+    },
+    {
+      "name": "Sangha Department",
+      "state_code": "13",
+      "latitude": "1.46623280",
+      "longitude": "15.40680790",
+      "cities": [
+        {
+          "name": "Ouésso",
+          "latitude": "1.61361000",
+          "longitude": "16.05167000"
+        },
+        {
+          "name": "Sémbé",
+          "latitude": "1.64806000",
+          "longitude": "14.58056000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "code": "SG",
+  "states": [
+    {
+      "name": "Central Singapore Community Development Council",
+      "state_code": "01",
+      "latitude": "1.28951400",
+      "longitude": "103.81438790",
+      "cities": [
+        {
+          "name": "Singapore",
+          "latitude": "1.28967000",
+          "longitude": "103.85007000"
+        }
+      ]
+    },
+    {
+      "name": "North East Community Development Council",
+      "state_code": "02",
+      "latitude": "45.01181130",
+      "longitude": "-93.24681070",
+      "cities": []
+    },
+    {
+      "name": "North West Community Development Council",
+      "state_code": "03",
+      "latitude": "39.10709300",
+      "longitude": "-94.45733600",
+      "cities": [
+        {
+          "name": "Woodlands",
+          "latitude": "1.43801000",
+          "longitude": "103.78877000"
+        }
+      ]
+    },
+    {
+      "name": "South East Community Development Council",
+      "state_code": "04",
+      "latitude": "39.28630700",
+      "longitude": "-76.56912370",
+      "cities": []
+    },
+    {
+      "name": "South West Community Development Council",
+      "state_code": "05",
+      "latitude": "39.92569100",
+      "longitude": "-75.23105800",
+      "cities": []
+    }
+  ]
+}

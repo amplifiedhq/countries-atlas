@@ -1,0 +1,82 @@
+{
+  "code": "BM",
+  "states": [
+    {
+      "name": "Devonshire Parish",
+      "state_code": "DEV",
+      "latitude": "32.30380620",
+      "longitude": "-64.76069540",
+      "cities": []
+    },
+    {
+      "name": "Hamilton Municipality",
+      "state_code": "HAM",
+      "latitude": "43.32394400",
+      "longitude": "-79.90592190",
+      "cities": []
+    },
+    {
+      "name": "Hamilton Parish",
+      "state_code": "HA",
+      "latitude": "32.34494320",
+      "longitude": "-64.72365000",
+      "cities": []
+    },
+    {
+      "name": "Paget Parish",
+      "state_code": "PAG",
+      "latitude": "32.28107400",
+      "longitude": "-64.77847870",
+      "cities": []
+    },
+    {
+      "name": "Pembroke Parish",
+      "state_code": "PEM",
+      "latitude": "32.30076720",
+      "longitude": "-64.79626300",
+      "cities": []
+    },
+    {
+      "name": "Saint George's Municipality",
+      "state_code": "SG",
+      "latitude": "37.09652780",
+      "longitude": "-113.56841640",
+      "cities": []
+    },
+    {
+      "name": "Saint George's Parish",
+      "state_code": "SGE",
+      "latitude": "17.12577590",
+      "longitude": "-62.56198110",
+      "cities": []
+    },
+    {
+      "name": "Sandys Parish",
+      "state_code": "SAN",
+      "latitude": "32.29995280",
+      "longitude": "-64.86741030",
+      "cities": []
+    },
+    {
+      "name": "Smith's Parish,",
+      "state_code": "SMI",
+      "latitude": "32.31339660",
+      "longitude": "-64.73105880",
+      "cities": []
+    },
+    {
+      "name": "Southampton Parish",
+      "state_code": "SOU",
+      "latitude": "32.25400950",
+      "longitude": "-64.82590580",
+      "cities": []
+    },
+    {
+      "name": "Warwick Parish",
+      "state_code": "WAR",
+      "latitude": "32.26615340",
+      "longitude": "-64.80811980",
+      "cities": []
+    }
+  ]
+}

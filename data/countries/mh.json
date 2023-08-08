@@ -1,0 +1,19 @@
+{
+  "code": "MH",
+  "states": [
+    {
+      "name": "Ralik Chain",
+      "state_code": "L",
+      "latitude": "8.13614600",
+      "longitude": "164.88679560",
+      "cities": []
+    },
+    {
+      "name": "Ratak Chain",
+      "state_code": "T",
+      "latitude": "10.27632760",
+      "longitude": "170.55009370",
+      "cities": []
+    }
+  ]
+}

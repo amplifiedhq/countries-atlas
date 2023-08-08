@@ -1,0 +1,5525 @@
+{
+  "code": "SE",
+  "states": [
+    {
+      "name": "Blekinge",
+      "state_code": "K",
+      "latitude": "56.27838370",
+      "longitude": "15.01800580",
+      "cities": [
+        {
+          "name": "Bräkne-Hoby",
+          "latitude": "56.23333000",
+          "longitude": "15.11667000"
+        },
+        {
+          "name": "Hällevik",
+          "latitude": "56.01667000",
+          "longitude": "14.70000000"
+        },
+        {
+          "name": "Hasslö",
+          "latitude": "56.11667000",
+          "longitude": "15.48333000"
+        },
+        {
+          "name": "Jämjö",
+          "latitude": "56.19187000",
+          "longitude": "15.84115000"
+        },
+        {
+          "name": "Jämshög",
+          "latitude": "56.23333000",
+          "longitude": "14.51667000"
+        },
+        {
+          "name": "Kallinge",
+          "latitude": "56.24841000",
+          "longitude": "15.28721000"
+        },
+        {
+          "name": "Karlshamn",
+          "latitude": "56.17060000",
+          "longitude": "14.86188000"
+        },
+        {
+          "name": "Karlshamns kommun",
+          "latitude": "56.25000000",
+          "longitude": "14.86667000"
+        },
+        {
+          "name": "Karlskrona",
+          "latitude": "56.16156000",
+          "longitude": "15.58661000"
+        },
+        {
+          "name": "Karlskrona Kommun",
+          "latitude": "56.28167000",
+          "longitude": "15.66848000"
+        },
+        {
+          "name": "Mjällby",
+          "latitude": "56.05000000",
+          "longitude": "14.68333000"
+        },
+        {
+          "name": "Mörrum",
+          "latitude": "56.19281000",
+          "longitude": "14.74739000"
+        },
+        {
+          "name": "Nättraby",
+          "latitude": "56.20000000",
+          "longitude": "15.51667000"
+        },
+        {
+          "name": "Olofström",
+          "latitude": "56.27730000",
+          "longitude": "14.53402000"
+        },
+        {
+          "name": "Olofströms Kommun",
+          "latitude": "56.32305000",
+          "longitude": "14.56561000"
+        },
+        {
+          "name": "Rödeby",
+          "latitude": "56.26078000",
+          "longitude": "15.62143000"
+        },
+        {
+          "name": "Ronneby",
+          "latitude": "56.20999000",
+          "longitude": "15.27602000"
+        },
+        {
+          "name": "Ronneby Kommun",
+          "latitude": "56.31031000",
+          "longitude": "15.24038000"
+        },
+        {
+          "name": "Sölvesborg",
+          "latitude": "56.05205000",
+          "longitude": "14.57525000"
+        },
+        {
+          "name": "Sölvesborgs kommun",
+          "latitude": "56.08910000",
+          "longitude": "14.64518000"
+        },
+        {
+          "name": "Sturkö",
+          "latitude": "56.08333000",
+          "longitude": "15.70000000"
+        },
+        {
+          "name": "Svängsta",
+          "latitude": "56.26667000",
+          "longitude": "14.76667000"
+        }
+      ]
+    },
+    {
+      "name": "Dalarna County",
+      "state_code": "W",
+      "latitude": "61.09170120",
+      "longitude": "14.66636530",
+      "cities": [
+        {
+          "name": "Abborrberget",
+          "latitude": "60.15000000",
+          "longitude": "14.80000000"
+        },
+        {
+          "name": "Älvdalen",
+          "latitude": "61.22774000",
+          "longitude": "14.03935000"
+        },
+        {
+          "name": "Älvdalens kommun",
+          "latitude": "61.61337000",
+          "longitude": "13.27257000"
+        },
+        {
+          "name": "Avesta",
+          "latitude": "60.14274000",
+          "longitude": "16.16295000"
+        },
+        {
+          "name": "Avesta Kommun",
+          "latitude": "60.21251000",
+          "longitude": "16.36234000"
+        },
+        {
+          "name": "Bjursås",
+          "latitude": "60.73726000",
+          "longitude": "15.45291000"
+        },
+        {
+          "name": "Borlänge",
+          "latitude": "60.48580000",
+          "longitude": "15.43714000"
+        },
+        {
+          "name": "Borlänge Kommun",
+          "latitude": "60.45799000",
+          "longitude": "15.39873000"
+        },
+        {
+          "name": "Brunna",
+          "latitude": "60.26255000",
+          "longitude": "16.01034000"
+        },
+        {
+          "name": "Djurås",
+          "latitude": "60.56061000",
+          "longitude": "15.13281000"
+        },
+        {
+          "name": "Enbacka",
+          "latitude": "60.40993000",
+          "longitude": "15.59575000"
+        },
+        {
+          "name": "Falu kommun",
+          "latitude": "60.60483000",
+          "longitude": "15.63492000"
+        },
+        {
+          "name": "Falun",
+          "latitude": "60.60357000",
+          "longitude": "15.62597000"
+        },
+        {
+          "name": "Gagnef",
+          "latitude": "60.59856000",
+          "longitude": "15.07745000"
+        },
+        {
+          "name": "Gagnefs Kommun",
+          "latitude": "60.47391000",
+          "longitude": "14.94676000"
+        },
+        {
+          "name": "Grängesberg",
+          "latitude": "60.07465000",
+          "longitude": "15.00784000"
+        },
+        {
+          "name": "Grycksbo",
+          "latitude": "60.68751000",
+          "longitude": "15.48507000"
+        },
+        {
+          "name": "Hedemora",
+          "latitude": "60.27973000",
+          "longitude": "15.98855000"
+        },
+        {
+          "name": "Hedemora Kommun",
+          "latitude": "60.34659000",
+          "longitude": "16.07350000"
+        },
+        {
+          "name": "Horndal",
+          "latitude": "60.30000000",
+          "longitude": "16.41667000"
+        },
+        {
+          "name": "Insjön",
+          "latitude": "60.67688000",
+          "longitude": "15.09487000"
+        },
+        {
+          "name": "Järna",
+          "latitude": "60.53333000",
+          "longitude": "14.36667000"
+        },
+        {
+          "name": "Krylbo",
+          "latitude": "60.13333000",
+          "longitude": "16.21667000"
+        },
+        {
+          "name": "Långshyttan",
+          "latitude": "60.45238000",
+          "longitude": "16.03831000"
+        },
+        {
+          "name": "Leksand",
+          "latitude": "60.73030000",
+          "longitude": "14.99994000"
+        },
+        {
+          "name": "Leksands kommun",
+          "latitude": "60.73227000",
+          "longitude": "14.99805000"
+        },
+        {
+          "name": "Ludvika",
+          "latitude": "60.14959000",
+          "longitude": "15.18776000"
+        },
+        {
+          "name": "Ludvika Kommun",
+          "latitude": "60.17114000",
+          "longitude": "14.72635000"
+        },
+        {
+          "name": "Malung",
+          "latitude": "60.68329000",
+          "longitude": "13.71542000"
+        },
+        {
+          "name": "Malung-Sälens kommun",
+          "latitude": "60.56667000",
+          "longitude": "13.66667000"
+        },
+        {
+          "name": "Mockfjärd",
+          "latitude": "60.50000000",
+          "longitude": "14.96667000"
+        },
+        {
+          "name": "Mora",
+          "latitude": "61.00704000",
+          "longitude": "14.54316000"
+        },
+        {
+          "name": "Mora Kommun",
+          "latitude": "61.00656000",
+          "longitude": "14.53755000"
+        },
+        {
+          "name": "Nyhammar",
+          "latitude": "60.28333000",
+          "longitude": "14.96667000"
+        },
+        {
+          "name": "Ornäs",
+          "latitude": "60.50944000",
+          "longitude": "15.54128000"
+        },
+        {
+          "name": "Orsa",
+          "latitude": "61.12034000",
+          "longitude": "14.61550000"
+        },
+        {
+          "name": "Orsa Kommun",
+          "latitude": "61.30000000",
+          "longitude": "14.75000000"
+        },
+        {
+          "name": "Rättvik",
+          "latitude": "60.88632000",
+          "longitude": "15.11787000"
+        },
+        {
+          "name": "Rättviks Kommun",
+          "latitude": "60.88632000",
+          "longitude": "15.11787000"
+        },
+        {
+          "name": "Romme",
+          "latitude": "60.43333000",
+          "longitude": "15.50000000"
+        },
+        {
+          "name": "Säter",
+          "latitude": "60.34778000",
+          "longitude": "15.75051000"
+        },
+        {
+          "name": "Säters Kommun",
+          "latitude": "60.36887000",
+          "longitude": "15.71383000"
+        },
+        {
+          "name": "Siljansnäs",
+          "latitude": "60.78333000",
+          "longitude": "14.85000000"
+        },
+        {
+          "name": "Smedby",
+          "latitude": "60.70000000",
+          "longitude": "15.05000000"
+        },
+        {
+          "name": "Smedjebacken",
+          "latitude": "60.14181000",
+          "longitude": "15.41416000"
+        },
+        {
+          "name": "Smedjebackens Kommun",
+          "latitude": "60.09475000",
+          "longitude": "15.45204000"
+        },
+        {
+          "name": "Svärdsjö",
+          "latitude": "60.74022000",
+          "longitude": "15.90173000"
+        },
+        {
+          "name": "Vansbro",
+          "latitude": "60.50893000",
+          "longitude": "14.22458000"
+        },
+        {
+          "name": "Vansbro Kommun",
+          "latitude": "60.46117000",
+          "longitude": "14.27836000"
+        },
+        {
+          "name": "Vikarbyn",
+          "latitude": "60.91667000",
+          "longitude": "15.01667000"
+        }
+      ]
+    },
+    {
+      "name": "Gävleborg County",
+      "state_code": "X",
+      "latitude": "61.30119930",
+      "longitude": "16.15342140",
+      "cities": [
+        {
+          "name": "Alfta",
+          "latitude": "61.34675000",
+          "longitude": "16.07499000"
+        },
+        {
+          "name": "Arbrå",
+          "latitude": "61.46667000",
+          "longitude": "16.38333000"
+        },
+        {
+          "name": "Årsunda",
+          "latitude": "60.51644000",
+          "longitude": "16.73436000"
+        },
+        {
+          "name": "Bergby",
+          "latitude": "60.92931000",
+          "longitude": "17.04194000"
+        },
+        {
+          "name": "Bergsjö",
+          "latitude": "61.98253000",
+          "longitude": "17.06368000"
+        },
+        {
+          "name": "Bollnäs",
+          "latitude": "61.34817000",
+          "longitude": "16.39464000"
+        },
+        {
+          "name": "Bollnäs Kommun",
+          "latitude": "61.31418000",
+          "longitude": "16.41725000"
+        },
+        {
+          "name": "Delsbo",
+          "latitude": "61.80104000",
+          "longitude": "16.55571000"
+        },
+        {
+          "name": "Edsbyn",
+          "latitude": "61.37692000",
+          "longitude": "15.81747000"
+        },
+        {
+          "name": "Färila",
+          "latitude": "61.80011000",
+          "longitude": "15.84422000"
+        },
+        {
+          "name": "Forsbacka",
+          "latitude": "60.61667000",
+          "longitude": "16.88333000"
+        },
+        {
+          "name": "Gävle",
+          "latitude": "60.67452000",
+          "longitude": "17.14174000"
+        },
+        {
+          "name": "Gävle Kommun",
+          "latitude": "60.64260000",
+          "longitude": "17.12066000"
+        },
+        {
+          "name": "Gnarp",
+          "latitude": "62.04874000",
+          "longitude": "17.25858000"
+        },
+        {
+          "name": "Hedesunda",
+          "latitude": "60.40000000",
+          "longitude": "17.00000000"
+        },
+        {
+          "name": "Hofors",
+          "latitude": "60.54573000",
+          "longitude": "16.28668000"
+        },
+        {
+          "name": "Hofors Kommun",
+          "latitude": "60.49619000",
+          "longitude": "16.41088000"
+        },
+        {
+          "name": "Hudiksvall",
+          "latitude": "61.72744000",
+          "longitude": "17.10558000"
+        },
+        {
+          "name": "Hudiksvalls Kommun",
+          "latitude": "61.76615000",
+          "longitude": "16.77055000"
+        },
+        {
+          "name": "Iggesund",
+          "latitude": "61.64219000",
+          "longitude": "17.07477000"
+        },
+        {
+          "name": "Järbo",
+          "latitude": "60.71667000",
+          "longitude": "16.60000000"
+        },
+        {
+          "name": "Järvsö",
+          "latitude": "61.71667000",
+          "longitude": "16.16667000"
+        },
+        {
+          "name": "Kilafors",
+          "latitude": "61.23333000",
+          "longitude": "16.56667000"
+        },
+        {
+          "name": "Ljusdal",
+          "latitude": "61.82883000",
+          "longitude": "16.09126000"
+        },
+        {
+          "name": "Ljusdals Kommun",
+          "latitude": "61.85527000",
+          "longitude": "15.50695000"
+        },
+        {
+          "name": "Ljusne",
+          "latitude": "61.21170000",
+          "longitude": "17.12790000"
+        },
+        {
+          "name": "Nordanstigs kommun",
+          "latitude": "62.05261000",
+          "longitude": "16.91378000"
+        },
+        {
+          "name": "Ockelbo",
+          "latitude": "60.89120000",
+          "longitude": "16.71846000"
+        },
+        {
+          "name": "Ockelbo Kommun",
+          "latitude": "60.94179000",
+          "longitude": "16.57003000"
+        },
+        {
+          "name": "Ovanåkers Kommun",
+          "latitude": "61.33328000",
+          "longitude": "15.78067000"
+        },
+        {
+          "name": "Sandarne",
+          "latitude": "61.25893000",
+          "longitude": "17.15284000"
+        },
+        {
+          "name": "Sandviken",
+          "latitude": "60.61667000",
+          "longitude": "16.76667000"
+        },
+        {
+          "name": "Sandvikens Kommun",
+          "latitude": "60.55029000",
+          "longitude": "16.68461000"
+        },
+        {
+          "name": "Söderhamn",
+          "latitude": "61.30373000",
+          "longitude": "17.05921000"
+        },
+        {
+          "name": "Söderhamns Kommun",
+          "latitude": "61.25371000",
+          "longitude": "16.94879000"
+        },
+        {
+          "name": "Sörforsa",
+          "latitude": "61.73333000",
+          "longitude": "16.98333000"
+        },
+        {
+          "name": "Storvik",
+          "latitude": "60.58333000",
+          "longitude": "16.53333000"
+        },
+        {
+          "name": "Valbo",
+          "latitude": "60.65000000",
+          "longitude": "17.03333000"
+        }
+      ]
+    },
+    {
+      "name": "Gotland County",
+      "state_code": "I",
+      "latitude": "57.46841210",
+      "longitude": "18.48674470",
+      "cities": [
+        {
+          "name": "Gotland",
+          "latitude": "57.50000000",
+          "longitude": "18.50000000"
+        },
+        {
+          "name": "Hemse",
+          "latitude": "57.23788000",
+          "longitude": "18.37443000"
+        },
+        {
+          "name": "Klintehamn",
+          "latitude": "57.38667000",
+          "longitude": "18.20371000"
+        },
+        {
+          "name": "Vibble",
+          "latitude": "57.60452000",
+          "longitude": "18.25601000"
+        },
+        {
+          "name": "Visby",
+          "latitude": "57.64089000",
+          "longitude": "18.29602000"
+        }
+      ]
+    },
+    {
+      "name": "Halland County",
+      "state_code": "N",
+      "latitude": "56.89668050",
+      "longitude": "12.80339930",
+      "cities": [
+        {
+          "name": "Åled",
+          "latitude": "56.75000000",
+          "longitude": "12.93333000"
+        },
+        {
+          "name": "Åsa",
+          "latitude": "57.35000000",
+          "longitude": "12.11667000"
+        },
+        {
+          "name": "Bua",
+          "latitude": "57.23780000",
+          "longitude": "12.12187000"
+        },
+        {
+          "name": "Falkenberg",
+          "latitude": "56.90552000",
+          "longitude": "12.49118000"
+        },
+        {
+          "name": "Falkenbergs Kommun",
+          "latitude": "57.04317000",
+          "longitude": "12.72989000"
+        },
+        {
+          "name": "Fjärås kyrkby",
+          "latitude": "57.45913000",
+          "longitude": "12.17508000"
+        },
+        {
+          "name": "Frillesås",
+          "latitude": "57.31667000",
+          "longitude": "12.16667000"
+        },
+        {
+          "name": "Frösakull",
+          "latitude": "56.68333000",
+          "longitude": "12.73333000"
+        },
+        {
+          "name": "Fyllinge",
+          "latitude": "56.65000000",
+          "longitude": "12.91667000"
+        },
+        {
+          "name": "Getinge",
+          "latitude": "56.81667000",
+          "longitude": "12.73333000"
+        },
+        {
+          "name": "Glommen",
+          "latitude": "56.93333000",
+          "longitude": "12.35000000"
+        },
+        {
+          "name": "Gullbrandstorp",
+          "latitude": "56.70000000",
+          "longitude": "12.73333000"
+        },
+        {
+          "name": "Halmstad",
+          "latitude": "56.67446000",
+          "longitude": "12.85676000"
+        },
+        {
+          "name": "Halmstads Kommun",
+          "latitude": "56.73920000",
+          "longitude": "12.97338000"
+        },
+        {
+          "name": "Harplinge",
+          "latitude": "56.74491000",
+          "longitude": "12.72758000"
+        },
+        {
+          "name": "Haverdal",
+          "latitude": "56.72222000",
+          "longitude": "12.67194000"
+        },
+        {
+          "name": "Hylte Kommun",
+          "latitude": "56.97394000",
+          "longitude": "13.26541000"
+        },
+        {
+          "name": "Hyltebruk",
+          "latitude": "56.99892000",
+          "longitude": "13.23958000"
+        },
+        {
+          "name": "Knäred",
+          "latitude": "56.51861000",
+          "longitude": "13.32423000"
+        },
+        {
+          "name": "Kungsbacka",
+          "latitude": "57.48719000",
+          "longitude": "12.07612000"
+        },
+        {
+          "name": "Kungsbacka Kommun",
+          "latitude": "57.45058000",
+          "longitude": "12.15061000"
+        },
+        {
+          "name": "Laholm",
+          "latitude": "56.51207000",
+          "longitude": "13.04371000"
+        },
+        {
+          "name": "Laholms Kommun",
+          "latitude": "56.49174000",
+          "longitude": "13.19141000"
+        },
+        {
+          "name": "Mellbystrand",
+          "latitude": "56.48561000",
+          "longitude": "12.93958000"
+        },
+        {
+          "name": "Mjällby",
+          "latitude": "56.68333000",
+          "longitude": "12.76667000"
+        },
+        {
+          "name": "Onsala",
+          "latitude": "57.42531000",
+          "longitude": "12.02903000"
+        },
+        {
+          "name": "Oskarström",
+          "latitude": "56.80000000",
+          "longitude": "12.96667000"
+        },
+        {
+          "name": "Särö",
+          "latitude": "57.50577000",
+          "longitude": "11.93210000"
+        },
+        {
+          "name": "Skrea",
+          "latitude": "56.88333000",
+          "longitude": "12.56667000"
+        },
+        {
+          "name": "Steninge",
+          "latitude": "56.76900000",
+          "longitude": "12.63034000"
+        },
+        {
+          "name": "Torup",
+          "latitude": "56.95663000",
+          "longitude": "13.07725000"
+        },
+        {
+          "name": "Träslövsläge",
+          "latitude": "57.05417000",
+          "longitude": "12.27899000"
+        },
+        {
+          "name": "Trönninge",
+          "latitude": "56.61667000",
+          "longitude": "12.93333000"
+        },
+        {
+          "name": "Tvååker",
+          "latitude": "57.04147000",
+          "longitude": "12.39950000"
+        },
+        {
+          "name": "Vallda",
+          "latitude": "57.47750000",
+          "longitude": "12.00139000"
+        },
+        {
+          "name": "Varberg",
+          "latitude": "57.10557000",
+          "longitude": "12.25078000"
+        },
+        {
+          "name": "Varbergs Kommun",
+          "latitude": "57.17208000",
+          "longitude": "12.41797000"
+        },
+        {
+          "name": "Västra Hagen",
+          "latitude": "57.42444000",
+          "longitude": "11.93583000"
+        },
+        {
+          "name": "Veddige",
+          "latitude": "57.26591000",
+          "longitude": "12.33220000"
+        },
+        {
+          "name": "Veinge",
+          "latitude": "56.55000000",
+          "longitude": "13.06667000"
+        }
+      ]
+    },
+    {
+      "name": "Jönköping County",
+      "state_code": "F",
+      "latitude": "57.37084340",
+      "longitude": "14.34391740",
+      "cities": [
+        {
+          "name": "Anderstorp",
+          "latitude": "57.28333000",
+          "longitude": "13.63333000"
+        },
+        {
+          "name": "Aneby",
+          "latitude": "57.83895000",
+          "longitude": "14.81016000"
+        },
+        {
+          "name": "Aneby Kommun",
+          "latitude": "57.86992000",
+          "longitude": "14.79796000"
+        },
+        {
+          "name": "Bankeryd",
+          "latitude": "57.86021000",
+          "longitude": "14.12400000"
+        },
+        {
+          "name": "Bodafors",
+          "latitude": "57.50000000",
+          "longitude": "14.70000000"
+        },
+        {
+          "name": "Bor",
+          "latitude": "57.11667000",
+          "longitude": "14.16667000"
+        },
+        {
+          "name": "Bredaryd",
+          "latitude": "57.17343000",
+          "longitude": "13.73789000"
+        },
+        {
+          "name": "Ekenässjön",
+          "latitude": "57.49175000",
+          "longitude": "15.02226000"
+        },
+        {
+          "name": "Eksjö",
+          "latitude": "57.66643000",
+          "longitude": "14.97205000"
+        },
+        {
+          "name": "Eksjö Kommun",
+          "latitude": "57.62006000",
+          "longitude": "15.21810000"
+        },
+        {
+          "name": "Forserum",
+          "latitude": "57.70000000",
+          "longitude": "14.46667000"
+        },
+        {
+          "name": "Forsheda",
+          "latitude": "57.16415000",
+          "longitude": "13.83016000"
+        },
+        {
+          "name": "Gislaved",
+          "latitude": "57.30440000",
+          "longitude": "13.54078000"
+        },
+        {
+          "name": "Gislaveds Kommun",
+          "latitude": "57.30337000",
+          "longitude": "13.47548000"
+        },
+        {
+          "name": "Gnosjö",
+          "latitude": "57.35850000",
+          "longitude": "13.73686000"
+        },
+        {
+          "name": "Gnosjö Kommun",
+          "latitude": "57.36225000",
+          "longitude": "13.80491000"
+        },
+        {
+          "name": "Gränna",
+          "latitude": "58.01667000",
+          "longitude": "14.46667000"
+        },
+        {
+          "name": "Habo",
+          "latitude": "57.91185000",
+          "longitude": "14.07444000"
+        },
+        {
+          "name": "Habo Kommun",
+          "latitude": "57.90901000",
+          "longitude": "14.08997000"
+        },
+        {
+          "name": "Hestra",
+          "latitude": "57.44232000",
+          "longitude": "13.59575000"
+        },
+        {
+          "name": "Hillerstorp",
+          "latitude": "57.31293000",
+          "longitude": "13.88437000"
+        },
+        {
+          "name": "Huskvarna",
+          "latitude": "57.78596000",
+          "longitude": "14.30214000"
+        },
+        {
+          "name": "Jönköping",
+          "latitude": "57.78145000",
+          "longitude": "14.15618000"
+        },
+        {
+          "name": "Jönköpings Kommun",
+          "latitude": "57.74101000",
+          "longitude": "14.20276000"
+        },
+        {
+          "name": "Kaxholmen",
+          "latitude": "57.85345000",
+          "longitude": "14.30457000"
+        },
+        {
+          "name": "Landsbro",
+          "latitude": "57.36667000",
+          "longitude": "14.90000000"
+        },
+        {
+          "name": "Malmbäck",
+          "latitude": "57.57667000",
+          "longitude": "14.46170000"
+        },
+        {
+          "name": "Mariannelund",
+          "latitude": "57.61667000",
+          "longitude": "15.56667000"
+        },
+        {
+          "name": "Marieholm",
+          "latitude": "57.38333000",
+          "longitude": "13.85000000"
+        },
+        {
+          "name": "Mullsjö",
+          "latitude": "57.91710000",
+          "longitude": "13.87831000"
+        },
+        {
+          "name": "Mullsjö kommun",
+          "latitude": "57.95427000",
+          "longitude": "13.82241000"
+        },
+        {
+          "name": "Nässjö",
+          "latitude": "57.65307000",
+          "longitude": "14.69676000"
+        },
+        {
+          "name": "Nässjö Kommun",
+          "latitude": "57.60892000",
+          "longitude": "14.64041000"
+        },
+        {
+          "name": "Odensjö",
+          "latitude": "57.71667000",
+          "longitude": "14.16667000"
+        },
+        {
+          "name": "Reftele",
+          "latitude": "57.17467000",
+          "longitude": "13.59498000"
+        },
+        {
+          "name": "Rydaholm",
+          "latitude": "56.98388000",
+          "longitude": "14.30849000"
+        },
+        {
+          "name": "Sävsjö",
+          "latitude": "57.40327000",
+          "longitude": "14.66244000"
+        },
+        {
+          "name": "Sävsjö Kommun",
+          "latitude": "57.32883000",
+          "longitude": "14.59426000"
+        },
+        {
+          "name": "Skillingaryd",
+          "latitude": "57.43044000",
+          "longitude": "14.09383000"
+        },
+        {
+          "name": "Smålandsstenar",
+          "latitude": "57.16241000",
+          "longitude": "13.41212000"
+        },
+        {
+          "name": "Stockaryd",
+          "latitude": "57.31737000",
+          "longitude": "14.59341000"
+        },
+        {
+          "name": "Taberg",
+          "latitude": "57.67722000",
+          "longitude": "14.08876000"
+        },
+        {
+          "name": "Tenhult",
+          "latitude": "57.70761000",
+          "longitude": "14.32205000"
+        },
+        {
+          "name": "Tranås",
+          "latitude": "58.03717000",
+          "longitude": "14.97820000"
+        },
+        {
+          "name": "Tranås Kommun",
+          "latitude": "58.02906000",
+          "longitude": "14.83456000"
+        },
+        {
+          "name": "Vaggeryd",
+          "latitude": "57.49807000",
+          "longitude": "14.14842000"
+        },
+        {
+          "name": "Vaggeryds Kommun",
+          "latitude": "57.47206000",
+          "longitude": "14.12797000"
+        },
+        {
+          "name": "Värnamo",
+          "latitude": "57.18604000",
+          "longitude": "14.04001000"
+        },
+        {
+          "name": "Värnamo Kommun",
+          "latitude": "57.17128000",
+          "longitude": "14.05317000"
+        },
+        {
+          "name": "Vetlanda",
+          "latitude": "57.42887000",
+          "longitude": "15.07762000"
+        },
+        {
+          "name": "Vetlanda kommun",
+          "latitude": "57.36862000",
+          "longitude": "15.18468000"
+        },
+        {
+          "name": "Vrigstad",
+          "latitude": "57.35000000",
+          "longitude": "14.46667000"
+        }
+      ]
+    },
+    {
+      "name": "Kalmar County",
+      "state_code": "H",
+      "latitude": "57.23501560",
+      "longitude": "16.18493490",
+      "cities": [
+        {
+          "name": "Ankarsrum",
+          "latitude": "57.69896000",
+          "longitude": "16.33407000"
+        },
+        {
+          "name": "Bergkvara",
+          "latitude": "56.39063000",
+          "longitude": "16.07274000"
+        },
+        {
+          "name": "Blomstermåla",
+          "latitude": "56.98333000",
+          "longitude": "16.33333000"
+        },
+        {
+          "name": "Borgholm",
+          "latitude": "56.87930000",
+          "longitude": "16.65634000"
+        },
+        {
+          "name": "Borgholms Kommun",
+          "latitude": "57.09747000",
+          "longitude": "16.94092000"
+        },
+        {
+          "name": "Emmaboda",
+          "latitude": "56.63268000",
+          "longitude": "15.53648000"
+        },
+        {
+          "name": "Emmaboda Kommun",
+          "latitude": "56.63333000",
+          "longitude": "15.53333000"
+        },
+        {
+          "name": "Färjestaden",
+          "latitude": "56.64990000",
+          "longitude": "16.46859000"
+        },
+        {
+          "name": "Gamleby",
+          "latitude": "57.89485000",
+          "longitude": "16.40508000"
+        },
+        {
+          "name": "Gunnebo",
+          "latitude": "57.71667000",
+          "longitude": "16.53333000"
+        },
+        {
+          "name": "Högsby",
+          "latitude": "57.16597000",
+          "longitude": "16.02562000"
+        },
+        {
+          "name": "Högsby Kommun",
+          "latitude": "57.15537000",
+          "longitude": "15.91674000"
+        },
+        {
+          "name": "Hultsfred",
+          "latitude": "57.48815000",
+          "longitude": "15.84357000"
+        },
+        {
+          "name": "Hultsfreds Kommun",
+          "latitude": "57.40000000",
+          "longitude": "15.80000000"
+        },
+        {
+          "name": "Kalmar",
+          "latitude": "56.66157000",
+          "longitude": "16.36163000"
+        },
+        {
+          "name": "Kalmar Kommun",
+          "latitude": "56.66361000",
+          "longitude": "16.18569000"
+        },
+        {
+          "name": "Kristdala",
+          "latitude": "57.40070000",
+          "longitude": "16.20496000"
+        },
+        {
+          "name": "Lindsdal",
+          "latitude": "56.73333000",
+          "longitude": "16.30000000"
+        },
+        {
+          "name": "Ljungbyholm",
+          "latitude": "56.63333000",
+          "longitude": "16.16667000"
+        },
+        {
+          "name": "Målilla",
+          "latitude": "57.38773000",
+          "longitude": "15.80675000"
+        },
+        {
+          "name": "Mönsterås",
+          "latitude": "57.04134000",
+          "longitude": "16.44463000"
+        },
+        {
+          "name": "Mönsterås Kommun",
+          "latitude": "57.06625000",
+          "longitude": "16.38621000"
+        },
+        {
+          "name": "Mörbylånga",
+          "latitude": "56.52480000",
+          "longitude": "16.37877000"
+        },
+        {
+          "name": "Mörbylånga Kommun",
+          "latitude": "56.50000000",
+          "longitude": "16.50000000"
+        },
+        {
+          "name": "Nybro",
+          "latitude": "56.74461000",
+          "longitude": "15.90714000"
+        },
+        {
+          "name": "Nybro Kommun",
+          "latitude": "56.82435000",
+          "longitude": "15.88969000"
+        },
+        {
+          "name": "Oskarshamn",
+          "latitude": "57.26455000",
+          "longitude": "16.44837000"
+        },
+        {
+          "name": "Oskarshamns Kommun",
+          "latitude": "57.37339000",
+          "longitude": "16.38303000"
+        },
+        {
+          "name": "Överum",
+          "latitude": "57.98856000",
+          "longitude": "16.31390000"
+        },
+        {
+          "name": "Påskallavik",
+          "latitude": "57.16667000",
+          "longitude": "16.45000000"
+        },
+        {
+          "name": "Rinkabyholm",
+          "latitude": "56.64972000",
+          "longitude": "16.26667000"
+        },
+        {
+          "name": "Smedby",
+          "latitude": "56.67413000",
+          "longitude": "16.24320000"
+        },
+        {
+          "name": "Södra Sandby",
+          "latitude": "56.56667000",
+          "longitude": "16.61667000"
+        },
+        {
+          "name": "Södra Vi",
+          "latitude": "57.73993000",
+          "longitude": "15.79391000"
+        },
+        {
+          "name": "Storebro",
+          "latitude": "57.58333000",
+          "longitude": "15.85000000"
+        },
+        {
+          "name": "Timmernabben",
+          "latitude": "56.96667000",
+          "longitude": "16.43333000"
+        },
+        {
+          "name": "Torsås",
+          "latitude": "56.41251000",
+          "longitude": "15.99844000"
+        },
+        {
+          "name": "Torsås Kommun",
+          "latitude": "56.42649000",
+          "longitude": "15.89128000"
+        },
+        {
+          "name": "Trekanten",
+          "latitude": "56.70000000",
+          "longitude": "16.11667000"
+        },
+        {
+          "name": "Västervik",
+          "latitude": "57.75840000",
+          "longitude": "16.63733000"
+        },
+        {
+          "name": "Västerviks Kommun",
+          "latitude": "57.85242000",
+          "longitude": "16.38940000"
+        },
+        {
+          "name": "Vimmerby",
+          "latitude": "57.66588000",
+          "longitude": "15.85515000"
+        },
+        {
+          "name": "Vimmerby Kommun",
+          "latitude": "57.69009000",
+          "longitude": "15.86741000"
+        },
+        {
+          "name": "Virserum",
+          "latitude": "57.31667000",
+          "longitude": "15.58333000"
+        }
+      ]
+    },
+    {
+      "name": "Kronoberg County",
+      "state_code": "G",
+      "latitude": "56.71834030",
+      "longitude": "14.41146730",
+      "cities": [
+        {
+          "name": "Älmhult",
+          "latitude": "56.55146000",
+          "longitude": "14.13827000"
+        },
+        {
+          "name": "Älmhults Kommun",
+          "latitude": "56.58563000",
+          "longitude": "14.15502000"
+        },
+        {
+          "name": "Alvesta",
+          "latitude": "56.89935000",
+          "longitude": "14.55559000"
+        },
+        {
+          "name": "Alvesta Kommun",
+          "latitude": "56.84663000",
+          "longitude": "14.47490000"
+        },
+        {
+          "name": "Åseda",
+          "latitude": "57.17010000",
+          "longitude": "15.34430000"
+        },
+        {
+          "name": "Braås",
+          "latitude": "57.06667000",
+          "longitude": "15.05000000"
+        },
+        {
+          "name": "Gemla",
+          "latitude": "56.86753000",
+          "longitude": "14.64379000"
+        },
+        {
+          "name": "Hovmantorp",
+          "latitude": "56.78685000",
+          "longitude": "15.14023000"
+        },
+        {
+          "name": "Ingelstad",
+          "latitude": "56.75000000",
+          "longitude": "14.91667000"
+        },
+        {
+          "name": "Lagan",
+          "latitude": "56.91667000",
+          "longitude": "13.98333000"
+        },
+        {
+          "name": "Lammhult",
+          "latitude": "57.16667000",
+          "longitude": "14.58333000"
+        },
+        {
+          "name": "Lenhovda",
+          "latitude": "57.00000000",
+          "longitude": "15.28333000"
+        },
+        {
+          "name": "Lessebo",
+          "latitude": "56.75185000",
+          "longitude": "15.26969000"
+        },
+        {
+          "name": "Lessebo Kommun",
+          "latitude": "56.76387000",
+          "longitude": "15.31359000"
+        },
+        {
+          "name": "Ljungby",
+          "latitude": "56.83324000",
+          "longitude": "13.94082000"
+        },
+        {
+          "name": "Ljungby Kommun",
+          "latitude": "56.80684000",
+          "longitude": "13.82719000"
+        },
+        {
+          "name": "Markaryd",
+          "latitude": "56.46135000",
+          "longitude": "13.59644000"
+        },
+        {
+          "name": "Markaryds Kommun",
+          "latitude": "56.54425000",
+          "longitude": "13.62348000"
+        },
+        {
+          "name": "Moheda",
+          "latitude": "57.00000000",
+          "longitude": "14.56667000"
+        },
+        {
+          "name": "Rottne",
+          "latitude": "57.01667000",
+          "longitude": "14.90000000"
+        },
+        {
+          "name": "Ryd",
+          "latitude": "56.46667000",
+          "longitude": "14.68333000"
+        },
+        {
+          "name": "Strömsnäsbruk",
+          "latitude": "56.55000000",
+          "longitude": "13.71667000"
+        },
+        {
+          "name": "Tingsryd",
+          "latitude": "56.52470000",
+          "longitude": "14.97902000"
+        },
+        {
+          "name": "Tingsryds Kommun",
+          "latitude": "56.53333000",
+          "longitude": "14.96667000"
+        },
+        {
+          "name": "Uppvidinge Kommun",
+          "latitude": "57.03442000",
+          "longitude": "15.44727000"
+        },
+        {
+          "name": "Växjö",
+          "latitude": "56.87767000",
+          "longitude": "14.80906000"
+        },
+        {
+          "name": "Växjö Kommun",
+          "latitude": "56.94530000",
+          "longitude": "14.89981000"
+        },
+        {
+          "name": "Vislanda",
+          "latitude": "56.78333000",
+          "longitude": "14.45000000"
+        }
+      ]
+    },
+    {
+      "name": "Norrbotten County",
+      "state_code": "BD",
+      "latitude": "66.83092160",
+      "longitude": "20.39919660",
+      "cities": [
+        {
+          "name": "Älvsbyn",
+          "latitude": "65.67624000",
+          "longitude": "21.00162000"
+        },
+        {
+          "name": "Älvsbyns Kommun",
+          "latitude": "65.73201000",
+          "longitude": "20.71412000"
+        },
+        {
+          "name": "Arjeplog",
+          "latitude": "66.05173000",
+          "longitude": "17.88606000"
+        },
+        {
+          "name": "Arjeplogs Kommun",
+          "latitude": "66.37495000",
+          "longitude": "17.17477000"
+        },
+        {
+          "name": "Arvidsjaur",
+          "latitude": "65.59033000",
+          "longitude": "19.16682000"
+        },
+        {
+          "name": "Arvidsjaurs Kommun",
+          "latitude": "65.66667000",
+          "longitude": "19.25000000"
+        },
+        {
+          "name": "Bergnäset",
+          "latitude": "65.57791000",
+          "longitude": "22.10844000"
+        },
+        {
+          "name": "Bergsviken",
+          "latitude": "65.30000000",
+          "longitude": "21.38333000"
+        },
+        {
+          "name": "Björkskatan",
+          "latitude": "65.61373000",
+          "longitude": "22.17702000"
+        },
+        {
+          "name": "Boden",
+          "latitude": "65.82518000",
+          "longitude": "21.68864000"
+        },
+        {
+          "name": "Bodens Kommun",
+          "latitude": "66.04393000",
+          "longitude": "21.29977000"
+        },
+        {
+          "name": "Gällivare",
+          "latitude": "67.13387000",
+          "longitude": "20.65278000"
+        },
+        {
+          "name": "Gällivare kommun",
+          "latitude": "67.39347000",
+          "longitude": "19.70834000"
+        },
+        {
+          "name": "Gammelstad",
+          "latitude": "65.63931000",
+          "longitude": "22.01145000"
+        },
+        {
+          "name": "Haparanda",
+          "latitude": "65.83549000",
+          "longitude": "24.13676000"
+        },
+        {
+          "name": "Haparanda Kommun",
+          "latitude": "65.91662000",
+          "longitude": "23.84607000"
+        },
+        {
+          "name": "Hortlax",
+          "latitude": "65.28188000",
+          "longitude": "21.40544000"
+        },
+        {
+          "name": "Jokkmokk",
+          "latitude": "66.60665000",
+          "longitude": "19.82324000"
+        },
+        {
+          "name": "Jokkmokks Kommun",
+          "latitude": "66.90967000",
+          "longitude": "18.50521000"
+        },
+        {
+          "name": "Kalix",
+          "latitude": "65.85298000",
+          "longitude": "23.15645000"
+        },
+        {
+          "name": "Kalix Kommun",
+          "latitude": "65.96118000",
+          "longitude": "22.98669000"
+        },
+        {
+          "name": "Kiruna",
+          "latitude": "67.85572000",
+          "longitude": "20.22513000"
+        },
+        {
+          "name": "Kiruna Kommun",
+          "latitude": "68.17009000",
+          "longitude": "20.54861000"
+        },
+        {
+          "name": "Luleå",
+          "latitude": "65.58415000",
+          "longitude": "22.15465000"
+        },
+        {
+          "name": "Luleå kommun",
+          "latitude": "65.68333000",
+          "longitude": "22.16667000"
+        },
+        {
+          "name": "Malmberget",
+          "latitude": "67.17529000",
+          "longitude": "20.65495000"
+        },
+        {
+          "name": "Marielund",
+          "latitude": "65.85307000",
+          "longitude": "24.10486000"
+        },
+        {
+          "name": "Norrfjärden",
+          "latitude": "65.41805000",
+          "longitude": "21.50151000"
+        },
+        {
+          "name": "Överkalix",
+          "latitude": "66.32754000",
+          "longitude": "22.84414000"
+        },
+        {
+          "name": "Överkalix Kommun",
+          "latitude": "66.47043000",
+          "longitude": "22.57928000"
+        },
+        {
+          "name": "Övertorneå",
+          "latitude": "66.38778000",
+          "longitude": "23.65425000"
+        },
+        {
+          "name": "Övertorneå Kommun",
+          "latitude": "66.48317000",
+          "longitude": "23.43866000"
+        },
+        {
+          "name": "Pajala",
+          "latitude": "67.21284000",
+          "longitude": "23.36607000"
+        },
+        {
+          "name": "Pajala Kommun",
+          "latitude": "67.24069000",
+          "longitude": "22.91667000"
+        },
+        {
+          "name": "Piteå",
+          "latitude": "65.31717000",
+          "longitude": "21.47944000"
+        },
+        {
+          "name": "Piteå Kommun",
+          "latitude": "65.37229000",
+          "longitude": "20.85153000"
+        },
+        {
+          "name": "Råneå",
+          "latitude": "65.85482000",
+          "longitude": "22.29126000"
+        },
+        {
+          "name": "Roknäs",
+          "latitude": "65.35000000",
+          "longitude": "21.20000000"
+        },
+        {
+          "name": "Rolfs",
+          "latitude": "65.85000000",
+          "longitude": "23.11667000"
+        },
+        {
+          "name": "Rosvik",
+          "latitude": "65.43333000",
+          "longitude": "21.70000000"
+        },
+        {
+          "name": "Sävast",
+          "latitude": "65.77002000",
+          "longitude": "21.73113000"
+        },
+        {
+          "name": "Södra Sunderbyn",
+          "latitude": "65.65983000",
+          "longitude": "21.94004000"
+        },
+        {
+          "name": "Töre",
+          "latitude": "65.91243000",
+          "longitude": "22.65128000"
+        }
+      ]
+    },
+    {
+      "name": "Örebro County",
+      "state_code": "T",
+      "latitude": "59.53503600",
+      "longitude": "15.00657310",
+      "cities": [
+        {
+          "name": "Åsbro",
+          "latitude": "59.00000000",
+          "longitude": "15.05000000"
+        },
+        {
+          "name": "Askersund",
+          "latitude": "58.87988000",
+          "longitude": "14.90230000"
+        },
+        {
+          "name": "Askersunds Kommun",
+          "latitude": "58.88048000",
+          "longitude": "14.98416000"
+        },
+        {
+          "name": "Degerfors",
+          "latitude": "59.23797000",
+          "longitude": "14.43077000"
+        },
+        {
+          "name": "Degerfors Kommun",
+          "latitude": "59.15580000",
+          "longitude": "14.43352000"
+        },
+        {
+          "name": "Ekeby-Almby",
+          "latitude": "59.26000000",
+          "longitude": "15.33000000"
+        },
+        {
+          "name": "Fellingsbro",
+          "latitude": "59.43333000",
+          "longitude": "15.58333000"
+        },
+        {
+          "name": "Fjugesta",
+          "latitude": "59.17375000",
+          "longitude": "14.87227000"
+        },
+        {
+          "name": "Frövi",
+          "latitude": "59.46667000",
+          "longitude": "15.36667000"
+        },
+        {
+          "name": "Garphyttan",
+          "latitude": "59.30429000",
+          "longitude": "14.94623000"
+        },
+        {
+          "name": "Hällabrottet",
+          "latitude": "59.11667000",
+          "longitude": "15.20000000"
+        },
+        {
+          "name": "Hällefors",
+          "latitude": "59.78388000",
+          "longitude": "14.52197000"
+        },
+        {
+          "name": "Hällefors Kommun",
+          "latitude": "59.75736000",
+          "longitude": "14.61495000"
+        },
+        {
+          "name": "Hallsberg",
+          "latitude": "59.06463000",
+          "longitude": "15.10993000"
+        },
+        {
+          "name": "Hallsbergs Kommun",
+          "latitude": "59.03803000",
+          "longitude": "15.18468000"
+        },
+        {
+          "name": "Hovsta",
+          "latitude": "59.35000000",
+          "longitude": "15.21667000"
+        },
+        {
+          "name": "Karlskoga",
+          "latitude": "59.32667000",
+          "longitude": "14.52386000"
+        },
+        {
+          "name": "Karlskoga Kommun",
+          "latitude": "59.37383000",
+          "longitude": "14.56720000"
+        },
+        {
+          "name": "Kopparberg",
+          "latitude": "59.87597000",
+          "longitude": "14.99436000"
+        },
+        {
+          "name": "Kumla",
+          "latitude": "59.12770000",
+          "longitude": "15.14341000"
+        },
+        {
+          "name": "Kumla Kommun",
+          "latitude": "59.12715000",
+          "longitude": "15.14649000"
+        },
+        {
+          "name": "Laxå",
+          "latitude": "58.98630000",
+          "longitude": "14.61904000"
+        },
+        {
+          "name": "Laxå Kommun",
+          "latitude": "58.90913000",
+          "longitude": "14.53060000"
+        },
+        {
+          "name": "Lekebergs Kommun",
+          "latitude": "59.18604000",
+          "longitude": "14.79796000"
+        },
+        {
+          "name": "Lindesberg",
+          "latitude": "59.59202000",
+          "longitude": "15.23040000"
+        },
+        {
+          "name": "Lindesbergs Kommun",
+          "latitude": "59.64119000",
+          "longitude": "15.34064000"
+        },
+        {
+          "name": "Ljusnarsbergs Kommun",
+          "latitude": "59.92622000",
+          "longitude": "14.96499000"
+        },
+        {
+          "name": "Nora",
+          "latitude": "59.51926000",
+          "longitude": "15.03979000"
+        },
+        {
+          "name": "Nora Kommun",
+          "latitude": "59.53456000",
+          "longitude": "14.90777000"
+        },
+        {
+          "name": "Odensbacken",
+          "latitude": "59.16667000",
+          "longitude": "15.53333000"
+        },
+        {
+          "name": "Örebro",
+          "latitude": "59.27412000",
+          "longitude": "15.20660000"
+        },
+        {
+          "name": "Örebro Kommun",
+          "latitude": "59.27168000",
+          "longitude": "15.28364000"
+        },
+        {
+          "name": "Pålsboda",
+          "latitude": "59.06565000",
+          "longitude": "15.33747000"
+        },
+        {
+          "name": "Sköllersta",
+          "latitude": "59.13738000",
+          "longitude": "15.33940000"
+        },
+        {
+          "name": "Storå",
+          "latitude": "59.71409000",
+          "longitude": "15.13169000"
+        },
+        {
+          "name": "Vintrosa",
+          "latitude": "59.25000000",
+          "longitude": "14.95000000"
+        }
+      ]
+    },
+    {
+      "name": "Östergötland County",
+      "state_code": "E",
+      "latitude": "58.34536350",
+      "longitude": "15.51978440",
+      "cities": [
+        {
+          "name": "Åby",
+          "latitude": "58.66667000",
+          "longitude": "16.18333000"
+        },
+        {
+          "name": "Åtvidaberg",
+          "latitude": "58.20152000",
+          "longitude": "15.99770000"
+        },
+        {
+          "name": "Åtvidabergs Kommun",
+          "latitude": "58.22799000",
+          "longitude": "16.12522000"
+        },
+        {
+          "name": "Berg",
+          "latitude": "58.48831000",
+          "longitude": "15.52969000"
+        },
+        {
+          "name": "Borensberg",
+          "latitude": "58.56667000",
+          "longitude": "15.28333000"
+        },
+        {
+          "name": "Boxholm",
+          "latitude": "58.19719000",
+          "longitude": "15.05376000"
+        },
+        {
+          "name": "Boxholms Kommun",
+          "latitude": "58.14842000",
+          "longitude": "15.10988000"
+        },
+        {
+          "name": "Ekängen",
+          "latitude": "58.46667000",
+          "longitude": "15.63333000"
+        },
+        {
+          "name": "Finspång",
+          "latitude": "58.70578000",
+          "longitude": "15.76739000"
+        },
+        {
+          "name": "Finspångs Kommun",
+          "latitude": "58.80568000",
+          "longitude": "15.78783000"
+        },
+        {
+          "name": "Grebo",
+          "latitude": "58.30145000",
+          "longitude": "15.87085000"
+        },
+        {
+          "name": "Gusum",
+          "latitude": "58.26880000",
+          "longitude": "16.49894000"
+        },
+        {
+          "name": "Herrestad",
+          "latitude": "58.38333000",
+          "longitude": "14.80000000"
+        },
+        {
+          "name": "Jursla",
+          "latitude": "58.66667000",
+          "longitude": "16.18333000"
+        },
+        {
+          "name": "Kimstad",
+          "latitude": "58.54967000",
+          "longitude": "15.96296000"
+        },
+        {
+          "name": "Kinda Kommun",
+          "latitude": "58.01315000",
+          "longitude": "15.73373000"
+        },
+        {
+          "name": "Kisa",
+          "latitude": "57.98781000",
+          "longitude": "15.63303000"
+        },
+        {
+          "name": "Krokek",
+          "latitude": "58.67231000",
+          "longitude": "16.36741000"
+        },
+        {
+          "name": "Lindö",
+          "latitude": "58.61667000",
+          "longitude": "16.25000000"
+        },
+        {
+          "name": "Linghem",
+          "latitude": "58.43333000",
+          "longitude": "15.78333000"
+        },
+        {
+          "name": "Linköping",
+          "latitude": "58.41086000",
+          "longitude": "15.62157000"
+        },
+        {
+          "name": "Linköpings Kommun",
+          "latitude": "58.41046000",
+          "longitude": "15.61870000"
+        },
+        {
+          "name": "Ljungsbro",
+          "latitude": "58.51667000",
+          "longitude": "15.50000000"
+        },
+        {
+          "name": "Malmslätt",
+          "latitude": "58.41102000",
+          "longitude": "15.51647000"
+        },
+        {
+          "name": "Mantorp",
+          "latitude": "58.35000000",
+          "longitude": "15.28333000"
+        },
+        {
+          "name": "Mjölby",
+          "latitude": "58.32595000",
+          "longitude": "15.12365000"
+        },
+        {
+          "name": "Mjölby Kommun",
+          "latitude": "58.34576000",
+          "longitude": "15.13853000"
+        },
+        {
+          "name": "Motala",
+          "latitude": "58.53706000",
+          "longitude": "15.03649000"
+        },
+        {
+          "name": "Motala Kommun",
+          "latitude": "58.65131000",
+          "longitude": "15.19105000"
+        },
+        {
+          "name": "Norrköping",
+          "latitude": "58.59419000",
+          "longitude": "16.18260000"
+        },
+        {
+          "name": "Norrköpings Kommun",
+          "latitude": "58.61139000",
+          "longitude": "16.32092000"
+        },
+        {
+          "name": "Ödeshög",
+          "latitude": "58.22949000",
+          "longitude": "14.65294000"
+        },
+        {
+          "name": "Ödeshögs Kommun",
+          "latitude": "58.22640000",
+          "longitude": "14.74067000"
+        },
+        {
+          "name": "Österbymo",
+          "latitude": "57.82465000",
+          "longitude": "15.27357000"
+        },
+        {
+          "name": "Rimforsa",
+          "latitude": "58.13624000",
+          "longitude": "15.68650000"
+        },
+        {
+          "name": "Ryd",
+          "latitude": "58.66667000",
+          "longitude": "15.08333000"
+        },
+        {
+          "name": "Skänninge",
+          "latitude": "58.39427000",
+          "longitude": "15.08659000"
+        },
+        {
+          "name": "Skärblacka",
+          "latitude": "58.56667000",
+          "longitude": "15.90000000"
+        },
+        {
+          "name": "Söderköping",
+          "latitude": "58.48057000",
+          "longitude": "16.32221000"
+        },
+        {
+          "name": "Söderköpings Kommun",
+          "latitude": "58.42056000",
+          "longitude": "16.44510000"
+        },
+        {
+          "name": "Stenstorp",
+          "latitude": "58.48333000",
+          "longitude": "15.06667000"
+        },
+        {
+          "name": "Sturefors",
+          "latitude": "58.33333000",
+          "longitude": "15.73333000"
+        },
+        {
+          "name": "Svärtinge",
+          "latitude": "58.65507000",
+          "longitude": "16.02823000"
+        },
+        {
+          "name": "Tallboda",
+          "latitude": "58.42521000",
+          "longitude": "15.68154000"
+        },
+        {
+          "name": "Vadstena",
+          "latitude": "58.44863000",
+          "longitude": "14.88969000"
+        },
+        {
+          "name": "Vadstena Kommun",
+          "latitude": "58.40783000",
+          "longitude": "14.86162000"
+        },
+        {
+          "name": "Valdemarsvik",
+          "latitude": "58.20310000",
+          "longitude": "16.60225000"
+        },
+        {
+          "name": "Valdemarsviks Kommun",
+          "latitude": "58.20000000",
+          "longitude": "16.60000000"
+        },
+        {
+          "name": "Vikingstad",
+          "latitude": "58.38304000",
+          "longitude": "15.43201000"
+        },
+        {
+          "name": "Ydre Kommun",
+          "latitude": "57.86355000",
+          "longitude": "15.26266000"
+        }
+      ]
+    },
+    {
+      "name": "Skåne County",
+      "state_code": "M",
+      "latitude": "55.99025720",
+      "longitude": "13.59576920",
+      "cities": [
+        {
+          "name": "Åhus",
+          "latitude": "55.91667000",
+          "longitude": "14.28333000"
+        },
+        {
+          "name": "Åkarp",
+          "latitude": "55.65396000",
+          "longitude": "13.11107000"
+        },
+        {
+          "name": "Anderslöv",
+          "latitude": "55.43836000",
+          "longitude": "13.31966000"
+        },
+        {
+          "name": "Ängelholm",
+          "latitude": "56.24280000",
+          "longitude": "12.86219000"
+        },
+        {
+          "name": "Ängelholms Kommun",
+          "latitude": "56.26814000",
+          "longitude": "12.96622000"
+        },
+        {
+          "name": "Arlöv",
+          "latitude": "55.63248000",
+          "longitude": "13.07141000"
+        },
+        {
+          "name": "Asmundtorp",
+          "latitude": "55.88333000",
+          "longitude": "12.93333000"
+        },
+        {
+          "name": "Åstorp",
+          "latitude": "56.13566000",
+          "longitude": "12.94430000"
+        },
+        {
+          "name": "Åstorps Kommun",
+          "latitude": "56.14003000",
+          "longitude": "12.97259000"
+        },
+        {
+          "name": "Bara",
+          "latitude": "55.58155000",
+          "longitude": "13.17862000"
+        },
+        {
+          "name": "Bårslöv",
+          "latitude": "56.00910000",
+          "longitude": "12.80580000"
+        },
+        {
+          "name": "Båstad",
+          "latitude": "56.42689000",
+          "longitude": "12.85339000"
+        },
+        {
+          "name": "Båstads Kommun",
+          "latitude": "56.40102000",
+          "longitude": "12.79912000"
+        },
+        {
+          "name": "Billeberga",
+          "latitude": "55.88333000",
+          "longitude": "13.00000000"
+        },
+        {
+          "name": "Billesholm",
+          "latitude": "56.05000000",
+          "longitude": "13.00000000"
+        },
+        {
+          "name": "Bjärnum",
+          "latitude": "56.29032000",
+          "longitude": "13.71128000"
+        },
+        {
+          "name": "Bjärred",
+          "latitude": "55.71667000",
+          "longitude": "13.01667000"
+        },
+        {
+          "name": "Bjuv",
+          "latitude": "56.08372000",
+          "longitude": "12.91914000"
+        },
+        {
+          "name": "Bjuvs Kommun",
+          "latitude": "56.05409000",
+          "longitude": "12.96542000"
+        },
+        {
+          "name": "Blentarp",
+          "latitude": "55.58333000",
+          "longitude": "13.60000000"
+        },
+        {
+          "name": "Broby",
+          "latitude": "56.25521000",
+          "longitude": "14.07797000"
+        },
+        {
+          "name": "Bromölla",
+          "latitude": "56.07551000",
+          "longitude": "14.46958000"
+        },
+        {
+          "name": "Bromölla Kommun",
+          "latitude": "56.11934000",
+          "longitude": "14.51150000"
+        },
+        {
+          "name": "Bunkeflostrand",
+          "latitude": "55.54478000",
+          "longitude": "12.92375000"
+        },
+        {
+          "name": "Burlövs Kommun",
+          "latitude": "55.63873000",
+          "longitude": "13.09473000"
+        },
+        {
+          "name": "Dalby",
+          "latitude": "55.66655000",
+          "longitude": "13.34976000"
+        },
+        {
+          "name": "Degeberga",
+          "latitude": "55.83333000",
+          "longitude": "14.08333000"
+        },
+        {
+          "name": "Ekeby",
+          "latitude": "56.00000000",
+          "longitude": "12.96667000"
+        },
+        {
+          "name": "Eslöv",
+          "latitude": "55.83928000",
+          "longitude": "13.30393000"
+        },
+        {
+          "name": "Eslövs Kommun",
+          "latitude": "55.83607000",
+          "longitude": "13.37522000"
+        },
+        {
+          "name": "Färlöv",
+          "latitude": "56.06667000",
+          "longitude": "14.08333000"
+        },
+        {
+          "name": "Fjälkinge",
+          "latitude": "56.04364000",
+          "longitude": "14.27562000"
+        },
+        {
+          "name": "Förslöv",
+          "latitude": "56.35000000",
+          "longitude": "12.81667000"
+        },
+        {
+          "name": "Furulund",
+          "latitude": "55.77380000",
+          "longitude": "13.09022000"
+        },
+        {
+          "name": "Gantofta",
+          "latitude": "55.98729000",
+          "longitude": "12.80482000"
+        },
+        {
+          "name": "Gärsnäs",
+          "latitude": "55.54949000",
+          "longitude": "14.17923000"
+        },
+        {
+          "name": "Genarp",
+          "latitude": "55.59907000",
+          "longitude": "13.39820000"
+        },
+        {
+          "name": "Glimåkra",
+          "latitude": "56.30000000",
+          "longitude": "14.13333000"
+        },
+        {
+          "name": "Glumslöv",
+          "latitude": "55.94091000",
+          "longitude": "12.80929000"
+        },
+        {
+          "name": "Häljarp",
+          "latitude": "55.85000000",
+          "longitude": "12.91667000"
+        },
+        {
+          "name": "Hammar",
+          "latitude": "56.01667000",
+          "longitude": "14.21667000"
+        },
+        {
+          "name": "Hanaskog",
+          "latitude": "56.16061000",
+          "longitude": "14.09307000"
+        },
+        {
+          "name": "Hässleholm",
+          "latitude": "56.15905000",
+          "longitude": "13.76638000"
+        },
+        {
+          "name": "Hässleholms Kommun",
+          "latitude": "56.20687000",
+          "longitude": "13.72374000"
+        },
+        {
+          "name": "Hästveda",
+          "latitude": "56.28468000",
+          "longitude": "13.93547000"
+        },
+        {
+          "name": "Helsingborg",
+          "latitude": "56.05648000",
+          "longitude": "12.78718000"
+        },
+        {
+          "name": "Hittarp",
+          "latitude": "56.10000000",
+          "longitude": "12.63333000"
+        },
+        {
+          "name": "Hjärnarp",
+          "latitude": "56.31667000",
+          "longitude": "12.91667000"
+        },
+        {
+          "name": "Hjärup",
+          "latitude": "55.66880000",
+          "longitude": "13.13931000"
+        },
+        {
+          "name": "Hofterup",
+          "latitude": "55.80485000",
+          "longitude": "12.97970000"
+        },
+        {
+          "name": "Höganäs",
+          "latitude": "56.19971000",
+          "longitude": "12.55795000"
+        },
+        {
+          "name": "Höganäs Kommun",
+          "latitude": "56.22517000",
+          "longitude": "12.59701000"
+        },
+        {
+          "name": "Hököpinge",
+          "latitude": "55.49411000",
+          "longitude": "13.00782000"
+        },
+        {
+          "name": "Höllviken",
+          "latitude": "55.40982000",
+          "longitude": "12.95580000"
+        },
+        {
+          "name": "Höör",
+          "latitude": "55.93444000",
+          "longitude": "13.53850000"
+        },
+        {
+          "name": "Höörs Kommun",
+          "latitude": "55.94588000",
+          "longitude": "13.51686000"
+        },
+        {
+          "name": "Hörby",
+          "latitude": "55.85238000",
+          "longitude": "13.66094000"
+        },
+        {
+          "name": "Hörby Kommun",
+          "latitude": "55.83766000",
+          "longitude": "13.74284000"
+        },
+        {
+          "name": "Hyllinge",
+          "latitude": "56.10000000",
+          "longitude": "12.85000000"
+        },
+        {
+          "name": "Jonstorp",
+          "latitude": "56.23380000",
+          "longitude": "12.67184000"
+        },
+        {
+          "name": "Kågeröd",
+          "latitude": "55.99976000",
+          "longitude": "13.08795000"
+        },
+        {
+          "name": "Kävlinge",
+          "latitude": "55.79188000",
+          "longitude": "13.11021000"
+        },
+        {
+          "name": "Kävlinge Kommun",
+          "latitude": "55.79469000",
+          "longitude": "13.07364000"
+        },
+        {
+          "name": "Klågerup",
+          "latitude": "55.59416000",
+          "longitude": "13.24574000"
+        },
+        {
+          "name": "Klippan",
+          "latitude": "56.13559000",
+          "longitude": "13.13086000"
+        },
+        {
+          "name": "Klippans Kommun",
+          "latitude": "56.11138000",
+          "longitude": "13.23836000"
+        },
+        {
+          "name": "Knislinge",
+          "latitude": "56.18333000",
+          "longitude": "14.08333000"
+        },
+        {
+          "name": "Köpingebro",
+          "latitude": "55.45526000",
+          "longitude": "13.93453000"
+        },
+        {
+          "name": "Kristianstad",
+          "latitude": "56.03129000",
+          "longitude": "14.15242000"
+        },
+        {
+          "name": "Kristianstads kommun",
+          "latitude": "56.00000000",
+          "longitude": "14.15000000"
+        },
+        {
+          "name": "Kvidinge",
+          "latitude": "56.13386000",
+          "longitude": "13.04678000"
+        },
+        {
+          "name": "Landskrona",
+          "latitude": "55.88620000",
+          "longitude": "12.85880000"
+        },
+        {
+          "name": "Ljungbyhed",
+          "latitude": "56.07437000",
+          "longitude": "13.24010000"
+        },
+        {
+          "name": "Ljunghusen",
+          "latitude": "55.39793000",
+          "longitude": "12.92486000"
+        },
+        {
+          "name": "Löberöd",
+          "latitude": "55.77610000",
+          "longitude": "13.52414000"
+        },
+        {
+          "name": "Löddeköpinge",
+          "latitude": "55.76667000",
+          "longitude": "13.01667000"
+        },
+        {
+          "name": "Lomma",
+          "latitude": "55.67244000",
+          "longitude": "13.06849000"
+        },
+        {
+          "name": "Lomma Kommun",
+          "latitude": "55.70358000",
+          "longitude": "13.07324000"
+        },
+        {
+          "name": "Lönsboda",
+          "latitude": "56.40000000",
+          "longitude": "14.31667000"
+        },
+        {
+          "name": "Lund",
+          "latitude": "55.70584000",
+          "longitude": "13.19321000"
+        },
+        {
+          "name": "Lunds Kommun",
+          "latitude": "55.66897000",
+          "longitude": "13.36408000"
+        },
+        {
+          "name": "Malmö",
+          "latitude": "55.60587000",
+          "longitude": "13.00073000"
+        },
+        {
+          "name": "Marieholm",
+          "latitude": "55.86667000",
+          "longitude": "13.15000000"
+        },
+        {
+          "name": "Mörarp",
+          "latitude": "56.05749000",
+          "longitude": "12.88018000"
+        },
+        {
+          "name": "Munka-Ljungby",
+          "latitude": "56.25000000",
+          "longitude": "12.96667000"
+        },
+        {
+          "name": "Näsum",
+          "latitude": "56.17693000",
+          "longitude": "14.49706000"
+        },
+        {
+          "name": "Norra Åsum",
+          "latitude": "55.98333000",
+          "longitude": "14.15000000"
+        },
+        {
+          "name": "Ödåkra",
+          "latitude": "56.10412000",
+          "longitude": "12.74770000"
+        },
+        {
+          "name": "Önnestad",
+          "latitude": "56.05747000",
+          "longitude": "14.02233000"
+        },
+        {
+          "name": "Örkelljunga",
+          "latitude": "56.28338000",
+          "longitude": "13.27773000"
+        },
+        {
+          "name": "Örkelljunga Kommun",
+          "latitude": "56.32464000",
+          "longitude": "13.33941000"
+        },
+        {
+          "name": "Osby",
+          "latitude": "56.38165000",
+          "longitude": "13.99364000"
+        },
+        {
+          "name": "Osby kommun",
+          "latitude": "56.44081000",
+          "longitude": "14.11842000"
+        },
+        {
+          "name": "Östra Göinge Kommun",
+          "latitude": "56.27212000",
+          "longitude": "14.15980000"
+        },
+        {
+          "name": "Östra Ljungby",
+          "latitude": "56.19601000",
+          "longitude": "13.09199000"
+        },
+        {
+          "name": "Oxie",
+          "latitude": "55.54014000",
+          "longitude": "13.09605000"
+        },
+        {
+          "name": "Påarp",
+          "latitude": "56.03333000",
+          "longitude": "12.81667000"
+        },
+        {
+          "name": "Perstorp",
+          "latitude": "56.13829000",
+          "longitude": "13.39476000"
+        },
+        {
+          "name": "Perstorps Kommun",
+          "latitude": "56.18857000",
+          "longitude": "13.37681000"
+        },
+        {
+          "name": "Rydebäck",
+          "latitude": "55.96667000",
+          "longitude": "12.76667000"
+        },
+        {
+          "name": "Rydsgård",
+          "latitude": "55.47285000",
+          "longitude": "13.58829000"
+        },
+        {
+          "name": "Sätofta",
+          "latitude": "55.91667000",
+          "longitude": "13.55000000"
+        },
+        {
+          "name": "Saxtorpsskogen",
+          "latitude": "55.83208000",
+          "longitude": "12.94429000"
+        },
+        {
+          "name": "Sibbhult",
+          "latitude": "56.26667000",
+          "longitude": "14.20000000"
+        },
+        {
+          "name": "Simrishamn",
+          "latitude": "55.55653000",
+          "longitude": "14.35037000"
+        },
+        {
+          "name": "Simrishamns kommun",
+          "latitude": "55.58621000",
+          "longitude": "14.23778000"
+        },
+        {
+          "name": "Sjöbo",
+          "latitude": "55.63135000",
+          "longitude": "13.70622000"
+        },
+        {
+          "name": "Sjöbo Kommun",
+          "latitude": "55.65146000",
+          "longitude": "13.75557000"
+        },
+        {
+          "name": "Skanör med Falsterbo",
+          "latitude": "55.40000000",
+          "longitude": "12.85000000"
+        },
+        {
+          "name": "Skåre",
+          "latitude": "55.38333000",
+          "longitude": "13.05000000"
+        },
+        {
+          "name": "Skegrie",
+          "latitude": "55.40633000",
+          "longitude": "13.07693000"
+        },
+        {
+          "name": "Skivarp",
+          "latitude": "55.41667000",
+          "longitude": "13.56667000"
+        },
+        {
+          "name": "Skurup",
+          "latitude": "55.47839000",
+          "longitude": "13.50186000"
+        },
+        {
+          "name": "Skurups Kommun",
+          "latitude": "55.47322000",
+          "longitude": "13.54550000"
+        },
+        {
+          "name": "Smygehamn",
+          "latitude": "55.34337000",
+          "longitude": "13.36989000"
+        },
+        {
+          "name": "Södra Sandby",
+          "latitude": "55.71677000",
+          "longitude": "13.34659000"
+        },
+        {
+          "name": "Sösdala",
+          "latitude": "56.03992000",
+          "longitude": "13.67811000"
+        },
+        {
+          "name": "Staffanstorp",
+          "latitude": "55.64277000",
+          "longitude": "13.20638000"
+        },
+        {
+          "name": "Staffanstorps Kommun",
+          "latitude": "55.65000000",
+          "longitude": "13.20000000"
+        },
+        {
+          "name": "Stångby",
+          "latitude": "55.75030000",
+          "longitude": "13.19797000"
+        },
+        {
+          "name": "Stehag",
+          "latitude": "55.90188000",
+          "longitude": "13.39577000"
+        },
+        {
+          "name": "Strövelstorp",
+          "latitude": "56.16979000",
+          "longitude": "12.83925000"
+        },
+        {
+          "name": "Svalöv",
+          "latitude": "55.91340000",
+          "longitude": "13.10762000"
+        },
+        {
+          "name": "Svalövs Kommun",
+          "latitude": "55.96497000",
+          "longitude": "13.13173000"
+        },
+        {
+          "name": "Svedala",
+          "latitude": "55.50788000",
+          "longitude": "13.23515000"
+        },
+        {
+          "name": "Svedala Kommun",
+          "latitude": "55.54324000",
+          "longitude": "13.26859000"
+        },
+        {
+          "name": "Teckomatorp",
+          "latitude": "55.86667000",
+          "longitude": "13.08333000"
+        },
+        {
+          "name": "Tollarp",
+          "latitude": "55.93333000",
+          "longitude": "13.98333000"
+        },
+        {
+          "name": "Tollarp1",
+          "latitude": "56.16667000",
+          "longitude": "14.28333000"
+        },
+        {
+          "name": "Tomelilla",
+          "latitude": "55.54293000",
+          "longitude": "13.95460000"
+        },
+        {
+          "name": "Tomelilla Kommun",
+          "latitude": "55.61963000",
+          "longitude": "14.01975000"
+        },
+        {
+          "name": "Torekov",
+          "latitude": "56.42500000",
+          "longitude": "12.63333000"
+        },
+        {
+          "name": "Tormestorp",
+          "latitude": "56.11350000",
+          "longitude": "13.74516000"
+        },
+        {
+          "name": "Trelleborg",
+          "latitude": "55.37514000",
+          "longitude": "13.15691000"
+        },
+        {
+          "name": "Trelleborgs Kommun",
+          "latitude": "55.41274000",
+          "longitude": "13.26859000"
+        },
+        {
+          "name": "Tygelsjö",
+          "latitude": "55.51667000",
+          "longitude": "13.00000000"
+        },
+        {
+          "name": "Tyringe",
+          "latitude": "56.16037000",
+          "longitude": "13.59811000"
+        },
+        {
+          "name": "Valje",
+          "latitude": "56.06279000",
+          "longitude": "14.54388000"
+        },
+        {
+          "name": "Veberöd",
+          "latitude": "55.63333000",
+          "longitude": "13.48333000"
+        },
+        {
+          "name": "Vejbystrand",
+          "latitude": "56.31778000",
+          "longitude": "12.76722000"
+        },
+        {
+          "name": "Vellinge",
+          "latitude": "55.47124000",
+          "longitude": "13.01971000"
+        },
+        {
+          "name": "Vellinge Kommun",
+          "latitude": "55.44776000",
+          "longitude": "13.00919000"
+        },
+        {
+          "name": "Viken",
+          "latitude": "56.15063000",
+          "longitude": "12.57429000"
+        },
+        {
+          "name": "Vinslöv",
+          "latitude": "56.10000000",
+          "longitude": "13.91667000"
+        },
+        {
+          "name": "Vittsjö",
+          "latitude": "56.34366000",
+          "longitude": "13.66081000"
+        },
+        {
+          "name": "Ystad",
+          "latitude": "55.42966000",
+          "longitude": "13.82041000"
+        },
+        {
+          "name": "Ystads Kommun",
+          "latitude": "55.46367000",
+          "longitude": "13.91153000"
+        }
+      ]
+    },
+    {
+      "name": "Södermanland County",
+      "state_code": "D",
+      "latitude": "59.03363490",
+      "longitude": "16.75188990",
+      "cities": [
+        {
+          "name": "Åkers Styckebruk",
+          "latitude": "59.25000000",
+          "longitude": "17.08333000"
+        },
+        {
+          "name": "Ärla",
+          "latitude": "59.27983000",
+          "longitude": "16.67896000"
+        },
+        {
+          "name": "Arnö",
+          "latitude": "58.72675000",
+          "longitude": "17.02322000"
+        },
+        {
+          "name": "Bara",
+          "latitude": "58.68333000",
+          "longitude": "17.06667000"
+        },
+        {
+          "name": "Eskilstuna",
+          "latitude": "59.36661000",
+          "longitude": "16.50770000"
+        },
+        {
+          "name": "Eskilstuna Kommun",
+          "latitude": "59.37362000",
+          "longitude": "16.49014000"
+        },
+        {
+          "name": "Flen",
+          "latitude": "59.05834000",
+          "longitude": "16.58781000"
+        },
+        {
+          "name": "Flens Kommun",
+          "latitude": "59.05000000",
+          "longitude": "16.71667000"
+        },
+        {
+          "name": "Gnesta",
+          "latitude": "59.04751000",
+          "longitude": "17.31191000"
+        },
+        {
+          "name": "Gnesta Kommun",
+          "latitude": "59.09214000",
+          "longitude": "17.14533000"
+        },
+        {
+          "name": "Hällbybrunn",
+          "latitude": "59.39152000",
+          "longitude": "16.42229000"
+        },
+        {
+          "name": "Hälleforsnäs",
+          "latitude": "59.15208000",
+          "longitude": "16.49700000"
+        },
+        {
+          "name": "Katrineholm",
+          "latitude": "58.99587000",
+          "longitude": "16.20721000"
+        },
+        {
+          "name": "Katrineholms Kommun",
+          "latitude": "59.01734000",
+          "longitude": "16.26049000"
+        },
+        {
+          "name": "Kvicksund",
+          "latitude": "59.45099000",
+          "longitude": "16.32131000"
+        },
+        {
+          "name": "Malmköping",
+          "latitude": "59.13333000",
+          "longitude": "16.73333000"
+        },
+        {
+          "name": "Mariefred",
+          "latitude": "59.25963000",
+          "longitude": "17.22300000"
+        },
+        {
+          "name": "Nyköping",
+          "latitude": "58.75300000",
+          "longitude": "17.00788000"
+        },
+        {
+          "name": "Nyköpings Kommun",
+          "latitude": "58.81762000",
+          "longitude": "16.89945000"
+        },
+        {
+          "name": "Olstorp",
+          "latitude": "58.81667000",
+          "longitude": "16.63333000"
+        },
+        {
+          "name": "Oxelösund",
+          "latitude": "58.67057000",
+          "longitude": "17.10152000"
+        },
+        {
+          "name": "Oxelösunds Kommun",
+          "latitude": "58.67519000",
+          "longitude": "17.08406000"
+        },
+        {
+          "name": "Skogstorp",
+          "latitude": "59.32472000",
+          "longitude": "16.48284000"
+        },
+        {
+          "name": "Stallarholmen",
+          "latitude": "59.36667000",
+          "longitude": "17.20000000"
+        },
+        {
+          "name": "Stigtomta",
+          "latitude": "58.80000000",
+          "longitude": "16.78333000"
+        },
+        {
+          "name": "Strängnäs",
+          "latitude": "59.37741000",
+          "longitude": "17.03119000"
+        },
+        {
+          "name": "Strängnäs Kommun",
+          "latitude": "59.36109000",
+          "longitude": "17.08804000"
+        },
+        {
+          "name": "Svalsta",
+          "latitude": "58.74273000",
+          "longitude": "16.86978000"
+        },
+        {
+          "name": "Torshälla",
+          "latitude": "59.41667000",
+          "longitude": "16.46667000"
+        },
+        {
+          "name": "Trosa",
+          "latitude": "58.89621000",
+          "longitude": "17.54812000"
+        },
+        {
+          "name": "Trosa Kommun",
+          "latitude": "58.89330000",
+          "longitude": "17.49847000"
+        },
+        {
+          "name": "Vagnhärad",
+          "latitude": "58.94587000",
+          "longitude": "17.48757000"
+        },
+        {
+          "name": "Valla",
+          "latitude": "59.01667000",
+          "longitude": "16.38333000"
+        },
+        {
+          "name": "Vingåker",
+          "latitude": "59.04330000",
+          "longitude": "15.87374000"
+        },
+        {
+          "name": "Vingåkers Kommun",
+          "latitude": "59.06667000",
+          "longitude": "15.88333000"
+        }
+      ]
+    },
+    {
+      "name": "Stockholm County",
+      "state_code": "AB",
+      "latitude": "59.60249580",
+      "longitude": "18.13843830",
+      "cities": [
+        {
+          "name": "Akalla",
+          "latitude": "59.41465000",
+          "longitude": "17.91398000"
+        },
+        {
+          "name": "Åkersberga",
+          "latitude": "59.47944000",
+          "longitude": "18.29967000"
+        },
+        {
+          "name": "Alby",
+          "latitude": "59.23350000",
+          "longitude": "17.85380000"
+        },
+        {
+          "name": "Älmsta",
+          "latitude": "59.96667000",
+          "longitude": "18.80000000"
+        },
+        {
+          "name": "Älta",
+          "latitude": "59.26667000",
+          "longitude": "18.18333000"
+        },
+        {
+          "name": "Arnö",
+          "latitude": "60.11667000",
+          "longitude": "18.63333000"
+        },
+        {
+          "name": "Årsta",
+          "latitude": "59.29780000",
+          "longitude": "18.05140000"
+        },
+        {
+          "name": "Bergshamra",
+          "latitude": "59.38083000",
+          "longitude": "18.03427000"
+        },
+        {
+          "name": "Bollmora",
+          "latitude": "59.24196000",
+          "longitude": "18.22762000"
+        },
+        {
+          "name": "Boo",
+          "latitude": "59.33333000",
+          "longitude": "18.28333000"
+        },
+        {
+          "name": "Botkyrka Kommun",
+          "latitude": "59.20000000",
+          "longitude": "17.81667000"
+        },
+        {
+          "name": "Brevik",
+          "latitude": "59.35000000",
+          "longitude": "18.20000000"
+        },
+        {
+          "name": "Bro",
+          "latitude": "59.51667000",
+          "longitude": "17.63333000"
+        },
+        {
+          "name": "Bromma",
+          "latitude": "59.34000000",
+          "longitude": "17.94000000"
+        },
+        {
+          "name": "Brunn",
+          "latitude": "59.28000000",
+          "longitude": "18.43000000"
+        },
+        {
+          "name": "Brunna",
+          "latitude": "59.51667000",
+          "longitude": "17.75000000"
+        },
+        {
+          "name": "Dalarö",
+          "latitude": "59.13306000",
+          "longitude": "18.40639000"
+        },
+        {
+          "name": "Danderyds Kommun",
+          "latitude": "59.40924000",
+          "longitude": "18.04847000"
+        },
+        {
+          "name": "Djurö",
+          "latitude": "59.32653000",
+          "longitude": "18.71152000"
+        },
+        {
+          "name": "Djursholm",
+          "latitude": "59.39926000",
+          "longitude": "18.05619000"
+        },
+        {
+          "name": "Ekerö",
+          "latitude": "59.29100000",
+          "longitude": "17.81212000"
+        },
+        {
+          "name": "Ekerö Kommun",
+          "latitude": "59.32198000",
+          "longitude": "17.63580000"
+        },
+        {
+          "name": "Enebyberg",
+          "latitude": "59.43333000",
+          "longitude": "18.05000000"
+        },
+        {
+          "name": "Eriksberg",
+          "latitude": "59.24241000",
+          "longitude": "17.81631000"
+        },
+        {
+          "name": "Fisksätra",
+          "latitude": "59.29153000",
+          "longitude": "18.25490000"
+        },
+        {
+          "name": "Fittja",
+          "latitude": "59.24868000",
+          "longitude": "17.85991000"
+        },
+        {
+          "name": "Gamla Stan",
+          "latitude": "59.32627000",
+          "longitude": "18.07251000"
+        },
+        {
+          "name": "Gustavsberg",
+          "latitude": "59.32684000",
+          "longitude": "18.38975000"
+        },
+        {
+          "name": "Hallstavik",
+          "latitude": "60.05000000",
+          "longitude": "18.60000000"
+        },
+        {
+          "name": "Handen",
+          "latitude": "59.16809000",
+          "longitude": "18.13796000"
+        },
+        {
+          "name": "Haninge",
+          "latitude": "59.16775000",
+          "longitude": "18.14478000"
+        },
+        {
+          "name": "Haninge Kommun",
+          "latitude": "59.17382000",
+          "longitude": "18.15491000"
+        },
+        {
+          "name": "Hemmesta",
+          "latitude": "59.32273000",
+          "longitude": "18.48675000"
+        },
+        {
+          "name": "Hölö",
+          "latitude": "59.01667000",
+          "longitude": "17.53333000"
+        },
+        {
+          "name": "Huddinge",
+          "latitude": "59.23705000",
+          "longitude": "17.98192000"
+        },
+        {
+          "name": "Huddinge Kommun",
+          "latitude": "59.21428000",
+          "longitude": "18.01584000"
+        },
+        {
+          "name": "Jakobsberg",
+          "latitude": "59.42268000",
+          "longitude": "17.83508000"
+        },
+        {
+          "name": "Järfälla kommun",
+          "latitude": "59.40875000",
+          "longitude": "17.86514000"
+        },
+        {
+          "name": "Järna",
+          "latitude": "59.09165000",
+          "longitude": "17.56615000"
+        },
+        {
+          "name": "Jordbro",
+          "latitude": "59.14972000",
+          "longitude": "18.11667000"
+        },
+        {
+          "name": "Kista",
+          "latitude": "59.40316000",
+          "longitude": "17.94479000"
+        },
+        {
+          "name": "Kopparmora",
+          "latitude": "59.33306000",
+          "longitude": "18.58306000"
+        },
+        {
+          "name": "Kummelnäs",
+          "latitude": "59.35000000",
+          "longitude": "18.28333000"
+        },
+        {
+          "name": "Kungsängen",
+          "latitude": "59.47857000",
+          "longitude": "17.74834000"
+        },
+        {
+          "name": "Kungsholmen",
+          "latitude": "59.33183000",
+          "longitude": "18.04118000"
+        },
+        {
+          "name": "Långvik",
+          "latitude": "59.24583000",
+          "longitude": "18.51667000"
+        },
+        {
+          "name": "Lidingö",
+          "latitude": "59.36303000",
+          "longitude": "18.15096000"
+        },
+        {
+          "name": "Lindholmen",
+          "latitude": "59.58333000",
+          "longitude": "18.10000000"
+        },
+        {
+          "name": "Märsta",
+          "latitude": "59.62157000",
+          "longitude": "17.85476000"
+        },
+        {
+          "name": "Mölnbo",
+          "latitude": "59.05000000",
+          "longitude": "17.41667000"
+        },
+        {
+          "name": "Mörtnäs",
+          "latitude": "59.31862000",
+          "longitude": "18.44312000"
+        },
+        {
+          "name": "Nacka",
+          "latitude": "59.31053000",
+          "longitude": "18.16372000"
+        },
+        {
+          "name": "Nacka Kommun",
+          "latitude": "59.31077000",
+          "longitude": "18.17551000"
+        },
+        {
+          "name": "Norrtälje",
+          "latitude": "59.75799000",
+          "longitude": "18.70496000"
+        },
+        {
+          "name": "Norrtälje Kommun",
+          "latitude": "59.86120000",
+          "longitude": "18.70573000"
+        },
+        {
+          "name": "Nykvarn",
+          "latitude": "59.80000000",
+          "longitude": "18.30000000"
+        },
+        {
+          "name": "Nykvarns Kommun",
+          "latitude": "59.19479000",
+          "longitude": "17.40632000"
+        },
+        {
+          "name": "Nynäshamn",
+          "latitude": "58.90337000",
+          "longitude": "17.94793000"
+        },
+        {
+          "name": "Nynäshamns kommun",
+          "latitude": "58.95607000",
+          "longitude": "17.88694000"
+        },
+        {
+          "name": "Ösmo",
+          "latitude": "58.98333000",
+          "longitude": "17.90000000"
+        },
+        {
+          "name": "Österåkers Kommun",
+          "latitude": "59.48345000",
+          "longitude": "18.29979000"
+        },
+        {
+          "name": "Östermalm",
+          "latitude": "59.33879000",
+          "longitude": "18.08487000"
+        },
+        {
+          "name": "Pershagen",
+          "latitude": "59.15494000",
+          "longitude": "17.65340000"
+        },
+        {
+          "name": "Råsunda",
+          "latitude": "59.36588000",
+          "longitude": "17.99569000"
+        },
+        {
+          "name": "Resarö",
+          "latitude": "59.42910000",
+          "longitude": "18.33386000"
+        },
+        {
+          "name": "Rimbo",
+          "latitude": "59.75000000",
+          "longitude": "18.36667000"
+        },
+        {
+          "name": "Rindö",
+          "latitude": "59.39688000",
+          "longitude": "18.39434000"
+        },
+        {
+          "name": "Rönninge",
+          "latitude": "59.20000000",
+          "longitude": "17.73333000"
+        },
+        {
+          "name": "Rosersberg",
+          "latitude": "59.58333000",
+          "longitude": "17.88333000"
+        },
+        {
+          "name": "Salems Kommun",
+          "latitude": "59.24572000",
+          "longitude": "17.69875000"
+        },
+        {
+          "name": "Saltsjöbaden",
+          "latitude": "59.28333000",
+          "longitude": "18.30000000"
+        },
+        {
+          "name": "Segeltorp",
+          "latitude": "59.27597000",
+          "longitude": "17.93072000"
+        },
+        {
+          "name": "Sigtuna",
+          "latitude": "59.61731000",
+          "longitude": "17.72361000"
+        },
+        {
+          "name": "Sigtuna Kommun",
+          "latitude": "59.63960000",
+          "longitude": "17.93946000"
+        },
+        {
+          "name": "Skänninge",
+          "latitude": "59.93333000",
+          "longitude": "18.48333000"
+        },
+        {
+          "name": "Södermalm",
+          "latitude": "59.31278000",
+          "longitude": "18.07577000"
+        },
+        {
+          "name": "Södertälje",
+          "latitude": "59.19554000",
+          "longitude": "17.62525000"
+        },
+        {
+          "name": "Södertälje Kommun",
+          "latitude": "59.18121000",
+          "longitude": "17.62756000"
+        },
+        {
+          "name": "Sollentuna",
+          "latitude": "59.42804000",
+          "longitude": "17.95093000"
+        },
+        {
+          "name": "Sollentuna Kommun",
+          "latitude": "59.44499000",
+          "longitude": "17.93518000"
+        },
+        {
+          "name": "Solna",
+          "latitude": "59.36004000",
+          "longitude": "18.00086000"
+        },
+        {
+          "name": "Solna Kommun",
+          "latitude": "59.36548000",
+          "longitude": "18.00728000"
+        },
+        {
+          "name": "Stavsnäs",
+          "latitude": "59.28333000",
+          "longitude": "18.68333000"
+        },
+        {
+          "name": "Stenhamra",
+          "latitude": "59.33440000",
+          "longitude": "17.68842000"
+        },
+        {
+          "name": "Stockholm",
+          "latitude": "59.33258000",
+          "longitude": "18.06490000"
+        },
+        {
+          "name": "Stockholms Kommun",
+          "latitude": "59.32478000",
+          "longitude": "18.06427000"
+        },
+        {
+          "name": "Strömma",
+          "latitude": "59.28333000",
+          "longitude": "18.53333000"
+        },
+        {
+          "name": "Sundbyberg",
+          "latitude": "59.36128000",
+          "longitude": "17.97114000"
+        },
+        {
+          "name": "Sundbybergs Kommun",
+          "latitude": "59.36669000",
+          "longitude": "17.97020000"
+        },
+        {
+          "name": "Täby Kommun",
+          "latitude": "59.43739000",
+          "longitude": "18.06530000"
+        },
+        {
+          "name": "Tensta",
+          "latitude": "59.39390000",
+          "longitude": "17.90111000"
+        },
+        {
+          "name": "Tullinge",
+          "latitude": "59.20000000",
+          "longitude": "17.90000000"
+        },
+        {
+          "name": "Tumba",
+          "latitude": "59.19858000",
+          "longitude": "17.83317000"
+        },
+        {
+          "name": "Tyresö Kommun",
+          "latitude": "59.24148000",
+          "longitude": "18.28074000"
+        },
+        {
+          "name": "Upplands Väsby",
+          "latitude": "59.51839000",
+          "longitude": "17.91128000"
+        },
+        {
+          "name": "Upplands Väsby kommun",
+          "latitude": "59.52382000",
+          "longitude": "17.91001000"
+        },
+        {
+          "name": "Upplands-Bro Kommun",
+          "latitude": "59.49095000",
+          "longitude": "17.74979000"
+        },
+        {
+          "name": "Vallentuna",
+          "latitude": "59.53436000",
+          "longitude": "18.07758000"
+        },
+        {
+          "name": "Vallentuna Kommun",
+          "latitude": "59.59146000",
+          "longitude": "18.21000000"
+        },
+        {
+          "name": "Vårby",
+          "latitude": "59.26671000",
+          "longitude": "17.88407000"
+        },
+        {
+          "name": "Värmdö Kommun",
+          "latitude": "59.31614000",
+          "longitude": "18.70414000"
+        },
+        {
+          "name": "Vårsta",
+          "latitude": "59.16528000",
+          "longitude": "17.79722000"
+        },
+        {
+          "name": "Vasastan",
+          "latitude": "59.34571000",
+          "longitude": "18.04985000"
+        },
+        {
+          "name": "Vaxholm",
+          "latitude": "59.40225000",
+          "longitude": "18.35317000"
+        },
+        {
+          "name": "Vaxholms Kommun",
+          "latitude": "59.40386000",
+          "longitude": "18.34167000"
+        }
+      ]
+    },
+    {
+      "name": "Uppsala County",
+      "state_code": "C",
+      "latitude": "60.00922620",
+      "longitude": "17.27145880",
+      "cities": [
+        {
+          "name": "Alsike",
+          "latitude": "59.75324000",
+          "longitude": "17.77331000"
+        },
+        {
+          "name": "Alunda",
+          "latitude": "60.26667000",
+          "longitude": "18.40000000"
+        },
+        {
+          "name": "Älvkarleby",
+          "latitude": "60.57081000",
+          "longitude": "17.44895000"
+        },
+        {
+          "name": "Älvkarleby Kommun",
+          "latitude": "60.58212000",
+          "longitude": "17.44532000"
+        },
+        {
+          "name": "Anneberg",
+          "latitude": "60.24167000",
+          "longitude": "18.41667000"
+        },
+        {
+          "name": "Bälinge",
+          "latitude": "59.95000000",
+          "longitude": "17.53333000"
+        },
+        {
+          "name": "Bålsta",
+          "latitude": "59.56710000",
+          "longitude": "17.52781000"
+        },
+        {
+          "name": "Björklinge",
+          "latitude": "60.03004000",
+          "longitude": "17.55203000"
+        },
+        {
+          "name": "Enköping",
+          "latitude": "59.63607000",
+          "longitude": "17.07768000"
+        },
+        {
+          "name": "Enköpings Kommun",
+          "latitude": "59.68575000",
+          "longitude": "17.11668000"
+        },
+        {
+          "name": "Gamla Uppsala",
+          "latitude": "59.89817000",
+          "longitude": "17.63386000"
+        },
+        {
+          "name": "Gimo",
+          "latitude": "60.17304000",
+          "longitude": "18.18507000"
+        },
+        {
+          "name": "Grillby",
+          "latitude": "59.62603000",
+          "longitude": "17.25787000"
+        },
+        {
+          "name": "Håbo kommun",
+          "latitude": "59.64953000",
+          "longitude": "17.50701000"
+        },
+        {
+          "name": "Heby",
+          "latitude": "59.93815000",
+          "longitude": "16.86217000"
+        },
+        {
+          "name": "Heby kommun",
+          "latitude": "60.10000000",
+          "longitude": "17.00000000"
+        },
+        {
+          "name": "Irsta",
+          "latitude": "59.70000000",
+          "longitude": "16.93333000"
+        },
+        {
+          "name": "Karlholmsbruk",
+          "latitude": "60.52091000",
+          "longitude": "17.63152000"
+        },
+        {
+          "name": "Knivsta",
+          "latitude": "59.72564000",
+          "longitude": "17.78753000"
+        },
+        {
+          "name": "Knivsta Kommun",
+          "latitude": "59.73702000",
+          "longitude": "17.78137000"
+        },
+        {
+          "name": "Lövstalöt",
+          "latitude": "59.95740000",
+          "longitude": "17.57826000"
+        },
+        {
+          "name": "Marieberg",
+          "latitude": "60.23333000",
+          "longitude": "18.50000000"
+        },
+        {
+          "name": "Morgongåva",
+          "latitude": "59.93395000",
+          "longitude": "16.96353000"
+        },
+        {
+          "name": "Örbyhus",
+          "latitude": "60.22407000",
+          "longitude": "17.70138000"
+        },
+        {
+          "name": "Öregrund",
+          "latitude": "60.33333000",
+          "longitude": "18.43333000"
+        },
+        {
+          "name": "Örsundsbro",
+          "latitude": "59.73333000",
+          "longitude": "17.30000000"
+        },
+        {
+          "name": "Österbybruk",
+          "latitude": "60.20000000",
+          "longitude": "17.90000000"
+        },
+        {
+          "name": "Östervåla",
+          "latitude": "60.18333000",
+          "longitude": "17.18333000"
+        },
+        {
+          "name": "Östhammar",
+          "latitude": "60.25909000",
+          "longitude": "18.37408000"
+        },
+        {
+          "name": "Östhammars Kommun",
+          "latitude": "60.24156000",
+          "longitude": "18.26968000"
+        },
+        {
+          "name": "Sävja",
+          "latitude": "59.81872000",
+          "longitude": "17.69958000"
+        },
+        {
+          "name": "Skutskär",
+          "latitude": "60.62507000",
+          "longitude": "17.41552000"
+        },
+        {
+          "name": "Söderfors",
+          "latitude": "60.38333000",
+          "longitude": "17.23333000"
+        },
+        {
+          "name": "Storvreta",
+          "latitude": "59.95933000",
+          "longitude": "17.70588000"
+        },
+        {
+          "name": "Tärnsjö",
+          "latitude": "60.15000000",
+          "longitude": "16.93333000"
+        },
+        {
+          "name": "Tierp",
+          "latitude": "60.34269000",
+          "longitude": "17.51812000"
+        },
+        {
+          "name": "Tierps kommun",
+          "latitude": "60.37206000",
+          "longitude": "17.63629000"
+        },
+        {
+          "name": "Uppsala",
+          "latitude": "59.85882000",
+          "longitude": "17.63889000"
+        },
+        {
+          "name": "Uppsala Kommun",
+          "latitude": "59.96425000",
+          "longitude": "17.77395000"
+        },
+        {
+          "name": "Vattholma",
+          "latitude": "60.01667000",
+          "longitude": "17.73333000"
+        }
+      ]
+    },
+    {
+      "name": "Värmland County",
+      "state_code": "S",
+      "latitude": "59.72940650",
+      "longitude": "13.23540240",
+      "cities": [
+        {
+          "name": "Åmotfors",
+          "latitude": "59.76191000",
+          "longitude": "12.36211000"
+        },
+        {
+          "name": "Årjäng",
+          "latitude": "59.39217000",
+          "longitude": "12.13336000"
+        },
+        {
+          "name": "Årjängs Kommun",
+          "latitude": "59.43589000",
+          "longitude": "12.10366000"
+        },
+        {
+          "name": "Arvika",
+          "latitude": "59.65528000",
+          "longitude": "12.58518000"
+        },
+        {
+          "name": "Arvika Kommun",
+          "latitude": "59.70484000",
+          "longitude": "12.63202000"
+        },
+        {
+          "name": "Björneborg",
+          "latitude": "59.24122000",
+          "longitude": "14.24942000"
+        },
+        {
+          "name": "Charlottenberg",
+          "latitude": "59.88422000",
+          "longitude": "12.30398000"
+        },
+        {
+          "name": "Deje",
+          "latitude": "59.60300000",
+          "longitude": "13.47200000"
+        },
+        {
+          "name": "Eda kommun",
+          "latitude": "59.80000000",
+          "longitude": "12.21667000"
+        },
+        {
+          "name": "Ekshärad",
+          "latitude": "60.17275000",
+          "longitude": "13.49647000"
+        },
+        {
+          "name": "Filipstad",
+          "latitude": "59.71236000",
+          "longitude": "14.16831000"
+        },
+        {
+          "name": "Filipstads Kommun",
+          "latitude": "59.87354000",
+          "longitude": "14.14706000"
+        },
+        {
+          "name": "Forshaga",
+          "latitude": "59.52541000",
+          "longitude": "13.48127000"
+        },
+        {
+          "name": "Forshaga Kommun",
+          "latitude": "59.64596000",
+          "longitude": "13.50572000"
+        },
+        {
+          "name": "Grums",
+          "latitude": "59.35141000",
+          "longitude": "13.11105000"
+        },
+        {
+          "name": "Grums Kommun",
+          "latitude": "59.40406000",
+          "longitude": "13.02192000"
+        },
+        {
+          "name": "Hagfors",
+          "latitude": "60.02378000",
+          "longitude": "13.67214000"
+        },
+        {
+          "name": "Hagfors Kommun",
+          "latitude": "60.08997000",
+          "longitude": "13.60757000"
+        },
+        {
+          "name": "Hammarö Kommun",
+          "latitude": "59.30699000",
+          "longitude": "13.54869000"
+        },
+        {
+          "name": "Karlstad",
+          "latitude": "59.37930000",
+          "longitude": "13.50357000"
+        },
+        {
+          "name": "Karlstads Kommun",
+          "latitude": "59.47409000",
+          "longitude": "13.59961000"
+        },
+        {
+          "name": "Kil",
+          "latitude": "59.50234000",
+          "longitude": "13.31277000"
+        },
+        {
+          "name": "Kils Kommun",
+          "latitude": "59.50406000",
+          "longitude": "13.31740000"
+        },
+        {
+          "name": "Kristinehamn",
+          "latitude": "59.30978000",
+          "longitude": "14.10808000"
+        },
+        {
+          "name": "Kristinehamns Kommun",
+          "latitude": "59.25288000",
+          "longitude": "14.13593000"
+        },
+        {
+          "name": "Molkom",
+          "latitude": "59.60057000",
+          "longitude": "13.72115000"
+        },
+        {
+          "name": "Munkfors",
+          "latitude": "59.83856000",
+          "longitude": "13.54361000"
+        },
+        {
+          "name": "Munkfors Kommun",
+          "latitude": "59.81625000",
+          "longitude": "13.49458000"
+        },
+        {
+          "name": "Råtorp",
+          "latitude": "59.40197000",
+          "longitude": "13.49144000"
+        },
+        {
+          "name": "Säffle",
+          "latitude": "59.13229000",
+          "longitude": "12.92888000"
+        },
+        {
+          "name": "Säffle Kommun",
+          "latitude": "59.19559000",
+          "longitude": "12.86437000"
+        },
+        {
+          "name": "Skåre",
+          "latitude": "59.43333000",
+          "longitude": "13.43333000"
+        },
+        {
+          "name": "Skattkärr",
+          "latitude": "59.41208000",
+          "longitude": "13.67078000"
+        },
+        {
+          "name": "Skoghall",
+          "latitude": "59.32324000",
+          "longitude": "13.46552000"
+        },
+        {
+          "name": "Slottsbron",
+          "latitude": "59.32270000",
+          "longitude": "13.10268000"
+        },
+        {
+          "name": "Storfors",
+          "latitude": "59.53183000",
+          "longitude": "14.27201000"
+        },
+        {
+          "name": "Storfors Kommun",
+          "latitude": "59.49478000",
+          "longitude": "14.24733000"
+        },
+        {
+          "name": "Sunne",
+          "latitude": "59.83764000",
+          "longitude": "13.14302000"
+        },
+        {
+          "name": "Sunne Kommun",
+          "latitude": "59.90378000",
+          "longitude": "13.04420000"
+        },
+        {
+          "name": "Töcksfors",
+          "latitude": "59.50816000",
+          "longitude": "11.84431000"
+        },
+        {
+          "name": "Torsby",
+          "latitude": "60.13527000",
+          "longitude": "13.00820000"
+        },
+        {
+          "name": "Torsby Kommun",
+          "latitude": "60.56939000",
+          "longitude": "12.93837000"
+        },
+        {
+          "name": "Vålberg",
+          "latitude": "59.39145000",
+          "longitude": "13.18633000"
+        }
+      ]
+    },
+    {
+      "name": "Västerbotten County",
+      "state_code": "AC",
+      "latitude": "65.33373110",
+      "longitude": "16.51616940",
+      "cities": [
+        {
+          "name": "Åsele",
+          "latitude": "64.16026000",
+          "longitude": "17.34762000"
+        },
+        {
+          "name": "Åsele Kommun",
+          "latitude": "64.16604000",
+          "longitude": "17.62356000"
+        },
+        {
+          "name": "Backa",
+          "latitude": "64.98333000",
+          "longitude": "21.06667000"
+        },
+        {
+          "name": "Bjurholm",
+          "latitude": "63.93027000",
+          "longitude": "19.21369000"
+        },
+        {
+          "name": "Bjurholms Kommun",
+          "latitude": "63.96667000",
+          "longitude": "19.00000000"
+        },
+        {
+          "name": "Boliden",
+          "latitude": "64.86667000",
+          "longitude": "20.38333000"
+        },
+        {
+          "name": "Bureå",
+          "latitude": "64.61667000",
+          "longitude": "21.20000000"
+        },
+        {
+          "name": "Burträsk",
+          "latitude": "64.51667000",
+          "longitude": "20.65000000"
+        },
+        {
+          "name": "Byske",
+          "latitude": "64.95258000",
+          "longitude": "21.20580000"
+        },
+        {
+          "name": "Dorotea",
+          "latitude": "64.26185000",
+          "longitude": "16.41306000"
+        },
+        {
+          "name": "Dorotea Kommun",
+          "latitude": "64.57981000",
+          "longitude": "15.80614000"
+        },
+        {
+          "name": "Ersmark",
+          "latitude": "63.88333000",
+          "longitude": "20.31667000"
+        },
+        {
+          "name": "Forsbacka",
+          "latitude": "64.76667000",
+          "longitude": "20.50000000"
+        },
+        {
+          "name": "Holmsund",
+          "latitude": "63.70602000",
+          "longitude": "20.36409000"
+        },
+        {
+          "name": "Hörnefors",
+          "latitude": "63.62312000",
+          "longitude": "19.90856000"
+        },
+        {
+          "name": "Insjön",
+          "latitude": "64.40000000",
+          "longitude": "17.48333000"
+        },
+        {
+          "name": "Kåge",
+          "latitude": "64.83571000",
+          "longitude": "20.98453000"
+        },
+        {
+          "name": "Långsele",
+          "latitude": "64.81667000",
+          "longitude": "20.25000000"
+        },
+        {
+          "name": "Lycksele",
+          "latitude": "64.59537000",
+          "longitude": "18.67351000"
+        },
+        {
+          "name": "Lycksele kommun",
+          "latitude": "64.62437000",
+          "longitude": "18.48930000"
+        },
+        {
+          "name": "Malå",
+          "latitude": "65.18501000",
+          "longitude": "18.74243000"
+        },
+        {
+          "name": "Malå Kommun",
+          "latitude": "65.20000000",
+          "longitude": "18.75000000"
+        },
+        {
+          "name": "Nordmaling",
+          "latitude": "63.56852000",
+          "longitude": "19.50244000"
+        },
+        {
+          "name": "Nordmalings Kommun",
+          "latitude": "63.68542000",
+          "longitude": "19.36777000"
+        },
+        {
+          "name": "Norsjö",
+          "latitude": "64.91206000",
+          "longitude": "19.48153000"
+        },
+        {
+          "name": "Norsjö Kommun",
+          "latitude": "64.92993000",
+          "longitude": "19.55556000"
+        },
+        {
+          "name": "Obbola",
+          "latitude": "63.70000000",
+          "longitude": "20.31667000"
+        },
+        {
+          "name": "Röbäck",
+          "latitude": "63.80879000",
+          "longitude": "20.18901000"
+        },
+        {
+          "name": "Robertsfors",
+          "latitude": "64.19324000",
+          "longitude": "20.84806000"
+        },
+        {
+          "name": "Robertsfors Kommun",
+          "latitude": "64.16604000",
+          "longitude": "20.78415000"
+        },
+        {
+          "name": "Sävar",
+          "latitude": "63.90383000",
+          "longitude": "20.55014000"
+        },
+        {
+          "name": "Skellefteå",
+          "latitude": "64.75067000",
+          "longitude": "20.95279000"
+        },
+        {
+          "name": "Skellefteå Kommun",
+          "latitude": "64.80261000",
+          "longitude": "20.64410000"
+        },
+        {
+          "name": "Skelleftehamn",
+          "latitude": "64.68333000",
+          "longitude": "21.23333000"
+        },
+        {
+          "name": "Söderfors",
+          "latitude": "64.81667000",
+          "longitude": "18.05000000"
+        },
+        {
+          "name": "Sorsele",
+          "latitude": "65.53484000",
+          "longitude": "17.53702000"
+        },
+        {
+          "name": "Sorsele Kommun",
+          "latitude": "65.75000000",
+          "longitude": "16.75000000"
+        },
+        {
+          "name": "Storuman",
+          "latitude": "65.09590000",
+          "longitude": "17.11731000"
+        },
+        {
+          "name": "Storumans Kommun",
+          "latitude": "65.45192000",
+          "longitude": "16.25810000"
+        },
+        {
+          "name": "Storvik",
+          "latitude": "65.15000000",
+          "longitude": "20.73333000"
+        },
+        {
+          "name": "Täfteå",
+          "latitude": "63.83970000",
+          "longitude": "20.47857000"
+        },
+        {
+          "name": "Umeå",
+          "latitude": "63.82842000",
+          "longitude": "20.25972000"
+        },
+        {
+          "name": "Umeå Kommun",
+          "latitude": "63.82992000",
+          "longitude": "20.25484000"
+        },
+        {
+          "name": "Ursviken",
+          "latitude": "64.71261000",
+          "longitude": "21.16580000"
+        },
+        {
+          "name": "Vännäs",
+          "latitude": "63.90676000",
+          "longitude": "19.75712000"
+        },
+        {
+          "name": "Vännäs Kommun",
+          "latitude": "63.94960000",
+          "longitude": "19.70834000"
+        },
+        {
+          "name": "Vännäsby",
+          "latitude": "63.91564000",
+          "longitude": "19.82438000"
+        },
+        {
+          "name": "Viken",
+          "latitude": "64.72587000",
+          "longitude": "20.91548000"
+        },
+        {
+          "name": "Vilhelmina",
+          "latitude": "64.62417000",
+          "longitude": "16.65596000"
+        },
+        {
+          "name": "Vilhelmina Kommun",
+          "latitude": "64.99358000",
+          "longitude": "16.03212000"
+        },
+        {
+          "name": "Vindeln",
+          "latitude": "64.20175000",
+          "longitude": "19.71945000"
+        },
+        {
+          "name": "Vindelns Kommun",
+          "latitude": "64.18605000",
+          "longitude": "19.71222000"
+        }
+      ]
+    },
+    {
+      "name": "Västernorrland County",
+      "state_code": "Y",
+      "latitude": "63.42764730",
+      "longitude": "17.72924440",
+      "cities": [
+        {
+          "name": "Ånge",
+          "latitude": "62.52495000",
+          "longitude": "15.65904000"
+        },
+        {
+          "name": "Ånge kommun",
+          "latitude": "62.51232000",
+          "longitude": "15.64453000"
+        },
+        {
+          "name": "Ås",
+          "latitude": "63.36667000",
+          "longitude": "16.58333000"
+        },
+        {
+          "name": "Bergeforsen",
+          "latitude": "62.53074000",
+          "longitude": "17.38123000"
+        },
+        {
+          "name": "Bjästa",
+          "latitude": "63.20000000",
+          "longitude": "18.50000000"
+        },
+        {
+          "name": "Bollstabruk",
+          "latitude": "62.99777000",
+          "longitude": "17.67348000"
+        },
+        {
+          "name": "Bredbyn",
+          "latitude": "63.44655000",
+          "longitude": "18.11019000"
+        },
+        {
+          "name": "Fränsta",
+          "latitude": "62.49855000",
+          "longitude": "16.17016000"
+        },
+        {
+          "name": "Härnösand",
+          "latitude": "62.63228000",
+          "longitude": "17.93794000"
+        },
+        {
+          "name": "Härnösands Kommun",
+          "latitude": "62.76667000",
+          "longitude": "17.68333000"
+        },
+        {
+          "name": "Husum",
+          "latitude": "63.33333000",
+          "longitude": "19.16667000"
+        },
+        {
+          "name": "Johannedal",
+          "latitude": "62.43424000",
+          "longitude": "17.37273000"
+        },
+        {
+          "name": "Köpmanholmen",
+          "latitude": "63.16667000",
+          "longitude": "18.56667000"
+        },
+        {
+          "name": "Kramfors",
+          "latitude": "62.93161000",
+          "longitude": "17.77646000"
+        },
+        {
+          "name": "Kramfors Kommun",
+          "latitude": "62.97246000",
+          "longitude": "17.92274000"
+        },
+        {
+          "name": "Kvissleby",
+          "latitude": "62.29361000",
+          "longitude": "17.37500000"
+        },
+        {
+          "name": "Långsele",
+          "latitude": "63.18333000",
+          "longitude": "17.06667000"
+        },
+        {
+          "name": "Matfors",
+          "latitude": "62.34864000",
+          "longitude": "17.03173000"
+        },
+        {
+          "name": "Njurundabommen",
+          "latitude": "62.26339000",
+          "longitude": "17.38354000"
+        },
+        {
+          "name": "Nolby",
+          "latitude": "62.28750000",
+          "longitude": "17.36917000"
+        },
+        {
+          "name": "Örnsköldsvik",
+          "latitude": "63.29091000",
+          "longitude": "18.71525000"
+        },
+        {
+          "name": "Örnsköldsviks Kommun",
+          "latitude": "63.51458000",
+          "longitude": "18.27101000"
+        },
+        {
+          "name": "Skottsund",
+          "latitude": "62.29056000",
+          "longitude": "17.38694000"
+        },
+        {
+          "name": "Sollefteå",
+          "latitude": "63.16667000",
+          "longitude": "17.26667000"
+        },
+        {
+          "name": "Sollefteå Kommun",
+          "latitude": "63.38333000",
+          "longitude": "16.91667000"
+        },
+        {
+          "name": "Söråker",
+          "latitude": "62.50561000",
+          "longitude": "17.51032000"
+        },
+        {
+          "name": "Stockvik",
+          "latitude": "62.33667000",
+          "longitude": "17.36583000"
+        },
+        {
+          "name": "Sundsbruk",
+          "latitude": "62.45806000",
+          "longitude": "17.34889000"
+        },
+        {
+          "name": "Sundsvall",
+          "latitude": "62.39129000",
+          "longitude": "17.30630000"
+        },
+        {
+          "name": "Sundsvalls Kommun",
+          "latitude": "62.47912000",
+          "longitude": "16.92651000"
+        },
+        {
+          "name": "Timrå",
+          "latitude": "62.48654000",
+          "longitude": "17.32613000"
+        },
+        {
+          "name": "Timrå Kommun",
+          "latitude": "62.61598000",
+          "longitude": "17.37848000"
+        },
+        {
+          "name": "Vi",
+          "latitude": "62.43333000",
+          "longitude": "17.41667000"
+        }
+      ]
+    },
+    {
+      "name": "Västmanland County",
+      "state_code": "U",
+      "latitude": "59.67138790",
+      "longitude": "16.21589530",
+      "cities": [
+        {
+          "name": "Arboga",
+          "latitude": "59.39387000",
+          "longitude": "15.83882000"
+        },
+        {
+          "name": "Arboga Kommun",
+          "latitude": "59.39451000",
+          "longitude": "15.79261000"
+        },
+        {
+          "name": "Barkarö",
+          "latitude": "59.54935000",
+          "longitude": "16.50740000"
+        },
+        {
+          "name": "Dingtuna",
+          "latitude": "59.57279000",
+          "longitude": "16.38722000"
+        },
+        {
+          "name": "Enhagen-Ekbacken",
+          "latitude": "59.56543000",
+          "longitude": "16.53045000"
+        },
+        {
+          "name": "Fagersta",
+          "latitude": "60.00418000",
+          "longitude": "15.79316000"
+        },
+        {
+          "name": "Fagersta Kommun",
+          "latitude": "59.94834000",
+          "longitude": "15.88332000"
+        },
+        {
+          "name": "Hallstahammar",
+          "latitude": "59.61395000",
+          "longitude": "16.22846000"
+        },
+        {
+          "name": "Hallstahammars Kommun",
+          "latitude": "59.61703000",
+          "longitude": "16.22797000"
+        },
+        {
+          "name": "Hökåsen",
+          "latitude": "59.66667000",
+          "longitude": "16.58333000"
+        },
+        {
+          "name": "Irsta",
+          "latitude": "59.60000000",
+          "longitude": "16.70000000"
+        },
+        {
+          "name": "Kolbäck",
+          "latitude": "59.56516000",
+          "longitude": "16.23037000"
+        },
+        {
+          "name": "Kolsva",
+          "latitude": "59.60000000",
+          "longitude": "15.83333000"
+        },
+        {
+          "name": "Köping",
+          "latitude": "59.51404000",
+          "longitude": "15.99255000"
+        },
+        {
+          "name": "Köpings Kommun",
+          "latitude": "59.56639000",
+          "longitude": "15.87218000"
+        },
+        {
+          "name": "Kungsör",
+          "latitude": "59.42245000",
+          "longitude": "16.09656000"
+        },
+        {
+          "name": "Kungsörs kommun",
+          "latitude": "59.40247000",
+          "longitude": "16.07748000"
+        },
+        {
+          "name": "Norberg",
+          "latitude": "60.06505000",
+          "longitude": "15.92366000"
+        },
+        {
+          "name": "Norbergs Kommun",
+          "latitude": "60.08997000",
+          "longitude": "15.95971000"
+        },
+        {
+          "name": "Ramnäs",
+          "latitude": "59.76667000",
+          "longitude": "16.20000000"
+        },
+        {
+          "name": "Sala",
+          "latitude": "59.91993000",
+          "longitude": "16.60655000"
+        },
+        {
+          "name": "Sala kommun",
+          "latitude": "59.97221000",
+          "longitude": "16.47374000"
+        },
+        {
+          "name": "Skinnskatteberg",
+          "latitude": "59.83028000",
+          "longitude": "15.69337000"
+        },
+        {
+          "name": "Skinnskattebergs Kommun",
+          "latitude": "59.79715000",
+          "longitude": "15.71463000"
+        },
+        {
+          "name": "Skultuna",
+          "latitude": "59.71667000",
+          "longitude": "16.41667000"
+        },
+        {
+          "name": "Surahammar",
+          "latitude": "59.70725000",
+          "longitude": "16.22188000"
+        },
+        {
+          "name": "Surahammars Kommun",
+          "latitude": "59.77487000",
+          "longitude": "16.11885000"
+        },
+        {
+          "name": "Tillberga",
+          "latitude": "59.68333000",
+          "longitude": "16.61667000"
+        },
+        {
+          "name": "Västerås",
+          "latitude": "59.64914000",
+          "longitude": "16.56445000"
+        }
+      ]
+    },
+    {
+      "name": "Västra Götaland County",
+      "state_code": "O",
+      "latitude": "58.25279260",
+      "longitude": "13.05964250",
+      "cities": [
+        {
+          "name": "Åkarp",
+          "latitude": "58.23333000",
+          "longitude": "13.65000000"
+        },
+        {
+          "name": "Alafors",
+          "latitude": "57.92579000",
+          "longitude": "12.07835000"
+        },
+        {
+          "name": "Ale Kommun",
+          "latitude": "57.97018000",
+          "longitude": "12.25166000"
+        },
+        {
+          "name": "Alingsås",
+          "latitude": "57.93033000",
+          "longitude": "12.53345000"
+        },
+        {
+          "name": "Alingsås Kommun",
+          "latitude": "58.00000000",
+          "longitude": "12.50000000"
+        },
+        {
+          "name": "Älvängen",
+          "latitude": "57.95872000",
+          "longitude": "12.12350000"
+        },
+        {
+          "name": "Åmål",
+          "latitude": "59.05100000",
+          "longitude": "12.70492000"
+        },
+        {
+          "name": "Åmåls Kommun",
+          "latitude": "59.04573000",
+          "longitude": "12.59583000"
+        },
+        {
+          "name": "Andalen",
+          "latitude": "57.70039000",
+          "longitude": "11.76136000"
+        },
+        {
+          "name": "Anderstorp",
+          "latitude": "58.88333000",
+          "longitude": "14.28333000"
+        },
+        {
+          "name": "Angered",
+          "latitude": "57.78628000",
+          "longitude": "12.09852000"
+        },
+        {
+          "name": "Annelund",
+          "latitude": "57.98843000",
+          "longitude": "13.07483000"
+        },
+        {
+          "name": "Axvall",
+          "latitude": "58.38333000",
+          "longitude": "13.56667000"
+        },
+        {
+          "name": "Bengtsfors",
+          "latitude": "59.02912000",
+          "longitude": "12.23207000"
+        },
+        {
+          "name": "Bengtsfors Kommun",
+          "latitude": "59.03333000",
+          "longitude": "12.21667000"
+        },
+        {
+          "name": "Billdal",
+          "latitude": "57.56667000",
+          "longitude": "11.93333000"
+        },
+        {
+          "name": "Billingsfors",
+          "latitude": "58.98333000",
+          "longitude": "12.25000000"
+        },
+        {
+          "name": "Björboholm",
+          "latitude": "57.87096000",
+          "longitude": "12.32546000"
+        },
+        {
+          "name": "Björkö",
+          "latitude": "57.73221000",
+          "longitude": "11.67916000"
+        },
+        {
+          "name": "Björlanda",
+          "latitude": "57.76667000",
+          "longitude": "11.83333000"
+        },
+        {
+          "name": "Bollebygd",
+          "latitude": "57.66866000",
+          "longitude": "12.57272000"
+        },
+        {
+          "name": "Bollebygds Kommun",
+          "latitude": "57.74260000",
+          "longitude": "12.61451000"
+        },
+        {
+          "name": "Borås",
+          "latitude": "57.73783000",
+          "longitude": "12.94076000"
+        },
+        {
+          "name": "Brålanda",
+          "latitude": "58.56344000",
+          "longitude": "12.34923000"
+        },
+        {
+          "name": "Brastad",
+          "latitude": "58.38333000",
+          "longitude": "11.48333000"
+        },
+        {
+          "name": "Dals Långed",
+          "latitude": "58.92555000",
+          "longitude": "12.30865000"
+        },
+        {
+          "name": "Dals-Ed Kommun",
+          "latitude": "58.91252000",
+          "longitude": "11.92395000"
+        },
+        {
+          "name": "Dalsjöfors",
+          "latitude": "57.71667000",
+          "longitude": "13.08333000"
+        },
+        {
+          "name": "Diseröd",
+          "latitude": "57.92636000",
+          "longitude": "12.02598000"
+        },
+        {
+          "name": "Donsö",
+          "latitude": "57.60000000",
+          "longitude": "11.79917000"
+        },
+        {
+          "name": "Ed",
+          "latitude": "58.91247000",
+          "longitude": "11.93308000"
+        },
+        {
+          "name": "Ellös",
+          "latitude": "58.18333000",
+          "longitude": "11.46667000"
+        },
+        {
+          "name": "Eriksbo",
+          "latitude": "57.77141000",
+          "longitude": "12.04183000"
+        },
+        {
+          "name": "Essunga Kommun",
+          "latitude": "58.20253000",
+          "longitude": "12.72273000"
+        },
+        {
+          "name": "Falköping",
+          "latitude": "58.17347000",
+          "longitude": "13.55068000"
+        },
+        {
+          "name": "Falköpings Kommun",
+          "latitude": "58.14046000",
+          "longitude": "13.53277000"
+        },
+        {
+          "name": "Färgelanda",
+          "latitude": "58.56816000",
+          "longitude": "11.99235000"
+        },
+        {
+          "name": "Färgelanda Kommun",
+          "latitude": "58.61630000",
+          "longitude": "12.01136000"
+        },
+        {
+          "name": "Floby",
+          "latitude": "58.13333000",
+          "longitude": "13.33333000"
+        },
+        {
+          "name": "Fristad",
+          "latitude": "57.82483000",
+          "longitude": "13.01064000"
+        },
+        {
+          "name": "Fritsla",
+          "latitude": "57.55655000",
+          "longitude": "12.78457000"
+        },
+        {
+          "name": "Furulund",
+          "latitude": "57.71667000",
+          "longitude": "12.13333000"
+        },
+        {
+          "name": "Gånghester",
+          "latitude": "57.70000000",
+          "longitude": "13.01667000"
+        },
+        {
+          "name": "Gårdsten",
+          "latitude": "57.80480000",
+          "longitude": "12.02883000"
+        },
+        {
+          "name": "Göta",
+          "latitude": "58.10617000",
+          "longitude": "12.15254000"
+        },
+        {
+          "name": "Göteborg",
+          "latitude": "57.70716000",
+          "longitude": "11.96679000"
+        },
+        {
+          "name": "Göteborgs stad",
+          "latitude": "57.72288000",
+          "longitude": "11.94577000"
+        },
+        {
+          "name": "Götene",
+          "latitude": "58.52824000",
+          "longitude": "13.49458000"
+        },
+        {
+          "name": "Götene Kommun",
+          "latitude": "58.55105000",
+          "longitude": "13.47866000"
+        },
+        {
+          "name": "Gråbo",
+          "latitude": "57.83625000",
+          "longitude": "12.29954000"
+        },
+        {
+          "name": "Grästorp",
+          "latitude": "58.33219000",
+          "longitude": "12.68122000"
+        },
+        {
+          "name": "Grästorps Kommun",
+          "latitude": "58.33333000",
+          "longitude": "12.66667000"
+        },
+        {
+          "name": "Grebbestad",
+          "latitude": "58.70248000",
+          "longitude": "11.25738000"
+        },
+        {
+          "name": "Gullspång",
+          "latitude": "58.98615000",
+          "longitude": "14.09644000"
+        },
+        {
+          "name": "Gullspångs Kommun",
+          "latitude": "58.93300000",
+          "longitude": "14.18048000"
+        },
+        {
+          "name": "Hammarkullen",
+          "latitude": "57.78049000",
+          "longitude": "12.03604000"
+        },
+        {
+          "name": "Härryda Kommun",
+          "latitude": "57.67736000",
+          "longitude": "12.32010000"
+        },
+        {
+          "name": "Henån",
+          "latitude": "58.23848000",
+          "longitude": "11.67598000"
+        },
+        {
+          "name": "Herrljunga",
+          "latitude": "58.07739000",
+          "longitude": "13.02662000"
+        },
+        {
+          "name": "Herrljunga Kommun",
+          "latitude": "58.01156000",
+          "longitude": "13.12059000"
+        },
+        {
+          "name": "Hindås",
+          "latitude": "57.70338000",
+          "longitude": "12.44657000"
+        },
+        {
+          "name": "Hjo",
+          "latitude": "58.30133000",
+          "longitude": "14.28784000"
+        },
+        {
+          "name": "Hjo Kommun",
+          "latitude": "58.29642000",
+          "longitude": "14.20754000"
+        },
+        {
+          "name": "Hjuvik",
+          "latitude": "57.70167000",
+          "longitude": "11.71639000"
+        },
+        {
+          "name": "Hönö",
+          "latitude": "57.68972000",
+          "longitude": "11.64972000"
+        },
+        {
+          "name": "Horred",
+          "latitude": "57.35475000",
+          "longitude": "12.47777000"
+        },
+        {
+          "name": "Hova",
+          "latitude": "58.85363000",
+          "longitude": "14.21914000"
+        },
+        {
+          "name": "Höviksnäs",
+          "latitude": "58.03333000",
+          "longitude": "11.76667000"
+        },
+        {
+          "name": "Hunnebostrand",
+          "latitude": "58.44127000",
+          "longitude": "11.30320000"
+        },
+        {
+          "name": "Ingared",
+          "latitude": "57.85989000",
+          "longitude": "12.45161000"
+        },
+        {
+          "name": "Jonstorp",
+          "latitude": "58.00000000",
+          "longitude": "12.71667000"
+        },
+        {
+          "name": "Jörlanda",
+          "latitude": "57.98630000",
+          "longitude": "11.82943000"
+        },
+        {
+          "name": "Källby",
+          "latitude": "58.50999000",
+          "longitude": "13.30582000"
+        },
+        {
+          "name": "Kållered",
+          "latitude": "57.60992000",
+          "longitude": "12.05106000"
+        },
+        {
+          "name": "Karlsborg",
+          "latitude": "58.53724000",
+          "longitude": "14.50470000"
+        },
+        {
+          "name": "Karlsborgs Kommun",
+          "latitude": "58.60994000",
+          "longitude": "14.45421000"
+        },
+        {
+          "name": "Kinna",
+          "latitude": "57.50728000",
+          "longitude": "12.69463000"
+        },
+        {
+          "name": "Kode",
+          "latitude": "57.94263000",
+          "longitude": "11.85051000"
+        },
+        {
+          "name": "Kungälv",
+          "latitude": "57.87096000",
+          "longitude": "11.98054000"
+        },
+        {
+          "name": "Kungälvs Kommun",
+          "latitude": "57.89697000",
+          "longitude": "11.88882000"
+        },
+        {
+          "name": "Kungshamn",
+          "latitude": "58.36305000",
+          "longitude": "11.25938000"
+        },
+        {
+          "name": "Kvänum",
+          "latitude": "58.30000000",
+          "longitude": "13.18333000"
+        },
+        {
+          "name": "Landvetter",
+          "latitude": "57.68665000",
+          "longitude": "12.21169000"
+        },
+        {
+          "name": "Länghem",
+          "latitude": "57.60000000",
+          "longitude": "13.23333000"
+        },
+        {
+          "name": "Lerum",
+          "latitude": "57.77051000",
+          "longitude": "12.26904000"
+        },
+        {
+          "name": "Lerums Kommun",
+          "latitude": "57.77452000",
+          "longitude": "12.26967000"
+        },
+        {
+          "name": "Lidköping",
+          "latitude": "58.50517000",
+          "longitude": "13.15765000"
+        },
+        {
+          "name": "Lidköpings Kommun",
+          "latitude": "58.50000000",
+          "longitude": "13.00000000"
+        },
+        {
+          "name": "Lilla Edet",
+          "latitude": "58.13333000",
+          "longitude": "12.13333000"
+        },
+        {
+          "name": "Lilla Edets Kommun",
+          "latitude": "58.13569000",
+          "longitude": "12.14345000"
+        },
+        {
+          "name": "Limmared",
+          "latitude": "57.53592000",
+          "longitude": "13.35566000"
+        },
+        {
+          "name": "Lindome",
+          "latitude": "57.56667000",
+          "longitude": "12.08333000"
+        },
+        {
+          "name": "Ljungskile",
+          "latitude": "58.22452000",
+          "longitude": "11.92014000"
+        },
+        {
+          "name": "Lödöse",
+          "latitude": "58.02994000",
+          "longitude": "12.15934000"
+        },
+        {
+          "name": "Lövgärdet",
+          "latitude": "57.81555000",
+          "longitude": "12.03861000"
+        },
+        {
+          "name": "Lysekil",
+          "latitude": "58.27429000",
+          "longitude": "11.43576000"
+        },
+        {
+          "name": "Lysekils Kommun",
+          "latitude": "58.34719000",
+          "longitude": "11.46688000"
+        },
+        {
+          "name": "Majorna",
+          "latitude": "57.69195000",
+          "longitude": "11.91605000"
+        },
+        {
+          "name": "Mariestad",
+          "latitude": "58.70971000",
+          "longitude": "13.82367000"
+        },
+        {
+          "name": "Mariestads Kommun",
+          "latitude": "58.70861000",
+          "longitude": "13.85424000"
+        },
+        {
+          "name": "Marks Kommun",
+          "latitude": "57.47604000",
+          "longitude": "12.59462000"
+        },
+        {
+          "name": "Mellerud",
+          "latitude": "58.69979000",
+          "longitude": "12.45312000"
+        },
+        {
+          "name": "Melleruds Kommun",
+          "latitude": "58.69110000",
+          "longitude": "12.41399000"
+        },
+        {
+          "name": "Mölltorp",
+          "latitude": "58.50000000",
+          "longitude": "14.40000000"
+        },
+        {
+          "name": "Mölndal",
+          "latitude": "57.65540000",
+          "longitude": "12.01378000"
+        },
+        {
+          "name": "Mölndals kommun",
+          "latitude": "57.60256000",
+          "longitude": "12.09889000"
+        },
+        {
+          "name": "Mölnlycke",
+          "latitude": "57.65893000",
+          "longitude": "12.11792000"
+        },
+        {
+          "name": "Munkedal",
+          "latitude": "58.46634000",
+          "longitude": "11.67345000"
+        },
+        {
+          "name": "Munkedals Kommun",
+          "latitude": "58.57334000",
+          "longitude": "11.70103000"
+        },
+        {
+          "name": "Myggenäs",
+          "latitude": "58.06176000",
+          "longitude": "11.74936000"
+        },
+        {
+          "name": "Nolvik",
+          "latitude": "57.77500000",
+          "longitude": "11.83333000"
+        },
+        {
+          "name": "Nossebro",
+          "latitude": "58.18808000",
+          "longitude": "12.71599000"
+        },
+        {
+          "name": "Öckerö",
+          "latitude": "57.70814000",
+          "longitude": "11.65585000"
+        },
+        {
+          "name": "Öckerö Kommun",
+          "latitude": "57.69534000",
+          "longitude": "11.64825000"
+        },
+        {
+          "name": "Ödsmål",
+          "latitude": "58.10000000",
+          "longitude": "11.85000000"
+        },
+        {
+          "name": "Öjersjö",
+          "latitude": "57.69882000",
+          "longitude": "12.13448000"
+        },
+        {
+          "name": "Olofstorp",
+          "latitude": "57.80444000",
+          "longitude": "12.17131000"
+        },
+        {
+          "name": "Olstorp",
+          "latitude": "57.82277000",
+          "longitude": "12.27696000"
+        },
+        {
+          "name": "Orust",
+          "latitude": "58.18025000",
+          "longitude": "11.63419000"
+        },
+        {
+          "name": "Partille",
+          "latitude": "57.73950000",
+          "longitude": "12.10642000"
+        },
+        {
+          "name": "Partille Kommun",
+          "latitude": "57.73306000",
+          "longitude": "12.13072000"
+        },
+        {
+          "name": "Rannebergen",
+          "latitude": "57.80236000",
+          "longitude": "12.07131000"
+        },
+        {
+          "name": "Rävlanda",
+          "latitude": "57.65338000",
+          "longitude": "12.49791000"
+        },
+        {
+          "name": "Rönnäng",
+          "latitude": "57.93333000",
+          "longitude": "11.58333000"
+        },
+        {
+          "name": "Sålanda",
+          "latitude": "57.98333000",
+          "longitude": "12.21667000"
+        },
+        {
+          "name": "Sandared",
+          "latitude": "57.70992000",
+          "longitude": "12.79238000"
+        },
+        {
+          "name": "Sätila",
+          "latitude": "57.54172000",
+          "longitude": "12.43429000"
+        },
+        {
+          "name": "Sjömarken",
+          "latitude": "57.71533000",
+          "longitude": "12.83495000"
+        },
+        {
+          "name": "Sjuntorp",
+          "latitude": "58.20000000",
+          "longitude": "12.21667000"
+        },
+        {
+          "name": "Skara",
+          "latitude": "58.38659000",
+          "longitude": "13.43836000"
+        },
+        {
+          "name": "Skara Kommun",
+          "latitude": "58.37759000",
+          "longitude": "13.47548000"
+        },
+        {
+          "name": "Skärhamn",
+          "latitude": "57.98665000",
+          "longitude": "11.55742000"
+        },
+        {
+          "name": "Skepplanda",
+          "latitude": "57.98333000",
+          "longitude": "12.20000000"
+        },
+        {
+          "name": "Skövde",
+          "latitude": "58.39118000",
+          "longitude": "13.84506000"
+        },
+        {
+          "name": "Skövde Kommun",
+          "latitude": "58.43488000",
+          "longitude": "13.90358000"
+        },
+        {
+          "name": "Skultorp",
+          "latitude": "58.35000000",
+          "longitude": "13.83333000"
+        },
+        {
+          "name": "Smögen",
+          "latitude": "58.35593000",
+          "longitude": "11.22411000"
+        },
+        {
+          "name": "Sollebrunn",
+          "latitude": "58.11667000",
+          "longitude": "12.53333000"
+        },
+        {
+          "name": "Sotenäs Kommun",
+          "latitude": "58.42215000",
+          "longitude": "11.34296000"
+        },
+        {
+          "name": "Stenkullen",
+          "latitude": "57.79476000",
+          "longitude": "12.31688000"
+        },
+        {
+          "name": "Stenstorp",
+          "latitude": "58.27254000",
+          "longitude": "13.71454000"
+        },
+        {
+          "name": "Stenungsund",
+          "latitude": "58.07046000",
+          "longitude": "11.81810000"
+        },
+        {
+          "name": "Stenungsunds Kommun",
+          "latitude": "58.06248000",
+          "longitude": "11.90473000"
+        },
+        {
+          "name": "Stöpen",
+          "latitude": "58.47802000",
+          "longitude": "13.86611000"
+        },
+        {
+          "name": "Stora Höga",
+          "latitude": "58.01667000",
+          "longitude": "11.83333000"
+        },
+        {
+          "name": "Strömstad",
+          "latitude": "58.93945000",
+          "longitude": "11.17120000"
+        },
+        {
+          "name": "Strömstads Kommun",
+          "latitude": "58.94891000",
+          "longitude": "11.25543000"
+        },
+        {
+          "name": "Styrsö",
+          "latitude": "57.61639000",
+          "longitude": "11.78556000"
+        },
+        {
+          "name": "Surte",
+          "latitude": "57.82533000",
+          "longitude": "12.01604000"
+        },
+        {
+          "name": "Svanesund",
+          "latitude": "58.14292000",
+          "longitude": "11.81821000"
+        },
+        {
+          "name": "Svenljunga",
+          "latitude": "57.49551000",
+          "longitude": "13.11078000"
+        },
+        {
+          "name": "Svenljunga Kommun",
+          "latitude": "57.39249000",
+          "longitude": "13.05216000"
+        },
+        {
+          "name": "Tanums Kommun",
+          "latitude": "58.71656000",
+          "longitude": "11.42571000"
+        },
+        {
+          "name": "Tanumshede",
+          "latitude": "58.72385000",
+          "longitude": "11.32587000"
+        },
+        {
+          "name": "Tibro",
+          "latitude": "58.42453000",
+          "longitude": "14.16162000"
+        },
+        {
+          "name": "Tibro Kommun",
+          "latitude": "58.44920000",
+          "longitude": "14.22664000"
+        },
+        {
+          "name": "Tidaholm",
+          "latitude": "58.18035000",
+          "longitude": "13.95824000"
+        },
+        {
+          "name": "Tidaholms kommun",
+          "latitude": "58.14842000",
+          "longitude": "13.94336000"
+        },
+        {
+          "name": "Tjörns Kommun",
+          "latitude": "58.00519000",
+          "longitude": "11.63101000"
+        },
+        {
+          "name": "Tjuvkil",
+          "latitude": "57.90000000",
+          "longitude": "11.73333000"
+        },
+        {
+          "name": "Töreboda",
+          "latitude": "58.70739000",
+          "longitude": "14.12597000"
+        },
+        {
+          "name": "Töreboda Kommun",
+          "latitude": "58.67996000",
+          "longitude": "14.16139000"
+        },
+        {
+          "name": "Torslanda",
+          "latitude": "57.72432000",
+          "longitude": "11.77013000"
+        },
+        {
+          "name": "Tranemo",
+          "latitude": "57.48333000",
+          "longitude": "13.35000000"
+        },
+        {
+          "name": "Tranemo Kommun",
+          "latitude": "57.50000000",
+          "longitude": "13.43333000"
+        },
+        {
+          "name": "Trollhättan",
+          "latitude": "58.21208000",
+          "longitude": "12.35033000"
+        },
+        {
+          "name": "Uddevalla",
+          "latitude": "58.34784000",
+          "longitude": "11.94240000"
+        },
+        {
+          "name": "Uddevalla Kommun",
+          "latitude": "58.34099000",
+          "longitude": "11.84744000"
+        },
+        {
+          "name": "Ulricehamn",
+          "latitude": "57.79159000",
+          "longitude": "13.41422000"
+        },
+        {
+          "name": "Ulricehamns Kommun",
+          "latitude": "57.82059000",
+          "longitude": "13.46116000"
+        },
+        {
+          "name": "Vänersborg",
+          "latitude": "58.38075000",
+          "longitude": "12.32340000"
+        },
+        {
+          "name": "Vänersborgs Kommun",
+          "latitude": "58.39828000",
+          "longitude": "12.27554000"
+        },
+        {
+          "name": "Vara",
+          "latitude": "58.26234000",
+          "longitude": "12.95413000"
+        },
+        {
+          "name": "Vara Kommun",
+          "latitude": "58.24391000",
+          "longitude": "13.07285000"
+        },
+        {
+          "name": "Vårgårda",
+          "latitude": "58.03706000",
+          "longitude": "12.80907000"
+        },
+        {
+          "name": "Vårgårda Kommun",
+          "latitude": "57.98769000",
+          "longitude": "12.76888000"
+        },
+        {
+          "name": "Vargön",
+          "latitude": "58.35599000",
+          "longitude": "12.39060000"
+        },
+        {
+          "name": "Västra Frölunda",
+          "latitude": "57.64667000",
+          "longitude": "11.92944000"
+        },
+        {
+          "name": "Vinninga",
+          "latitude": "58.45000000",
+          "longitude": "13.26667000"
+        },
+        {
+          "name": "Viskafors",
+          "latitude": "57.62941000",
+          "longitude": "12.84890000"
+        }
+      ]
+    }
+  ]
+}

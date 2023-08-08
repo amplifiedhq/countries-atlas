@@ -1,0 +1,46 @@
+{
+  "code": "ST",
+  "states": [
+    {
+      "name": "Príncipe Province",
+      "state_code": "P",
+      "latitude": "1.61393810",
+      "longitude": "7.40569280",
+      "cities": [
+        {
+          "name": "Santo António",
+          "latitude": "1.63943000",
+          "longitude": "7.41951000"
+        }
+      ]
+    },
+    {
+      "name": "São Tomé Province",
+      "state_code": "S",
+      "latitude": "0.33019240",
+      "longitude": "6.73334300",
+      "cities": [
+        {
+          "name": "Cantagalo District",
+          "latitude": "0.21667000",
+          "longitude": "6.70000000"
+        },
+        {
+          "name": "Caué District",
+          "latitude": "0.13415000",
+          "longitude": "6.63825000"
+        },
+        {
+          "name": "São Tomé",
+          "latitude": "0.33654000",
+          "longitude": "6.72732000"
+        },
+        {
+          "name": "Trindade",
+          "latitude": "0.29667000",
+          "longitude": "6.68139000"
+        }
+      ]
+    }
+  ]
+}

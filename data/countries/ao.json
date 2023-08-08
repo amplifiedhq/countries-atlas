@@ -1,0 +1,381 @@
+{
+  "code": "AO",
+  "states": [
+    {
+      "name": "Bengo Province",
+      "state_code": "BGO",
+      "latitude": "-9.10422570",
+      "longitude": "13.72891670",
+      "cities": [
+        {
+          "name": "Caxito",
+          "latitude": "-8.57848000",
+          "longitude": "13.66425000"
+        }
+      ]
+    },
+    {
+      "name": "Benguela Province",
+      "state_code": "BGU",
+      "latitude": "-12.80037440",
+      "longitude": "13.91439900",
+      "cities": [
+        {
+          "name": "Benguela",
+          "latitude": "-12.57626000",
+          "longitude": "13.40547000"
+        },
+        {
+          "name": "Catumbela",
+          "latitude": "-12.43002000",
+          "longitude": "13.54677000"
+        },
+        {
+          "name": "Lobito",
+          "latitude": "-12.36440000",
+          "longitude": "13.53601000"
+        }
+      ]
+    },
+    {
+      "name": "Bié Province",
+      "state_code": "BIE",
+      "latitude": "-12.57279070",
+      "longitude": "17.66888700",
+      "cities": [
+        {
+          "name": "Camacupa",
+          "latitude": "-12.01667000",
+          "longitude": "17.48333000"
+        },
+        {
+          "name": "Catabola",
+          "latitude": "-12.15000000",
+          "longitude": "17.28333000"
+        },
+        {
+          "name": "Chissamba",
+          "latitude": "-12.16667000",
+          "longitude": "17.33333000"
+        },
+        {
+          "name": "Cuito",
+          "latitude": "-12.38333000",
+          "longitude": "16.93333000"
+        }
+      ]
+    },
+    {
+      "name": "Cabinda Province",
+      "state_code": "CAB",
+      "latitude": "-5.02487490",
+      "longitude": "12.34638750",
+      "cities": [
+        {
+          "name": "Cabinda",
+          "latitude": "-5.55000000",
+          "longitude": "12.20000000"
+        }
+      ]
+    },
+    {
+      "name": "Cuando Cubango Province",
+      "state_code": "CCU",
+      "latitude": "-16.41808240",
+      "longitude": "18.80761950",
+      "cities": [
+        {
+          "name": "Menongue",
+          "latitude": "-14.65850000",
+          "longitude": "17.69099000"
+        }
+      ]
+    },
+    {
+      "name": "Cuanza Norte Province",
+      "state_code": "CNO",
+      "latitude": "-9.23985130",
+      "longitude": "14.65878210",
+      "cities": [
+        {
+          "name": "Camabatela",
+          "latitude": "-8.18812000",
+          "longitude": "15.37495000"
+        },
+        {
+          "name": "N’dalatando",
+          "latitude": "-9.29782000",
+          "longitude": "14.91162000"
+        }
+      ]
+    },
+    {
+      "name": "Cuanza Sul",
+      "state_code": "CUS",
+      "latitude": "-10.59519100",
+      "longitude": "15.40680790",
+      "cities": [
+        {
+          "name": "Quibala",
+          "latitude": "-10.73366000",
+          "longitude": "14.97995000"
+        },
+        {
+          "name": "Sumbe",
+          "latitude": "-11.20605000",
+          "longitude": "13.84371000"
+        },
+        {
+          "name": "Uacu Cungo",
+          "latitude": "-11.35669000",
+          "longitude": "15.11719000"
+        }
+      ]
+    },
+    {
+      "name": "Cunene Province",
+      "state_code": "CNN",
+      "latitude": "-16.28022210",
+      "longitude": "16.15809370",
+      "cities": [
+        {
+          "name": "Ondjiva",
+          "latitude": "-17.06667000",
+          "longitude": "15.73333000"
+        }
+      ]
+    },
+    {
+      "name": "Huambo Province",
+      "state_code": "HUA",
+      "latitude": "-12.52682210",
+      "longitude": "15.59433880",
+      "cities": [
+        {
+          "name": "Caála",
+          "latitude": "-12.85250000",
+          "longitude": "15.56056000"
+        },
+        {
+          "name": "Chela",
+          "latitude": "-12.30261000",
+          "longitude": "15.43358000"
+        },
+        {
+          "name": "Huambo",
+          "latitude": "-12.77611000",
+          "longitude": "15.73917000"
+        },
+        {
+          "name": "Longonjo",
+          "latitude": "-12.90667000",
+          "longitude": "15.25333000"
+        }
+      ]
+    },
+    {
+      "name": "Huíla Province",
+      "state_code": "HUI",
+      "latitude": "-14.92805530",
+      "longitude": "14.65878210",
+      "cities": [
+        {
+          "name": "Caconda",
+          "latitude": "-13.73333000",
+          "longitude": "15.06667000"
+        },
+        {
+          "name": "Caluquembe",
+          "latitude": "-13.92093000",
+          "longitude": "14.53476000"
+        },
+        {
+          "name": "Chibia",
+          "latitude": "-15.23657000",
+          "longitude": "13.88468000"
+        },
+        {
+          "name": "Chicomba",
+          "latitude": "-14.30788000",
+          "longitude": "14.98672000"
+        },
+        {
+          "name": "Chipindo",
+          "latitude": "-13.86830000",
+          "longitude": "15.73277000"
+        },
+        {
+          "name": "Cuvango",
+          "latitude": "-14.27693000",
+          "longitude": "16.31475000"
+        },
+        {
+          "name": "Gambos",
+          "latitude": "-15.80926000",
+          "longitude": "14.07661000"
+        },
+        {
+          "name": "Humpata",
+          "latitude": "-15.07250000",
+          "longitude": "13.36771000"
+        },
+        {
+          "name": "Jamba",
+          "latitude": "-14.76294000",
+          "longitude": "15.83493000"
+        },
+        {
+          "name": "Lubango",
+          "latitude": "-14.91717000",
+          "longitude": "13.49250000"
+        },
+        {
+          "name": "Matala",
+          "latitude": "-15.23967000",
+          "longitude": "15.17246000"
+        },
+        {
+          "name": "Quilengues",
+          "latitude": "-13.99213000",
+          "longitude": "13.76705000"
+        },
+        {
+          "name": "Quipungo",
+          "latitude": "-15.12203000",
+          "longitude": "14.55953000"
+        }
+      ]
+    },
+    {
+      "name": "Luanda Province",
+      "state_code": "LUA",
+      "latitude": "-9.03508800",
+      "longitude": "13.26634790",
+      "cities": [
+        {
+          "name": "Belas",
+          "latitude": "-9.06875000",
+          "longitude": "13.16072000"
+        },
+        {
+          "name": "Icolo e Bengo",
+          "latitude": "-9.24191000",
+          "longitude": "13.73549000"
+        },
+        {
+          "name": "Luanda",
+          "latitude": "-8.83682000",
+          "longitude": "13.23432000"
+        }
+      ]
+    },
+    {
+      "name": "Lunda Norte Province",
+      "state_code": "LNO",
+      "latitude": "-8.35250220",
+      "longitude": "19.18800470",
+      "cities": [
+        {
+          "name": "Lucapa",
+          "latitude": "-8.68337000",
+          "longitude": "20.27045000"
+        }
+      ]
+    },
+    {
+      "name": "Lunda Sul Province",
+      "state_code": "LSU",
+      "latitude": "-10.28665780",
+      "longitude": "20.71224650",
+      "cities": [
+        {
+          "name": "Cazaji",
+          "latitude": "-11.06715000",
+          "longitude": "20.70148000"
+        },
+        {
+          "name": "Saurimo",
+          "latitude": "-9.66078000",
+          "longitude": "20.39155000"
+        }
+      ]
+    },
+    {
+      "name": "Malanje Province",
+      "state_code": "MAL",
+      "latitude": "-9.82511830",
+      "longitude": "16.91225100",
+      "cities": [
+        {
+          "name": "Malanje",
+          "latitude": "-9.54015000",
+          "longitude": "16.34096000"
+        }
+      ]
+    },
+    {
+      "name": "Moxico Province",
+      "state_code": "MOX",
+      "latitude": "-13.42935790",
+      "longitude": "20.33088140",
+      "cities": [
+        {
+          "name": "Léua",
+          "latitude": "-11.65000000",
+          "longitude": "20.45000000"
+        },
+        {
+          "name": "Luau",
+          "latitude": "-10.70727000",
+          "longitude": "22.22466000"
+        },
+        {
+          "name": "Luena",
+          "latitude": "-11.78333000",
+          "longitude": "19.91667000"
+        },
+        {
+          "name": "Lumeje",
+          "latitude": "-11.55000000",
+          "longitude": "20.78333000"
+        }
+      ]
+    },
+    {
+      "name": "Uíge Province",
+      "state_code": "UIG",
+      "latitude": "-7.17367320",
+      "longitude": "15.40680790",
+      "cities": [
+        {
+          "name": "Uíge",
+          "latitude": "-7.60874000",
+          "longitude": "15.06131000"
+        }
+      ]
+    },
+    {
+      "name": "Zaire Province",
+      "state_code": "ZAI",
+      "latitude": "-6.57334580",
+      "longitude": "13.17403480",
+      "cities": [
+        {
+          "name": "Mbanza Congo",
+          "latitude": "-6.26703000",
+          "longitude": "14.24010000"
+        },
+        {
+          "name": "N'zeto",
+          "latitude": "-7.23116000",
+          "longitude": "12.86660000"
+        },
+        {
+          "name": "Soio",
+          "latitude": "-6.13490000",
+          "longitude": "12.36894000"
+        }
+      ]
+    }
+  ]
+}

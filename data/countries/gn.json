@@ -1,0 +1,562 @@
+{
+  "code": "GN",
+  "states": [
+    {
+      "name": "Beyla Prefecture",
+      "state_code": "BE",
+      "latitude": "8.91981780",
+      "longitude": "-8.30884410",
+      "cities": []
+    },
+    {
+      "name": "Boffa Prefecture",
+      "state_code": "BF",
+      "latitude": "10.18082540",
+      "longitude": "-14.03916150",
+      "cities": []
+    },
+    {
+      "name": "Boké Prefecture",
+      "state_code": "BK",
+      "latitude": "11.08473790",
+      "longitude": "-14.37919120",
+      "cities": []
+    },
+    {
+      "name": "Boké Region",
+      "state_code": "B",
+      "latitude": "11.18646720",
+      "longitude": "-14.10013260",
+      "cities": [
+        {
+          "name": "Boffa",
+          "latitude": "10.33333000",
+          "longitude": "-14.16667000"
+        },
+        {
+          "name": "Boké",
+          "latitude": "10.93217000",
+          "longitude": "-14.29055000"
+        },
+        {
+          "name": "Boke Prefecture",
+          "latitude": "11.08333000",
+          "longitude": "-14.41667000"
+        },
+        {
+          "name": "Fria",
+          "latitude": "10.41667000",
+          "longitude": "-13.58333000"
+        },
+        {
+          "name": "Gaoual",
+          "latitude": "11.75000000",
+          "longitude": "-13.20000000"
+        },
+        {
+          "name": "Gaoual Prefecture",
+          "latitude": "11.75000000",
+          "longitude": "-13.20000000"
+        },
+        {
+          "name": "Kimbo",
+          "latitude": "10.40000000",
+          "longitude": "-13.55000000"
+        },
+        {
+          "name": "Koundara",
+          "latitude": "12.48333000",
+          "longitude": "-13.30000000"
+        },
+        {
+          "name": "Koundara Prefecture",
+          "latitude": "12.41667000",
+          "longitude": "-13.16667000"
+        },
+        {
+          "name": "Sanguéya",
+          "latitude": "10.70000000",
+          "longitude": "-14.36667000"
+        },
+        {
+          "name": "Youkounkoun",
+          "latitude": "12.53110000",
+          "longitude": "-13.12240000"
+        }
+      ]
+    },
+    {
+      "name": "Conakry",
+      "state_code": "C",
+      "latitude": "9.64118550",
+      "longitude": "-13.57840120",
+      "cities": [
+        {
+          "name": "Camayenne",
+          "latitude": "9.53500000",
+          "longitude": "-13.68778000"
+        },
+        {
+          "name": "Conakry",
+          "latitude": "9.53795000",
+          "longitude": "-13.67729000"
+        }
+      ]
+    },
+    {
+      "name": "Coyah Prefecture",
+      "state_code": "CO",
+      "latitude": "9.77155350",
+      "longitude": "-13.31252990",
+      "cities": []
+    },
+    {
+      "name": "Dabola Prefecture",
+      "state_code": "DB",
+      "latitude": "10.72978060",
+      "longitude": "-11.11078540",
+      "cities": []
+    },
+    {
+      "name": "Dalaba Prefecture",
+      "state_code": "DL",
+      "latitude": "10.68681760",
+      "longitude": "-12.24906970",
+      "cities": []
+    },
+    {
+      "name": "Dinguiraye Prefecture",
+      "state_code": "DI",
+      "latitude": "11.68442220",
+      "longitude": "-10.80000510",
+      "cities": []
+    },
+    {
+      "name": "Dubréka Prefecture",
+      "state_code": "DU",
+      "latitude": "9.79073480",
+      "longitude": "-13.51477350",
+      "cities": []
+    },
+    {
+      "name": "Faranah Prefecture",
+      "state_code": "FA",
+      "latitude": "9.90573990",
+      "longitude": "-10.80000510",
+      "cities": []
+    },
+    {
+      "name": "Forécariah Prefecture",
+      "state_code": "FO",
+      "latitude": "9.38861870",
+      "longitude": "-13.08179030",
+      "cities": []
+    },
+    {
+      "name": "Fria Prefecture",
+      "state_code": "FR",
+      "latitude": "10.36745430",
+      "longitude": "-13.58418710",
+      "cities": []
+    },
+    {
+      "name": "Gaoual Prefecture",
+      "state_code": "GA",
+      "latitude": "11.57628040",
+      "longitude": "-13.35872880",
+      "cities": []
+    },
+    {
+      "name": "Guéckédou Prefecture",
+      "state_code": "GU",
+      "latitude": "8.56496880",
+      "longitude": "-10.13111630",
+      "cities": []
+    },
+    {
+      "name": "Kankan Prefecture",
+      "state_code": "KA",
+      "latitude": "10.30344650",
+      "longitude": "-9.36730840",
+      "cities": []
+    },
+    {
+      "name": "Kankan Region",
+      "state_code": "K",
+      "latitude": "10.12092300",
+      "longitude": "-9.54509740",
+      "cities": [
+        {
+          "name": "Kankan",
+          "latitude": "10.38542000",
+          "longitude": "-9.30568000"
+        },
+        {
+          "name": "Kankan Prefecture",
+          "latitude": "10.27100000",
+          "longitude": "-9.17800000"
+        },
+        {
+          "name": "Kérouané",
+          "latitude": "9.26667000",
+          "longitude": "-9.01667000"
+        },
+        {
+          "name": "Kerouane Prefecture",
+          "latitude": "9.16667000",
+          "longitude": "-9.08333000"
+        },
+        {
+          "name": "Kouroussa",
+          "latitude": "10.66667000",
+          "longitude": "-9.91667000"
+        },
+        {
+          "name": "Mandiana",
+          "latitude": "10.62577000",
+          "longitude": "-8.69413000"
+        },
+        {
+          "name": "Mandiana Prefecture",
+          "latitude": "10.65800000",
+          "longitude": "-8.61500000"
+        },
+        {
+          "name": "Siguiri",
+          "latitude": "11.42282000",
+          "longitude": "-9.16852000"
+        },
+        {
+          "name": "Siguiri Prefecture",
+          "latitude": "11.66667000",
+          "longitude": "-9.50000000"
+        },
+        {
+          "name": "Tokonou",
+          "latitude": "9.65000000",
+          "longitude": "-9.78333000"
+        }
+      ]
+    },
+    {
+      "name": "Kérouané Prefecture",
+      "state_code": "KE",
+      "latitude": "9.25366430",
+      "longitude": "-9.01289260",
+      "cities": []
+    },
+    {
+      "name": "Kindia Prefecture",
+      "state_code": "KD",
+      "latitude": "10.10132920",
+      "longitude": "-12.71351210",
+      "cities": []
+    },
+    {
+      "name": "Kindia Region",
+      "state_code": "D",
+      "latitude": "10.17816940",
+      "longitude": "-12.98961500",
+      "cities": [
+        {
+          "name": "Coyah",
+          "latitude": "9.75000000",
+          "longitude": "-13.41667000"
+        },
+        {
+          "name": "Dubréka",
+          "latitude": "9.79111000",
+          "longitude": "-13.52333000"
+        },
+        {
+          "name": "Forécariah",
+          "latitude": "9.43056000",
+          "longitude": "-13.08806000"
+        },
+        {
+          "name": "Kindia",
+          "latitude": "10.08333000",
+          "longitude": "-12.80000000"
+        },
+        {
+          "name": "Préfecture de Dubréka",
+          "latitude": "10.25000000",
+          "longitude": "-13.41667000"
+        },
+        {
+          "name": "Préfecture de Forécariah",
+          "latitude": "9.43333000",
+          "longitude": "-13.10000000"
+        },
+        {
+          "name": "Télimélé",
+          "latitude": "10.90000000",
+          "longitude": "-13.03333000"
+        },
+        {
+          "name": "Telimele Prefecture",
+          "latitude": "10.91667000",
+          "longitude": "-13.33333000"
+        },
+        {
+          "name": "Tondon",
+          "latitude": "10.36667000",
+          "longitude": "-13.35000000"
+        }
+      ]
+    },
+    {
+      "name": "Kissidougou Prefecture",
+      "state_code": "KS",
+      "latitude": "9.22520220",
+      "longitude": "-10.08072980",
+      "cities": []
+    },
+    {
+      "name": "Koubia Prefecture",
+      "state_code": "KB",
+      "latitude": "11.58235400",
+      "longitude": "-11.89202370",
+      "cities": []
+    },
+    {
+      "name": "Koundara Prefecture",
+      "state_code": "KN",
+      "latitude": "12.48940210",
+      "longitude": "-13.30675620",
+      "cities": []
+    },
+    {
+      "name": "Kouroussa Prefecture",
+      "state_code": "KO",
+      "latitude": "10.64892290",
+      "longitude": "-9.88505860",
+      "cities": []
+    },
+    {
+      "name": "Labé Prefecture",
+      "state_code": "LA",
+      "latitude": "11.35419390",
+      "longitude": "-12.34638750",
+      "cities": []
+    },
+    {
+      "name": "Labé Region",
+      "state_code": "L",
+      "latitude": "11.32320420",
+      "longitude": "-12.28913140",
+      "cities": [
+        {
+          "name": "Koubia",
+          "latitude": "11.58333000",
+          "longitude": "-11.83333000"
+        },
+        {
+          "name": "Labé",
+          "latitude": "11.31823000",
+          "longitude": "-12.28332000"
+        },
+        {
+          "name": "Labe Prefecture",
+          "latitude": "11.36600000",
+          "longitude": "-12.30000000"
+        },
+        {
+          "name": "Lélouma",
+          "latitude": "11.42383000",
+          "longitude": "-12.68183000"
+        },
+        {
+          "name": "Lelouma Prefecture",
+          "latitude": "11.41667000",
+          "longitude": "-12.66667000"
+        },
+        {
+          "name": "Mali",
+          "latitude": "12.07900000",
+          "longitude": "-12.29820000"
+        },
+        {
+          "name": "Mali Prefecture",
+          "latitude": "12.08333000",
+          "longitude": "-12.08333000"
+        },
+        {
+          "name": "Tougué",
+          "latitude": "11.44503000",
+          "longitude": "-11.66422000"
+        },
+        {
+          "name": "Tougue Prefecture",
+          "latitude": "11.46667000",
+          "longitude": "-11.60000000"
+        }
+      ]
+    },
+    {
+      "name": "Lélouma Prefecture",
+      "state_code": "LE",
+      "latitude": "11.18333300",
+      "longitude": "-12.93333300",
+      "cities": []
+    },
+    {
+      "name": "Lola Prefecture",
+      "state_code": "LO",
+      "latitude": "7.96138180",
+      "longitude": "-8.39649380",
+      "cities": []
+    },
+    {
+      "name": "Macenta Prefecture",
+      "state_code": "MC",
+      "latitude": "8.46157950",
+      "longitude": "-9.27855830",
+      "cities": []
+    },
+    {
+      "name": "Mali Prefecture",
+      "state_code": "ML",
+      "latitude": "11.98370900",
+      "longitude": "-12.25479190",
+      "cities": []
+    },
+    {
+      "name": "Mamou Prefecture",
+      "state_code": "MM",
+      "latitude": "10.57360240",
+      "longitude": "-11.88917210",
+      "cities": []
+    },
+    {
+      "name": "Mamou Region",
+      "state_code": "M",
+      "latitude": "10.57360240",
+      "longitude": "-11.88917210",
+      "cities": [
+        {
+          "name": "Dalaba",
+          "latitude": "10.75000000",
+          "longitude": "-12.30000000"
+        },
+        {
+          "name": "Mamou",
+          "latitude": "10.37546000",
+          "longitude": "-12.09148000"
+        },
+        {
+          "name": "Mamou Prefecture",
+          "latitude": "10.45900000",
+          "longitude": "-11.81500000"
+        },
+        {
+          "name": "Pita",
+          "latitude": "10.83333000",
+          "longitude": "-12.58333000"
+        }
+      ]
+    },
+    {
+      "name": "Mandiana Prefecture",
+      "state_code": "MD",
+      "latitude": "10.61728270",
+      "longitude": "-8.69857160",
+      "cities": []
+    },
+    {
+      "name": "Nzérékoré Prefecture",
+      "state_code": "NZ",
+      "latitude": "7.74783590",
+      "longitude": "-8.82525020",
+      "cities": []
+    },
+    {
+      "name": "Nzérékoré Region",
+      "state_code": "N",
+      "latitude": "8.03858700",
+      "longitude": "-8.83627550",
+      "cities": [
+        {
+          "name": "Beyla",
+          "latitude": "8.69011000",
+          "longitude": "-8.64869000"
+        },
+        {
+          "name": "Beyla Prefecture",
+          "latitude": "8.91667000",
+          "longitude": "-8.41667000"
+        },
+        {
+          "name": "Gueckedou",
+          "latitude": "8.56744000",
+          "longitude": "-10.13360000"
+        },
+        {
+          "name": "Lola",
+          "latitude": "7.83333000",
+          "longitude": "-8.33333000"
+        },
+        {
+          "name": "Macenta",
+          "latitude": "8.50000000",
+          "longitude": "-9.41667000"
+        },
+        {
+          "name": "Nzérékoré",
+          "latitude": "7.75624000",
+          "longitude": "-8.81790000"
+        },
+        {
+          "name": "Nzerekore Prefecture",
+          "latitude": "7.94500000",
+          "longitude": "-8.78300000"
+        },
+        {
+          "name": "Préfecture de Guékédou",
+          "latitude": "8.66667000",
+          "longitude": "-10.25000000"
+        },
+        {
+          "name": "Yomou",
+          "latitude": "7.50000000",
+          "longitude": "-9.16667000"
+        }
+      ]
+    },
+    {
+      "name": "Pita Prefecture",
+      "state_code": "PI",
+      "latitude": "10.80620860",
+      "longitude": "-12.71351210",
+      "cities": []
+    },
+    {
+      "name": "Siguiri Prefecture",
+      "state_code": "SI",
+      "latitude": "11.41481130",
+      "longitude": "-9.17883040",
+      "cities": []
+    },
+    {
+      "name": "Télimélé Prefecture",
+      "state_code": "TE",
+      "latitude": "10.90893640",
+      "longitude": "-13.02993310",
+      "cities": []
+    },
+    {
+      "name": "Tougué Prefecture",
+      "state_code": "TO",
+      "latitude": "11.38415830",
+      "longitude": "-11.61577730",
+      "cities": []
+    },
+    {
+      "name": "Yomou Prefecture",
+      "state_code": "YO",
+      "latitude": "7.56962790",
+      "longitude": "-9.25915710",
+      "cities": []
+    }
+  ]
+}

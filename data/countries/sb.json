@@ -1,0 +1,117 @@
+{
+  "code": "SB",
+  "states": [
+    {
+      "name": "Central Province",
+      "state_code": "CE",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Tulagi",
+          "latitude": "-9.10306000",
+          "longitude": "160.15056000"
+        }
+      ]
+    },
+    {
+      "name": "Choiseul Province",
+      "state_code": "CH",
+      "latitude": "-7.05014940",
+      "longitude": "156.95114590",
+      "cities": []
+    },
+    {
+      "name": "Guadalcanal Province",
+      "state_code": "GU",
+      "latitude": "-9.57732840",
+      "longitude": "160.14558050",
+      "cities": [
+        {
+          "name": "Honiara",
+          "latitude": "-9.43333000",
+          "longitude": "159.95000000"
+        }
+      ]
+    },
+    {
+      "name": "Honiara",
+      "state_code": "CT",
+      "latitude": "-9.44563810",
+      "longitude": "159.97289990",
+      "cities": []
+    },
+    {
+      "name": "Isabel Province",
+      "state_code": "IS",
+      "latitude": "-8.05923530",
+      "longitude": "159.14470810",
+      "cities": [
+        {
+          "name": "Buala",
+          "latitude": "-8.14497000",
+          "longitude": "159.59212000"
+        }
+      ]
+    },
+    {
+      "name": "Makira-Ulawa Province",
+      "state_code": "MK",
+      "latitude": "-10.57374470",
+      "longitude": "161.80969410",
+      "cities": [
+        {
+          "name": "Kirakira",
+          "latitude": "-10.45442000",
+          "longitude": "161.92045000"
+        }
+      ]
+    },
+    {
+      "name": "Malaita Province",
+      "state_code": "ML",
+      "latitude": "-8.94461680",
+      "longitude": "160.90712360",
+      "cities": [
+        {
+          "name": "Auki",
+          "latitude": "-8.76778000",
+          "longitude": "160.69778000"
+        }
+      ]
+    },
+    {
+      "name": "Rennell and Bellona Province",
+      "state_code": "RB",
+      "latitude": "-11.61314350",
+      "longitude": "160.16939490",
+      "cities": []
+    },
+    {
+      "name": "Temotu Province",
+      "state_code": "TE",
+      "latitude": "-10.68692900",
+      "longitude": "166.06239790",
+      "cities": [
+        {
+          "name": "Lata",
+          "latitude": "-10.72500000",
+          "longitude": "165.79722000"
+        }
+      ]
+    },
+    {
+      "name": "Western Province",
+      "state_code": "WE",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Gizo",
+          "latitude": "-8.10303000",
+          "longitude": "156.84186000"
+        }
+      ]
+    }
+  ]
+}

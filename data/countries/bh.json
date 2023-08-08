@@ -1,0 +1,89 @@
+{
+  "code": "BH",
+  "states": [
+    {
+      "name": "Capital Governorate",
+      "state_code": "13",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Jidd Ḩafş",
+          "latitude": "26.21861000",
+          "longitude": "50.54778000"
+        },
+        {
+          "name": "Manama",
+          "latitude": "26.22787000",
+          "longitude": "50.58565000"
+        },
+        {
+          "name": "Sitrah",
+          "latitude": "26.15472000",
+          "longitude": "50.62056000"
+        }
+      ]
+    },
+    {
+      "name": "Central Governorate",
+      "state_code": "16",
+      "latitude": "26.14260930",
+      "longitude": "50.56532940",
+      "cities": [
+        {
+          "name": "Madīnat Ḩamad",
+          "latitude": "26.11528000",
+          "longitude": "50.50694000"
+        }
+      ]
+    },
+    {
+      "name": "Muharraq Governorate",
+      "state_code": "15",
+      "latitude": "26.26856530",
+      "longitude": "50.64825170",
+      "cities": [
+        {
+          "name": "Al Ḩadd",
+          "latitude": "26.24556000",
+          "longitude": "50.65417000"
+        },
+        {
+          "name": "Al Muharraq",
+          "latitude": "26.25722000",
+          "longitude": "50.61194000"
+        }
+      ]
+    },
+    {
+      "name": "Northern Governorate",
+      "state_code": "17",
+      "latitude": "26.15519140",
+      "longitude": "50.48251730",
+      "cities": []
+    },
+    {
+      "name": "Southern Governorate",
+      "state_code": "14",
+      "latitude": "25.93810180",
+      "longitude": "50.57568870",
+      "cities": [
+        {
+          "name": "Ar Rifā‘",
+          "latitude": "26.13000000",
+          "longitude": "50.55500000"
+        },
+        {
+          "name": "Dār Kulayb",
+          "latitude": "26.06861000",
+          "longitude": "50.50389000"
+        },
+        {
+          "name": "Madīnat ‘Īsá",
+          "latitude": "26.17361000",
+          "longitude": "50.54778000"
+        }
+      ]
+    }
+  ]
+}

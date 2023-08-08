@@ -1,0 +1,1288 @@
+{
+  "code": "DO",
+  "states": [
+    {
+      "name": "Azua Province",
+      "state_code": "02",
+      "latitude": "18.45527090",
+      "longitude": "-70.73809280",
+      "cities": [
+        {
+          "name": "Azua",
+          "latitude": "18.45319000",
+          "longitude": "-70.73490000"
+        },
+        {
+          "name": "El Guayabal",
+          "latitude": "18.74960000",
+          "longitude": "-70.83690000"
+        },
+        {
+          "name": "Estebanía",
+          "latitude": "18.45770000",
+          "longitude": "-70.64350000"
+        },
+        {
+          "name": "Las Charcas",
+          "latitude": "18.45026000",
+          "longitude": "-70.61724000"
+        },
+        {
+          "name": "Padre Las Casas",
+          "latitude": "18.75000000",
+          "longitude": "-70.88333000"
+        },
+        {
+          "name": "Palmar de Ocoa",
+          "latitude": "18.29656000",
+          "longitude": "-70.58635000"
+        },
+        {
+          "name": "Peralta",
+          "latitude": "18.58164000",
+          "longitude": "-70.77029000"
+        },
+        {
+          "name": "Pueblo Viejo",
+          "latitude": "18.40000000",
+          "longitude": "-70.76765000"
+        },
+        {
+          "name": "Sabana Yegua",
+          "latitude": "18.71667000",
+          "longitude": "-71.01667000"
+        },
+        {
+          "name": "Tábara Arriba",
+          "latitude": "18.56999000",
+          "longitude": "-70.87978000"
+        },
+        {
+          "name": "Villarpando",
+          "latitude": "18.65860000",
+          "longitude": "-71.03916000"
+        },
+        {
+          "name": "Yayas de Viajama",
+          "latitude": "18.60710000",
+          "longitude": "-70.92753000"
+        }
+      ]
+    },
+    {
+      "name": "Baoruco Province",
+      "state_code": "03",
+      "latitude": "18.48798980",
+      "longitude": "-71.41822490",
+      "cities": [
+        {
+          "name": "El Palmar",
+          "latitude": "18.41139000",
+          "longitude": "-71.24558000"
+        },
+        {
+          "name": "Galván",
+          "latitude": "18.50228000",
+          "longitude": "-71.34271000"
+        },
+        {
+          "name": "La Uvilla",
+          "latitude": "18.36186000",
+          "longitude": "-71.21046000"
+        },
+        {
+          "name": "Los Ríos",
+          "latitude": "18.52131000",
+          "longitude": "-71.59106000"
+        },
+        {
+          "name": "Neiba",
+          "latitude": "18.48137000",
+          "longitude": "-71.41965000"
+        },
+        {
+          "name": "Tamayo",
+          "latitude": "18.50000000",
+          "longitude": "-71.16667000"
+        },
+        {
+          "name": "Villa Jaragua",
+          "latitude": "18.49077000",
+          "longitude": "-71.48377000"
+        }
+      ]
+    },
+    {
+      "name": "Barahona Province",
+      "state_code": "04",
+      "latitude": "18.21390660",
+      "longitude": "-71.10437590",
+      "cities": [
+        {
+          "name": "Cabral",
+          "latitude": "18.19991000",
+          "longitude": "-71.24660000"
+        },
+        {
+          "name": "Cachón",
+          "latitude": "18.24833000",
+          "longitude": "-71.18912000"
+        },
+        {
+          "name": "Canoa",
+          "latitude": "18.35499000",
+          "longitude": "-71.15851000"
+        },
+        {
+          "name": "El Peñón",
+          "latitude": "18.29643000",
+          "longitude": "-71.18410000"
+        },
+        {
+          "name": "Enriquillo",
+          "latitude": "17.91667000",
+          "longitude": "-71.25000000"
+        },
+        {
+          "name": "Fundación",
+          "latitude": "18.28668000",
+          "longitude": "-71.18147000"
+        },
+        {
+          "name": "Jaquimeyes",
+          "latitude": "18.31173000",
+          "longitude": "-71.16145000"
+        },
+        {
+          "name": "La Ciénaga",
+          "latitude": "18.06858000",
+          "longitude": "-71.10651000"
+        },
+        {
+          "name": "Las Salinas",
+          "latitude": "18.27485000",
+          "longitude": "-71.31596000"
+        },
+        {
+          "name": "Paraíso",
+          "latitude": "18.02652000",
+          "longitude": "-71.20889000"
+        },
+        {
+          "name": "Pescadería",
+          "latitude": "18.26766000",
+          "longitude": "-71.16612000"
+        },
+        {
+          "name": "Polo",
+          "latitude": "18.07873000",
+          "longitude": "-71.28723000"
+        },
+        {
+          "name": "Santa Cruz de Barahona",
+          "latitude": "18.20854000",
+          "longitude": "-71.10077000"
+        },
+        {
+          "name": "Vicente Noble",
+          "latitude": "18.38443000",
+          "longitude": "-71.18009000"
+        }
+      ]
+    },
+    {
+      "name": "Dajabón Province",
+      "state_code": "05",
+      "latitude": "19.54992410",
+      "longitude": "-71.70865140",
+      "cities": [
+        {
+          "name": "Dajabón",
+          "latitude": "19.54878000",
+          "longitude": "-71.70829000"
+        },
+        {
+          "name": "El Pino",
+          "latitude": "19.43537000",
+          "longitude": "-71.47540000"
+        },
+        {
+          "name": "Loma de Cabrera",
+          "latitude": "19.41667000",
+          "longitude": "-71.58333000"
+        },
+        {
+          "name": "Partido",
+          "latitude": "19.48403000",
+          "longitude": "-71.54730000"
+        },
+        {
+          "name": "Restauración",
+          "latitude": "19.31532000",
+          "longitude": "-71.69239000"
+        }
+      ]
+    },
+    {
+      "name": "Distrito Nacional",
+      "state_code": "01",
+      "latitude": "18.48605750",
+      "longitude": "-69.93121170",
+      "cities": [
+        {
+          "name": "Bella Vista",
+          "latitude": "18.45539000",
+          "longitude": "-69.94540000"
+        },
+        {
+          "name": "Ciudad Nueva",
+          "latitude": "18.46707000",
+          "longitude": "-69.89339000"
+        },
+        {
+          "name": "Cristo Rey",
+          "latitude": "18.50000000",
+          "longitude": "-69.93333000"
+        },
+        {
+          "name": "Ensanche Luperón",
+          "latitude": "18.50000000",
+          "longitude": "-69.90000000"
+        },
+        {
+          "name": "La Agustina",
+          "latitude": "18.50000000",
+          "longitude": "-69.93333000"
+        },
+        {
+          "name": "La Julia",
+          "latitude": "18.46667000",
+          "longitude": "-69.93333000"
+        },
+        {
+          "name": "San Carlos",
+          "latitude": "18.48333000",
+          "longitude": "-69.90000000"
+        },
+        {
+          "name": "Santo Domingo",
+          "latitude": "18.47186000",
+          "longitude": "-69.89232000"
+        },
+        {
+          "name": "Villa Consuelo",
+          "latitude": "18.48333000",
+          "longitude": "-69.90000000"
+        },
+        {
+          "name": "Villa Francisca",
+          "latitude": "18.48278000",
+          "longitude": "-69.88914000"
+        }
+      ]
+    },
+    {
+      "name": "Duarte Province",
+      "state_code": "06",
+      "latitude": "19.20908230",
+      "longitude": "-70.02700040",
+      "cities": [
+        {
+          "name": "Agua Santa del Yuna",
+          "latitude": "19.15072000",
+          "longitude": "-69.80069000"
+        },
+        {
+          "name": "Arenoso",
+          "latitude": "19.18732000",
+          "longitude": "-69.85917000"
+        },
+        {
+          "name": "Castillo",
+          "latitude": "19.25000000",
+          "longitude": "-70.00000000"
+        },
+        {
+          "name": "Hostos",
+          "latitude": "19.18043000",
+          "longitude": "-70.02046000"
+        },
+        {
+          "name": "Las Guáranas",
+          "latitude": "19.19310000",
+          "longitude": "-70.20835000"
+        },
+        {
+          "name": "Pimentel",
+          "latitude": "19.21667000",
+          "longitude": "-70.16667000"
+        },
+        {
+          "name": "San Francisco de Macorís",
+          "latitude": "19.30099000",
+          "longitude": "-70.25259000"
+        },
+        {
+          "name": "Villa Riva",
+          "latitude": "19.15051000",
+          "longitude": "-69.88370000"
+        }
+      ]
+    },
+    {
+      "name": "El Seibo Province",
+      "state_code": "08",
+      "latitude": "18.76584960",
+      "longitude": "-69.04066800",
+      "cities": [
+        {
+          "name": "Miches",
+          "latitude": "18.98364000",
+          "longitude": "-69.04760000"
+        },
+        {
+          "name": "Pedro Sánchez",
+          "latitude": "18.86375000",
+          "longitude": "-69.10868000"
+        },
+        {
+          "name": "Santa Cruz de El Seibo",
+          "latitude": "18.76559000",
+          "longitude": "-69.03886000"
+        }
+      ]
+    },
+    {
+      "name": "Espaillat Province",
+      "state_code": "09",
+      "latitude": "19.62776580",
+      "longitude": "-70.27867750",
+      "cities": [
+        {
+          "name": "Cayetano Germosén",
+          "latitude": "19.34285000",
+          "longitude": "-70.47573000"
+        },
+        {
+          "name": "Gaspar Hernández",
+          "latitude": "19.62748000",
+          "longitude": "-70.27772000"
+        },
+        {
+          "name": "Jamao al Norte",
+          "latitude": "19.63552000",
+          "longitude": "-70.44664000"
+        },
+        {
+          "name": "Joba Arriba",
+          "latitude": "19.56667000",
+          "longitude": "-70.26667000"
+        },
+        {
+          "name": "Juan López Abajo",
+          "latitude": "19.43333000",
+          "longitude": "-70.50000000"
+        },
+        {
+          "name": "Moca",
+          "latitude": "19.50000000",
+          "longitude": "-70.50000000"
+        },
+        {
+          "name": "San Víctor Arriba",
+          "latitude": "19.47741000",
+          "longitude": "-70.53585000"
+        },
+        {
+          "name": "Veragua Arriba",
+          "latitude": "19.58333000",
+          "longitude": "-70.33333000"
+        }
+      ]
+    },
+    {
+      "name": "Hato Mayor Province",
+      "state_code": "30",
+      "latitude": "18.76357990",
+      "longitude": "-69.25576370",
+      "cities": [
+        {
+          "name": "El Valle",
+          "latitude": "18.93333000",
+          "longitude": "-69.38333000"
+        },
+        {
+          "name": "Guayabo Dulce",
+          "latitude": "18.65000000",
+          "longitude": "-69.28333000"
+        },
+        {
+          "name": "Hato Mayor del Rey",
+          "latitude": "18.76278000",
+          "longitude": "-69.25681000"
+        },
+        {
+          "name": "Sabana de la Mar",
+          "latitude": "19.03333000",
+          "longitude": "-69.41667000"
+        }
+      ]
+    },
+    {
+      "name": "Hermanas Mirabal Province",
+      "state_code": "19",
+      "latitude": "19.37475590",
+      "longitude": "-70.35132350",
+      "cities": [
+        {
+          "name": "Salcedo",
+          "latitude": "19.41667000",
+          "longitude": "-70.38333000"
+        },
+        {
+          "name": "Salsipuedes",
+          "latitude": "19.40552000",
+          "longitude": "-70.37985000"
+        },
+        {
+          "name": "Tenares",
+          "latitude": "19.37439000",
+          "longitude": "-70.35087000"
+        },
+        {
+          "name": "Villa Tapia",
+          "latitude": "19.30084000",
+          "longitude": "-70.42199000"
+        }
+      ]
+    },
+    {
+      "name": "Independencia",
+      "state_code": "10",
+      "latitude": "32.63357480",
+      "longitude": "-115.42892940",
+      "cities": [
+        {
+          "name": "Cristóbal",
+          "latitude": "18.29405000",
+          "longitude": "-71.29298000"
+        },
+        {
+          "name": "Duvergé",
+          "latitude": "18.31634000",
+          "longitude": "-71.59451000"
+        },
+        {
+          "name": "Guayabal",
+          "latitude": "18.59810000",
+          "longitude": "-71.64184000"
+        },
+        {
+          "name": "Jimaní",
+          "latitude": "18.49169000",
+          "longitude": "-71.85022000"
+        },
+        {
+          "name": "La Descubierta",
+          "latitude": "18.57053000",
+          "longitude": "-71.72967000"
+        },
+        {
+          "name": "Mella",
+          "latitude": "18.35871000",
+          "longitude": "-71.41716000"
+        },
+        {
+          "name": "Postrer Río",
+          "latitude": "18.54374000",
+          "longitude": "-71.63561000"
+        }
+      ]
+    },
+    {
+      "name": "La Altagracia Province",
+      "state_code": "11",
+      "latitude": "18.58502360",
+      "longitude": "-68.62010720",
+      "cities": [
+        {
+          "name": "Boca de Yuma",
+          "latitude": "18.37825000",
+          "longitude": "-68.60900000"
+        },
+        {
+          "name": "Higüey",
+          "latitude": "18.70000000",
+          "longitude": "-68.66667000"
+        },
+        {
+          "name": "Otra Banda",
+          "latitude": "18.65017000",
+          "longitude": "-68.66281000"
+        },
+        {
+          "name": "Punta Cana",
+          "latitude": "18.58182000",
+          "longitude": "-68.40431000"
+        },
+        {
+          "name": "Salvaleón de Higüey",
+          "latitude": "18.61501000",
+          "longitude": "-68.70798000"
+        },
+        {
+          "name": "San Rafael del Yuma",
+          "latitude": "18.42993000",
+          "longitude": "-68.67390000"
+        }
+      ]
+    },
+    {
+      "name": "La Romana Province",
+      "state_code": "12",
+      "latitude": "18.43102710",
+      "longitude": "-68.98373730",
+      "cities": [
+        {
+          "name": "Guaymate",
+          "latitude": "18.58793000",
+          "longitude": "-68.97867000"
+        },
+        {
+          "name": "La Romana",
+          "latitude": "18.42733000",
+          "longitude": "-68.97285000"
+        }
+      ]
+    },
+    {
+      "name": "La Vega Province",
+      "state_code": "13",
+      "latitude": "19.22115540",
+      "longitude": "-70.52887530",
+      "cities": [
+        {
+          "name": "Concepción de La Vega",
+          "latitude": "19.22207000",
+          "longitude": "-70.52956000"
+        },
+        {
+          "name": "Constanza",
+          "latitude": "18.90919000",
+          "longitude": "-70.74499000"
+        },
+        {
+          "name": "Jarabacoa",
+          "latitude": "19.11683000",
+          "longitude": "-70.63595000"
+        },
+        {
+          "name": "Jima Abajo",
+          "latitude": "19.13292000",
+          "longitude": "-70.37607000"
+        },
+        {
+          "name": "Rincón",
+          "latitude": "19.11938000",
+          "longitude": "-70.40632000"
+        },
+        {
+          "name": "Río Verde Arriba",
+          "latitude": "19.31583000",
+          "longitude": "-70.56643000"
+        },
+        {
+          "name": "Tireo Arriba",
+          "latitude": "18.93537000",
+          "longitude": "-70.68850000"
+        }
+      ]
+    },
+    {
+      "name": "María Trinidad Sánchez Province",
+      "state_code": "14",
+      "latitude": "19.37345970",
+      "longitude": "-69.85144390",
+      "cities": [
+        {
+          "name": "Arroyo Salado",
+          "latitude": "19.50000000",
+          "longitude": "-69.90000000"
+        },
+        {
+          "name": "Cabrera",
+          "latitude": "19.64260000",
+          "longitude": "-69.90489000"
+        },
+        {
+          "name": "El Factor",
+          "latitude": "19.31834000",
+          "longitude": "-69.88827000"
+        },
+        {
+          "name": "La Entrada",
+          "latitude": "19.55367000",
+          "longitude": "-69.90762000"
+        },
+        {
+          "name": "Nagua",
+          "latitude": "19.38320000",
+          "longitude": "-69.84740000"
+        },
+        {
+          "name": "Río San Juan",
+          "latitude": "19.55022000",
+          "longitude": "-70.07703000"
+        }
+      ]
+    },
+    {
+      "name": "Monseñor Nouel Province",
+      "state_code": "28",
+      "latitude": "18.92152340",
+      "longitude": "-70.38368150",
+      "cities": [
+        {
+          "name": "Bonao",
+          "latitude": "18.91667000",
+          "longitude": "-70.46667000"
+        },
+        {
+          "name": "Juan Adrián",
+          "latitude": "18.76365000",
+          "longitude": "-70.33732000"
+        },
+        {
+          "name": "Maimón",
+          "latitude": "18.88333000",
+          "longitude": "-70.30000000"
+        },
+        {
+          "name": "Piedra Blanca",
+          "latitude": "18.84431000",
+          "longitude": "-70.31688000"
+        },
+        {
+          "name": "Sabana del Puerto",
+          "latitude": "19.06667000",
+          "longitude": "-70.41667000"
+        }
+      ]
+    },
+    {
+      "name": "Monte Cristi Province",
+      "state_code": "15",
+      "latitude": "19.73968990",
+      "longitude": "-71.44339840",
+      "cities": [
+        {
+          "name": "Cana Chapetón",
+          "latitude": "19.60703000",
+          "longitude": "-71.25734000"
+        },
+        {
+          "name": "Castañuelas",
+          "latitude": "19.71387000",
+          "longitude": "-71.49876000"
+        },
+        {
+          "name": "Guayubín",
+          "latitude": "19.61667000",
+          "longitude": "-71.33333000"
+        },
+        {
+          "name": "Hatillo Palma",
+          "latitude": "19.66256000",
+          "longitude": "-71.19406000"
+        },
+        {
+          "name": "Las Matas de Santa Cruz",
+          "latitude": "19.67119000",
+          "longitude": "-71.50471000"
+        },
+        {
+          "name": "Monte Cristi",
+          "latitude": "19.83333000",
+          "longitude": "-71.61667000"
+        },
+        {
+          "name": "Pepillo Salcedo",
+          "latitude": "19.66667000",
+          "longitude": "-71.66667000"
+        },
+        {
+          "name": "San Fernando de Monte Cristi",
+          "latitude": "19.84826000",
+          "longitude": "-71.64597000"
+        },
+        {
+          "name": "Villa Elisa",
+          "latitude": "19.68560000",
+          "longitude": "-71.27007000"
+        },
+        {
+          "name": "Villa Vásquez",
+          "latitude": "19.80791000",
+          "longitude": "-71.44000000"
+        }
+      ]
+    },
+    {
+      "name": "Monte Plata Province",
+      "state_code": "29",
+      "latitude": "18.80808780",
+      "longitude": "-69.78691460",
+      "cities": [
+        {
+          "name": "Bayaguana",
+          "latitude": "18.78333000",
+          "longitude": "-69.60000000"
+        },
+        {
+          "name": "Don Juan",
+          "latitude": "18.82774000",
+          "longitude": "-69.94629000"
+        },
+        {
+          "name": "Esperalvillo",
+          "latitude": "18.81509000",
+          "longitude": "-70.03557000"
+        },
+        {
+          "name": "Gonzalo",
+          "latitude": "18.95147000",
+          "longitude": "-69.75114000"
+        },
+        {
+          "name": "Los Botados",
+          "latitude": "18.73226000",
+          "longitude": "-69.99536000"
+        },
+        {
+          "name": "Majagual",
+          "latitude": "19.04134000",
+          "longitude": "-69.83616000"
+        },
+        {
+          "name": "Monte Plata",
+          "latitude": "18.80700000",
+          "longitude": "-69.78399000"
+        },
+        {
+          "name": "Sabana Grande de Boyá",
+          "latitude": "18.94498000",
+          "longitude": "-69.79331000"
+        },
+        {
+          "name": "Yamasá",
+          "latitude": "18.77315000",
+          "longitude": "-70.02583000"
+        }
+      ]
+    },
+    {
+      "name": "Pedernales Province",
+      "state_code": "16",
+      "latitude": "17.85376260",
+      "longitude": "-71.33032090",
+      "cities": [
+        {
+          "name": "Juancho",
+          "latitude": "17.85782000",
+          "longitude": "-71.29311000"
+        },
+        {
+          "name": "Oviedo",
+          "latitude": "17.80136000",
+          "longitude": "-71.40100000"
+        },
+        {
+          "name": "Pedernales",
+          "latitude": "18.08333000",
+          "longitude": "-71.60000000"
+        }
+      ]
+    },
+    {
+      "name": "Peravia Province",
+      "state_code": "17",
+      "latitude": "18.27865940",
+      "longitude": "-70.33358870",
+      "cities": [
+        {
+          "name": "Baní",
+          "latitude": "18.27964000",
+          "longitude": "-70.33185000"
+        },
+        {
+          "name": "Matanzas",
+          "latitude": "18.24297000",
+          "longitude": "-70.41768000"
+        },
+        {
+          "name": "Nizao",
+          "latitude": "18.24697000",
+          "longitude": "-70.21053000"
+        },
+        {
+          "name": "Paya",
+          "latitude": "18.26196000",
+          "longitude": "-70.29560000"
+        },
+        {
+          "name": "Pizarrete",
+          "latitude": "18.29935000",
+          "longitude": "-70.22648000"
+        },
+        {
+          "name": "Sabana Buey",
+          "latitude": "18.27351000",
+          "longitude": "-70.52352000"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Plata Province",
+      "state_code": "18",
+      "latitude": "19.75432250",
+      "longitude": "-70.83328470",
+      "cities": [
+        {
+          "name": "Altamira",
+          "latitude": "19.70000000",
+          "longitude": "-70.83333000"
+        },
+        {
+          "name": "Cabarete",
+          "latitude": "19.74982000",
+          "longitude": "-70.40829000"
+        },
+        {
+          "name": "Estero Hondo",
+          "latitude": "19.82712000",
+          "longitude": "-71.17411000"
+        },
+        {
+          "name": "Guananico",
+          "latitude": "19.72693000",
+          "longitude": "-70.92294000"
+        },
+        {
+          "name": "Imbert",
+          "latitude": "19.75371000",
+          "longitude": "-70.82906000"
+        },
+        {
+          "name": "Los Hidalgos",
+          "latitude": "19.73333000",
+          "longitude": "-71.03333000"
+        },
+        {
+          "name": "Luperón",
+          "latitude": "19.89131000",
+          "longitude": "-70.96204000"
+        },
+        {
+          "name": "Monte Llano",
+          "latitude": "19.73460000",
+          "longitude": "-70.59915000"
+        },
+        {
+          "name": "Puerto Plata",
+          "latitude": "19.75119000",
+          "longitude": "-70.70251000"
+        },
+        {
+          "name": "Río Grande",
+          "latitude": "19.66667000",
+          "longitude": "-70.76667000"
+        },
+        {
+          "name": "Sosúa",
+          "latitude": "19.75220000",
+          "longitude": "-70.51995000"
+        },
+        {
+          "name": "Villa Isabela",
+          "latitude": "19.81564000",
+          "longitude": "-71.06056000"
+        }
+      ]
+    },
+    {
+      "name": "Samaná Province",
+      "state_code": "20",
+      "latitude": "19.20583710",
+      "longitude": "-69.33629490",
+      "cities": [
+        {
+          "name": "Las Terrenas",
+          "latitude": "19.31102000",
+          "longitude": "-69.54280000"
+        },
+        {
+          "name": "Samaná",
+          "latitude": "19.20561000",
+          "longitude": "-69.33685000"
+        },
+        {
+          "name": "Sánchez",
+          "latitude": "19.22810000",
+          "longitude": "-69.61370000"
+        }
+      ]
+    },
+    {
+      "name": "San Cristóbal Province",
+      "state_code": "21",
+      "latitude": "18.41804140",
+      "longitude": "-70.10658490",
+      "cities": [
+        {
+          "name": "Bajos de Haina",
+          "latitude": "18.41667000",
+          "longitude": "-70.03333000"
+        },
+        {
+          "name": "Cambita Garabitos",
+          "latitude": "18.50000000",
+          "longitude": "-70.23333000"
+        },
+        {
+          "name": "El Cacao",
+          "latitude": "18.52719000",
+          "longitude": "-70.29585000"
+        },
+        {
+          "name": "El Carril",
+          "latitude": "18.44905000",
+          "longitude": "-70.02785000"
+        },
+        {
+          "name": "Sabana Grande de Palenque",
+          "latitude": "18.26256000",
+          "longitude": "-70.14821000"
+        },
+        {
+          "name": "San Cristóbal",
+          "latitude": "18.41667000",
+          "longitude": "-70.13333000"
+        },
+        {
+          "name": "San Gregorio de Nigua",
+          "latitude": "18.38333000",
+          "longitude": "-70.08333000"
+        },
+        {
+          "name": "Villa Altagracia",
+          "latitude": "18.63333000",
+          "longitude": "-70.25000000"
+        },
+        {
+          "name": "Yaguate",
+          "latitude": "18.33333000",
+          "longitude": "-70.18333000"
+        }
+      ]
+    },
+    {
+      "name": "San José de Ocoa Province",
+      "state_code": "31",
+      "latitude": "18.54385800",
+      "longitude": "-70.50418160",
+      "cities": [
+        {
+          "name": "San José de Ocoa",
+          "latitude": "18.54661000",
+          "longitude": "-70.50631000"
+        }
+      ]
+    },
+    {
+      "name": "San Juan Province",
+      "state_code": "22",
+      "latitude": "-31.52871270",
+      "longitude": "-68.53604030",
+      "cities": [
+        {
+          "name": "Bohechío",
+          "latitude": "18.77515000",
+          "longitude": "-70.98889000"
+        },
+        {
+          "name": "Cercado Abajo",
+          "latitude": "18.72681000",
+          "longitude": "-71.51742000"
+        },
+        {
+          "name": "El Cercado",
+          "latitude": "18.70000000",
+          "longitude": "-71.46667000"
+        },
+        {
+          "name": "Juan de Herrera",
+          "latitude": "18.87402000",
+          "longitude": "-71.23830000"
+        },
+        {
+          "name": "Las Matas de Farfán",
+          "latitude": "18.91667000",
+          "longitude": "-71.50000000"
+        },
+        {
+          "name": "Matayaya",
+          "latitude": "18.89036000",
+          "longitude": "-71.59459000"
+        },
+        {
+          "name": "Pedro Corto",
+          "latitude": "18.84856000",
+          "longitude": "-71.41041000"
+        },
+        {
+          "name": "San Juan de la Maguana",
+          "latitude": "18.80588000",
+          "longitude": "-71.22991000"
+        },
+        {
+          "name": "Vallejuelo",
+          "latitude": "18.65354000",
+          "longitude": "-71.33431000"
+        }
+      ]
+    },
+    {
+      "name": "San Pedro de Macorís",
+      "state_code": "23",
+      "latitude": "18.46266000",
+      "longitude": "-69.30512340",
+      "cities": [
+        {
+          "name": "El Puerto",
+          "latitude": "18.78333000",
+          "longitude": "-69.46667000"
+        },
+        {
+          "name": "Los Llanos",
+          "latitude": "18.62035000",
+          "longitude": "-69.49581000"
+        },
+        {
+          "name": "Quisqueya",
+          "latitude": "18.55542000",
+          "longitude": "-69.40814000"
+        },
+        {
+          "name": "Ramón Santana",
+          "latitude": "18.54224000",
+          "longitude": "-69.17979000"
+        },
+        {
+          "name": "San Pedro de Macorís",
+          "latitude": "18.45390000",
+          "longitude": "-69.30864000"
+        }
+      ]
+    },
+    {
+      "name": "Sánchez Ramírez Province",
+      "state_code": "24",
+      "latitude": "19.05270600",
+      "longitude": "-70.14922640",
+      "cities": [
+        {
+          "name": "Cevicos",
+          "latitude": "19.00449000",
+          "longitude": "-69.97896000"
+        },
+        {
+          "name": "Cotuí",
+          "latitude": "19.05272000",
+          "longitude": "-70.14939000"
+        },
+        {
+          "name": "Fantino",
+          "latitude": "19.11667000",
+          "longitude": "-70.30000000"
+        }
+      ]
+    },
+    {
+      "name": "Santiago Province",
+      "state_code": "25",
+      "latitude": "-33.45000000",
+      "longitude": "-70.66670000",
+      "cities": [
+        {
+          "name": "Baitoa",
+          "latitude": "19.32512000",
+          "longitude": "-70.70357000"
+        },
+        {
+          "name": "Bisonó",
+          "latitude": "19.58333000",
+          "longitude": "-70.86667000"
+        },
+        {
+          "name": "Juncalito Abajo",
+          "latitude": "19.21990000",
+          "longitude": "-70.81905000"
+        },
+        {
+          "name": "La Canela",
+          "latitude": "19.47341000",
+          "longitude": "-70.81629000"
+        },
+        {
+          "name": "Licey al Medio",
+          "latitude": "19.45000000",
+          "longitude": "-70.60000000"
+        },
+        {
+          "name": "Palmar Arriba",
+          "latitude": "19.53957000",
+          "longitude": "-70.73826000"
+        },
+        {
+          "name": "Pedro García",
+          "latitude": "19.59202000",
+          "longitude": "-70.65256000"
+        },
+        {
+          "name": "Sabana Iglesia",
+          "latitude": "19.32114000",
+          "longitude": "-70.75992000"
+        },
+        {
+          "name": "San José de Las Matas",
+          "latitude": "19.33915000",
+          "longitude": "-70.93819000"
+        },
+        {
+          "name": "Santiago de los Caballeros",
+          "latitude": "19.45170000",
+          "longitude": "-70.69703000"
+        },
+        {
+          "name": "Santo Tomás de Jánico",
+          "latitude": "19.23528000",
+          "longitude": "-70.79515000"
+        },
+        {
+          "name": "Tamboril",
+          "latitude": "19.48538000",
+          "longitude": "-70.61104000"
+        },
+        {
+          "name": "Villa Bisonó",
+          "latitude": "19.56378000",
+          "longitude": "-70.87582000"
+        },
+        {
+          "name": "Villa González",
+          "latitude": "19.54057000",
+          "longitude": "-70.78853000"
+        }
+      ]
+    },
+    {
+      "name": "Santiago Rodríguez Province",
+      "state_code": "26",
+      "latitude": "19.47131810",
+      "longitude": "-71.33958010",
+      "cities": [
+        {
+          "name": "Monción",
+          "latitude": "19.46667000",
+          "longitude": "-71.16667000"
+        },
+        {
+          "name": "Sabaneta",
+          "latitude": "19.47793000",
+          "longitude": "-71.34125000"
+        },
+        {
+          "name": "San Ignacio de Sabaneta",
+          "latitude": "19.38333000",
+          "longitude": "-71.35000000"
+        }
+      ]
+    },
+    {
+      "name": "Santo Domingo Province",
+      "state_code": "32",
+      "latitude": "18.51042530",
+      "longitude": "-69.84040540",
+      "cities": [
+        {
+          "name": "Boca Chica",
+          "latitude": "18.45000000",
+          "longitude": "-69.60000000"
+        },
+        {
+          "name": "Santo Domingo Este",
+          "latitude": "18.48847000",
+          "longitude": "-69.85707000"
+        },
+        {
+          "name": "Santo Domingo Oeste",
+          "latitude": "18.50000000",
+          "longitude": "-70.00000000"
+        }
+      ]
+    },
+    {
+      "name": "Valverde Province",
+      "state_code": "27",
+      "latitude": "19.58812210",
+      "longitude": "-70.98033100",
+      "cities": [
+        {
+          "name": "Amina",
+          "latitude": "19.54813000",
+          "longitude": "-70.99599000"
+        },
+        {
+          "name": "Esperanza",
+          "latitude": "19.62379000",
+          "longitude": "-70.97141000"
+        },
+        {
+          "name": "Guatapanal",
+          "latitude": "19.50705000",
+          "longitude": "-70.91713000"
+        },
+        {
+          "name": "Jaibón",
+          "latitude": "19.61169000",
+          "longitude": "-71.14847000"
+        },
+        {
+          "name": "Jicomé",
+          "latitude": "19.64955000",
+          "longitude": "-70.94927000"
+        },
+        {
+          "name": "La Caya",
+          "latitude": "19.69981000",
+          "longitude": "-71.12084000"
+        },
+        {
+          "name": "Laguna Salada",
+          "latitude": "19.70000000",
+          "longitude": "-71.13333000"
+        },
+        {
+          "name": "Maizal",
+          "latitude": "19.63655000",
+          "longitude": "-71.02734000"
+        },
+        {
+          "name": "Mao",
+          "latitude": "19.55186000",
+          "longitude": "-71.07813000"
+        }
+      ]
+    }
+  ]
+}

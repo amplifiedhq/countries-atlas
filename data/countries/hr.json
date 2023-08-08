@@ -1,0 +1,3485 @@
+{
+  "code": "HR",
+  "states": [
+    {
+      "name": "Bjelovar-Bilogora County",
+      "state_code": "07",
+      "latitude": "45.89879720",
+      "longitude": "16.84230930",
+      "cities": [
+        {
+          "name": "Bjelovar",
+          "latitude": "45.89861000",
+          "longitude": "16.84889000"
+        },
+        {
+          "name": "Brezovac",
+          "latitude": "45.86750000",
+          "longitude": "16.84083000"
+        },
+        {
+          "name": "Čazma",
+          "latitude": "45.74818000",
+          "longitude": "16.61390000"
+        },
+        {
+          "name": "Daruvar",
+          "latitude": "45.59056000",
+          "longitude": "17.22500000"
+        },
+        {
+          "name": "Dežanovac",
+          "latitude": "45.57056000",
+          "longitude": "17.08667000"
+        },
+        {
+          "name": "Đulovac",
+          "latitude": "45.66588000",
+          "longitude": "17.42981000"
+        },
+        {
+          "name": "Garešnica",
+          "latitude": "45.57444000",
+          "longitude": "16.94139000"
+        },
+        {
+          "name": "Grad Bjelovar",
+          "latitude": "45.90172000",
+          "longitude": "16.84522000"
+        },
+        {
+          "name": "Grad Čazma",
+          "latitude": "45.75000000",
+          "longitude": "16.61667000"
+        },
+        {
+          "name": "Grad Daruvar",
+          "latitude": "45.60000000",
+          "longitude": "17.23333000"
+        },
+        {
+          "name": "Grad Garešnica",
+          "latitude": "45.56667000",
+          "longitude": "16.93333000"
+        },
+        {
+          "name": "Grad Grubišno Polje",
+          "latitude": "45.70000000",
+          "longitude": "17.16667000"
+        },
+        {
+          "name": "Grubišno Polje",
+          "latitude": "45.70214000",
+          "longitude": "17.17268000"
+        },
+        {
+          "name": "Gudovac",
+          "latitude": "45.88028000",
+          "longitude": "16.78083000"
+        },
+        {
+          "name": "Hercegovac",
+          "latitude": "45.65861000",
+          "longitude": "17.01361000"
+        },
+        {
+          "name": "Ivanska",
+          "latitude": "45.77889000",
+          "longitude": "16.81194000"
+        },
+        {
+          "name": "Kapela",
+          "latitude": "45.98543000",
+          "longitude": "16.85174000"
+        },
+        {
+          "name": "Končanica",
+          "latitude": "45.63611000",
+          "longitude": "17.16639000"
+        },
+        {
+          "name": "Predavac",
+          "latitude": "45.93583000",
+          "longitude": "16.78333000"
+        },
+        {
+          "name": "Rovišće",
+          "latitude": "45.94472000",
+          "longitude": "16.73500000"
+        },
+        {
+          "name": "Šandrovac",
+          "latitude": "45.90556000",
+          "longitude": "17.02111000"
+        },
+        {
+          "name": "Severin",
+          "latitude": "45.84152000",
+          "longitude": "16.96950000"
+        },
+        {
+          "name": "Sirač",
+          "latitude": "45.52333000",
+          "longitude": "17.25500000"
+        },
+        {
+          "name": "Velika Pisanica",
+          "latitude": "45.80160000",
+          "longitude": "17.06551000"
+        },
+        {
+          "name": "Veliki Grđevac",
+          "latitude": "45.75028000",
+          "longitude": "17.04750000"
+        },
+        {
+          "name": "Ždralovi",
+          "latitude": "45.87639000",
+          "longitude": "16.87500000"
+        },
+        {
+          "name": "Zrinski Topolovac",
+          "latitude": "46.02120000",
+          "longitude": "16.75509000"
+        }
+      ]
+    },
+    {
+      "name": "Brod-Posavina County",
+      "state_code": "12",
+      "latitude": "45.26379510",
+      "longitude": "17.32645620",
+      "cities": [
+        {
+          "name": "Batrina",
+          "latitude": "45.18944000",
+          "longitude": "17.66639000"
+        },
+        {
+          "name": "Brodski Varoš",
+          "latitude": "45.18111000",
+          "longitude": "17.97861000"
+        },
+        {
+          "name": "Bukovlje",
+          "latitude": "45.18528000",
+          "longitude": "18.07000000"
+        },
+        {
+          "name": "Cernik",
+          "latitude": "45.28861000",
+          "longitude": "17.38194000"
+        },
+        {
+          "name": "Davor",
+          "latitude": "45.11528000",
+          "longitude": "17.51639000"
+        },
+        {
+          "name": "Donji Andrijevci",
+          "latitude": "45.18833000",
+          "longitude": "18.29972000"
+        },
+        {
+          "name": "Garčin",
+          "latitude": "45.18278000",
+          "longitude": "18.18306000"
+        },
+        {
+          "name": "Gornji Bogićevci",
+          "latitude": "45.25572000",
+          "longitude": "17.23454000"
+        },
+        {
+          "name": "Grad Nova Gradiška",
+          "latitude": "45.26667000",
+          "longitude": "17.40000000"
+        },
+        {
+          "name": "Grad Slavonski Brod",
+          "latitude": "45.16267000",
+          "longitude": "18.03062000"
+        },
+        {
+          "name": "Gundinci",
+          "latitude": "45.15833000",
+          "longitude": "18.49139000"
+        },
+        {
+          "name": "Korenica",
+          "latitude": "45.22472000",
+          "longitude": "18.16556000"
+        },
+        {
+          "name": "Kruševica",
+          "latitude": "45.07750000",
+          "longitude": "18.48278000"
+        },
+        {
+          "name": "Lužani",
+          "latitude": "45.16806000",
+          "longitude": "17.70694000"
+        },
+        {
+          "name": "Nova Gradiška",
+          "latitude": "45.25500000",
+          "longitude": "17.38306000"
+        },
+        {
+          "name": "Okučani",
+          "latitude": "45.26034000",
+          "longitude": "17.19925000"
+        },
+        {
+          "name": "Oprisavci",
+          "latitude": "45.15111000",
+          "longitude": "18.22972000"
+        },
+        {
+          "name": "Oriovac",
+          "latitude": "45.16611000",
+          "longitude": "17.76000000"
+        },
+        {
+          "name": "Podvinje",
+          "latitude": "45.19028000",
+          "longitude": "18.02694000"
+        },
+        {
+          "name": "Rešetari",
+          "latitude": "45.26232000",
+          "longitude": "17.42346000"
+        },
+        {
+          "name": "Ruščica",
+          "latitude": "45.14667000",
+          "longitude": "18.07944000"
+        },
+        {
+          "name": "Sibinj",
+          "latitude": "45.19167000",
+          "longitude": "17.90806000"
+        },
+        {
+          "name": "Sikirevci",
+          "latitude": "45.10889000",
+          "longitude": "18.46444000"
+        },
+        {
+          "name": "Slavonski Brod",
+          "latitude": "45.16028000",
+          "longitude": "18.01556000"
+        },
+        {
+          "name": "Slobodnica",
+          "latitude": "45.16222000",
+          "longitude": "17.93278000"
+        },
+        {
+          "name": "Stari Perkovci",
+          "latitude": "45.21750000",
+          "longitude": "18.34861000"
+        },
+        {
+          "name": "Velika Kopanica",
+          "latitude": "45.15611000",
+          "longitude": "18.39306000"
+        },
+        {
+          "name": "Vrpolje",
+          "latitude": "45.21056000",
+          "longitude": "18.40556000"
+        }
+      ]
+    },
+    {
+      "name": "Dubrovnik-Neretva County",
+      "state_code": "19",
+      "latitude": "43.07665880",
+      "longitude": "17.52684710",
+      "cities": [
+        {
+          "name": "Cavtat",
+          "latitude": "42.58111000",
+          "longitude": "18.21806000"
+        },
+        {
+          "name": "Čibača",
+          "latitude": "42.62889000",
+          "longitude": "18.17111000"
+        },
+        {
+          "name": "Dubrovačko primorje",
+          "latitude": "42.78988000",
+          "longitude": "17.86240000"
+        },
+        {
+          "name": "Grad Dubrovnik",
+          "latitude": "42.64861000",
+          "longitude": "18.09397000"
+        },
+        {
+          "name": "Grad Korčula",
+          "latitude": "42.95693000",
+          "longitude": "17.13181000"
+        },
+        {
+          "name": "Grad Ploče",
+          "latitude": "43.06667000",
+          "longitude": "17.43333000"
+        },
+        {
+          "name": "Komin",
+          "latitude": "43.04083000",
+          "longitude": "17.53694000"
+        },
+        {
+          "name": "Konavle",
+          "latitude": "42.54010000",
+          "longitude": "18.33944000"
+        },
+        {
+          "name": "Korčula",
+          "latitude": "42.96038000",
+          "longitude": "17.13525000"
+        },
+        {
+          "name": "Lastovo",
+          "latitude": "42.76757000",
+          "longitude": "16.89708000"
+        },
+        {
+          "name": "Lumbarda",
+          "latitude": "42.92278000",
+          "longitude": "17.16722000"
+        },
+        {
+          "name": "Metković",
+          "latitude": "43.05417000",
+          "longitude": "17.64833000"
+        },
+        {
+          "name": "Mljet",
+          "latitude": "42.74439000",
+          "longitude": "17.53645000"
+        },
+        {
+          "name": "Mokošica",
+          "latitude": "42.67556000",
+          "longitude": "18.09028000"
+        },
+        {
+          "name": "Općina Lastovo",
+          "latitude": "42.75000000",
+          "longitude": "16.90000000"
+        },
+        {
+          "name": "Opuzen",
+          "latitude": "43.01528000",
+          "longitude": "17.56556000"
+        },
+        {
+          "name": "Orebić",
+          "latitude": "42.98556000",
+          "longitude": "17.17472000"
+        },
+        {
+          "name": "Podgora",
+          "latitude": "42.84861000",
+          "longitude": "17.83639000"
+        },
+        {
+          "name": "Pojezerje",
+          "latitude": "43.15741000",
+          "longitude": "17.45152000"
+        },
+        {
+          "name": "Slivno",
+          "latitude": "42.95864000",
+          "longitude": "17.54431000"
+        },
+        {
+          "name": "Smokvica",
+          "latitude": "42.93056000",
+          "longitude": "16.89639000"
+        },
+        {
+          "name": "Ston",
+          "latitude": "42.83861000",
+          "longitude": "17.69639000"
+        },
+        {
+          "name": "Vela Luka",
+          "latitude": "42.96333000",
+          "longitude": "16.72250000"
+        },
+        {
+          "name": "Zažablje",
+          "latitude": "43.01113000",
+          "longitude": "17.65683000"
+        },
+        {
+          "name": "Žrnovo",
+          "latitude": "42.95111000",
+          "longitude": "17.11417000"
+        },
+        {
+          "name": "Župa dubrovačka",
+          "latitude": "42.62683000",
+          "longitude": "18.19475000"
+        }
+      ]
+    },
+    {
+      "name": "Istria County",
+      "state_code": "18",
+      "latitude": "45.12864550",
+      "longitude": "13.90154200",
+      "cities": [
+        {
+          "name": "Bale",
+          "latitude": "45.04056000",
+          "longitude": "13.78361000"
+        },
+        {
+          "name": "Bale-Valle",
+          "latitude": "45.04089000",
+          "longitude": "13.78565000"
+        },
+        {
+          "name": "Brtonigla",
+          "latitude": "45.38139000",
+          "longitude": "13.62944000"
+        },
+        {
+          "name": "Brtonigla-Verteneglio",
+          "latitude": "45.37918000",
+          "longitude": "13.62554000"
+        },
+        {
+          "name": "Buje",
+          "latitude": "45.41000000",
+          "longitude": "13.66194000"
+        },
+        {
+          "name": "Buje-Buie",
+          "latitude": "45.40790000",
+          "longitude": "13.65914000"
+        },
+        {
+          "name": "Buzet",
+          "latitude": "45.40944000",
+          "longitude": "13.96667000"
+        },
+        {
+          "name": "Fažana",
+          "latitude": "44.92750000",
+          "longitude": "13.80361000"
+        },
+        {
+          "name": "Fažana-Fasana",
+          "latitude": "44.92822000",
+          "longitude": "13.80548000"
+        },
+        {
+          "name": "Funtana",
+          "latitude": "45.17472000",
+          "longitude": "13.60500000"
+        },
+        {
+          "name": "Funtana-Fontane",
+          "latitude": "45.17483000",
+          "longitude": "13.60627000"
+        },
+        {
+          "name": "Galižana",
+          "latitude": "44.93167000",
+          "longitude": "13.86861000"
+        },
+        {
+          "name": "Grad Buzet",
+          "latitude": "45.41667000",
+          "longitude": "13.96667000"
+        },
+        {
+          "name": "Grad Labin",
+          "latitude": "45.08333000",
+          "longitude": "14.13333000"
+        },
+        {
+          "name": "Grad Pazin",
+          "latitude": "45.23333000",
+          "longitude": "13.93333000"
+        },
+        {
+          "name": "Grožnjan",
+          "latitude": "45.37889000",
+          "longitude": "13.72389000"
+        },
+        {
+          "name": "Grožnjan-Grisignana",
+          "latitude": "45.37728000",
+          "longitude": "13.72145000"
+        },
+        {
+          "name": "Kanfanar",
+          "latitude": "45.12194000",
+          "longitude": "13.83917000"
+        },
+        {
+          "name": "Karojba",
+          "latitude": "45.30083000",
+          "longitude": "13.82306000"
+        },
+        {
+          "name": "Kaštelir-Labinci",
+          "latitude": "45.30277000",
+          "longitude": "13.68841000"
+        },
+        {
+          "name": "Labin",
+          "latitude": "45.09500000",
+          "longitude": "14.11972000"
+        },
+        {
+          "name": "Ližnjan",
+          "latitude": "44.82833000",
+          "longitude": "13.95694000"
+        },
+        {
+          "name": "Ližnjan-Lisignano",
+          "latitude": "44.82765000",
+          "longitude": "13.96028000"
+        },
+        {
+          "name": "Lupoglav",
+          "latitude": "45.35204000",
+          "longitude": "14.10846000"
+        },
+        {
+          "name": "Marčana",
+          "latitude": "44.95528000",
+          "longitude": "13.95389000"
+        },
+        {
+          "name": "Medulin",
+          "latitude": "44.82250000",
+          "longitude": "13.93500000"
+        },
+        {
+          "name": "Motovun",
+          "latitude": "45.33667000",
+          "longitude": "13.82861000"
+        },
+        {
+          "name": "Motovun-Montona",
+          "latitude": "45.33633000",
+          "longitude": "13.82977000"
+        },
+        {
+          "name": "Novigrad",
+          "latitude": "45.31500000",
+          "longitude": "13.55806000"
+        },
+        {
+          "name": "Novigrad-Cittanova",
+          "latitude": "45.31669000",
+          "longitude": "13.56155000"
+        },
+        {
+          "name": "Općina Lanišće",
+          "latitude": "45.43520000",
+          "longitude": "14.08196000"
+        },
+        {
+          "name": "Oprtalj-Portole",
+          "latitude": "45.38226000",
+          "longitude": "13.82406000"
+        },
+        {
+          "name": "Pazin",
+          "latitude": "45.24028000",
+          "longitude": "13.93667000"
+        },
+        {
+          "name": "Poreč",
+          "latitude": "45.22567000",
+          "longitude": "13.59511000"
+        },
+        {
+          "name": "Poreč-Parenzo",
+          "latitude": "45.22717000",
+          "longitude": "13.59653000"
+        },
+        {
+          "name": "Pula",
+          "latitude": "44.86833000",
+          "longitude": "13.84806000"
+        },
+        {
+          "name": "Pula-Pola",
+          "latitude": "44.86711000",
+          "longitude": "13.84882000"
+        },
+        {
+          "name": "Rabac",
+          "latitude": "45.07944000",
+          "longitude": "14.15750000"
+        },
+        {
+          "name": "Raša",
+          "latitude": "45.08028000",
+          "longitude": "14.07889000"
+        },
+        {
+          "name": "Rovinj",
+          "latitude": "45.08000000",
+          "longitude": "13.64000000"
+        },
+        {
+          "name": "Rovinj-Rovigno",
+          "latitude": "45.08190000",
+          "longitude": "13.63970000"
+        },
+        {
+          "name": "Sveta Nedelja",
+          "latitude": "45.14932000",
+          "longitude": "14.09889000"
+        },
+        {
+          "name": "Sveti Lovreč",
+          "latitude": "45.17770000",
+          "longitude": "13.74317000"
+        },
+        {
+          "name": "Tar",
+          "latitude": "45.30083000",
+          "longitude": "13.62528000"
+        },
+        {
+          "name": "Tar-Vabriga-Torre Abrega",
+          "latitude": "45.29946000",
+          "longitude": "13.62489000"
+        },
+        {
+          "name": "Umag",
+          "latitude": "45.43139000",
+          "longitude": "13.52389000"
+        },
+        {
+          "name": "Umag-Umago",
+          "latitude": "45.43462000",
+          "longitude": "13.52589000"
+        },
+        {
+          "name": "Valbandon",
+          "latitude": "44.91879000",
+          "longitude": "13.81344000"
+        },
+        {
+          "name": "Vinež",
+          "latitude": "45.09806000",
+          "longitude": "14.10694000"
+        },
+        {
+          "name": "Višnjan-Visignano",
+          "latitude": "45.27614000",
+          "longitude": "13.72128000"
+        },
+        {
+          "name": "Vižinada-Visinada",
+          "latitude": "45.33126000",
+          "longitude": "13.75943000"
+        },
+        {
+          "name": "Vodnjan",
+          "latitude": "44.95944000",
+          "longitude": "13.85167000"
+        },
+        {
+          "name": "Vodnjan-Dignano",
+          "latitude": "44.96187000",
+          "longitude": "13.85041000"
+        },
+        {
+          "name": "Vrsar",
+          "latitude": "45.14917000",
+          "longitude": "13.60528000"
+        },
+        {
+          "name": "Vrsar-Orsera",
+          "latitude": "45.15074000",
+          "longitude": "13.60558000"
+        },
+        {
+          "name": "Žminj",
+          "latitude": "45.14278000",
+          "longitude": "13.90889000"
+        }
+      ]
+    },
+    {
+      "name": "Koprivnica-Križevci County",
+      "state_code": "06",
+      "latitude": "46.15689190",
+      "longitude": "16.83908260",
+      "cities": [
+        {
+          "name": "Drnje",
+          "latitude": "46.20694000",
+          "longitude": "16.91694000"
+        },
+        {
+          "name": "Đelekovec",
+          "latitude": "46.24989000",
+          "longitude": "16.87011000"
+        },
+        {
+          "name": "Đurđevac",
+          "latitude": "46.03972000",
+          "longitude": "17.07168000"
+        },
+        {
+          "name": "Ferdinandovac",
+          "latitude": "46.05000000",
+          "longitude": "17.20000000"
+        },
+        {
+          "name": "Gola",
+          "latitude": "46.19583000",
+          "longitude": "17.05806000"
+        },
+        {
+          "name": "Gornja Rijeka",
+          "latitude": "46.10977000",
+          "longitude": "16.39079000"
+        },
+        {
+          "name": "Grad Koprivnica",
+          "latitude": "46.16667000",
+          "longitude": "16.83333000"
+        },
+        {
+          "name": "Grad Križevci",
+          "latitude": "46.03333000",
+          "longitude": "16.56667000"
+        },
+        {
+          "name": "Hlebine",
+          "latitude": "46.15694000",
+          "longitude": "16.96278000"
+        },
+        {
+          "name": "Kalinovac",
+          "latitude": "46.02944000",
+          "longitude": "17.11556000"
+        },
+        {
+          "name": "Koprivnica",
+          "latitude": "46.16278000",
+          "longitude": "16.82750000"
+        },
+        {
+          "name": "Koprivnički Ivanec",
+          "latitude": "46.19907000",
+          "longitude": "16.81629000"
+        },
+        {
+          "name": "Križevci",
+          "latitude": "46.02194000",
+          "longitude": "16.54250000"
+        },
+        {
+          "name": "Legrad",
+          "latitude": "46.29750000",
+          "longitude": "16.85667000"
+        },
+        {
+          "name": "Molve",
+          "latitude": "46.10917000",
+          "longitude": "17.03167000"
+        },
+        {
+          "name": "Novo Virje",
+          "latitude": "46.09834000",
+          "longitude": "17.15215000"
+        },
+        {
+          "name": "Peteranec",
+          "latitude": "46.19222000",
+          "longitude": "16.89167000"
+        },
+        {
+          "name": "Rasinja",
+          "latitude": "46.18389000",
+          "longitude": "16.70667000"
+        },
+        {
+          "name": "Reka",
+          "latitude": "46.13028000",
+          "longitude": "16.76694000"
+        },
+        {
+          "name": "Sigetec",
+          "latitude": "46.18833000",
+          "longitude": "16.93583000"
+        },
+        {
+          "name": "Virje",
+          "latitude": "46.06722000",
+          "longitude": "16.99000000"
+        }
+      ]
+    },
+    {
+      "name": "Krapina-Zagorje County",
+      "state_code": "02",
+      "latitude": "46.10133930",
+      "longitude": "15.88096930",
+      "cities": [
+        {
+          "name": "Bedekovčina",
+          "latitude": "46.04111000",
+          "longitude": "15.99639000"
+        },
+        {
+          "name": "Budinščina",
+          "latitude": "46.12785000",
+          "longitude": "16.20415000"
+        },
+        {
+          "name": "Đurmanec",
+          "latitude": "46.19708000",
+          "longitude": "15.83786000"
+        },
+        {
+          "name": "Grad Donja Stubica",
+          "latitude": "45.97955000",
+          "longitude": "15.97069000"
+        },
+        {
+          "name": "Grad Klanjec",
+          "latitude": "46.04977000",
+          "longitude": "15.74615000"
+        },
+        {
+          "name": "Grad Krapina",
+          "latitude": "46.15968000",
+          "longitude": "15.87258000"
+        },
+        {
+          "name": "Grad Zabok",
+          "latitude": "46.02808000",
+          "longitude": "15.90855000"
+        },
+        {
+          "name": "Grad Zlatar",
+          "latitude": "46.09198000",
+          "longitude": "16.07695000"
+        },
+        {
+          "name": "Jesenje",
+          "latitude": "46.20724000",
+          "longitude": "15.88194000"
+        },
+        {
+          "name": "Klanjec",
+          "latitude": "46.04982000",
+          "longitude": "15.74418000"
+        },
+        {
+          "name": "Konjščina",
+          "latitude": "46.05435000",
+          "longitude": "16.17763000"
+        },
+        {
+          "name": "Krapina",
+          "latitude": "46.16083000",
+          "longitude": "15.87889000"
+        },
+        {
+          "name": "Kumrovec",
+          "latitude": "46.07750000",
+          "longitude": "15.67556000"
+        },
+        {
+          "name": "Mače",
+          "latitude": "46.09472000",
+          "longitude": "16.03528000"
+        },
+        {
+          "name": "Marija Bistrica",
+          "latitude": "46.00611000",
+          "longitude": "16.11111000"
+        },
+        {
+          "name": "Mihovljan",
+          "latitude": "46.13306000",
+          "longitude": "15.97222000"
+        },
+        {
+          "name": "Oroslavje",
+          "latitude": "45.99672000",
+          "longitude": "15.91507000"
+        },
+        {
+          "name": "Pregrada",
+          "latitude": "46.16417000",
+          "longitude": "15.75083000"
+        },
+        {
+          "name": "Radoboj",
+          "latitude": "46.16639000",
+          "longitude": "15.92361000"
+        },
+        {
+          "name": "Stubičke Toplice",
+          "latitude": "45.97585000",
+          "longitude": "15.93238000"
+        },
+        {
+          "name": "Sveti Križ Začretje",
+          "latitude": "46.08224000",
+          "longitude": "15.90704000"
+        },
+        {
+          "name": "Zabok",
+          "latitude": "46.02944000",
+          "longitude": "15.91500000"
+        },
+        {
+          "name": "Zlatar",
+          "latitude": "46.09417000",
+          "longitude": "16.07083000"
+        },
+        {
+          "name": "Zlatar Bistrica",
+          "latitude": "46.04788000",
+          "longitude": "16.08527000"
+        }
+      ]
+    },
+    {
+      "name": "Lika-Senj County",
+      "state_code": "09",
+      "latitude": "44.61922180",
+      "longitude": "15.47016080",
+      "cities": [
+        {
+          "name": "Brinje",
+          "latitude": "45.00250000",
+          "longitude": "15.13389000"
+        },
+        {
+          "name": "Gospić",
+          "latitude": "44.54611000",
+          "longitude": "15.37472000"
+        },
+        {
+          "name": "Karlobag",
+          "latitude": "44.52750000",
+          "longitude": "15.07389000"
+        },
+        {
+          "name": "Lički Osik",
+          "latitude": "44.60389000",
+          "longitude": "15.42472000"
+        },
+        {
+          "name": "Novalja",
+          "latitude": "44.55778000",
+          "longitude": "14.88667000"
+        },
+        {
+          "name": "Otočac",
+          "latitude": "44.86944000",
+          "longitude": "15.23750000"
+        },
+        {
+          "name": "Perušić",
+          "latitude": "44.64944000",
+          "longitude": "15.38333000"
+        },
+        {
+          "name": "Plitvička Jezera",
+          "latitude": "44.88053000",
+          "longitude": "15.62123000"
+        },
+        {
+          "name": "Popovača",
+          "latitude": "44.63917000",
+          "longitude": "15.17917000"
+        },
+        {
+          "name": "Senj",
+          "latitude": "44.98944000",
+          "longitude": "14.90583000"
+        }
+      ]
+    },
+    {
+      "name": "Međimurje County",
+      "state_code": "20",
+      "latitude": "46.37666440",
+      "longitude": "16.42132980",
+      "cities": [
+        {
+          "name": "Belica",
+          "latitude": "46.40417000",
+          "longitude": "16.51833000"
+        },
+        {
+          "name": "Čakovec",
+          "latitude": "46.38444000",
+          "longitude": "16.43389000"
+        },
+        {
+          "name": "Dekanovec",
+          "latitude": "46.44861000",
+          "longitude": "16.58472000"
+        },
+        {
+          "name": "Domašinec",
+          "latitude": "46.43250000",
+          "longitude": "16.60000000"
+        },
+        {
+          "name": "Goričan",
+          "latitude": "46.38417000",
+          "longitude": "16.68083000"
+        },
+        {
+          "name": "Grad Čakovec",
+          "latitude": "46.38583000",
+          "longitude": "16.43333000"
+        },
+        {
+          "name": "Hodošan",
+          "latitude": "46.39528000",
+          "longitude": "16.64389000"
+        },
+        {
+          "name": "Ivanovec",
+          "latitude": "46.36833000",
+          "longitude": "16.47667000"
+        },
+        {
+          "name": "Kotoriba",
+          "latitude": "46.35500000",
+          "longitude": "16.81806000"
+        },
+        {
+          "name": "Kuršanec",
+          "latitude": "46.33028000",
+          "longitude": "16.40167000"
+        },
+        {
+          "name": "Lopatinec",
+          "latitude": "46.43333000",
+          "longitude": "16.38333000"
+        },
+        {
+          "name": "Mačkovec",
+          "latitude": "46.42417000",
+          "longitude": "16.43361000"
+        },
+        {
+          "name": "Mala Subotica",
+          "latitude": "46.37616000",
+          "longitude": "16.52893000"
+        },
+        {
+          "name": "Mihovljan",
+          "latitude": "46.40861000",
+          "longitude": "16.44806000"
+        },
+        {
+          "name": "Mursko Središće",
+          "latitude": "46.50944000",
+          "longitude": "16.44111000"
+        },
+        {
+          "name": "Nedelišće",
+          "latitude": "46.37583000",
+          "longitude": "16.38750000"
+        },
+        {
+          "name": "Novo Selo Rok",
+          "latitude": "46.42839000",
+          "longitude": "16.46215000"
+        },
+        {
+          "name": "Orehovica",
+          "latitude": "46.33167000",
+          "longitude": "16.50694000"
+        },
+        {
+          "name": "Peklenica",
+          "latitude": "46.49528000",
+          "longitude": "16.47611000"
+        },
+        {
+          "name": "Podturen",
+          "latitude": "46.46472000",
+          "longitude": "16.54306000"
+        },
+        {
+          "name": "Prelog",
+          "latitude": "46.33500000",
+          "longitude": "16.61556000"
+        },
+        {
+          "name": "Pribislavec",
+          "latitude": "46.39250000",
+          "longitude": "16.48250000"
+        },
+        {
+          "name": "Šenkovec",
+          "latitude": "46.40889000",
+          "longitude": "16.42167000"
+        },
+        {
+          "name": "Strahoninec",
+          "latitude": "46.36889000",
+          "longitude": "16.41500000"
+        },
+        {
+          "name": "Sveti Juraj na Bregu",
+          "latitude": "46.42853000",
+          "longitude": "16.38525000"
+        },
+        {
+          "name": "Vratišinec",
+          "latitude": "46.47806000",
+          "longitude": "16.45778000"
+        }
+      ]
+    },
+    {
+      "name": "Osijek-Baranja County",
+      "state_code": "14",
+      "latitude": "45.55764280",
+      "longitude": "18.39421410",
+      "cities": [
+        {
+          "name": "Antunovac",
+          "latitude": "45.49083000",
+          "longitude": "18.67500000"
+        },
+        {
+          "name": "Beli Manastir",
+          "latitude": "45.77000000",
+          "longitude": "18.60361000"
+        },
+        {
+          "name": "Belišće",
+          "latitude": "45.68028000",
+          "longitude": "18.40583000"
+        },
+        {
+          "name": "Bijelo Brdo",
+          "latitude": "45.51722000",
+          "longitude": "18.87083000"
+        },
+        {
+          "name": "Bilje",
+          "latitude": "45.60694000",
+          "longitude": "18.74389000"
+        },
+        {
+          "name": "Bistrinci",
+          "latitude": "45.69167000",
+          "longitude": "18.39861000"
+        },
+        {
+          "name": "Bizovac",
+          "latitude": "45.59278000",
+          "longitude": "18.45889000"
+        },
+        {
+          "name": "Brijest",
+          "latitude": "45.52056000",
+          "longitude": "18.67194000"
+        },
+        {
+          "name": "Budrovci",
+          "latitude": "45.27111000",
+          "longitude": "18.44861000"
+        },
+        {
+          "name": "Čeminac",
+          "latitude": "45.68639000",
+          "longitude": "18.66750000"
+        },
+        {
+          "name": "Čepin",
+          "latitude": "45.52361000",
+          "longitude": "18.56333000"
+        },
+        {
+          "name": "Dalj",
+          "latitude": "45.48438000",
+          "longitude": "18.98610000"
+        },
+        {
+          "name": "Darda",
+          "latitude": "45.62806000",
+          "longitude": "18.69972000"
+        },
+        {
+          "name": "Donji Miholjac",
+          "latitude": "45.76083000",
+          "longitude": "18.16722000"
+        },
+        {
+          "name": "Draž",
+          "latitude": "45.84222000",
+          "longitude": "18.78861000"
+        },
+        {
+          "name": "Đakovo",
+          "latitude": "45.30833000",
+          "longitude": "18.41056000"
+        },
+        {
+          "name": "Đurđenovac",
+          "latitude": "45.54333000",
+          "longitude": "18.04583000"
+        },
+        {
+          "name": "Erdut",
+          "latitude": "45.52639000",
+          "longitude": "19.06028000"
+        },
+        {
+          "name": "Ernestinovo",
+          "latitude": "45.45194000",
+          "longitude": "18.65917000"
+        },
+        {
+          "name": "Feričanci",
+          "latitude": "45.52889000",
+          "longitude": "17.97583000"
+        },
+        {
+          "name": "Gorjani",
+          "latitude": "45.39889000",
+          "longitude": "18.37222000"
+        },
+        {
+          "name": "Grad Beli Manastir",
+          "latitude": "45.77219000",
+          "longitude": "18.61084000"
+        },
+        {
+          "name": "Grad Donji Miholjac",
+          "latitude": "45.75000000",
+          "longitude": "18.16667000"
+        },
+        {
+          "name": "Grad Našice",
+          "latitude": "45.50000000",
+          "longitude": "18.10000000"
+        },
+        {
+          "name": "Grad Osijek",
+          "latitude": "45.58333000",
+          "longitude": "18.66667000"
+        },
+        {
+          "name": "Grad Valpovo",
+          "latitude": "45.66667000",
+          "longitude": "18.41667000"
+        },
+        {
+          "name": "Jagodnjak",
+          "latitude": "45.69917000",
+          "longitude": "18.57694000"
+        },
+        {
+          "name": "Jelisavac",
+          "latitude": "45.52889000",
+          "longitude": "18.15611000"
+        },
+        {
+          "name": "Josipovac",
+          "latitude": "45.58278000",
+          "longitude": "18.58139000"
+        },
+        {
+          "name": "Karanac",
+          "latitude": "45.76056000",
+          "longitude": "18.68444000"
+        },
+        {
+          "name": "Kneževi Vinogradi",
+          "latitude": "45.75028000",
+          "longitude": "18.73306000"
+        },
+        {
+          "name": "Koška",
+          "latitude": "45.54528000",
+          "longitude": "18.28583000"
+        },
+        {
+          "name": "Kuševac",
+          "latitude": "45.34778000",
+          "longitude": "18.42889000"
+        },
+        {
+          "name": "Ladimirevci",
+          "latitude": "45.62556000",
+          "longitude": "18.44861000"
+        },
+        {
+          "name": "Laslovo",
+          "latitude": "45.41500000",
+          "longitude": "18.69611000"
+        },
+        {
+          "name": "Magadenovac",
+          "latitude": "45.66159000",
+          "longitude": "18.18679000"
+        },
+        {
+          "name": "Marijanci",
+          "latitude": "45.66645000",
+          "longitude": "18.29284000"
+        },
+        {
+          "name": "Marjanci",
+          "latitude": "45.66694000",
+          "longitude": "18.29222000"
+        },
+        {
+          "name": "Markovac Našički",
+          "latitude": "45.49389000",
+          "longitude": "18.12556000"
+        },
+        {
+          "name": "Martin",
+          "latitude": "45.49222000",
+          "longitude": "18.06667000"
+        },
+        {
+          "name": "Našice",
+          "latitude": "45.48861000",
+          "longitude": "18.08778000"
+        },
+        {
+          "name": "Osijek",
+          "latitude": "45.55111000",
+          "longitude": "18.69389000"
+        },
+        {
+          "name": "Petlovac",
+          "latitude": "45.75833000",
+          "longitude": "18.52806000"
+        },
+        {
+          "name": "Petrijevci",
+          "latitude": "45.61278000",
+          "longitude": "18.53528000"
+        },
+        {
+          "name": "Piškorevci",
+          "latitude": "45.25528000",
+          "longitude": "18.40417000"
+        },
+        {
+          "name": "Podgorač",
+          "latitude": "45.45861000",
+          "longitude": "18.22278000"
+        },
+        {
+          "name": "Podravska Moslavina",
+          "latitude": "45.78456000",
+          "longitude": "17.98410000"
+        },
+        {
+          "name": "Sarvaš",
+          "latitude": "45.52722000",
+          "longitude": "18.83750000"
+        },
+        {
+          "name": "Satnica Đakovačka",
+          "latitude": "45.35367000",
+          "longitude": "18.37729000"
+        },
+        {
+          "name": "Semeljci",
+          "latitude": "45.36056000",
+          "longitude": "18.54361000"
+        },
+        {
+          "name": "Široko Polje",
+          "latitude": "45.40528000",
+          "longitude": "18.47250000"
+        },
+        {
+          "name": "Šodolovci",
+          "latitude": "45.40000000",
+          "longitude": "18.62028000"
+        },
+        {
+          "name": "Strizivojna",
+          "latitude": "45.22611000",
+          "longitude": "18.42389000"
+        },
+        {
+          "name": "Tenja",
+          "latitude": "45.49806000",
+          "longitude": "18.74722000"
+        },
+        {
+          "name": "Valpovo",
+          "latitude": "45.66083000",
+          "longitude": "18.41861000"
+        },
+        {
+          "name": "Velimirovac",
+          "latitude": "45.52361000",
+          "longitude": "18.10944000"
+        },
+        {
+          "name": "Viljevo",
+          "latitude": "45.75139000",
+          "longitude": "18.06306000"
+        },
+        {
+          "name": "Viškovci",
+          "latitude": "45.34500000",
+          "longitude": "18.46222000"
+        },
+        {
+          "name": "Višnjevac",
+          "latitude": "45.56861000",
+          "longitude": "18.61389000"
+        },
+        {
+          "name": "Vladislavci",
+          "latitude": "45.45944000",
+          "longitude": "18.57417000"
+        },
+        {
+          "name": "Vuka",
+          "latitude": "45.43389000",
+          "longitude": "18.50500000"
+        }
+      ]
+    },
+    {
+      "name": "Požega-Slavonia County",
+      "state_code": "11",
+      "latitude": "45.34178680",
+      "longitude": "17.81143590",
+      "cities": [
+        {
+          "name": "Brestovac",
+          "latitude": "45.33056000",
+          "longitude": "17.59694000"
+        },
+        {
+          "name": "Grad Pakrac",
+          "latitude": "45.43333000",
+          "longitude": "17.20000000"
+        },
+        {
+          "name": "Grad Požega",
+          "latitude": "45.33333000",
+          "longitude": "17.66667000"
+        },
+        {
+          "name": "Jakšić",
+          "latitude": "45.35765000",
+          "longitude": "17.76502000"
+        },
+        {
+          "name": "Kaptol",
+          "latitude": "45.43472000",
+          "longitude": "17.72611000"
+        },
+        {
+          "name": "Kutjevo",
+          "latitude": "45.42611000",
+          "longitude": "17.88250000"
+        },
+        {
+          "name": "Lipik",
+          "latitude": "45.41139000",
+          "longitude": "17.15222000"
+        },
+        {
+          "name": "Pakrac",
+          "latitude": "45.43639000",
+          "longitude": "17.18889000"
+        },
+        {
+          "name": "Pleternica",
+          "latitude": "45.28861000",
+          "longitude": "17.80639000"
+        },
+        {
+          "name": "Požega",
+          "latitude": "45.34028000",
+          "longitude": "17.68528000"
+        },
+        {
+          "name": "Velika",
+          "latitude": "45.45444000",
+          "longitude": "17.66139000"
+        },
+        {
+          "name": "Vidovci",
+          "latitude": "45.33250000",
+          "longitude": "17.71472000"
+        }
+      ]
+    },
+    {
+      "name": "Primorje-Gorski Kotar County",
+      "state_code": "08",
+      "latitude": "45.31739960",
+      "longitude": "14.81674660",
+      "cities": [
+        {
+          "name": "Bakar",
+          "latitude": "45.30861000",
+          "longitude": "14.53028000"
+        },
+        {
+          "name": "Banjol",
+          "latitude": "44.75000000",
+          "longitude": "14.78333000"
+        },
+        {
+          "name": "Baška",
+          "latitude": "44.97028000",
+          "longitude": "14.75333000"
+        },
+        {
+          "name": "Bribir",
+          "latitude": "45.16111000",
+          "longitude": "14.76472000"
+        },
+        {
+          "name": "Buzdohanj",
+          "latitude": "45.34528000",
+          "longitude": "14.48833000"
+        },
+        {
+          "name": "Čavle",
+          "latitude": "45.35194000",
+          "longitude": "14.48389000"
+        },
+        {
+          "name": "Cernik",
+          "latitude": "45.34361000",
+          "longitude": "14.50222000"
+        },
+        {
+          "name": "Cres",
+          "latitude": "44.96111000",
+          "longitude": "14.40840000"
+        },
+        {
+          "name": "Crikvenica",
+          "latitude": "45.17722000",
+          "longitude": "14.69278000"
+        },
+        {
+          "name": "Delnice",
+          "latitude": "45.40083000",
+          "longitude": "14.79972000"
+        },
+        {
+          "name": "Dražice",
+          "latitude": "45.39083000",
+          "longitude": "14.47028000"
+        },
+        {
+          "name": "Drenova",
+          "latitude": "45.35000000",
+          "longitude": "14.43028000"
+        },
+        {
+          "name": "Fužine",
+          "latitude": "45.30528000",
+          "longitude": "14.71556000"
+        },
+        {
+          "name": "Grad Čabar",
+          "latitude": "45.58333000",
+          "longitude": "14.58333000"
+        },
+        {
+          "name": "Grad Crikvenica",
+          "latitude": "45.16667000",
+          "longitude": "14.70000000"
+        },
+        {
+          "name": "Grad Delnice",
+          "latitude": "45.39806000",
+          "longitude": "14.80111000"
+        },
+        {
+          "name": "Grad Krk",
+          "latitude": "45.02829000",
+          "longitude": "14.57233000"
+        },
+        {
+          "name": "Grad Opatija",
+          "latitude": "45.33333000",
+          "longitude": "14.26667000"
+        },
+        {
+          "name": "Grad Rijeka",
+          "latitude": "45.32693000",
+          "longitude": "14.43758000"
+        },
+        {
+          "name": "Grad Vrbovsko",
+          "latitude": "45.37542000",
+          "longitude": "15.07856000"
+        },
+        {
+          "name": "Hreljin",
+          "latitude": "45.28250000",
+          "longitude": "14.59917000"
+        },
+        {
+          "name": "Jadranovo",
+          "latitude": "45.23111000",
+          "longitude": "14.61833000"
+        },
+        {
+          "name": "Kampor",
+          "latitude": "44.77500000",
+          "longitude": "14.71861000"
+        },
+        {
+          "name": "Kastav",
+          "latitude": "45.37528000",
+          "longitude": "14.34861000"
+        },
+        {
+          "name": "Klana",
+          "latitude": "45.44694000",
+          "longitude": "14.37694000"
+        },
+        {
+          "name": "Kraljevica",
+          "latitude": "45.27395000",
+          "longitude": "14.56830000"
+        },
+        {
+          "name": "Krasica",
+          "latitude": "45.30972000",
+          "longitude": "14.55556000"
+        },
+        {
+          "name": "Krk",
+          "latitude": "45.02744000",
+          "longitude": "14.57542000"
+        },
+        {
+          "name": "Lopar",
+          "latitude": "44.83250000",
+          "longitude": "14.73028000"
+        },
+        {
+          "name": "Lovran",
+          "latitude": "45.29194000",
+          "longitude": "14.27417000"
+        },
+        {
+          "name": "Mali Lošinj",
+          "latitude": "44.53056000",
+          "longitude": "14.46861000"
+        },
+        {
+          "name": "Malinska-Dubašnica",
+          "latitude": "45.12277000",
+          "longitude": "14.52873000"
+        },
+        {
+          "name": "Marčelji",
+          "latitude": "45.39611000",
+          "longitude": "14.38944000"
+        },
+        {
+          "name": "Marinići",
+          "latitude": "45.36500000",
+          "longitude": "14.39389000"
+        },
+        {
+          "name": "Matulji",
+          "latitude": "45.36167000",
+          "longitude": "14.32500000"
+        },
+        {
+          "name": "Mihotići",
+          "latitude": "45.36125000",
+          "longitude": "14.30553000"
+        },
+        {
+          "name": "Mrkopalj",
+          "latitude": "45.31556000",
+          "longitude": "14.85528000"
+        },
+        {
+          "name": "Njivice",
+          "latitude": "45.15806000",
+          "longitude": "14.53861000"
+        },
+        {
+          "name": "Novi Vinodolski",
+          "latitude": "45.12806000",
+          "longitude": "14.78889000"
+        },
+        {
+          "name": "Omišalj",
+          "latitude": "45.21134000",
+          "longitude": "14.55495000"
+        },
+        {
+          "name": "Opatija",
+          "latitude": "45.33771000",
+          "longitude": "14.30515000"
+        },
+        {
+          "name": "Podhum",
+          "latitude": "45.38722000",
+          "longitude": "14.47944000"
+        },
+        {
+          "name": "Punat",
+          "latitude": "45.01472000",
+          "longitude": "14.62889000"
+        },
+        {
+          "name": "Rab",
+          "latitude": "44.75769000",
+          "longitude": "14.75906000"
+        },
+        {
+          "name": "Rijeka",
+          "latitude": "45.32673000",
+          "longitude": "14.44241000"
+        },
+        {
+          "name": "Rubeši",
+          "latitude": "45.36694000",
+          "longitude": "14.34806000"
+        },
+        {
+          "name": "Selce",
+          "latitude": "45.15639000",
+          "longitude": "14.72111000"
+        },
+        {
+          "name": "Skrad",
+          "latitude": "45.42778000",
+          "longitude": "14.91111000"
+        },
+        {
+          "name": "Škrljevo",
+          "latitude": "45.32053000",
+          "longitude": "14.53268000"
+        },
+        {
+          "name": "Supetarska Draga",
+          "latitude": "44.79750000",
+          "longitude": "14.72472000"
+        },
+        {
+          "name": "Vinodolska općina",
+          "latitude": "45.22219000",
+          "longitude": "14.68941000"
+        },
+        {
+          "name": "Viškovo",
+          "latitude": "45.37572000",
+          "longitude": "14.38400000"
+        },
+        {
+          "name": "Vrbnik",
+          "latitude": "45.07583000",
+          "longitude": "14.67250000"
+        },
+        {
+          "name": "Vrbovsko",
+          "latitude": "45.36861000",
+          "longitude": "15.07833000"
+        }
+      ]
+    },
+    {
+      "name": "Šibenik-Knin County",
+      "state_code": "15",
+      "latitude": "43.92814850",
+      "longitude": "16.10376940",
+      "cities": [
+        {
+          "name": "Brodarica",
+          "latitude": "43.68000000",
+          "longitude": "15.91972000"
+        },
+        {
+          "name": "Drniš",
+          "latitude": "43.86250000",
+          "longitude": "16.15556000"
+        },
+        {
+          "name": "Grad Drniš",
+          "latitude": "43.83333000",
+          "longitude": "16.16667000"
+        },
+        {
+          "name": "Grad Šibenik",
+          "latitude": "43.73576000",
+          "longitude": "15.89602000"
+        },
+        {
+          "name": "Kistanje",
+          "latitude": "43.98278000",
+          "longitude": "15.96500000"
+        },
+        {
+          "name": "Knin",
+          "latitude": "44.04063000",
+          "longitude": "16.19662000"
+        },
+        {
+          "name": "Murter",
+          "latitude": "43.82043000",
+          "longitude": "15.58988000"
+        },
+        {
+          "name": "Murter-Kornati",
+          "latitude": "43.80959000",
+          "longitude": "15.60024000"
+        },
+        {
+          "name": "Pirovac",
+          "latitude": "43.81917000",
+          "longitude": "15.67278000"
+        },
+        {
+          "name": "Primošten",
+          "latitude": "43.58632000",
+          "longitude": "15.92302000"
+        },
+        {
+          "name": "Promina",
+          "latitude": "43.95798000",
+          "longitude": "16.09737000"
+        },
+        {
+          "name": "Rogoznica",
+          "latitude": "43.52472000",
+          "longitude": "15.97000000"
+        },
+        {
+          "name": "Rogoznica Općina",
+          "latitude": "43.53620000",
+          "longitude": "15.97086000"
+        },
+        {
+          "name": "Šibenik",
+          "latitude": "43.72722000",
+          "longitude": "15.90583000"
+        },
+        {
+          "name": "Skradin",
+          "latitude": "43.82028000",
+          "longitude": "15.92361000"
+        },
+        {
+          "name": "Tisno",
+          "latitude": "43.80417000",
+          "longitude": "15.64333000"
+        },
+        {
+          "name": "Tribunj",
+          "latitude": "43.75547000",
+          "longitude": "15.74444000"
+        },
+        {
+          "name": "Vodice",
+          "latitude": "43.76083000",
+          "longitude": "15.78278000"
+        }
+      ]
+    },
+    {
+      "name": "Sisak-Moslavina County",
+      "state_code": "03",
+      "latitude": "45.38379260",
+      "longitude": "16.53809940",
+      "cities": [
+        {
+          "name": "Budaševo",
+          "latitude": "45.47472000",
+          "longitude": "16.43667000"
+        },
+        {
+          "name": "Dvor",
+          "latitude": "45.07306000",
+          "longitude": "16.37083000"
+        },
+        {
+          "name": "Glina",
+          "latitude": "45.33806000",
+          "longitude": "16.08806000"
+        },
+        {
+          "name": "Grad Glina",
+          "latitude": "45.33333000",
+          "longitude": "16.10000000"
+        },
+        {
+          "name": "Grad Hrvatska Kostajnica",
+          "latitude": "45.25000000",
+          "longitude": "16.56667000"
+        },
+        {
+          "name": "Grad Kutina",
+          "latitude": "45.50000000",
+          "longitude": "16.75000000"
+        },
+        {
+          "name": "Grad Novska",
+          "latitude": "45.33333000",
+          "longitude": "17.00000000"
+        },
+        {
+          "name": "Grad Petrinja",
+          "latitude": "45.43333000",
+          "longitude": "16.26667000"
+        },
+        {
+          "name": "Grad Sisak",
+          "latitude": "45.50000000",
+          "longitude": "16.36667000"
+        },
+        {
+          "name": "Gvozd",
+          "latitude": "45.35305000",
+          "longitude": "15.86563000"
+        },
+        {
+          "name": "Hrvatska Kostajnica",
+          "latitude": "45.23167000",
+          "longitude": "16.53917000"
+        },
+        {
+          "name": "Kutina",
+          "latitude": "45.47500000",
+          "longitude": "16.78194000"
+        },
+        {
+          "name": "Lekenik",
+          "latitude": "45.58556000",
+          "longitude": "16.21139000"
+        },
+        {
+          "name": "Lipovljani",
+          "latitude": "45.39667000",
+          "longitude": "16.88972000"
+        },
+        {
+          "name": "Martinska Ves",
+          "latitude": "45.58670000",
+          "longitude": "16.37465000"
+        },
+        {
+          "name": "Novska",
+          "latitude": "45.34056000",
+          "longitude": "16.97694000"
+        },
+        {
+          "name": "Općina Dvor",
+          "latitude": "45.10000000",
+          "longitude": "16.30000000"
+        },
+        {
+          "name": "Općina Gvozd",
+          "latitude": "45.33333000",
+          "longitude": "15.90000000"
+        },
+        {
+          "name": "Petrinja",
+          "latitude": "45.43750000",
+          "longitude": "16.29000000"
+        },
+        {
+          "name": "Popovača",
+          "latitude": "45.56972000",
+          "longitude": "16.62500000"
+        },
+        {
+          "name": "Repušnica",
+          "latitude": "45.49278000",
+          "longitude": "16.73083000"
+        },
+        {
+          "name": "Sisak",
+          "latitude": "45.46611000",
+          "longitude": "16.37833000"
+        },
+        {
+          "name": "Sunja",
+          "latitude": "45.36850000",
+          "longitude": "16.56702000"
+        },
+        {
+          "name": "Voloder",
+          "latitude": "45.54806000",
+          "longitude": "16.67889000"
+        }
+      ]
+    },
+    {
+      "name": "Split-Dalmatia County",
+      "state_code": "17",
+      "latitude": "43.52403280",
+      "longitude": "16.81783770",
+      "cities": [
+        {
+          "name": "Baška Voda",
+          "latitude": "43.35694000",
+          "longitude": "16.95028000"
+        },
+        {
+          "name": "Bol",
+          "latitude": "43.26194000",
+          "longitude": "16.65500000"
+        },
+        {
+          "name": "Brela",
+          "latitude": "43.36889000",
+          "longitude": "16.93417000"
+        },
+        {
+          "name": "Brnaze",
+          "latitude": "43.68000000",
+          "longitude": "16.64972000"
+        },
+        {
+          "name": "Dicmo",
+          "latitude": "43.63678000",
+          "longitude": "16.58978000"
+        },
+        {
+          "name": "Donji Vinjani",
+          "latitude": "43.44613000",
+          "longitude": "17.24064000"
+        },
+        {
+          "name": "Duće",
+          "latitude": "43.44278000",
+          "longitude": "16.66833000"
+        },
+        {
+          "name": "Dugi Rat Općina",
+          "latitude": "43.44923000",
+          "longitude": "16.64738000"
+        },
+        {
+          "name": "Dugopolje",
+          "latitude": "43.58056000",
+          "longitude": "16.60278000"
+        },
+        {
+          "name": "Gala",
+          "latitude": "43.71500000",
+          "longitude": "16.72694000"
+        },
+        {
+          "name": "Grabovci",
+          "latitude": "43.49278000",
+          "longitude": "17.20111000"
+        },
+        {
+          "name": "Grad Hvar",
+          "latitude": "43.17263000",
+          "longitude": "16.44550000"
+        },
+        {
+          "name": "Grad Imotski",
+          "latitude": "43.43333000",
+          "longitude": "17.16667000"
+        },
+        {
+          "name": "Grad Makarska",
+          "latitude": "43.30000000",
+          "longitude": "17.03333000"
+        },
+        {
+          "name": "Grad Omiš",
+          "latitude": "43.46667000",
+          "longitude": "16.70000000"
+        },
+        {
+          "name": "Grad Sinj",
+          "latitude": "43.72285000",
+          "longitude": "16.65819000"
+        },
+        {
+          "name": "Grad Split",
+          "latitude": "43.50000000",
+          "longitude": "16.50000000"
+        },
+        {
+          "name": "Grad Supetar",
+          "latitude": "43.38444000",
+          "longitude": "16.55528000"
+        },
+        {
+          "name": "Grad Trogir",
+          "latitude": "43.52061000",
+          "longitude": "16.25144000"
+        },
+        {
+          "name": "Grad Vis",
+          "latitude": "43.05315000",
+          "longitude": "16.18698000"
+        },
+        {
+          "name": "Grad Vrgorac",
+          "latitude": "43.20000000",
+          "longitude": "17.36667000"
+        },
+        {
+          "name": "Gradac",
+          "latitude": "43.10583000",
+          "longitude": "17.34167000"
+        },
+        {
+          "name": "Greda",
+          "latitude": "43.61528000",
+          "longitude": "16.69361000"
+        },
+        {
+          "name": "Grubine",
+          "latitude": "43.42986000",
+          "longitude": "17.16292000"
+        },
+        {
+          "name": "Hrvace",
+          "latitude": "43.76333000",
+          "longitude": "16.61500000"
+        },
+        {
+          "name": "Hvar",
+          "latitude": "43.17250000",
+          "longitude": "16.44278000"
+        },
+        {
+          "name": "Imotski",
+          "latitude": "43.44667000",
+          "longitude": "17.21667000"
+        },
+        {
+          "name": "Jelsa",
+          "latitude": "43.16139000",
+          "longitude": "16.69306000"
+        },
+        {
+          "name": "Jesenice",
+          "latitude": "43.46158000",
+          "longitude": "16.60197000"
+        },
+        {
+          "name": "Kamen",
+          "latitude": "43.51417000",
+          "longitude": "16.51472000"
+        },
+        {
+          "name": "Kaštel Gomilica",
+          "latitude": "43.55000000",
+          "longitude": "16.40000000"
+        },
+        {
+          "name": "Kaštel Kambelovac",
+          "latitude": "43.55000000",
+          "longitude": "16.38333000"
+        },
+        {
+          "name": "Kaštel Lukšić",
+          "latitude": "43.55528000",
+          "longitude": "16.36750000"
+        },
+        {
+          "name": "Kaštel Novi",
+          "latitude": "43.55000000",
+          "longitude": "16.33333000"
+        },
+        {
+          "name": "Kaštel Štafilić",
+          "latitude": "43.55000000",
+          "longitude": "16.33333000"
+        },
+        {
+          "name": "Kaštel Stari",
+          "latitude": "43.55000000",
+          "longitude": "16.35000000"
+        },
+        {
+          "name": "Kaštela",
+          "latitude": "43.53865000",
+          "longitude": "16.30740000"
+        },
+        {
+          "name": "Klis",
+          "latitude": "43.55944000",
+          "longitude": "16.51944000"
+        },
+        {
+          "name": "Komiža",
+          "latitude": "43.04306000",
+          "longitude": "16.09306000"
+        },
+        {
+          "name": "Košute",
+          "latitude": "43.63083000",
+          "longitude": "16.69500000"
+        },
+        {
+          "name": "Lokvičići",
+          "latitude": "43.46428000",
+          "longitude": "17.09142000"
+        },
+        {
+          "name": "Lovreć",
+          "latitude": "43.48761000",
+          "longitude": "16.98632000"
+        },
+        {
+          "name": "Makarska",
+          "latitude": "43.29694000",
+          "longitude": "17.01778000"
+        },
+        {
+          "name": "Milna",
+          "latitude": "43.32667000",
+          "longitude": "16.45083000"
+        },
+        {
+          "name": "Mravince",
+          "latitude": "43.53333000",
+          "longitude": "16.52194000"
+        },
+        {
+          "name": "Muć",
+          "latitude": "43.69328000",
+          "longitude": "16.47267000"
+        },
+        {
+          "name": "Nerežišća",
+          "latitude": "43.32959000",
+          "longitude": "16.57743000"
+        },
+        {
+          "name": "Okrug",
+          "latitude": "43.49638000",
+          "longitude": "16.26732000"
+        },
+        {
+          "name": "Okrug Gornji",
+          "latitude": "43.49473000",
+          "longitude": "16.26531000"
+        },
+        {
+          "name": "Omiš",
+          "latitude": "43.44472000",
+          "longitude": "16.68861000"
+        },
+        {
+          "name": "Otok",
+          "latitude": "43.68661000",
+          "longitude": "16.73488000"
+        },
+        {
+          "name": "Podstrana",
+          "latitude": "43.48668000",
+          "longitude": "16.55013000"
+        },
+        {
+          "name": "Postira",
+          "latitude": "43.37551000",
+          "longitude": "16.63091000"
+        },
+        {
+          "name": "Proložac",
+          "latitude": "43.46690000",
+          "longitude": "17.15507000"
+        },
+        {
+          "name": "Pučišća",
+          "latitude": "43.34778000",
+          "longitude": "16.73389000"
+        },
+        {
+          "name": "Runović",
+          "latitude": "43.37667000",
+          "longitude": "17.23667000"
+        },
+        {
+          "name": "Runovići",
+          "latitude": "43.38704000",
+          "longitude": "17.23892000"
+        },
+        {
+          "name": "Seget",
+          "latitude": "43.54305000",
+          "longitude": "16.21222000"
+        },
+        {
+          "name": "Seget Vranjica",
+          "latitude": "43.50999000",
+          "longitude": "16.18704000"
+        },
+        {
+          "name": "Selca",
+          "latitude": "43.29722000",
+          "longitude": "16.85083000"
+        },
+        {
+          "name": "Sinj",
+          "latitude": "43.70361000",
+          "longitude": "16.63944000"
+        },
+        {
+          "name": "Slatine",
+          "latitude": "43.49944000",
+          "longitude": "16.33333000"
+        },
+        {
+          "name": "Solin",
+          "latitude": "43.54320000",
+          "longitude": "16.49314000"
+        },
+        {
+          "name": "Šolta",
+          "latitude": "43.38714000",
+          "longitude": "16.28865000"
+        },
+        {
+          "name": "Split",
+          "latitude": "43.50891000",
+          "longitude": "16.43915000"
+        },
+        {
+          "name": "Srinjine",
+          "latitude": "43.48333000",
+          "longitude": "16.60000000"
+        },
+        {
+          "name": "Stari Grad",
+          "latitude": "43.18472000",
+          "longitude": "16.59528000"
+        },
+        {
+          "name": "Stobreč",
+          "latitude": "43.50250000",
+          "longitude": "16.52222000"
+        },
+        {
+          "name": "Supetar",
+          "latitude": "43.38417000",
+          "longitude": "16.55083000"
+        },
+        {
+          "name": "Trilj",
+          "latitude": "43.61833000",
+          "longitude": "16.72417000"
+        },
+        {
+          "name": "Trogir",
+          "latitude": "43.51250000",
+          "longitude": "16.25167000"
+        },
+        {
+          "name": "Tučepi",
+          "latitude": "43.27222000",
+          "longitude": "17.05444000"
+        },
+        {
+          "name": "Turjaci",
+          "latitude": "43.65000000",
+          "longitude": "16.66917000"
+        },
+        {
+          "name": "Veliki Drvenik",
+          "latitude": "43.45000000",
+          "longitude": "16.15000000"
+        },
+        {
+          "name": "Vis",
+          "latitude": "43.06194000",
+          "longitude": "16.18306000"
+        },
+        {
+          "name": "Vranjic",
+          "latitude": "43.53333000",
+          "longitude": "16.46667000"
+        },
+        {
+          "name": "Vrgorac",
+          "latitude": "43.20583000",
+          "longitude": "17.37111000"
+        },
+        {
+          "name": "Vrlika",
+          "latitude": "43.91098000",
+          "longitude": "16.39933000"
+        },
+        {
+          "name": "Zagvozd",
+          "latitude": "43.39750000",
+          "longitude": "17.05694000"
+        },
+        {
+          "name": "Zmijavci",
+          "latitude": "43.41083000",
+          "longitude": "17.20556000"
+        },
+        {
+          "name": "Žrnovnica",
+          "latitude": "43.52111000",
+          "longitude": "16.55917000"
+        }
+      ]
+    },
+    {
+      "name": "Varaždin County",
+      "state_code": "05",
+      "latitude": "46.23174730",
+      "longitude": "16.33605590",
+      "cities": [
+        {
+          "name": "Beretinec",
+          "latitude": "46.25000000",
+          "longitude": "16.30000000"
+        },
+        {
+          "name": "Breznica",
+          "latitude": "46.07111000",
+          "longitude": "16.27111000"
+        },
+        {
+          "name": "Breznički Hum",
+          "latitude": "46.10722000",
+          "longitude": "16.27667000"
+        },
+        {
+          "name": "Cestica",
+          "latitude": "46.37167000",
+          "longitude": "16.12528000"
+        },
+        {
+          "name": "Donje Ladanje",
+          "latitude": "46.30000000",
+          "longitude": "16.16667000"
+        },
+        {
+          "name": "Gornje Vratno",
+          "latitude": "46.35917000",
+          "longitude": "16.15444000"
+        },
+        {
+          "name": "Gornji Kneginec",
+          "latitude": "46.25051000",
+          "longitude": "16.37555000"
+        },
+        {
+          "name": "Grad Ivanec",
+          "latitude": "46.23333000",
+          "longitude": "16.13333000"
+        },
+        {
+          "name": "Grad Ludbreg",
+          "latitude": "46.25000000",
+          "longitude": "16.63333000"
+        },
+        {
+          "name": "Grad Novi Marof",
+          "latitude": "46.16667000",
+          "longitude": "16.33333000"
+        },
+        {
+          "name": "Grad Varaždin",
+          "latitude": "46.30354000",
+          "longitude": "16.33444000"
+        },
+        {
+          "name": "Hrašćica",
+          "latitude": "46.32494000",
+          "longitude": "16.29427000"
+        },
+        {
+          "name": "Ivanec",
+          "latitude": "46.22306000",
+          "longitude": "16.12000000"
+        },
+        {
+          "name": "Jalkovec",
+          "latitude": "46.28083000",
+          "longitude": "16.31972000"
+        },
+        {
+          "name": "Jalžabet",
+          "latitude": "46.26083000",
+          "longitude": "16.47500000"
+        },
+        {
+          "name": "Klenovnik",
+          "latitude": "46.27028000",
+          "longitude": "16.07000000"
+        },
+        {
+          "name": "Kućan Marof",
+          "latitude": "46.28944000",
+          "longitude": "16.37222000"
+        },
+        {
+          "name": "Lepoglava",
+          "latitude": "46.21056000",
+          "longitude": "16.03556000"
+        },
+        {
+          "name": "Ljubešćica",
+          "latitude": "46.16667000",
+          "longitude": "16.38333000"
+        },
+        {
+          "name": "Ludbreg",
+          "latitude": "46.25194000",
+          "longitude": "16.61472000"
+        },
+        {
+          "name": "Nedeljanec",
+          "latitude": "46.28778000",
+          "longitude": "16.28333000"
+        },
+        {
+          "name": "Petrijanec",
+          "latitude": "46.34917000",
+          "longitude": "16.22500000"
+        },
+        {
+          "name": "Remetinec",
+          "latitude": "46.18528000",
+          "longitude": "16.32778000"
+        },
+        {
+          "name": "Sračinec",
+          "latitude": "46.32944000",
+          "longitude": "16.27889000"
+        },
+        {
+          "name": "Sveti Đurđ",
+          "latitude": "46.28331000",
+          "longitude": "16.60438000"
+        },
+        {
+          "name": "Tužno",
+          "latitude": "46.25667000",
+          "longitude": "16.23500000"
+        },
+        {
+          "name": "Varaždin",
+          "latitude": "46.30444000",
+          "longitude": "16.33778000"
+        },
+        {
+          "name": "Vidovec",
+          "latitude": "46.28333000",
+          "longitude": "16.24111000"
+        },
+        {
+          "name": "Vinica",
+          "latitude": "46.33611000",
+          "longitude": "16.14944000"
+        }
+      ]
+    },
+    {
+      "name": "Virovitica-Podravina County",
+      "state_code": "10",
+      "latitude": "45.65579850",
+      "longitude": "17.79324720",
+      "cities": [
+        {
+          "name": "Čačinci",
+          "latitude": "45.60389000",
+          "longitude": "17.87028000"
+        },
+        {
+          "name": "Čađavica",
+          "latitude": "45.74417000",
+          "longitude": "17.85472000"
+        },
+        {
+          "name": "Crnac",
+          "latitude": "45.69611000",
+          "longitude": "17.93722000"
+        },
+        {
+          "name": "Grad Orahovica",
+          "latitude": "45.53333000",
+          "longitude": "17.90000000"
+        },
+        {
+          "name": "Grad Slatina",
+          "latitude": "45.70000000",
+          "longitude": "17.70000000"
+        },
+        {
+          "name": "Grad Virovitica",
+          "latitude": "45.83167000",
+          "longitude": "17.38483000"
+        },
+        {
+          "name": "Gradina",
+          "latitude": "45.85423000",
+          "longitude": "17.51109000"
+        },
+        {
+          "name": "Mikleuš",
+          "latitude": "45.61861000",
+          "longitude": "17.80389000"
+        },
+        {
+          "name": "Nova Bukovica",
+          "latitude": "45.66472000",
+          "longitude": "17.76694000"
+        },
+        {
+          "name": "Orahovica",
+          "latitude": "45.54000000",
+          "longitude": "17.88472000"
+        },
+        {
+          "name": "Pitomača",
+          "latitude": "45.95056000",
+          "longitude": "17.22944000"
+        },
+        {
+          "name": "Rezovac",
+          "latitude": "45.78333000",
+          "longitude": "17.41667000"
+        },
+        {
+          "name": "Slatina",
+          "latitude": "45.70333000",
+          "longitude": "17.70278000"
+        },
+        {
+          "name": "Sopje",
+          "latitude": "45.80111000",
+          "longitude": "17.74250000"
+        },
+        {
+          "name": "Špišić Bukovica",
+          "latitude": "45.85740000",
+          "longitude": "17.30089000"
+        },
+        {
+          "name": "Suhopolje",
+          "latitude": "45.79972000",
+          "longitude": "17.49917000"
+        },
+        {
+          "name": "Virovitica",
+          "latitude": "45.83194000",
+          "longitude": "17.38389000"
+        },
+        {
+          "name": "Voćin",
+          "latitude": "45.61778000",
+          "longitude": "17.54778000"
+        },
+        {
+          "name": "Zdenci",
+          "latitude": "45.58917000",
+          "longitude": "17.95028000"
+        }
+      ]
+    },
+    {
+      "name": "Vukovar-Syrmia County",
+      "state_code": "16",
+      "latitude": "45.17735520",
+      "longitude": "18.80535270",
+      "cities": [
+        {
+          "name": "Andrijaševci",
+          "latitude": "45.22472000",
+          "longitude": "18.73806000"
+        },
+        {
+          "name": "Babina Greda",
+          "latitude": "45.11722000",
+          "longitude": "18.53694000"
+        },
+        {
+          "name": "Bobota",
+          "latitude": "45.42111000",
+          "longitude": "18.85389000"
+        },
+        {
+          "name": "Bogdanovci",
+          "latitude": "45.34083000",
+          "longitude": "18.93083000"
+        },
+        {
+          "name": "Borovo",
+          "latitude": "45.37639000",
+          "longitude": "18.96694000"
+        },
+        {
+          "name": "Borovo Selo",
+          "latitude": "45.40528000",
+          "longitude": "18.97583000"
+        },
+        {
+          "name": "Bošnjaci",
+          "latitude": "45.05028000",
+          "longitude": "18.75556000"
+        },
+        {
+          "name": "Bršadin",
+          "latitude": "45.36278000",
+          "longitude": "18.91111000"
+        },
+        {
+          "name": "Cerić",
+          "latitude": "45.31139000",
+          "longitude": "18.85611000"
+        },
+        {
+          "name": "Cerna",
+          "latitude": "45.18194000",
+          "longitude": "18.68944000"
+        },
+        {
+          "name": "Drenovci",
+          "latitude": "44.91944000",
+          "longitude": "18.90284000"
+        },
+        {
+          "name": "Grad Vinkovci",
+          "latitude": "45.28044000",
+          "longitude": "18.80482000"
+        },
+        {
+          "name": "Grad Vukovar",
+          "latitude": "45.33333000",
+          "longitude": "19.00000000"
+        },
+        {
+          "name": "Grad Županja",
+          "latitude": "45.07231000",
+          "longitude": "18.69513000"
+        },
+        {
+          "name": "Gradište",
+          "latitude": "45.14806000",
+          "longitude": "18.70667000"
+        },
+        {
+          "name": "Gunja",
+          "latitude": "44.88000000",
+          "longitude": "18.85333000"
+        },
+        {
+          "name": "Ilok",
+          "latitude": "45.22222000",
+          "longitude": "19.37694000"
+        },
+        {
+          "name": "Ivankovo",
+          "latitude": "45.28861000",
+          "longitude": "18.68389000"
+        },
+        {
+          "name": "Jarmina",
+          "latitude": "45.31806000",
+          "longitude": "18.72917000"
+        },
+        {
+          "name": "Komletinci",
+          "latitude": "45.14972000",
+          "longitude": "18.94917000"
+        },
+        {
+          "name": "Lovas",
+          "latitude": "45.22639000",
+          "longitude": "19.17111000"
+        },
+        {
+          "name": "Markušica",
+          "latitude": "45.37389000",
+          "longitude": "18.70583000"
+        },
+        {
+          "name": "Mirkovci",
+          "latitude": "45.26972000",
+          "longitude": "18.85111000"
+        },
+        {
+          "name": "Negoslavci",
+          "latitude": "45.27944000",
+          "longitude": "18.99667000"
+        },
+        {
+          "name": "Nijemci",
+          "latitude": "45.14028000",
+          "longitude": "19.03556000"
+        },
+        {
+          "name": "Nuštar",
+          "latitude": "45.33250000",
+          "longitude": "18.84139000"
+        },
+        {
+          "name": "Otok",
+          "latitude": "45.14667000",
+          "longitude": "18.88389000"
+        },
+        {
+          "name": "Privlaka",
+          "latitude": "45.19472000",
+          "longitude": "18.83750000"
+        },
+        {
+          "name": "Retkovci",
+          "latitude": "45.23333000",
+          "longitude": "18.65306000"
+        },
+        {
+          "name": "Rokovci",
+          "latitude": "45.23111000",
+          "longitude": "18.74389000"
+        },
+        {
+          "name": "Soljani",
+          "latitude": "44.95028000",
+          "longitude": "18.97028000"
+        },
+        {
+          "name": "Stari Jankovci",
+          "latitude": "45.26194000",
+          "longitude": "18.91444000"
+        },
+        {
+          "name": "Štitar",
+          "latitude": "45.09556000",
+          "longitude": "18.64028000"
+        },
+        {
+          "name": "Tordinci",
+          "latitude": "45.37028000",
+          "longitude": "18.79500000"
+        },
+        {
+          "name": "Tovarnik",
+          "latitude": "45.16500000",
+          "longitude": "19.15194000"
+        },
+        {
+          "name": "Trpinja",
+          "latitude": "45.41917000",
+          "longitude": "18.89917000"
+        },
+        {
+          "name": "Vinkovci",
+          "latitude": "45.28833000",
+          "longitude": "18.80472000"
+        },
+        {
+          "name": "Vođinci",
+          "latitude": "45.27556000",
+          "longitude": "18.60972000"
+        },
+        {
+          "name": "Vrbanja",
+          "latitude": "44.98079000",
+          "longitude": "18.92717000"
+        },
+        {
+          "name": "Vukovar",
+          "latitude": "45.35161000",
+          "longitude": "19.00225000"
+        },
+        {
+          "name": "Županja",
+          "latitude": "45.07750000",
+          "longitude": "18.69750000"
+        }
+      ]
+    },
+    {
+      "name": "Zadar County",
+      "state_code": "13",
+      "latitude": "44.14693900",
+      "longitude": "15.61649430",
+      "cities": [
+        {
+          "name": "Benkovac",
+          "latitude": "44.03444000",
+          "longitude": "15.61278000"
+        },
+        {
+          "name": "Bibinje",
+          "latitude": "44.07324000",
+          "longitude": "15.28288000"
+        },
+        {
+          "name": "Biograd na Moru",
+          "latitude": "43.94333000",
+          "longitude": "15.45194000"
+        },
+        {
+          "name": "Galovac",
+          "latitude": "44.07139000",
+          "longitude": "15.39333000"
+        },
+        {
+          "name": "Gornji Karin",
+          "latitude": "44.13598000",
+          "longitude": "15.63423000"
+        },
+        {
+          "name": "Gračac",
+          "latitude": "44.29916000",
+          "longitude": "15.84752000"
+        },
+        {
+          "name": "Grad Biograd na Moru",
+          "latitude": "43.93333000",
+          "longitude": "15.43333000"
+        },
+        {
+          "name": "Jasenice",
+          "latitude": "44.22969000",
+          "longitude": "15.57514000"
+        },
+        {
+          "name": "Kali",
+          "latitude": "44.06278000",
+          "longitude": "15.20556000"
+        },
+        {
+          "name": "Kruševo",
+          "latitude": "44.18333000",
+          "longitude": "15.65000000"
+        },
+        {
+          "name": "Nin",
+          "latitude": "44.24139000",
+          "longitude": "15.17833000"
+        },
+        {
+          "name": "Novigrad Općina",
+          "latitude": "44.19417000",
+          "longitude": "15.55667000"
+        },
+        {
+          "name": "Obrovac",
+          "latitude": "44.20056000",
+          "longitude": "15.68222000"
+        },
+        {
+          "name": "Osljak",
+          "latitude": "44.07667000",
+          "longitude": "15.20722000"
+        },
+        {
+          "name": "Pag",
+          "latitude": "44.44500000",
+          "longitude": "15.05750000"
+        },
+        {
+          "name": "Pakoštane",
+          "latitude": "43.91222000",
+          "longitude": "15.50889000"
+        },
+        {
+          "name": "Polača",
+          "latitude": "44.01833000",
+          "longitude": "15.51750000"
+        },
+        {
+          "name": "Poličnik",
+          "latitude": "44.17806000",
+          "longitude": "15.37556000"
+        },
+        {
+          "name": "Posedarje",
+          "latitude": "44.21361000",
+          "longitude": "15.47667000"
+        },
+        {
+          "name": "Preko",
+          "latitude": "44.08111000",
+          "longitude": "15.18750000"
+        },
+        {
+          "name": "Pridraga",
+          "latitude": "44.16667000",
+          "longitude": "15.56667000"
+        },
+        {
+          "name": "Privlaka",
+          "latitude": "44.26667000",
+          "longitude": "15.13333000"
+        },
+        {
+          "name": "Ražanac",
+          "latitude": "44.28194000",
+          "longitude": "15.34806000"
+        },
+        {
+          "name": "Sali",
+          "latitude": "43.93972000",
+          "longitude": "15.16333000"
+        },
+        {
+          "name": "Škabrnja",
+          "latitude": "44.08949000",
+          "longitude": "15.45146000"
+        },
+        {
+          "name": "Stari Grad",
+          "latitude": "44.43000000",
+          "longitude": "15.06222000"
+        },
+        {
+          "name": "Starigrad",
+          "latitude": "44.29601000",
+          "longitude": "15.43865000"
+        },
+        {
+          "name": "Sukošan",
+          "latitude": "44.04696000",
+          "longitude": "15.31391000"
+        },
+        {
+          "name": "Sveti Filip i Jakov",
+          "latitude": "43.96472000",
+          "longitude": "15.43000000"
+        },
+        {
+          "name": "Tkon",
+          "latitude": "43.91996000",
+          "longitude": "15.41639000"
+        },
+        {
+          "name": "Turanj",
+          "latitude": "43.97111000",
+          "longitude": "15.41139000"
+        },
+        {
+          "name": "Ugljan",
+          "latitude": "44.13083000",
+          "longitude": "15.10306000"
+        },
+        {
+          "name": "Vir",
+          "latitude": "44.29995000",
+          "longitude": "15.08663000"
+        },
+        {
+          "name": "Vrsi",
+          "latitude": "44.26472000",
+          "longitude": "15.23250000"
+        },
+        {
+          "name": "Zadar",
+          "latitude": "44.11972000",
+          "longitude": "15.24222000"
+        }
+      ]
+    },
+    {
+      "name": "Zagreb",
+      "state_code": "21",
+      "latitude": "45.81501080",
+      "longitude": "15.98191890",
+      "cities": [
+        {
+          "name": "Brezovica",
+          "latitude": "45.72919000",
+          "longitude": "15.91069000"
+        },
+        {
+          "name": "Centar",
+          "latitude": "45.81313000",
+          "longitude": "15.97753000"
+        },
+        {
+          "name": "Dubrava",
+          "latitude": "45.83361000",
+          "longitude": "16.06361000"
+        },
+        {
+          "name": "Gradska četvrt Donji grad",
+          "latitude": "45.80834000",
+          "longitude": "15.96949000"
+        },
+        {
+          "name": "Gradska četvrt Gornji Grad - Medvescak",
+          "latitude": "45.82820000",
+          "longitude": "15.97938000"
+        },
+        {
+          "name": "Gradska četvrt Podsljeme",
+          "latitude": "45.86097000",
+          "longitude": "15.97996000"
+        },
+        {
+          "name": "Horvati",
+          "latitude": "45.70000000",
+          "longitude": "15.81667000"
+        },
+        {
+          "name": "Jankomir",
+          "latitude": "45.79167000",
+          "longitude": "15.90000000"
+        },
+        {
+          "name": "Ježdovec",
+          "latitude": "45.78333000",
+          "longitude": "15.85000000"
+        },
+        {
+          "name": "Kašina",
+          "latitude": "45.91134000",
+          "longitude": "16.12436000"
+        },
+        {
+          "name": "Lučko",
+          "latitude": "45.76111000",
+          "longitude": "15.87028000"
+        },
+        {
+          "name": "Novi Zagreb",
+          "latitude": "45.78333000",
+          "longitude": "15.98333000"
+        },
+        {
+          "name": "Odra",
+          "latitude": "45.72979000",
+          "longitude": "15.99240000"
+        },
+        {
+          "name": "Sesvete",
+          "latitude": "45.83333000",
+          "longitude": "16.13333000"
+        },
+        {
+          "name": "Stenjevec",
+          "latitude": "45.80846000",
+          "longitude": "15.88245000"
+        },
+        {
+          "name": "Strmec",
+          "latitude": "45.70843000",
+          "longitude": "15.91674000"
+        },
+        {
+          "name": "Zadvorsko",
+          "latitude": "45.71978000",
+          "longitude": "15.90880000"
+        },
+        {
+          "name": "Zagreb",
+          "latitude": "45.81444000",
+          "longitude": "15.97798000"
+        }
+      ]
+    },
+    {
+      "name": "Zagreb County",
+      "state_code": "01",
+      "latitude": "45.87066120",
+      "longitude": "16.39549100",
+      "cities": [
+        {
+          "name": "Bestovje",
+          "latitude": "45.80833000",
+          "longitude": "15.81667000"
+        },
+        {
+          "name": "Bistra",
+          "latitude": "45.90657000",
+          "longitude": "15.85087000"
+        },
+        {
+          "name": "Brckovljani",
+          "latitude": "45.83333000",
+          "longitude": "16.30000000"
+        },
+        {
+          "name": "Brdovec",
+          "latitude": "45.86666000",
+          "longitude": "15.77102000"
+        },
+        {
+          "name": "Bregana",
+          "latitude": "45.84013000",
+          "longitude": "15.68792000"
+        },
+        {
+          "name": "Donja Bistra",
+          "latitude": "45.90778000",
+          "longitude": "15.85444000"
+        },
+        {
+          "name": "Donja Lomnica",
+          "latitude": "45.71194000",
+          "longitude": "16.02694000"
+        },
+        {
+          "name": "Donja Zdenčina",
+          "latitude": "45.66667000",
+          "longitude": "15.76667000"
+        },
+        {
+          "name": "Donji Stupnik",
+          "latitude": "45.73971000",
+          "longitude": "15.85975000"
+        },
+        {
+          "name": "Farkaševac",
+          "latitude": "45.87899000",
+          "longitude": "16.63467000"
+        },
+        {
+          "name": "Gornja Bistra",
+          "latitude": "45.91667000",
+          "longitude": "15.90000000"
+        },
+        {
+          "name": "Gračec",
+          "latitude": "45.83333000",
+          "longitude": "16.31667000"
+        },
+        {
+          "name": "Grad Dugo Selo",
+          "latitude": "45.80900000",
+          "longitude": "16.24123000"
+        },
+        {
+          "name": "Grad Jastrebarsko",
+          "latitude": "45.66667000",
+          "longitude": "15.66667000"
+        },
+        {
+          "name": "Grad Samobor",
+          "latitude": "45.80000000",
+          "longitude": "15.70000000"
+        },
+        {
+          "name": "Grad Sveti Ivan Zelina",
+          "latitude": "45.96667000",
+          "longitude": "16.25000000"
+        },
+        {
+          "name": "Grad Velika Gorica",
+          "latitude": "45.70000000",
+          "longitude": "16.08333000"
+        },
+        {
+          "name": "Grad Vrbovec",
+          "latitude": "45.86667000",
+          "longitude": "16.43333000"
+        },
+        {
+          "name": "Grad Zaprešić",
+          "latitude": "45.86667000",
+          "longitude": "15.80000000"
+        },
+        {
+          "name": "Gradec",
+          "latitude": "45.91111000",
+          "longitude": "16.48278000"
+        },
+        {
+          "name": "Gradići",
+          "latitude": "45.70000000",
+          "longitude": "16.05000000"
+        },
+        {
+          "name": "Jablanovec",
+          "latitude": "45.87583000",
+          "longitude": "15.85361000"
+        },
+        {
+          "name": "Jakovlje",
+          "latitude": "45.93611000",
+          "longitude": "15.85559000"
+        },
+        {
+          "name": "Jastrebarsko",
+          "latitude": "45.66833000",
+          "longitude": "15.64861000"
+        },
+        {
+          "name": "Kerestinec",
+          "latitude": "45.77010000",
+          "longitude": "15.80864000"
+        },
+        {
+          "name": "Križ",
+          "latitude": "45.66500000",
+          "longitude": "16.52333000"
+        },
+        {
+          "name": "Kuče",
+          "latitude": "45.67694000",
+          "longitude": "16.14500000"
+        },
+        {
+          "name": "Lonjica",
+          "latitude": "45.85500000",
+          "longitude": "16.33000000"
+        },
+        {
+          "name": "Luka",
+          "latitude": "45.95795000",
+          "longitude": "15.81954000"
+        },
+        {
+          "name": "Lukavec",
+          "latitude": "45.70444000",
+          "longitude": "15.99000000"
+        },
+        {
+          "name": "Lupoglav",
+          "latitude": "45.79639000",
+          "longitude": "16.34639000"
+        },
+        {
+          "name": "Mičevec",
+          "latitude": "45.75000000",
+          "longitude": "16.06667000"
+        },
+        {
+          "name": "Mraclin",
+          "latitude": "45.66667000",
+          "longitude": "16.09556000"
+        },
+        {
+          "name": "Novo Čiče",
+          "latitude": "45.70000000",
+          "longitude": "16.11667000"
+        },
+        {
+          "name": "Novoselec",
+          "latitude": "45.65250000",
+          "longitude": "16.53639000"
+        },
+        {
+          "name": "Općina Dubrava",
+          "latitude": "45.83759000",
+          "longitude": "16.53683000"
+        },
+        {
+          "name": "Orešje",
+          "latitude": "45.81618000",
+          "longitude": "15.80246000"
+        },
+        {
+          "name": "Pojatno",
+          "latitude": "45.90500000",
+          "longitude": "15.80056000"
+        },
+        {
+          "name": "Preseka",
+          "latitude": "45.97456000",
+          "longitude": "16.38697000"
+        },
+        {
+          "name": "Prigorje Brdovečko",
+          "latitude": "45.87944000",
+          "longitude": "15.73806000"
+        },
+        {
+          "name": "Pušća",
+          "latitude": "45.91567000",
+          "longitude": "15.78049000"
+        },
+        {
+          "name": "Rakitje",
+          "latitude": "45.79389000",
+          "longitude": "15.82222000"
+        },
+        {
+          "name": "Rakov Potok",
+          "latitude": "45.73806000",
+          "longitude": "15.79722000"
+        },
+        {
+          "name": "Rude",
+          "latitude": "45.76667000",
+          "longitude": "15.66667000"
+        },
+        {
+          "name": "Samobor",
+          "latitude": "45.80306000",
+          "longitude": "15.71806000"
+        },
+        {
+          "name": "Stupnik",
+          "latitude": "45.75314000",
+          "longitude": "15.84078000"
+        },
+        {
+          "name": "Sveta Nedelja",
+          "latitude": "45.79617000",
+          "longitude": "15.77971000"
+        },
+        {
+          "name": "Sveta Nedjelja",
+          "latitude": "45.79833000",
+          "longitude": "15.78056000"
+        },
+        {
+          "name": "Velika Gorica",
+          "latitude": "45.71250000",
+          "longitude": "16.07556000"
+        },
+        {
+          "name": "Velika Mlaka",
+          "latitude": "45.73639000",
+          "longitude": "16.03111000"
+        },
+        {
+          "name": "Velika Ostrna",
+          "latitude": "45.78752000",
+          "longitude": "16.28139000"
+        },
+        {
+          "name": "Vrbovec",
+          "latitude": "45.88333000",
+          "longitude": "16.42167000"
+        },
+        {
+          "name": "Zaprešić",
+          "latitude": "45.85639000",
+          "longitude": "15.80778000"
+        },
+        {
+          "name": "Zdenci Brdovečki",
+          "latitude": "45.86667000",
+          "longitude": "15.75000000"
+        }
+      ]
+    }
+  ]
+}

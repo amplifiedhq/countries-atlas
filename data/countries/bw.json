@@ -1,0 +1,459 @@
+{
+  "code": "BW",
+  "states": [
+    {
+      "name": "Central District",
+      "state_code": "CE",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Gobojango",
+          "latitude": "-21.83270000",
+          "longitude": "28.72882000"
+        },
+        {
+          "name": "Gweta",
+          "latitude": "-20.18333000",
+          "longitude": "25.23333000"
+        },
+        {
+          "name": "Kalamare",
+          "latitude": "-22.93369000",
+          "longitude": "26.57032000"
+        },
+        {
+          "name": "Letlhakane",
+          "latitude": "-21.41494000",
+          "longitude": "25.59263000"
+        },
+        {
+          "name": "Letsheng",
+          "latitude": "-22.66384000",
+          "longitude": "27.22390000"
+        },
+        {
+          "name": "Maapi",
+          "latitude": "-22.75785000",
+          "longitude": "27.35001000"
+        },
+        {
+          "name": "Machaneng",
+          "latitude": "-23.18621000",
+          "longitude": "27.48856000"
+        },
+        {
+          "name": "Mahalapye",
+          "latitude": "-23.10407000",
+          "longitude": "26.81421000"
+        },
+        {
+          "name": "Makobeng",
+          "latitude": "-22.99637000",
+          "longitude": "27.66766000"
+        },
+        {
+          "name": "Makwata",
+          "latitude": "-23.28333000",
+          "longitude": "27.30000000"
+        },
+        {
+          "name": "Mathakola",
+          "latitude": "-22.72125000",
+          "longitude": "27.31057000"
+        },
+        {
+          "name": "Mathambgwane",
+          "latitude": "-20.99075000",
+          "longitude": "27.33158000"
+        },
+        {
+          "name": "Mathathane",
+          "latitude": "-22.26875000",
+          "longitude": "28.74946000"
+        },
+        {
+          "name": "Maunatlala",
+          "latitude": "-22.59701000",
+          "longitude": "27.63006000"
+        },
+        {
+          "name": "Mogapi",
+          "latitude": "-22.32301000",
+          "longitude": "27.83492000"
+        },
+        {
+          "name": "Moijabana",
+          "latitude": "-22.43333000",
+          "longitude": "26.41667000"
+        },
+        {
+          "name": "Mookane",
+          "latitude": "-23.68805000",
+          "longitude": "26.65948000"
+        },
+        {
+          "name": "Mopipi",
+          "latitude": "-21.18333000",
+          "longitude": "24.88333000"
+        },
+        {
+          "name": "Mosetse",
+          "latitude": "-20.75000000",
+          "longitude": "26.65000000"
+        },
+        {
+          "name": "Nata",
+          "latitude": "-20.21667000",
+          "longitude": "26.18333000"
+        },
+        {
+          "name": "Orapa",
+          "latitude": "-21.31150000",
+          "longitude": "25.37642000"
+        },
+        {
+          "name": "Palapye",
+          "latitude": "-22.54605000",
+          "longitude": "27.12507000"
+        },
+        {
+          "name": "Pilikwe",
+          "latitude": "-22.79904000",
+          "longitude": "27.19376000"
+        },
+        {
+          "name": "Rakops",
+          "latitude": "-21.02257000",
+          "longitude": "24.36052000"
+        },
+        {
+          "name": "Ramokgonami",
+          "latitude": "-22.86450000",
+          "longitude": "27.42391000"
+        },
+        {
+          "name": "Ratholo",
+          "latitude": "-22.72454000",
+          "longitude": "27.57199000"
+        },
+        {
+          "name": "Sefophe",
+          "latitude": "-22.18333000",
+          "longitude": "27.96667000"
+        },
+        {
+          "name": "Serowe",
+          "latitude": "-22.38754000",
+          "longitude": "26.71077000"
+        },
+        {
+          "name": "Sua",
+          "latitude": "-20.05000000",
+          "longitude": "26.20000000"
+        },
+        {
+          "name": "Tamasane",
+          "latitude": "-22.41840000",
+          "longitude": "27.40127000"
+        },
+        {
+          "name": "Tobane",
+          "latitude": "-21.95000000",
+          "longitude": "27.90000000"
+        },
+        {
+          "name": "Tonota",
+          "latitude": "-21.44236000",
+          "longitude": "27.46153000"
+        }
+      ]
+    },
+    {
+      "name": "Ghanzi District",
+      "state_code": "GH",
+      "latitude": "-21.86523140",
+      "longitude": "21.85685860",
+      "cities": [
+        {
+          "name": "Dekar",
+          "latitude": "-21.53333000",
+          "longitude": "21.93333000"
+        },
+        {
+          "name": "Ghanzi",
+          "latitude": "-21.69785000",
+          "longitude": "21.64581000"
+        }
+      ]
+    },
+    {
+      "name": "Kgalagadi District",
+      "state_code": "KG",
+      "latitude": "-24.75502850",
+      "longitude": "21.85685860",
+      "cities": [
+        {
+          "name": "Hukuntsi",
+          "latitude": "-23.99880000",
+          "longitude": "21.77962000"
+        },
+        {
+          "name": "Kang",
+          "latitude": "-23.67518000",
+          "longitude": "22.78762000"
+        },
+        {
+          "name": "Lehututu",
+          "latitude": "-23.96667000",
+          "longitude": "21.86667000"
+        },
+        {
+          "name": "Manyana",
+          "latitude": "-23.40000000",
+          "longitude": "21.71667000"
+        },
+        {
+          "name": "Tshabong",
+          "latitude": "-26.05000000",
+          "longitude": "22.45000000"
+        },
+        {
+          "name": "Werda",
+          "latitude": "-25.26667000",
+          "longitude": "23.28333000"
+        }
+      ]
+    },
+    {
+      "name": "Kgatleng District",
+      "state_code": "KL",
+      "latitude": "-24.19704450",
+      "longitude": "26.23046160",
+      "cities": [
+        {
+          "name": "Bokaa",
+          "latitude": "-24.45000000",
+          "longitude": "26.01667000"
+        },
+        {
+          "name": "Mmathubudukwane",
+          "latitude": "-24.60000000",
+          "longitude": "26.43333000"
+        },
+        {
+          "name": "Mochudi",
+          "latitude": "-24.41667000",
+          "longitude": "26.15000000"
+        },
+        {
+          "name": "Pilane",
+          "latitude": "-24.45000000",
+          "longitude": "26.13333000"
+        }
+      ]
+    },
+    {
+      "name": "Kweneng District",
+      "state_code": "KW",
+      "latitude": "-23.83672490",
+      "longitude": "25.28375850",
+      "cities": [
+        {
+          "name": "Botlhapatlou",
+          "latitude": "-24.02591000",
+          "longitude": "25.48976000"
+        },
+        {
+          "name": "Dutlwe",
+          "latitude": "-23.98333000",
+          "longitude": "23.90000000"
+        },
+        {
+          "name": "Gabane",
+          "latitude": "-24.66667000",
+          "longitude": "25.78222000"
+        },
+        {
+          "name": "Gaphatshwe",
+          "latitude": "-24.57389000",
+          "longitude": "25.83417000"
+        },
+        {
+          "name": "Khudumelapye",
+          "latitude": "-23.88333000",
+          "longitude": "24.75000000"
+        },
+        {
+          "name": "Lenchwe Le Tau",
+          "latitude": "-24.38333000",
+          "longitude": "25.85000000"
+        },
+        {
+          "name": "Letlhakeng",
+          "latitude": "-24.09442000",
+          "longitude": "25.02977000"
+        },
+        {
+          "name": "Metsemotlhaba",
+          "latitude": "-24.55139000",
+          "longitude": "25.80306000"
+        },
+        {
+          "name": "Mmopone",
+          "latitude": "-24.56694000",
+          "longitude": "25.87417000"
+        },
+        {
+          "name": "Mogoditshane",
+          "latitude": "-24.62694000",
+          "longitude": "25.86556000"
+        },
+        {
+          "name": "Molepolole",
+          "latitude": "-24.40659000",
+          "longitude": "25.49508000"
+        },
+        {
+          "name": "Nkoyaphiri",
+          "latitude": "-24.63222000",
+          "longitude": "25.83139000"
+        },
+        {
+          "name": "Thamaga",
+          "latitude": "-24.67014000",
+          "longitude": "25.53975000"
+        }
+      ]
+    },
+    {
+      "name": "Ngamiland",
+      "state_code": "NG",
+      "latitude": "-19.19053210",
+      "longitude": "23.00119890",
+      "cities": []
+    },
+    {
+      "name": "North-East District",
+      "state_code": "NE",
+      "latitude": "37.58844610",
+      "longitude": "-94.68637820",
+      "cities": [
+        {
+          "name": "Dukwe",
+          "latitude": "-20.58333000",
+          "longitude": "26.41667000"
+        },
+        {
+          "name": "Makaleng",
+          "latitude": "-20.90000000",
+          "longitude": "27.28333000"
+        },
+        {
+          "name": "Masunga",
+          "latitude": "-20.62455000",
+          "longitude": "27.44875000"
+        },
+        {
+          "name": "Sebina",
+          "latitude": "-20.86667000",
+          "longitude": "27.25000000"
+        }
+      ]
+    },
+    {
+      "name": "North-West District",
+      "state_code": "NW",
+      "latitude": "39.34463070",
+      "longitude": "-76.68542830",
+      "cities": [
+        {
+          "name": "Maun",
+          "latitude": "-19.98333000",
+          "longitude": "23.41667000"
+        },
+        {
+          "name": "Nokaneng",
+          "latitude": "-19.66667000",
+          "longitude": "22.26667000"
+        },
+        {
+          "name": "Pandamatenga",
+          "latitude": "-18.52779000",
+          "longitude": "25.62698000"
+        },
+        {
+          "name": "Sehithwa",
+          "latitude": "-20.46667000",
+          "longitude": "22.71667000"
+        },
+        {
+          "name": "Shakawe",
+          "latitude": "-18.36536000",
+          "longitude": "21.84219000"
+        }
+      ]
+    },
+    {
+      "name": "South-East District",
+      "state_code": "SE",
+      "latitude": "31.21637980",
+      "longitude": "-82.35270440",
+      "cities": [
+        {
+          "name": "Gaborone",
+          "latitude": "-24.76234000",
+          "longitude": "25.79950000"
+        },
+        {
+          "name": "Janeng",
+          "latitude": "-25.41667000",
+          "longitude": "25.55000000"
+        },
+        {
+          "name": "Kopong",
+          "latitude": "-24.48333000",
+          "longitude": "25.88333000"
+        },
+        {
+          "name": "Otse",
+          "latitude": "-25.01667000",
+          "longitude": "25.73333000"
+        },
+        {
+          "name": "Ramotswa",
+          "latitude": "-24.87158000",
+          "longitude": "25.86989000"
+        }
+      ]
+    },
+    {
+      "name": "Southern District",
+      "state_code": "SO",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Kanye",
+          "latitude": "-24.96675000",
+          "longitude": "25.33273000"
+        },
+        {
+          "name": "Khakhea",
+          "latitude": "-24.68954000",
+          "longitude": "23.49403000"
+        },
+        {
+          "name": "Mosopa",
+          "latitude": "-24.77180000",
+          "longitude": "25.42156000"
+        },
+        {
+          "name": "Sekoma",
+          "latitude": "-24.40000000",
+          "longitude": "23.88333000"
+        }
+      ]
+    }
+  ]
+}

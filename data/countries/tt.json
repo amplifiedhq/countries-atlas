@@ -1,0 +1,257 @@
+{
+  "code": "TT",
+  "states": [
+    {
+      "name": "Arima",
+      "state_code": "ARI",
+      "latitude": "46.79316040",
+      "longitude": "-71.25843110",
+      "cities": [
+        {
+          "name": "Arima",
+          "latitude": "10.63737000",
+          "longitude": "-61.28228000"
+        }
+      ]
+    },
+    {
+      "name": "Chaguanas",
+      "state_code": "CHA",
+      "latitude": "10.51683870",
+      "longitude": "-61.41144820",
+      "cities": [
+        {
+          "name": "Chaguanas",
+          "latitude": "10.51667000",
+          "longitude": "-61.41667000"
+        },
+        {
+          "name": "Ward of Chaguanas",
+          "latitude": "10.50000000",
+          "longitude": "-61.38333000"
+        }
+      ]
+    },
+    {
+      "name": "Couva-Tabaquite-Talparo Regional Corporation",
+      "state_code": "CTT",
+      "latitude": "10.42971450",
+      "longitude": "-61.37352100",
+      "cities": [
+        {
+          "name": "Couva",
+          "latitude": "10.42248000",
+          "longitude": "-61.46748000"
+        },
+        {
+          "name": "Tabaquite",
+          "latitude": "10.38824000",
+          "longitude": "-61.29704000"
+        }
+      ]
+    },
+    {
+      "name": "Diego Martin Regional Corporation",
+      "state_code": "DMN",
+      "latitude": "10.73622860",
+      "longitude": "-61.55448360",
+      "cities": [
+        {
+          "name": "Petit Valley",
+          "latitude": "10.69974000",
+          "longitude": "-61.54717000"
+        },
+        {
+          "name": "Ward of Diego Martin",
+          "latitude": "10.70000000",
+          "longitude": "-61.58333000"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Tobago",
+      "state_code": "ETO",
+      "latitude": "11.29793480",
+      "longitude": "-60.55885240",
+      "cities": [
+        {
+          "name": "Scarborough",
+          "latitude": "11.18229000",
+          "longitude": "-60.73525000"
+        }
+      ]
+    },
+    {
+      "name": "Penal-Debe Regional Corporation",
+      "state_code": "PED",
+      "latitude": "10.13374020",
+      "longitude": "-61.44354740",
+      "cities": [
+        {
+          "name": "Debe",
+          "latitude": "10.20846000",
+          "longitude": "-61.45273000"
+        },
+        {
+          "name": "Peñal",
+          "latitude": "10.16667000",
+          "longitude": "-61.46667000"
+        }
+      ]
+    },
+    {
+      "name": "Point Fortin",
+      "state_code": "PTF",
+      "latitude": "10.17027370",
+      "longitude": "-61.67133860",
+      "cities": [
+        {
+          "name": "Point Fortin",
+          "latitude": "10.17411000",
+          "longitude": "-61.68407000"
+        }
+      ]
+    },
+    {
+      "name": "Port of Spain",
+      "state_code": "POS",
+      "latitude": "10.66031960",
+      "longitude": "-61.50856250",
+      "cities": [
+        {
+          "name": "Mucurapo",
+          "latitude": "10.66253000",
+          "longitude": "-61.53697000"
+        },
+        {
+          "name": "Port of Spain",
+          "latitude": "10.66668000",
+          "longitude": "-61.51889000"
+        }
+      ]
+    },
+    {
+      "name": "Princes Town Regional Corporation",
+      "state_code": "PRT",
+      "latitude": "10.17867460",
+      "longitude": "-61.28019960",
+      "cities": [
+        {
+          "name": "Princes Town",
+          "latitude": "10.27184000",
+          "longitude": "-61.37103000"
+        }
+      ]
+    },
+    {
+      "name": "Rio Claro-Mayaro Regional Corporation",
+      "state_code": "MRC",
+      "latitude": "10.24128320",
+      "longitude": "-61.09372060",
+      "cities": []
+    },
+    {
+      "name": "San Fernando",
+      "state_code": "SFO",
+      "latitude": "34.28194610",
+      "longitude": "-118.43897190",
+      "cities": [
+        {
+          "name": "Marabella",
+          "latitude": "10.30618000",
+          "longitude": "-61.44671000"
+        },
+        {
+          "name": "Mon Repos",
+          "latitude": "10.27979000",
+          "longitude": "-61.44590000"
+        },
+        {
+          "name": "San Fernando",
+          "latitude": "10.27969000",
+          "longitude": "-61.46835000"
+        }
+      ]
+    },
+    {
+      "name": "San Juan-Laventille Regional Corporation",
+      "state_code": "SJL",
+      "latitude": "10.69085780",
+      "longitude": "-61.45522130",
+      "cities": [
+        {
+          "name": "Laventille",
+          "latitude": "10.64917000",
+          "longitude": "-61.49889000"
+        }
+      ]
+    },
+    {
+      "name": "Sangre Grande Regional Corporation",
+      "state_code": "SGE",
+      "latitude": "10.58529390",
+      "longitude": "-61.13158130",
+      "cities": [
+        {
+          "name": "Sangre Grande",
+          "latitude": "10.58705000",
+          "longitude": "-61.13008000"
+        }
+      ]
+    },
+    {
+      "name": "Siparia Regional Corporation",
+      "state_code": "SIP",
+      "latitude": "10.12456260",
+      "longitude": "-61.56032440",
+      "cities": [
+        {
+          "name": "Siparia",
+          "latitude": "10.14525000",
+          "longitude": "-61.50740000"
+        },
+        {
+          "name": "Ward of Siparia",
+          "latitude": "10.15000000",
+          "longitude": "-61.46667000"
+        }
+      ]
+    },
+    {
+      "name": "Tunapuna-Piarco Regional Corporation",
+      "state_code": "TUP",
+      "latitude": "10.68590960",
+      "longitude": "-61.30352480",
+      "cities": [
+        {
+          "name": "Arouca",
+          "latitude": "10.62877000",
+          "longitude": "-61.33487000"
+        },
+        {
+          "name": "Paradise",
+          "latitude": "10.65298000",
+          "longitude": "-61.36298000"
+        },
+        {
+          "name": "Tunapuna",
+          "latitude": "10.65245000",
+          "longitude": "-61.38878000"
+        }
+      ]
+    },
+    {
+      "name": "Western Tobago",
+      "state_code": "WTO",
+      "latitude": "11.18970720",
+      "longitude": "-60.77954520",
+      "cities": [
+        {
+          "name": "Rio Claro",
+          "latitude": "10.30594000",
+          "longitude": "-61.17556000"
+        }
+      ]
+    }
+  ]
+}

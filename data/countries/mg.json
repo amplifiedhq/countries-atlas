@@ -1,0 +1,93 @@
+{
+  "code": "MG",
+  "states": [
+    {
+      "name": "Antananarivo Province",
+      "state_code": "T",
+      "latitude": "-18.70514740",
+      "longitude": "46.82528380",
+      "cities": []
+    },
+    {
+      "name": "Antsiranana Province",
+      "state_code": "D",
+      "latitude": "-13.77153900",
+      "longitude": "49.52799960",
+      "cities": [
+        {
+          "name": "Ampasimanolotra",
+          "latitude": "-18.81667000",
+          "longitude": "49.06667000"
+        },
+        {
+          "name": "Andovoranto",
+          "latitude": "-18.95443000",
+          "longitude": "49.10940000"
+        },
+        {
+          "name": "Mahanoro",
+          "latitude": "-19.90000000",
+          "longitude": "48.80000000"
+        },
+        {
+          "name": "Mahavelona",
+          "latitude": "-17.68475000",
+          "longitude": "49.50869000"
+        },
+        {
+          "name": "Marolambo",
+          "latitude": "-20.05000000",
+          "longitude": "48.11667000"
+        },
+        {
+          "name": "Toamasina",
+          "latitude": "-18.14920000",
+          "longitude": "49.40234000"
+        },
+        {
+          "name": "Toamasina I",
+          "latitude": "-18.13863000",
+          "longitude": "49.39203000"
+        },
+        {
+          "name": "Toamasina II",
+          "latitude": "-17.94053000",
+          "longitude": "49.14608000"
+        },
+        {
+          "name": "Vohibinany",
+          "latitude": "-17.35000000",
+          "longitude": "49.03333000"
+        }
+      ]
+    },
+    {
+      "name": "Fianarantsoa Province",
+      "state_code": "F",
+      "latitude": "-22.35362400",
+      "longitude": "46.82528380",
+      "cities": []
+    },
+    {
+      "name": "Mahajanga Province",
+      "state_code": "M",
+      "latitude": "-16.52388300",
+      "longitude": "46.51626200",
+      "cities": []
+    },
+    {
+      "name": "Toamasina Province",
+      "state_code": "A",
+      "latitude": "-18.14428110",
+      "longitude": "49.39578360",
+      "cities": []
+    },
+    {
+      "name": "Toliara Province",
+      "state_code": "U",
+      "latitude": "-23.35161910",
+      "longitude": "43.68549360",
+      "cities": []
+    }
+  ]
+}
