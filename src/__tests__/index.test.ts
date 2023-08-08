@@ -1,13 +1,18 @@
-import uuid from '../index';
+import { CountriesAtlas } from '../index';
+import countriesData from '../../data/atlas.json';
 
-describe('valid UUID', () => {
-  let VALID_UUID_REGEX: RegExp;
+describe('CountriesAtlas', () => {
+  describe('getCountries', () => {
+      it('returns all countries', () => {
+          const countries = CountriesAtlas.getCountries()
+          expect(countries.length).toEqual(countriesData.length)
+      })
+  })
 
-  beforeAll(() => {
-    VALID_UUID_REGEX = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
-  });
-
-  test('should match a valid UUID', () => {
-    expect(VALID_UUID_REGEX.test(uuid.v4())).toBeTruthy();
-  });
-});
+  describe('find', () => {
+      it('returns a country by iso2', () => {
+          const country = CountriesAtlas.find('US')
+          expect(country).toEqual(countriesData.find(country => country.iso2 === 'US'))
+      })
+  })
+})
