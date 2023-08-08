@@ -62,8 +62,8 @@
   },
   "include": [
     "src",
-    "data",
-    "flags"
+    "data/**/*",
+    "flags/**/*",
   ],
   "exclude": [
     "node_modules",
