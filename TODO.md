@@ -14,16 +14,13 @@
 
 ### Get States
 - Find State, get state, param - state code
-    - `CountryAtlas.find('iso2', 'US').states()` - Get all states of country
-    - `CountryAtlas.find('iso2', 'US').state('NY')` - Get state by state_code as param
+    - `CountryAtlas.states('US')` - Get all states of country
+    - `CountryAtlas.state('US', 'NY')` - Get state by state_code as param
     - **Method Chaining**
-      - `CountryAtlas.find('iso2', 'US').state('NY').name` - Get state by state_code as param and get name
-      - `CountryAtlas.find('iso2', 'US').state('NY').latitude` - Get state by state_code as param and get latitude
-      - `CountryAtlas.find('iso2', 'US').state('NY').longitude` - Get state by state_code as param and get longitude
-
-### Get Cities
-- Find Cities, get cities, param - state code
-    - `CountryAtlas.find('iso2', 'US').state('NY').cities()` - Get all cities of state
+      - `CountryAtlas.state('US', 'NY').name` - Get state by state_code as param and get name
+      - `CountryAtlas.state('US', 'NY').latitude` - Get state by state_code as param and get latitude
+      - `CountryAtlas.state('US', 'NY').longitude` - Get state by state_code as param and get longitude
+      - `CountryAtlas.state('US', 'NY').cities` - Get all cities of state
 
 ### Get Currencies
 These is use to get the iso2, iso3, currency name, symbol, etc.

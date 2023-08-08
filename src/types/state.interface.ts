@@ -1,5 +1,5 @@
 import { City } from "./city.type";
-interface State {
+export interface State {
     name: string;
     state_code: string;
     latitude: string;
