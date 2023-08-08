@@ -1,0 +1,188 @@
+{
+  "code": "KN",
+  "states": [
+    {
+      "name": "Christ Church Nichola Town Parish",
+      "state_code": "01",
+      "latitude": "17.36048120",
+      "longitude": "-62.76178370",
+      "cities": [
+        {
+          "name": "Nicola Town",
+          "latitude": "17.37956000",
+          "longitude": "-62.75318000"
+        }
+      ]
+    },
+    {
+      "name": "Nevis",
+      "state_code": "N",
+      "latitude": "17.15535580",
+      "longitude": "-62.57960260",
+      "cities": []
+    },
+    {
+      "name": "Saint Anne Sandy Point Parish",
+      "state_code": "02",
+      "latitude": "17.37253330",
+      "longitude": "-62.84411330",
+      "cities": [
+        {
+          "name": "Sandy Point Town",
+          "latitude": "17.35908000",
+          "longitude": "-62.84858000"
+        }
+      ]
+    },
+    {
+      "name": "Saint George Gingerland Parish",
+      "state_code": "04",
+      "latitude": "17.12577590",
+      "longitude": "-62.56198110",
+      "cities": [
+        {
+          "name": "Market Shop",
+          "latitude": "17.13218000",
+          "longitude": "-62.57267000"
+        }
+      ]
+    },
+    {
+      "name": "Saint James Windward Parish",
+      "state_code": "05",
+      "latitude": "17.17696330",
+      "longitude": "-62.57960260",
+      "cities": [
+        {
+          "name": "Newcastle",
+          "latitude": "17.20000000",
+          "longitude": "-62.58333000"
+        }
+      ]
+    },
+    {
+      "name": "Saint John Capisterre Parish",
+      "state_code": "06",
+      "latitude": "17.38103410",
+      "longitude": "-62.79118330",
+      "cities": [
+        {
+          "name": "Dieppe Bay Town",
+          "latitude": "17.41473000",
+          "longitude": "-62.81390000"
+        }
+      ]
+    },
+    {
+      "name": "Saint John Figtree Parish",
+      "state_code": "07",
+      "latitude": "17.11557480",
+      "longitude": "-62.60310040",
+      "cities": [
+        {
+          "name": "Fig Tree",
+          "latitude": "17.12623000",
+          "longitude": "-62.60265000"
+        }
+      ]
+    },
+    {
+      "name": "Saint Kitts",
+      "state_code": "K",
+      "latitude": "17.34337960",
+      "longitude": "-62.75590430",
+      "cities": []
+    },
+    {
+      "name": "Saint Mary Cayon Parish",
+      "state_code": "08",
+      "latitude": "17.34620710",
+      "longitude": "-62.73826710",
+      "cities": [
+        {
+          "name": "Cayon",
+          "latitude": "17.35000000",
+          "longitude": "-62.73333000"
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul Capisterre Parish",
+      "state_code": "09",
+      "latitude": "17.40166830",
+      "longitude": "-62.82573320",
+      "cities": [
+        {
+          "name": "Saint Paul’s",
+          "latitude": "17.40605000",
+          "longitude": "-62.83562000"
+        }
+      ]
+    },
+    {
+      "name": "Saint Paul Charlestown Parish",
+      "state_code": "10",
+      "latitude": "17.13462970",
+      "longitude": "-62.61338160",
+      "cities": [
+        {
+          "name": "Charlestown",
+          "latitude": "17.13333000",
+          "longitude": "-62.61667000"
+        }
+      ]
+    },
+    {
+      "name": "Saint Peter Basseterre Parish",
+      "state_code": "11",
+      "latitude": "17.31029110",
+      "longitude": "-62.71475330",
+      "cities": [
+        {
+          "name": "Monkey Hill",
+          "latitude": "17.32327000",
+          "longitude": "-62.72914000"
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas Lowland Parish",
+      "state_code": "12",
+      "latitude": "17.16505130",
+      "longitude": "-62.60897530",
+      "cities": [
+        {
+          "name": "Cotton Ground",
+          "latitude": "17.16667000",
+          "longitude": "-62.61667000"
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas Middle Island Parish",
+      "state_code": "13",
+      "latitude": "17.33488130",
+      "longitude": "-62.80882510",
+      "cities": [
+        {
+          "name": "Middle Island",
+          "latitude": "17.32590000",
+          "longitude": "-62.81055000"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Palmetto Point Parish",
+      "state_code": "15",
+      "latitude": "17.30635190",
+      "longitude": "-62.76178370",
+      "cities": [
+        {
+          "name": "Trinity",
+          "latitude": "17.30037000",
+          "longitude": "-62.77584000"
+        }
+      ]
+    }
+  ]
+}

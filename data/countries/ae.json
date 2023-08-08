@@ -1,0 +1,256 @@
+{
+  "code": "AE",
+  "states": [
+    {
+      "name": "Abu Dhabi Emirate",
+      "state_code": "AZ",
+      "latitude": "24.45388400",
+      "longitude": "54.37734380",
+      "cities": [
+        {
+          "name": "Abu Dhabi Island and Internal Islands City",
+          "latitude": "24.45110000",
+          "longitude": "54.39690000"
+        },
+        {
+          "name": "Abu Dhabi Municipality",
+          "latitude": "24.41361000",
+          "longitude": "54.43295000"
+        },
+        {
+          "name": "Al Ain City",
+          "latitude": "24.19167000",
+          "longitude": "55.76056000"
+        },
+        {
+          "name": "Al Ain Municipality",
+          "latitude": "24.15223000",
+          "longitude": "55.82040000"
+        },
+        {
+          "name": "Al Dhafra",
+          "latitude": "23.65745000",
+          "longitude": "53.72225000"
+        },
+        {
+          "name": "Al Shamkhah City",
+          "latitude": "24.39268000",
+          "longitude": "54.70779000"
+        },
+        {
+          "name": "Ar Ruways",
+          "latitude": "24.11028000",
+          "longitude": "52.73056000"
+        },
+        {
+          "name": "Bani Yas City",
+          "latitude": "24.30978000",
+          "longitude": "54.62944000"
+        },
+        {
+          "name": "Khalifah A City",
+          "latitude": "24.42588000",
+          "longitude": "54.60500000"
+        },
+        {
+          "name": "Musaffah",
+          "latitude": "24.35893000",
+          "longitude": "54.48267000"
+        },
+        {
+          "name": "Muzayri‘",
+          "latitude": "23.14355000",
+          "longitude": "53.78810000"
+        },
+        {
+          "name": "Zayed City",
+          "latitude": "23.65416000",
+          "longitude": "53.70522000"
+        }
+      ]
+    },
+    {
+      "name": "Ajman Emirate",
+      "state_code": "AJ",
+      "latitude": "25.40521650",
+      "longitude": "55.51364330",
+      "cities": [
+        {
+          "name": "Ajman",
+          "latitude": "25.40328000",
+          "longitude": "55.52341000"
+        },
+        {
+          "name": "Ajman City",
+          "latitude": "25.40177000",
+          "longitude": "55.47878000"
+        },
+        {
+          "name": "Manama",
+          "latitude": "25.32568000",
+          "longitude": "56.00259000"
+        },
+        {
+          "name": "Masfout",
+          "latitude": "24.83982000",
+          "longitude": "56.05158000"
+        }
+      ]
+    },
+    {
+      "name": "Dubai",
+      "state_code": "DU",
+      "latitude": "25.20484930",
+      "longitude": "55.27078280",
+      "cities": [
+        {
+          "name": "Dubai",
+          "latitude": "25.06570000",
+          "longitude": "55.17128000"
+        }
+      ]
+    },
+    {
+      "name": "Fujairah",
+      "state_code": "FU",
+      "latitude": "25.12880990",
+      "longitude": "56.32648490",
+      "cities": [
+        {
+          "name": "Al Fujairah City",
+          "latitude": "25.11641000",
+          "longitude": "56.34141000"
+        },
+        {
+          "name": "Al Fujairah Municipality",
+          "latitude": "25.13557000",
+          "longitude": "56.33279000"
+        },
+        {
+          "name": "Dibba Al Fujairah Municipality",
+          "latitude": "25.58580000",
+          "longitude": "56.24792000"
+        },
+        {
+          "name": "Dibba Al-Fujairah",
+          "latitude": "25.59246000",
+          "longitude": "56.26176000"
+        },
+        {
+          "name": "Dibba Al-Hisn",
+          "latitude": "25.61955000",
+          "longitude": "56.27291000"
+        },
+        {
+          "name": "Reef Al Fujairah City",
+          "latitude": "25.14479000",
+          "longitude": "56.24764000"
+        }
+      ]
+    },
+    {
+      "name": "Ras al-Khaimah",
+      "state_code": "RK",
+      "latitude": "25.67413430",
+      "longitude": "55.98041730",
+      "cities": [
+        {
+          "name": "Ras Al Khaimah",
+          "latitude": "25.46116000",
+          "longitude": "56.04058000"
+        },
+        {
+          "name": "Ras Al Khaimah City",
+          "latitude": "25.78953000",
+          "longitude": "55.94320000"
+        }
+      ]
+    },
+    {
+      "name": "Sharjah Emirate",
+      "state_code": "SH",
+      "latitude": "25.07539740",
+      "longitude": "55.75784030",
+      "cities": [
+        {
+          "name": "Adh Dhayd",
+          "latitude": "25.28812000",
+          "longitude": "55.88157000"
+        },
+        {
+          "name": "Al Batayih",
+          "latitude": "25.22317000",
+          "longitude": "55.74272000"
+        },
+        {
+          "name": "Al Hamriyah",
+          "latitude": "25.46121000",
+          "longitude": "55.54813000"
+        },
+        {
+          "name": "Al Madam",
+          "latitude": "24.95536000",
+          "longitude": "55.76820000"
+        },
+        {
+          "name": "Dhaid",
+          "latitude": "25.26951000",
+          "longitude": "55.92024000"
+        },
+        {
+          "name": "Dibba Al Hesn",
+          "latitude": "25.61593000",
+          "longitude": "56.26899000"
+        },
+        {
+          "name": "Kalba",
+          "latitude": "24.99816000",
+          "longitude": "56.27207000"
+        },
+        {
+          "name": "Khawr Fakkān",
+          "latitude": "25.33132000",
+          "longitude": "56.34199000"
+        },
+        {
+          "name": "Khor Fakkan",
+          "latitude": "25.33966000",
+          "longitude": "56.30280000"
+        },
+        {
+          "name": "Milehah",
+          "latitude": "25.10097000",
+          "longitude": "55.91282000"
+        },
+        {
+          "name": "Murbaḩ",
+          "latitude": "25.27623000",
+          "longitude": "56.36256000"
+        },
+        {
+          "name": "Sharjah",
+          "latitude": "25.33737000",
+          "longitude": "55.41206000"
+        }
+      ]
+    },
+    {
+      "name": "Umm al-Quwain",
+      "state_code": "UQ",
+      "latitude": "25.54263240",
+      "longitude": "55.54753480",
+      "cities": [
+        {
+          "name": "Umm AL Quwain",
+          "latitude": "25.49326000",
+          "longitude": "55.73520000"
+        },
+        {
+          "name": "Umm Al Quwain City",
+          "latitude": "25.56473000",
+          "longitude": "55.55517000"
+        }
+      ]
+    }
+  ]
+}

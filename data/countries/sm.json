@@ -1,0 +1,122 @@
+{
+  "code": "SM",
+  "states": [
+    {
+      "name": "Acquaviva",
+      "state_code": "01",
+      "latitude": "41.86715970",
+      "longitude": "14.74694790",
+      "cities": [
+        {
+          "name": "Acquaviva",
+          "latitude": "43.94593000",
+          "longitude": "12.41850000"
+        }
+      ]
+    },
+    {
+      "name": "Borgo Maggiore",
+      "state_code": "06",
+      "latitude": "43.95748820",
+      "longitude": "12.45525460",
+      "cities": [
+        {
+          "name": "Borgo Maggiore",
+          "latitude": "43.94193000",
+          "longitude": "12.44738000"
+        }
+      ]
+    },
+    {
+      "name": "Chiesanuova",
+      "state_code": "02",
+      "latitude": "45.42261720",
+      "longitude": "7.65038540",
+      "cities": [
+        {
+          "name": "Poggio di Chiesanuova",
+          "latitude": "43.90451000",
+          "longitude": "12.42142000"
+        }
+      ]
+    },
+    {
+      "name": "Domagnano",
+      "state_code": "03",
+      "latitude": "43.95019290",
+      "longitude": "12.46815370",
+      "cities": [
+        {
+          "name": "Domagnano",
+          "latitude": "43.94961000",
+          "longitude": "12.46828000"
+        }
+      ]
+    },
+    {
+      "name": "Faetano",
+      "state_code": "04",
+      "latitude": "43.93489670",
+      "longitude": "12.48965540",
+      "cities": [
+        {
+          "name": "Faetano",
+          "latitude": "43.92831000",
+          "longitude": "12.49798000"
+        }
+      ]
+    },
+    {
+      "name": "Fiorentino",
+      "state_code": "05",
+      "latitude": "43.90783370",
+      "longitude": "12.45812090",
+      "cities": [
+        {
+          "name": "Fiorentino",
+          "latitude": "43.91001000",
+          "longitude": "12.45738000"
+        }
+      ]
+    },
+    {
+      "name": "Montegiardino",
+      "state_code": "08",
+      "latitude": "43.90529990",
+      "longitude": "12.48105420",
+      "cities": [
+        {
+          "name": "Monte Giardino",
+          "latitude": "43.90878000",
+          "longitude": "12.48201000"
+        }
+      ]
+    },
+    {
+      "name": "San Marino",
+      "state_code": "07",
+      "latitude": "43.94236000",
+      "longitude": "12.45777700",
+      "cities": [
+        {
+          "name": "San Marino",
+          "latitude": "43.93667000",
+          "longitude": "12.44639000"
+        }
+      ]
+    },
+    {
+      "name": "Serravalle",
+      "state_code": "09",
+      "latitude": "44.72320840",
+      "longitude": "8.85740050",
+      "cities": [
+        {
+          "name": "Serravalle",
+          "latitude": "43.96897000",
+          "longitude": "12.48167000"
+        }
+      ]
+    }
+  ]
+}

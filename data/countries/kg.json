@@ -1,0 +1,341 @@
+{
+  "code": "KG",
+  "states": [
+    {
+      "name": "Batken Region",
+      "state_code": "B",
+      "latitude": "39.97214250",
+      "longitude": "69.85974060",
+      "cities": [
+        {
+          "name": "Aydarken",
+          "latitude": "39.94319000",
+          "longitude": "71.34184000"
+        },
+        {
+          "name": "Batken",
+          "latitude": "40.06259000",
+          "longitude": "70.81939000"
+        },
+        {
+          "name": "Iradan",
+          "latitude": "40.26667000",
+          "longitude": "72.10000000"
+        },
+        {
+          "name": "Isfana",
+          "latitude": "39.83895000",
+          "longitude": "69.52760000"
+        },
+        {
+          "name": "Karavan",
+          "latitude": "40.29513000",
+          "longitude": "72.18627000"
+        },
+        {
+          "name": "Kyzyl-Kyya",
+          "latitude": "40.25684000",
+          "longitude": "72.12793000"
+        },
+        {
+          "name": "Suluktu",
+          "latitude": "39.93652000",
+          "longitude": "69.56779000"
+        }
+      ]
+    },
+    {
+      "name": "Bishkek",
+      "state_code": "GB",
+      "latitude": "42.87462120",
+      "longitude": "74.56976170",
+      "cities": [
+        {
+          "name": "Bishkek",
+          "latitude": "42.87000000",
+          "longitude": "74.59000000"
+        }
+      ]
+    },
+    {
+      "name": "Chuy Region",
+      "state_code": "C",
+      "latitude": "42.56550000",
+      "longitude": "74.40566120",
+      "cities": [
+        {
+          "name": "Alamudunskiy Rayon",
+          "latitude": "42.81985000",
+          "longitude": "74.59398000"
+        },
+        {
+          "name": "Belovodskoye",
+          "latitude": "42.82944000",
+          "longitude": "74.10830000"
+        },
+        {
+          "name": "Chuyskiy Rayon",
+          "latitude": "42.66667000",
+          "longitude": "75.33333000"
+        },
+        {
+          "name": "Ivanovka",
+          "latitude": "42.88778000",
+          "longitude": "75.08500000"
+        },
+        {
+          "name": "Kaindy",
+          "latitude": "42.82469000",
+          "longitude": "73.67585000"
+        },
+        {
+          "name": "Kant",
+          "latitude": "42.89106000",
+          "longitude": "74.85077000"
+        },
+        {
+          "name": "Kara-Balta",
+          "latitude": "42.81423000",
+          "longitude": "73.84813000"
+        },
+        {
+          "name": "Kemin",
+          "latitude": "42.78611000",
+          "longitude": "75.69167000"
+        },
+        {
+          "name": "Lebedinovka",
+          "latitude": "42.88454000",
+          "longitude": "74.67819000"
+        },
+        {
+          "name": "Sokulukskiy Rayon",
+          "latitude": "42.83333000",
+          "longitude": "74.33333000"
+        },
+        {
+          "name": "Sosnovka",
+          "latitude": "42.63707000",
+          "longitude": "73.89608000"
+        },
+        {
+          "name": "Tokmok",
+          "latitude": "42.84194000",
+          "longitude": "75.30149000"
+        },
+        {
+          "name": "Ysyk-Ata",
+          "latitude": "42.72665000",
+          "longitude": "75.07444000"
+        }
+      ]
+    },
+    {
+      "name": "Issyk-Kul Region",
+      "state_code": "Y",
+      "latitude": "42.18594280",
+      "longitude": "77.56194190",
+      "cities": [
+        {
+          "name": "Ak-Suu",
+          "latitude": "42.49948000",
+          "longitude": "78.52702000"
+        },
+        {
+          "name": "Balykchy",
+          "latitude": "42.46017000",
+          "longitude": "76.18709000"
+        },
+        {
+          "name": "Cholpon-Ata",
+          "latitude": "42.64944000",
+          "longitude": "77.08225000"
+        },
+        {
+          "name": "Kadzhi-Say",
+          "latitude": "42.14107000",
+          "longitude": "77.17848000"
+        },
+        {
+          "name": "Karakol",
+          "latitude": "42.49068000",
+          "longitude": "78.39362000"
+        },
+        {
+          "name": "Kyzyl-Suu",
+          "latitude": "42.34211000",
+          "longitude": "78.00644000"
+        },
+        {
+          "name": "Tyup",
+          "latitude": "42.72760000",
+          "longitude": "78.36476000"
+        }
+      ]
+    },
+    {
+      "name": "Jalal-Abad Region",
+      "state_code": "J",
+      "latitude": "41.10680800",
+      "longitude": "72.89880690",
+      "cities": [
+        {
+          "name": "Ala-Buka",
+          "latitude": "41.40806000",
+          "longitude": "71.46306000"
+        },
+        {
+          "name": "Bazar-Korgon",
+          "latitude": "41.03760000",
+          "longitude": "72.74586000"
+        },
+        {
+          "name": "Jalal-Abad",
+          "latitude": "40.93333000",
+          "longitude": "73.00000000"
+        },
+        {
+          "name": "Kazarman",
+          "latitude": "41.40500000",
+          "longitude": "74.03700000"
+        },
+        {
+          "name": "Kerben",
+          "latitude": "41.49399000",
+          "longitude": "71.75826000"
+        },
+        {
+          "name": "Kochkor-Ata",
+          "latitude": "41.03709000",
+          "longitude": "72.48320000"
+        },
+        {
+          "name": "Suzak",
+          "latitude": "40.89820000",
+          "longitude": "72.90481000"
+        },
+        {
+          "name": "Tash-Kumyr",
+          "latitude": "41.34612000",
+          "longitude": "72.21707000"
+        },
+        {
+          "name": "Toktogul",
+          "latitude": "41.87442000",
+          "longitude": "72.94192000"
+        },
+        {
+          "name": "Toktogul District",
+          "latitude": "41.75000000",
+          "longitude": "73.00000000"
+        }
+      ]
+    },
+    {
+      "name": "Naryn Region",
+      "state_code": "N",
+      "latitude": "41.29432270",
+      "longitude": "75.34121790",
+      "cities": [
+        {
+          "name": "At-Bashi",
+          "latitude": "41.16951000",
+          "longitude": "75.80099000"
+        },
+        {
+          "name": "Jumgal",
+          "latitude": "41.94924000",
+          "longitude": "74.40566000"
+        },
+        {
+          "name": "Naryn",
+          "latitude": "41.42866000",
+          "longitude": "75.99111000"
+        }
+      ]
+    },
+    {
+      "name": "Osh",
+      "state_code": "GO",
+      "latitude": "36.06313990",
+      "longitude": "-95.91828950",
+      "cities": []
+    },
+    {
+      "name": "Osh Region",
+      "state_code": "O",
+      "latitude": "39.84073660",
+      "longitude": "72.89880690",
+      "cities": [
+        {
+          "name": "Chong-Alay District",
+          "latitude": "39.47614000",
+          "longitude": "72.33017000"
+        },
+        {
+          "name": "Daroot-Korgon",
+          "latitude": "39.55274000",
+          "longitude": "72.20518000"
+        },
+        {
+          "name": "Kara Kulja",
+          "latitude": "40.64095000",
+          "longitude": "73.49411000"
+        },
+        {
+          "name": "Kara Suu",
+          "latitude": "40.70460000",
+          "longitude": "72.86666000"
+        },
+        {
+          "name": "Kyzyl-Eshme",
+          "latitude": "39.56559000",
+          "longitude": "72.27153000"
+        },
+        {
+          "name": "Nookat",
+          "latitude": "40.26597000",
+          "longitude": "72.61834000"
+        },
+        {
+          "name": "Osh",
+          "latitude": "40.52828000",
+          "longitude": "72.79850000"
+        },
+        {
+          "name": "Uzgen",
+          "latitude": "40.76994000",
+          "longitude": "73.30068000"
+        },
+        {
+          "name": "Uzgen District",
+          "latitude": "40.55000000",
+          "longitude": "73.30000000"
+        }
+      ]
+    },
+    {
+      "name": "Talas Region",
+      "state_code": "T",
+      "latitude": "42.28673390",
+      "longitude": "72.52048270",
+      "cities": [
+        {
+          "name": "Kara-Buurinskiy Rayon",
+          "latitude": "42.50000000",
+          "longitude": "71.41667000"
+        },
+        {
+          "name": "Talas",
+          "latitude": "42.52277000",
+          "longitude": "72.24274000"
+        },
+        {
+          "name": "Talasskiy Rayon",
+          "latitude": "42.18647000",
+          "longitude": "72.69408000"
+        }
+      ]
+    }
+  ]
+}

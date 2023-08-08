@@ -1,0 +1,233 @@
+{
+  "code": "BI",
+  "states": [
+    {
+      "name": "Bubanza Province",
+      "state_code": "BB",
+      "latitude": "-3.15724030",
+      "longitude": "29.37149090",
+      "cities": [
+        {
+          "name": "Bubanza",
+          "latitude": "-3.08040000",
+          "longitude": "29.39100000"
+        }
+      ]
+    },
+    {
+      "name": "Bujumbura Mairie Province",
+      "state_code": "BM",
+      "latitude": "-3.38841410",
+      "longitude": "29.34826460",
+      "cities": [
+        {
+          "name": "Bujumbura",
+          "latitude": "-3.38193000",
+          "longitude": "29.36142000"
+        }
+      ]
+    },
+    {
+      "name": "Bujumbura Rural Province",
+      "state_code": "BL",
+      "latitude": "-3.50901440",
+      "longitude": "29.46435900",
+      "cities": []
+    },
+    {
+      "name": "Bururi Province",
+      "state_code": "BR",
+      "latitude": "-3.90068510",
+      "longitude": "29.51077080",
+      "cities": [
+        {
+          "name": "Bururi",
+          "latitude": "-3.94877000",
+          "longitude": "29.62438000"
+        }
+      ]
+    },
+    {
+      "name": "Cankuzo Province",
+      "state_code": "CA",
+      "latitude": "-3.15277880",
+      "longitude": "30.61998950",
+      "cities": [
+        {
+          "name": "Cankuzo",
+          "latitude": "-3.21860000",
+          "longitude": "30.55280000"
+        }
+      ]
+    },
+    {
+      "name": "Cibitoke Province",
+      "state_code": "CI",
+      "latitude": "-2.81028970",
+      "longitude": "29.18557850",
+      "cities": [
+        {
+          "name": "Cibitoke",
+          "latitude": "-2.88690000",
+          "longitude": "29.12480000"
+        }
+      ]
+    },
+    {
+      "name": "Gitega Province",
+      "state_code": "GI",
+      "latitude": "-3.49290510",
+      "longitude": "29.92779470",
+      "cities": [
+        {
+          "name": "Gitega",
+          "latitude": "-3.42708000",
+          "longitude": "29.92463000"
+        }
+      ]
+    },
+    {
+      "name": "Karuzi Province",
+      "state_code": "KR",
+      "latitude": "-3.13403470",
+      "longitude": "30.11273500",
+      "cities": [
+        {
+          "name": "Karuzi",
+          "latitude": "-3.10139000",
+          "longitude": "30.16278000"
+        }
+      ]
+    },
+    {
+      "name": "Kayanza Province",
+      "state_code": "KY",
+      "latitude": "-3.00779810",
+      "longitude": "29.64991620",
+      "cities": [
+        {
+          "name": "Kayanza",
+          "latitude": "-2.92210000",
+          "longitude": "29.62930000"
+        }
+      ]
+    },
+    {
+      "name": "Kirundo Province",
+      "state_code": "KI",
+      "latitude": "-2.57628820",
+      "longitude": "30.11273500",
+      "cities": [
+        {
+          "name": "Kirundo",
+          "latitude": "-2.58450000",
+          "longitude": "30.09590000"
+        }
+      ]
+    },
+    {
+      "name": "Makamba Province",
+      "state_code": "MA",
+      "latitude": "-4.32570620",
+      "longitude": "29.69626770",
+      "cities": [
+        {
+          "name": "Makamba",
+          "latitude": "-4.13480000",
+          "longitude": "29.80400000"
+        }
+      ]
+    },
+    {
+      "name": "Muramvya Province",
+      "state_code": "MU",
+      "latitude": "-3.28983980",
+      "longitude": "29.64991620",
+      "cities": [
+        {
+          "name": "Muramvya",
+          "latitude": "-3.26820000",
+          "longitude": "29.60790000"
+        }
+      ]
+    },
+    {
+      "name": "Muyinga Province",
+      "state_code": "MY",
+      "latitude": "-2.77935110",
+      "longitude": "30.29741990",
+      "cities": [
+        {
+          "name": "Muyinga",
+          "latitude": "-2.84510000",
+          "longitude": "30.34140000"
+        }
+      ]
+    },
+    {
+      "name": "Mwaro Province",
+      "state_code": "MW",
+      "latitude": "-3.50259180",
+      "longitude": "29.64991620",
+      "cities": [
+        {
+          "name": "Mwaro",
+          "latitude": "-3.51128000",
+          "longitude": "29.70334000"
+        }
+      ]
+    },
+    {
+      "name": "Ngozi Province",
+      "state_code": "NG",
+      "latitude": "-2.89582430",
+      "longitude": "29.88152030",
+      "cities": [
+        {
+          "name": "Ngozi",
+          "latitude": "-2.90750000",
+          "longitude": "29.83060000"
+        }
+      ]
+    },
+    {
+      "name": "Rumonge Province",
+      "state_code": "RM",
+      "latitude": "-3.97540490",
+      "longitude": "29.43880140",
+      "cities": [
+        {
+          "name": "Rumonge",
+          "latitude": "-3.97360000",
+          "longitude": "29.43860000"
+        }
+      ]
+    },
+    {
+      "name": "Rutana Province",
+      "state_code": "RT",
+      "latitude": "-3.87915230",
+      "longitude": "30.06652360",
+      "cities": [
+        {
+          "name": "Rutana",
+          "latitude": "-3.92790000",
+          "longitude": "29.99200000"
+        }
+      ]
+    },
+    {
+      "name": "Ruyigi Province",
+      "state_code": "RY",
+      "latitude": "-3.44620700",
+      "longitude": "30.25127280",
+      "cities": [
+        {
+          "name": "Ruyigi",
+          "latitude": "-3.47639000",
+          "longitude": "30.24861000"
+        }
+      ]
+    }
+  ]
+}

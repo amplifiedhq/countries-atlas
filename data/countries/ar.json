@@ -1,0 +1,5011 @@
+{
+  "code": "AR",
+  "states": [
+    {
+      "name": "Autonomous City Of Buenos Aires",
+      "state_code": "C",
+      "latitude": "-34.60368440",
+      "longitude": "-58.38155910",
+      "cities": []
+    },
+    {
+      "name": "Buenos Aires Province",
+      "state_code": "B",
+      "latitude": "-37.20172850",
+      "longitude": "-59.84106970",
+      "cities": [
+        {
+          "name": "Balvanera",
+          "latitude": "-34.61032000",
+          "longitude": "-58.39766000"
+        },
+        {
+          "name": "Barracas",
+          "latitude": "-34.64966000",
+          "longitude": "-58.38341000"
+        },
+        {
+          "name": "Belgrano",
+          "latitude": "-34.56270000",
+          "longitude": "-58.45829000"
+        },
+        {
+          "name": "Boedo",
+          "latitude": "-34.63333000",
+          "longitude": "-58.41667000"
+        },
+        {
+          "name": "Buenos Aires",
+          "latitude": "-34.61315000",
+          "longitude": "-58.37723000"
+        },
+        {
+          "name": "Colegiales",
+          "latitude": "-34.57365000",
+          "longitude": "-58.44924000"
+        },
+        {
+          "name": "Retiro",
+          "latitude": "-34.58333000",
+          "longitude": "-58.38333000"
+        },
+        {
+          "name": "Villa Lugano",
+          "latitude": "-34.67907000",
+          "longitude": "-58.47263000"
+        },
+        {
+          "name": "Villa Ortúzar",
+          "latitude": "-34.57973000",
+          "longitude": "-58.46829000"
+        },
+        {
+          "name": "Villa Santa Rita",
+          "latitude": "-34.61082000",
+          "longitude": "-58.48100000"
+        }
+      ]
+    },
+    {
+      "name": "Catamarca Province",
+      "state_code": "K",
+      "latitude": "-28.47158770",
+      "longitude": "-65.78772090",
+      "cities": [
+        {
+          "name": "Ancasti",
+          "latitude": "-28.81247000",
+          "longitude": "-65.50145000"
+        },
+        {
+          "name": "Andalgalá",
+          "latitude": "-27.58185000",
+          "longitude": "-66.31626000"
+        },
+        {
+          "name": "Antofagasta de la Sierra",
+          "latitude": "-26.05940000",
+          "longitude": "-67.40636000"
+        },
+        {
+          "name": "Capayán",
+          "latitude": "-28.77436000",
+          "longitude": "-66.04749000"
+        },
+        {
+          "name": "Departamento de Ambato",
+          "latitude": "-28.00000000",
+          "longitude": "-65.91667000"
+        },
+        {
+          "name": "Departamento de Ancasti",
+          "latitude": "-29.00000000",
+          "longitude": "-65.50000000"
+        },
+        {
+          "name": "Departamento de Andalgalá",
+          "latitude": "-27.58333000",
+          "longitude": "-66.46667000"
+        },
+        {
+          "name": "Departamento de Antofagasta de la Sierra",
+          "latitude": "-26.00000000",
+          "longitude": "-67.58333000"
+        },
+        {
+          "name": "Departamento de Capayán",
+          "latitude": "-28.83333000",
+          "longitude": "-66.00000000"
+        },
+        {
+          "name": "Departamento de Capital",
+          "latitude": "-28.41667000",
+          "longitude": "-65.80000000"
+        },
+        {
+          "name": "Departamento de El Alto",
+          "latitude": "-28.41667000",
+          "longitude": "-65.41667000"
+        },
+        {
+          "name": "Departamento de Fray Mamerto Esquiú",
+          "latitude": "-28.30000000",
+          "longitude": "-65.75000000"
+        },
+        {
+          "name": "Departamento de La Paz",
+          "latitude": "-29.25000000",
+          "longitude": "-65.25000000"
+        },
+        {
+          "name": "Departamento de Pomán",
+          "latitude": "-28.25000000",
+          "longitude": "-66.41667000"
+        },
+        {
+          "name": "Departamento de Santa María",
+          "latitude": "-26.66667000",
+          "longitude": "-66.41667000"
+        },
+        {
+          "name": "Departamento de Santa Rosa",
+          "latitude": "-28.08333000",
+          "longitude": "-65.25000000"
+        },
+        {
+          "name": "Departamento de Tinogasta",
+          "latitude": "-27.50000000",
+          "longitude": "-68.00000000"
+        },
+        {
+          "name": "Departamento de Valle Viejo",
+          "latitude": "-28.58333000",
+          "longitude": "-65.75000000"
+        },
+        {
+          "name": "El Rodeo",
+          "latitude": "-28.21518000",
+          "longitude": "-65.87420000"
+        },
+        {
+          "name": "Fiambalá",
+          "latitude": "-27.67225000",
+          "longitude": "-67.61870000"
+        },
+        {
+          "name": "Hualfín",
+          "latitude": "-27.22896000",
+          "longitude": "-66.83131000"
+        },
+        {
+          "name": "Huillapima",
+          "latitude": "-28.72533000",
+          "longitude": "-65.97870000"
+        },
+        {
+          "name": "Icaño",
+          "latitude": "-28.91934000",
+          "longitude": "-65.32817000"
+        },
+        {
+          "name": "La Puerta de San José",
+          "latitude": "-27.55000000",
+          "longitude": "-67.01667000"
+        },
+        {
+          "name": "Londres",
+          "latitude": "-27.71439000",
+          "longitude": "-67.13349000"
+        },
+        {
+          "name": "Los Altos",
+          "latitude": "-28.04845000",
+          "longitude": "-65.49945000"
+        },
+        {
+          "name": "Los Varela",
+          "latitude": "-27.93003000",
+          "longitude": "-65.87153000"
+        },
+        {
+          "name": "Mutquín",
+          "latitude": "-28.32104000",
+          "longitude": "-66.14253000"
+        },
+        {
+          "name": "Pomán",
+          "latitude": "-28.39455000",
+          "longitude": "-66.22052000"
+        },
+        {
+          "name": "Puerta de Corral Quemado",
+          "latitude": "-27.23000000",
+          "longitude": "-66.93635000"
+        },
+        {
+          "name": "Recreo",
+          "latitude": "-29.28184000",
+          "longitude": "-65.06096000"
+        },
+        {
+          "name": "San Antonio",
+          "latitude": "-28.01009000",
+          "longitude": "-65.70874000"
+        },
+        {
+          "name": "San Fernando del Valle de Catamarca",
+          "latitude": "-28.46957000",
+          "longitude": "-65.78524000"
+        },
+        {
+          "name": "Santa María",
+          "latitude": "-26.69547000",
+          "longitude": "-66.04732000"
+        },
+        {
+          "name": "Tinogasta",
+          "latitude": "-28.06319000",
+          "longitude": "-67.56488000"
+        }
+      ]
+    },
+    {
+      "name": "Chaco Province",
+      "state_code": "H",
+      "latitude": "-27.42571750",
+      "longitude": "-59.02437840",
+      "cities": [
+        {
+          "name": "Aviá Terai",
+          "latitude": "-26.68532000",
+          "longitude": "-60.72920000"
+        },
+        {
+          "name": "Barranqueras",
+          "latitude": "-27.48132000",
+          "longitude": "-58.93925000"
+        },
+        {
+          "name": "Basail",
+          "latitude": "-27.88539000",
+          "longitude": "-59.28245000"
+        },
+        {
+          "name": "Campo Largo",
+          "latitude": "-26.80077000",
+          "longitude": "-60.84215000"
+        },
+        {
+          "name": "Capitán Solari",
+          "latitude": "-26.80215000",
+          "longitude": "-59.56089000"
+        },
+        {
+          "name": "Castelli",
+          "latitude": "-25.94679000",
+          "longitude": "-60.61947000"
+        },
+        {
+          "name": "Charadai",
+          "latitude": "-27.65503000",
+          "longitude": "-59.86291000"
+        },
+        {
+          "name": "Charata",
+          "latitude": "-27.21438000",
+          "longitude": "-61.18795000"
+        },
+        {
+          "name": "Chorotis",
+          "latitude": "-27.91578000",
+          "longitude": "-61.39982000"
+        },
+        {
+          "name": "Ciervo Petiso",
+          "latitude": "-26.58041000",
+          "longitude": "-59.63094000"
+        },
+        {
+          "name": "Colonia Benítez",
+          "latitude": "-27.33099000",
+          "longitude": "-58.94622000"
+        },
+        {
+          "name": "Colonia Elisa",
+          "latitude": "-26.93041000",
+          "longitude": "-59.51861000"
+        },
+        {
+          "name": "Colonias Unidas",
+          "latitude": "-26.69825000",
+          "longitude": "-59.63154000"
+        },
+        {
+          "name": "Concepción del Bermejo",
+          "latitude": "-26.59926000",
+          "longitude": "-60.94617000"
+        },
+        {
+          "name": "Coronel Du Graty",
+          "latitude": "-27.68038000",
+          "longitude": "-60.91462000"
+        },
+        {
+          "name": "Corzuela",
+          "latitude": "-26.95374000",
+          "longitude": "-60.96928000"
+        },
+        {
+          "name": "Coté-Lai",
+          "latitude": "-27.50000000",
+          "longitude": "-59.60000000"
+        },
+        {
+          "name": "Departamento de Almirante Brown",
+          "latitude": "-25.81662000",
+          "longitude": "-61.45576000"
+        },
+        {
+          "name": "Departamento de Bermejo",
+          "latitude": "-27.00000000",
+          "longitude": "-58.66667000"
+        },
+        {
+          "name": "Departamento de Comandante Fernández",
+          "latitude": "-26.83333000",
+          "longitude": "-60.50000000"
+        },
+        {
+          "name": "Departamento de Doce de Octubre",
+          "latitude": "-27.41667000",
+          "longitude": "-61.33333000"
+        },
+        {
+          "name": "Departamento de Dos de Abril",
+          "latitude": "-27.60932000",
+          "longitude": "-61.34473000"
+        },
+        {
+          "name": "Departamento de General Donovan",
+          "latitude": "-27.16667000",
+          "longitude": "-59.33333000"
+        },
+        {
+          "name": "Departamento de General Güemes",
+          "latitude": "-25.16667000",
+          "longitude": "-61.41667000"
+        },
+        {
+          "name": "Departamento de Independencia",
+          "latitude": "-26.66667000",
+          "longitude": "-60.66667000"
+        },
+        {
+          "name": "Departamento de Libertad",
+          "latitude": "-27.33333000",
+          "longitude": "-59.33333000"
+        },
+        {
+          "name": "Departamento de Maipú",
+          "latitude": "-26.33333000",
+          "longitude": "-60.41667000"
+        },
+        {
+          "name": "Departamento de Nueve de Julio",
+          "latitude": "-26.95331000",
+          "longitude": "-61.27627000"
+        },
+        {
+          "name": "Departamento de O’Higgins",
+          "latitude": "-27.25000000",
+          "longitude": "-60.66667000"
+        },
+        {
+          "name": "Departamento de Presidencia de la Plaza",
+          "latitude": "-27.00000000",
+          "longitude": "-59.75000000"
+        },
+        {
+          "name": "Departamento de Quitilipi",
+          "latitude": "-26.66667000",
+          "longitude": "-60.16667000"
+        },
+        {
+          "name": "Departamento de San Fernando",
+          "latitude": "-27.66667000",
+          "longitude": "-59.16667000"
+        },
+        {
+          "name": "Departamento de San Lorenzo",
+          "latitude": "-27.33333000",
+          "longitude": "-60.41667000"
+        },
+        {
+          "name": "Departamento de Sargento Cabral",
+          "latitude": "-26.83333000",
+          "longitude": "-59.50000000"
+        },
+        {
+          "name": "Departamento de Tapenagá",
+          "latitude": "-27.50000000",
+          "longitude": "-59.75000000"
+        },
+        {
+          "name": "Fontana",
+          "latitude": "-27.41813000",
+          "longitude": "-59.02392000"
+        },
+        {
+          "name": "Gancedo",
+          "latitude": "-27.49038000",
+          "longitude": "-61.67571000"
+        },
+        {
+          "name": "General José de San Martín",
+          "latitude": "-26.53743000",
+          "longitude": "-59.34158000"
+        },
+        {
+          "name": "General Pinedo",
+          "latitude": "-27.31667000",
+          "longitude": "-61.28333000"
+        },
+        {
+          "name": "General Vedia",
+          "latitude": "-26.93382000",
+          "longitude": "-58.66040000"
+        },
+        {
+          "name": "Hermoso Campo",
+          "latitude": "-27.60816000",
+          "longitude": "-61.34441000"
+        },
+        {
+          "name": "La Clotilde",
+          "latitude": "-27.13333000",
+          "longitude": "-60.66667000"
+        },
+        {
+          "name": "La Eduvigis",
+          "latitude": "-26.83607000",
+          "longitude": "-59.06211000"
+        },
+        {
+          "name": "La Escondida",
+          "latitude": "-27.10724000",
+          "longitude": "-59.44784000"
+        },
+        {
+          "name": "La Leonesa",
+          "latitude": "-27.03786000",
+          "longitude": "-58.70347000"
+        },
+        {
+          "name": "La Tigra",
+          "latitude": "-27.10996000",
+          "longitude": "-60.58719000"
+        },
+        {
+          "name": "La Verde",
+          "latitude": "-27.12634000",
+          "longitude": "-59.37352000"
+        },
+        {
+          "name": "Laguna Limpia",
+          "latitude": "-26.49565000",
+          "longitude": "-59.68083000"
+        },
+        {
+          "name": "Lapachito",
+          "latitude": "-27.15997000",
+          "longitude": "-59.38605000"
+        },
+        {
+          "name": "Las Breñas",
+          "latitude": "-27.08966000",
+          "longitude": "-61.08161000"
+        },
+        {
+          "name": "Las Garcitas",
+          "latitude": "-26.61802000",
+          "longitude": "-59.80135000"
+        },
+        {
+          "name": "Los Frentones",
+          "latitude": "-26.40770000",
+          "longitude": "-61.41367000"
+        },
+        {
+          "name": "Machagai",
+          "latitude": "-26.92614000",
+          "longitude": "-60.04955000"
+        },
+        {
+          "name": "Makallé",
+          "latitude": "-27.20687000",
+          "longitude": "-59.28696000"
+        },
+        {
+          "name": "Margarita Belén",
+          "latitude": "-27.26160000",
+          "longitude": "-58.97219000"
+        },
+        {
+          "name": "Napenay",
+          "latitude": "-26.73333000",
+          "longitude": "-60.61667000"
+        },
+        {
+          "name": "Pampa Almirón",
+          "latitude": "-26.70039000",
+          "longitude": "-59.12331000"
+        },
+        {
+          "name": "Pampa del Indio",
+          "latitude": "-26.04982000",
+          "longitude": "-59.93728000"
+        },
+        {
+          "name": "Pampa del Infierno",
+          "latitude": "-26.50517000",
+          "longitude": "-61.17436000"
+        },
+        {
+          "name": "Presidencia de la Plaza",
+          "latitude": "-27.00147000",
+          "longitude": "-59.84243000"
+        },
+        {
+          "name": "Presidencia Roca",
+          "latitude": "-26.14090000",
+          "longitude": "-59.59541000"
+        },
+        {
+          "name": "Presidencia Roque Sáenz Peña",
+          "latitude": "-26.78522000",
+          "longitude": "-60.43876000"
+        },
+        {
+          "name": "Puerto Bermejo",
+          "latitude": "-26.92739000",
+          "longitude": "-58.50917000"
+        },
+        {
+          "name": "Puerto Tirol",
+          "latitude": "-27.37218000",
+          "longitude": "-59.08206000"
+        },
+        {
+          "name": "Puerto Vilelas",
+          "latitude": "-27.51414000",
+          "longitude": "-58.93906000"
+        },
+        {
+          "name": "Quitilipi",
+          "latitude": "-26.86913000",
+          "longitude": "-60.21683000"
+        },
+        {
+          "name": "Resistencia",
+          "latitude": "-27.46056000",
+          "longitude": "-58.98389000"
+        },
+        {
+          "name": "Samuhú",
+          "latitude": "-27.52116000",
+          "longitude": "-60.39167000"
+        },
+        {
+          "name": "San Bernardo",
+          "latitude": "-27.28782000",
+          "longitude": "-60.71252000"
+        },
+        {
+          "name": "Santa Sylvina",
+          "latitude": "-27.83261000",
+          "longitude": "-61.13747000"
+        },
+        {
+          "name": "Taco Pozo",
+          "latitude": "-25.61557000",
+          "longitude": "-63.26708000"
+        },
+        {
+          "name": "Tres Isletas",
+          "latitude": "-26.34067000",
+          "longitude": "-60.43207000"
+        },
+        {
+          "name": "Villa Ángela",
+          "latitude": "-27.57383000",
+          "longitude": "-60.71526000"
+        },
+        {
+          "name": "Villa Berthet",
+          "latitude": "-27.29174000",
+          "longitude": "-60.41263000"
+        }
+      ]
+    },
+    {
+      "name": "Chubut Province",
+      "state_code": "U",
+      "latitude": "-43.29342460",
+      "longitude": "-65.11148180",
+      "cities": [
+        {
+          "name": "Alto Río Senguer",
+          "latitude": "-45.04105000",
+          "longitude": "-70.81982000"
+        },
+        {
+          "name": "Camarones",
+          "latitude": "-44.79709000",
+          "longitude": "-65.70994000"
+        },
+        {
+          "name": "Comodoro Rivadavia",
+          "latitude": "-45.86413000",
+          "longitude": "-67.49656000"
+        },
+        {
+          "name": "Departamento de Biedma",
+          "latitude": "-42.41667000",
+          "longitude": "-65.00000000"
+        },
+        {
+          "name": "Departamento de Cushamen",
+          "latitude": "-42.50000000",
+          "longitude": "-70.83333000"
+        },
+        {
+          "name": "Departamento de Escalante",
+          "latitude": "-45.33333000",
+          "longitude": "-67.33333000"
+        },
+        {
+          "name": "Departamento de Florentino Ameghino",
+          "latitude": "-44.41667000",
+          "longitude": "-66.16667000"
+        },
+        {
+          "name": "Departamento de Futaleufú",
+          "latitude": "-43.08333000",
+          "longitude": "-71.41667000"
+        },
+        {
+          "name": "Departamento de Gaimán",
+          "latitude": "-43.33333000",
+          "longitude": "-66.33333000"
+        },
+        {
+          "name": "Departamento de Gastre",
+          "latitude": "-42.83333000",
+          "longitude": "-68.66667000"
+        },
+        {
+          "name": "Departamento de Languiñeo",
+          "latitude": "-43.33333000",
+          "longitude": "-70.66667000"
+        },
+        {
+          "name": "Departamento de Mártires",
+          "latitude": "-43.83333000",
+          "longitude": "-67.16667000"
+        },
+        {
+          "name": "Departamento de Paso de Indios",
+          "latitude": "-44.00000000",
+          "longitude": "-68.83333000"
+        },
+        {
+          "name": "Departamento de Rawson",
+          "latitude": "-43.12342000",
+          "longitude": "-65.10179000"
+        },
+        {
+          "name": "Departamento de Río Senguerr",
+          "latitude": "-45.33333000",
+          "longitude": "-70.83333000"
+        },
+        {
+          "name": "Departamento de Sarmiento",
+          "latitude": "-45.33333000",
+          "longitude": "-69.00000000"
+        },
+        {
+          "name": "Departamento de Tehuelches",
+          "latitude": "-44.22132000",
+          "longitude": "-70.25260000"
+        },
+        {
+          "name": "Departamento de Telsen",
+          "latitude": "-42.41667000",
+          "longitude": "-67.16667000"
+        },
+        {
+          "name": "Dolavón",
+          "latitude": "-43.30684000",
+          "longitude": "-65.70651000"
+        },
+        {
+          "name": "El Maitén",
+          "latitude": "-42.04924000",
+          "longitude": "-71.16693000"
+        },
+        {
+          "name": "Esquel",
+          "latitude": "-42.91147000",
+          "longitude": "-71.31947000"
+        },
+        {
+          "name": "Gaimán",
+          "latitude": "-43.28970000",
+          "longitude": "-65.49290000"
+        },
+        {
+          "name": "Gastre",
+          "latitude": "-42.26186000",
+          "longitude": "-69.22112000"
+        },
+        {
+          "name": "Gobernador Costa",
+          "latitude": "-44.04992000",
+          "longitude": "-70.59798000"
+        },
+        {
+          "name": "Hoyo de Epuyén",
+          "latitude": "-42.07189000",
+          "longitude": "-71.50811000"
+        },
+        {
+          "name": "José de San Martín",
+          "latitude": "-44.05032000",
+          "longitude": "-70.46967000"
+        },
+        {
+          "name": "Lago Puelo",
+          "latitude": "-42.06684000",
+          "longitude": "-71.60384000"
+        },
+        {
+          "name": "Las Plumas",
+          "latitude": "-43.72058000",
+          "longitude": "-67.28319000"
+        },
+        {
+          "name": "Puerto Madryn",
+          "latitude": "-42.76920000",
+          "longitude": "-65.03851000"
+        },
+        {
+          "name": "Rada Tilly",
+          "latitude": "-45.92462000",
+          "longitude": "-67.55424000"
+        },
+        {
+          "name": "Rawson",
+          "latitude": "-43.30016000",
+          "longitude": "-65.10228000"
+        },
+        {
+          "name": "Río Mayo",
+          "latitude": "-45.68573000",
+          "longitude": "-70.25797000"
+        },
+        {
+          "name": "Río Pico",
+          "latitude": "-44.17905000",
+          "longitude": "-71.36847000"
+        },
+        {
+          "name": "Sarmiento",
+          "latitude": "-45.58815000",
+          "longitude": "-69.06996000"
+        },
+        {
+          "name": "Tecka",
+          "latitude": "-43.49489000",
+          "longitude": "-70.81020000"
+        },
+        {
+          "name": "Trelew",
+          "latitude": "-43.24895000",
+          "longitude": "-65.30505000"
+        },
+        {
+          "name": "Trevelin",
+          "latitude": "-43.08580000",
+          "longitude": "-71.46386000"
+        }
+      ]
+    },
+    {
+      "name": "Córdoba Province",
+      "state_code": "X",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Achiras",
+          "latitude": "-33.17538000",
+          "longitude": "-64.99331000"
+        },
+        {
+          "name": "Adelia María",
+          "latitude": "-33.63152000",
+          "longitude": "-64.02097000"
+        },
+        {
+          "name": "Agua de Oro",
+          "latitude": "-31.06661000",
+          "longitude": "-64.30017000"
+        },
+        {
+          "name": "Alejandro Roca",
+          "latitude": "-33.35369000",
+          "longitude": "-63.71849000"
+        },
+        {
+          "name": "Alejo Ledesma",
+          "latitude": "-33.60643000",
+          "longitude": "-62.62304000"
+        },
+        {
+          "name": "Almafuerte",
+          "latitude": "-32.19296000",
+          "longitude": "-64.25559000"
+        },
+        {
+          "name": "Alta Gracia",
+          "latitude": "-31.65292000",
+          "longitude": "-64.42826000"
+        },
+        {
+          "name": "Altos de Chipión",
+          "latitude": "-30.95590000",
+          "longitude": "-62.33727000"
+        },
+        {
+          "name": "Arias",
+          "latitude": "-33.64411000",
+          "longitude": "-62.40272000"
+        },
+        {
+          "name": "Arroyito",
+          "latitude": "-31.42022000",
+          "longitude": "-63.05002000"
+        },
+        {
+          "name": "Arroyo Cabral",
+          "latitude": "-32.49119000",
+          "longitude": "-63.40126000"
+        },
+        {
+          "name": "Balnearia",
+          "latitude": "-31.00880000",
+          "longitude": "-62.66733000"
+        },
+        {
+          "name": "Bell Ville",
+          "latitude": "-32.62591000",
+          "longitude": "-62.68873000"
+        },
+        {
+          "name": "Berrotarán",
+          "latitude": "-32.45100000",
+          "longitude": "-64.38867000"
+        },
+        {
+          "name": "Brinkmann",
+          "latitude": "-30.86589000",
+          "longitude": "-62.03742000"
+        },
+        {
+          "name": "Buchardo",
+          "latitude": "-34.72263000",
+          "longitude": "-63.50920000"
+        },
+        {
+          "name": "Camilo Aldao",
+          "latitude": "-33.12745000",
+          "longitude": "-62.09453000"
+        },
+        {
+          "name": "Cañada de Luque",
+          "latitude": "-30.73341000",
+          "longitude": "-63.72375000"
+        },
+        {
+          "name": "Canals",
+          "latitude": "-33.56542000",
+          "longitude": "-62.88927000"
+        },
+        {
+          "name": "Capilla del Monte",
+          "latitude": "-30.86088000",
+          "longitude": "-64.52515000"
+        },
+        {
+          "name": "Carnerillo",
+          "latitude": "-32.91371000",
+          "longitude": "-64.02175000"
+        },
+        {
+          "name": "Carrilobo",
+          "latitude": "-31.87296000",
+          "longitude": "-63.11715000"
+        },
+        {
+          "name": "Cavanagh",
+          "latitude": "-33.47606000",
+          "longitude": "-62.33888000"
+        },
+        {
+          "name": "Charras",
+          "latitude": "-33.02400000",
+          "longitude": "-64.04719000"
+        },
+        {
+          "name": "Chazón",
+          "latitude": "-33.07872000",
+          "longitude": "-63.27657000"
+        },
+        {
+          "name": "Cintra",
+          "latitude": "-32.30673000",
+          "longitude": "-62.65214000"
+        },
+        {
+          "name": "Colonia La Tordilla",
+          "latitude": "-31.23746000",
+          "longitude": "-63.06134000"
+        },
+        {
+          "name": "Colonia San Bartolomé",
+          "latitude": "-31.52780000",
+          "longitude": "-62.72436000"
+        },
+        {
+          "name": "Córdoba",
+          "latitude": "-31.41350000",
+          "longitude": "-64.18105000"
+        },
+        {
+          "name": "Coronel Baigorria",
+          "latitude": "-32.84770000",
+          "longitude": "-64.36107000"
+        },
+        {
+          "name": "Coronel Moldes",
+          "latitude": "-33.62270000",
+          "longitude": "-64.59711000"
+        },
+        {
+          "name": "Corral de Bustos",
+          "latitude": "-33.28205000",
+          "longitude": "-62.18463000"
+        },
+        {
+          "name": "Corralito",
+          "latitude": "-32.02462000",
+          "longitude": "-64.19216000"
+        },
+        {
+          "name": "Cosquín",
+          "latitude": "-31.24508000",
+          "longitude": "-64.46563000"
+        },
+        {
+          "name": "Costa Sacate",
+          "latitude": "-31.64770000",
+          "longitude": "-63.75935000"
+        },
+        {
+          "name": "Cruz Alta",
+          "latitude": "-33.00887000",
+          "longitude": "-61.80746000"
+        },
+        {
+          "name": "Cruz del Eje",
+          "latitude": "-30.72644000",
+          "longitude": "-64.80387000"
+        },
+        {
+          "name": "Cuesta Blanca",
+          "latitude": "-31.48658000",
+          "longitude": "-64.57150000"
+        },
+        {
+          "name": "Dalmacio Vélez Sársfield",
+          "latitude": "-32.61072000",
+          "longitude": "-63.58038000"
+        },
+        {
+          "name": "Deán Funes",
+          "latitude": "-30.42036000",
+          "longitude": "-64.34984000"
+        },
+        {
+          "name": "Del Campillo",
+          "latitude": "-34.37659000",
+          "longitude": "-64.49504000"
+        },
+        {
+          "name": "Departamento de Calamuchita",
+          "latitude": "-32.25000000",
+          "longitude": "-64.58333000"
+        },
+        {
+          "name": "Departamento de Colón",
+          "latitude": "-31.16667000",
+          "longitude": "-64.16667000"
+        },
+        {
+          "name": "Departamento de Cruz del Eje",
+          "latitude": "-30.75000000",
+          "longitude": "-65.00000000"
+        },
+        {
+          "name": "Departamento de General Roca",
+          "latitude": "-34.66667000",
+          "longitude": "-64.25000000"
+        },
+        {
+          "name": "Departamento de General San Martín",
+          "latitude": "-32.50000000",
+          "longitude": "-63.33333000"
+        },
+        {
+          "name": "Departamento de Juárez Celman",
+          "latitude": "-33.33333000",
+          "longitude": "-63.66667000"
+        },
+        {
+          "name": "Departamento de Marcos Juárez",
+          "latitude": "-33.00000000",
+          "longitude": "-62.25000000"
+        },
+        {
+          "name": "Departamento de Minas",
+          "latitude": "-31.00000000",
+          "longitude": "-65.33333000"
+        },
+        {
+          "name": "Departamento de Presidente Roque Sáenz Peña",
+          "latitude": "-34.25000000",
+          "longitude": "-63.50000000"
+        },
+        {
+          "name": "Departamento de Río Cuarto",
+          "latitude": "-33.33333000",
+          "longitude": "-64.50000000"
+        },
+        {
+          "name": "Departamento de Río Primero",
+          "latitude": "-31.08333000",
+          "longitude": "-63.50000000"
+        },
+        {
+          "name": "Departamento de Río Seco",
+          "latitude": "-30.08333000",
+          "longitude": "-63.00000000"
+        },
+        {
+          "name": "Departamento de Río Segundo",
+          "latitude": "-31.75000000",
+          "longitude": "-63.50000000"
+        },
+        {
+          "name": "Departamento de San Alberto",
+          "latitude": "-31.75000000",
+          "longitude": "-65.25000000"
+        },
+        {
+          "name": "Departamento de San Javier",
+          "latitude": "-32.08333000",
+          "longitude": "-65.16667000"
+        },
+        {
+          "name": "Departamento de San Justo",
+          "latitude": "-31.33333000",
+          "longitude": "-62.66667000"
+        },
+        {
+          "name": "Departamento de Sobremonte",
+          "latitude": "-29.66667000",
+          "longitude": "-64.08333000"
+        },
+        {
+          "name": "Departamento de Totoral",
+          "latitude": "-30.83333000",
+          "longitude": "-63.91667000"
+        },
+        {
+          "name": "Departamento de Tulumba",
+          "latitude": "-30.25000000",
+          "longitude": "-63.91667000"
+        },
+        {
+          "name": "Departamento de Unión",
+          "latitude": "-32.83333000",
+          "longitude": "-62.75000000"
+        },
+        {
+          "name": "Despeñaderos",
+          "latitude": "-31.81626000",
+          "longitude": "-64.28989000"
+        },
+        {
+          "name": "Devoto",
+          "latitude": "-31.40431000",
+          "longitude": "-62.30634000"
+        },
+        {
+          "name": "El Arañado",
+          "latitude": "-31.74120000",
+          "longitude": "-62.89322000"
+        },
+        {
+          "name": "El Tío",
+          "latitude": "-31.38357000",
+          "longitude": "-62.82938000"
+        },
+        {
+          "name": "Elena",
+          "latitude": "-32.57205000",
+          "longitude": "-64.39481000"
+        },
+        {
+          "name": "Embalse",
+          "latitude": "-32.18000000",
+          "longitude": "-64.41809000"
+        },
+        {
+          "name": "Etruria",
+          "latitude": "-32.94008000",
+          "longitude": "-63.24660000"
+        },
+        {
+          "name": "General Baldissera",
+          "latitude": "-33.12246000",
+          "longitude": "-62.30630000"
+        },
+        {
+          "name": "General Cabrera",
+          "latitude": "-32.81313000",
+          "longitude": "-63.87243000"
+        },
+        {
+          "name": "General Levalle",
+          "latitude": "-34.01472000",
+          "longitude": "-63.92413000"
+        },
+        {
+          "name": "General Roca",
+          "latitude": "-32.73196000",
+          "longitude": "-61.91599000"
+        },
+        {
+          "name": "Guatimozín",
+          "latitude": "-33.46149000",
+          "longitude": "-62.43844000"
+        },
+        {
+          "name": "Hernando",
+          "latitude": "-32.42657000",
+          "longitude": "-63.73333000"
+        },
+        {
+          "name": "Huanchillas",
+          "latitude": "-33.66653000",
+          "longitude": "-63.63701000"
+        },
+        {
+          "name": "Huerta Grande",
+          "latitude": "-31.07524000",
+          "longitude": "-64.49063000"
+        },
+        {
+          "name": "Huinca Renancó",
+          "latitude": "-34.84038000",
+          "longitude": "-64.37580000"
+        },
+        {
+          "name": "Idiazábal",
+          "latitude": "-32.81411000",
+          "longitude": "-63.03252000"
+        },
+        {
+          "name": "Inriville",
+          "latitude": "-32.94424000",
+          "longitude": "-62.23028000"
+        },
+        {
+          "name": "Isla Verde",
+          "latitude": "-33.24104000",
+          "longitude": "-62.40297000"
+        },
+        {
+          "name": "Italó",
+          "latitude": "-34.79237000",
+          "longitude": "-63.78199000"
+        },
+        {
+          "name": "James Craik",
+          "latitude": "-32.16120000",
+          "longitude": "-63.46688000"
+        },
+        {
+          "name": "Jesús María",
+          "latitude": "-30.98153000",
+          "longitude": "-64.09424000"
+        },
+        {
+          "name": "Justiniano Posse",
+          "latitude": "-32.88411000",
+          "longitude": "-62.67788000"
+        },
+        {
+          "name": "La Calera",
+          "latitude": "-31.34377000",
+          "longitude": "-64.33529000"
+        },
+        {
+          "name": "La Carlota",
+          "latitude": "-33.41993000",
+          "longitude": "-63.29769000"
+        },
+        {
+          "name": "La Cesira",
+          "latitude": "-33.95115000",
+          "longitude": "-62.97238000"
+        },
+        {
+          "name": "La Cumbre",
+          "latitude": "-30.98201000",
+          "longitude": "-64.49139000"
+        },
+        {
+          "name": "La Falda",
+          "latitude": "-31.08841000",
+          "longitude": "-64.48987000"
+        },
+        {
+          "name": "La Francia",
+          "latitude": "-31.40675000",
+          "longitude": "-62.63396000"
+        },
+        {
+          "name": "La Granja",
+          "latitude": "-31.00919000",
+          "longitude": "-64.26869000"
+        },
+        {
+          "name": "La Para",
+          "latitude": "-30.89416000",
+          "longitude": "-63.00107000"
+        },
+        {
+          "name": "La Playosa",
+          "latitude": "-32.10002000",
+          "longitude": "-63.03088000"
+        },
+        {
+          "name": "Laborde",
+          "latitude": "-33.15319000",
+          "longitude": "-62.85661000"
+        },
+        {
+          "name": "Laboulaye",
+          "latitude": "-34.12662000",
+          "longitude": "-63.39119000"
+        },
+        {
+          "name": "Laguna Larga",
+          "latitude": "-31.77652000",
+          "longitude": "-63.80104000"
+        },
+        {
+          "name": "Las Acequias",
+          "latitude": "-33.28155000",
+          "longitude": "-63.97610000"
+        },
+        {
+          "name": "Las Higueras",
+          "latitude": "-33.09231000",
+          "longitude": "-64.28899000"
+        },
+        {
+          "name": "Las Junturas",
+          "latitude": "-31.83125000",
+          "longitude": "-63.45016000"
+        },
+        {
+          "name": "Las Perdices",
+          "latitude": "-32.69794000",
+          "longitude": "-63.70634000"
+        },
+        {
+          "name": "Las Varas",
+          "latitude": "-31.80260000",
+          "longitude": "-62.61655000"
+        },
+        {
+          "name": "Las Varillas",
+          "latitude": "-31.87208000",
+          "longitude": "-62.71946000"
+        },
+        {
+          "name": "Leones",
+          "latitude": "-32.66174000",
+          "longitude": "-62.29678000"
+        },
+        {
+          "name": "Los Cocos",
+          "latitude": "-30.92497000",
+          "longitude": "-64.50207000"
+        },
+        {
+          "name": "Los Cóndores",
+          "latitude": "-32.31983000",
+          "longitude": "-64.27751000"
+        },
+        {
+          "name": "Los Surgentes",
+          "latitude": "-32.98454000",
+          "longitude": "-62.02191000"
+        },
+        {
+          "name": "Malagueño",
+          "latitude": "-31.46467000",
+          "longitude": "-64.35840000"
+        },
+        {
+          "name": "Malvinas Argentinas",
+          "latitude": "-31.38194000",
+          "longitude": "-64.05545000"
+        },
+        {
+          "name": "Marcos Juárez",
+          "latitude": "-32.69780000",
+          "longitude": "-62.10672000"
+        },
+        {
+          "name": "Marull",
+          "latitude": "-30.99471000",
+          "longitude": "-62.82576000"
+        },
+        {
+          "name": "Mattaldi",
+          "latitude": "-34.48194000",
+          "longitude": "-64.17255000"
+        },
+        {
+          "name": "Mendiolaza",
+          "latitude": "-31.26738000",
+          "longitude": "-64.30087000"
+        },
+        {
+          "name": "Mina Clavero",
+          "latitude": "-31.72101000",
+          "longitude": "-65.00619000"
+        },
+        {
+          "name": "Miramar",
+          "latitude": "-30.91859000",
+          "longitude": "-62.67814000"
+        },
+        {
+          "name": "Monte Buey",
+          "latitude": "-32.91642000",
+          "longitude": "-62.45669000"
+        },
+        {
+          "name": "Monte Cristo",
+          "latitude": "-31.34312000",
+          "longitude": "-63.94437000"
+        },
+        {
+          "name": "Monte Maíz",
+          "latitude": "-33.20462000",
+          "longitude": "-62.60085000"
+        },
+        {
+          "name": "Morrison",
+          "latitude": "-32.59480000",
+          "longitude": "-62.83455000"
+        },
+        {
+          "name": "Morteros",
+          "latitude": "-30.71164000",
+          "longitude": "-61.99862000"
+        },
+        {
+          "name": "Noetinger",
+          "latitude": "-32.36597000",
+          "longitude": "-62.31126000"
+        },
+        {
+          "name": "Obispo Trejo",
+          "latitude": "-30.78128000",
+          "longitude": "-63.41349000"
+        },
+        {
+          "name": "Oliva",
+          "latitude": "-32.04158000",
+          "longitude": "-63.56978000"
+        },
+        {
+          "name": "Oncativo",
+          "latitude": "-31.91353000",
+          "longitude": "-63.68201000"
+        },
+        {
+          "name": "Ordóñez",
+          "latitude": "-32.84057000",
+          "longitude": "-62.86552000"
+        },
+        {
+          "name": "Pascanas",
+          "latitude": "-33.12550000",
+          "longitude": "-63.04084000"
+        },
+        {
+          "name": "Pasco",
+          "latitude": "-32.74733000",
+          "longitude": "-63.34232000"
+        },
+        {
+          "name": "Pilar",
+          "latitude": "-31.67890000",
+          "longitude": "-63.87964000"
+        },
+        {
+          "name": "Piquillín",
+          "latitude": "-31.30158000",
+          "longitude": "-63.75788000"
+        },
+        {
+          "name": "Porteña",
+          "latitude": "-31.01391000",
+          "longitude": "-62.06650000"
+        },
+        {
+          "name": "Pozo del Molle",
+          "latitude": "-32.01860000",
+          "longitude": "-62.91984000"
+        },
+        {
+          "name": "Quilino",
+          "latitude": "-30.21397000",
+          "longitude": "-64.50063000"
+        },
+        {
+          "name": "Río Ceballos",
+          "latitude": "-31.16486000",
+          "longitude": "-64.32241000"
+        },
+        {
+          "name": "Río Cuarto",
+          "latitude": "-33.13067000",
+          "longitude": "-64.34992000"
+        },
+        {
+          "name": "Río Segundo",
+          "latitude": "-31.65260000",
+          "longitude": "-63.90990000"
+        },
+        {
+          "name": "Río Tercero",
+          "latitude": "-32.17301000",
+          "longitude": "-64.11405000"
+        },
+        {
+          "name": "Sacanta",
+          "latitude": "-31.66300000",
+          "longitude": "-63.04505000"
+        },
+        {
+          "name": "Saldán",
+          "latitude": "-31.30262000",
+          "longitude": "-64.30700000"
+        },
+        {
+          "name": "Salsacate",
+          "latitude": "-31.31842000",
+          "longitude": "-65.09003000"
+        },
+        {
+          "name": "Salsipuedes",
+          "latitude": "-31.13725000",
+          "longitude": "-64.29589000"
+        },
+        {
+          "name": "Sampacho",
+          "latitude": "-33.38390000",
+          "longitude": "-64.72211000"
+        },
+        {
+          "name": "San Agustín",
+          "latitude": "-31.97681000",
+          "longitude": "-64.37400000"
+        },
+        {
+          "name": "San Antonio de Litín",
+          "latitude": "-32.21377000",
+          "longitude": "-62.63237000"
+        },
+        {
+          "name": "San Basilio",
+          "latitude": "-33.49763000",
+          "longitude": "-64.31495000"
+        },
+        {
+          "name": "San Carlos",
+          "latitude": "-31.17761000",
+          "longitude": "-65.10245000"
+        },
+        {
+          "name": "San Francisco",
+          "latitude": "-31.42797000",
+          "longitude": "-62.08266000"
+        },
+        {
+          "name": "San Francisco del Chañar",
+          "latitude": "-29.78830000",
+          "longitude": "-63.94411000"
+        },
+        {
+          "name": "San José de la Dormida",
+          "latitude": "-30.35440000",
+          "longitude": "-63.94871000"
+        },
+        {
+          "name": "Santa Eufemia",
+          "latitude": "-33.17659000",
+          "longitude": "-63.28281000"
+        },
+        {
+          "name": "Santa Magdalena",
+          "latitude": "-34.51776000",
+          "longitude": "-63.94409000"
+        },
+        {
+          "name": "Santa Rosa de Calamuchita",
+          "latitude": "-32.06905000",
+          "longitude": "-64.53631000"
+        },
+        {
+          "name": "Santa Rosa de Río Primero",
+          "latitude": "-31.15231000",
+          "longitude": "-63.40191000"
+        },
+        {
+          "name": "Santiago Temple",
+          "latitude": "-31.38731000",
+          "longitude": "-63.41821000"
+        },
+        {
+          "name": "Saturnino M. Laspiur",
+          "latitude": "-31.70287000",
+          "longitude": "-62.48202000"
+        },
+        {
+          "name": "Sebastián Elcano",
+          "latitude": "-30.16105000",
+          "longitude": "-63.59360000"
+        },
+        {
+          "name": "Serrano",
+          "latitude": "-34.46971000",
+          "longitude": "-63.53842000"
+        },
+        {
+          "name": "Serrezuela",
+          "latitude": "-30.63761000",
+          "longitude": "-65.38692000"
+        },
+        {
+          "name": "Tancacha",
+          "latitude": "-32.24309000",
+          "longitude": "-63.98070000"
+        },
+        {
+          "name": "Ticino",
+          "latitude": "-32.69350000",
+          "longitude": "-63.43606000"
+        },
+        {
+          "name": "Tío Pujio",
+          "latitude": "-32.28790000",
+          "longitude": "-63.35598000"
+        },
+        {
+          "name": "Toledo",
+          "latitude": "-31.55574000",
+          "longitude": "-64.00947000"
+        },
+        {
+          "name": "Ucacha",
+          "latitude": "-33.03203000",
+          "longitude": "-63.50666000"
+        },
+        {
+          "name": "Unquillo",
+          "latitude": "-31.23073000",
+          "longitude": "-64.31615000"
+        },
+        {
+          "name": "Valle Hermoso",
+          "latitude": "-31.11732000",
+          "longitude": "-64.48084000"
+        },
+        {
+          "name": "Viamonte",
+          "latitude": "-33.74647000",
+          "longitude": "-63.09764000"
+        },
+        {
+          "name": "Vicuña Mackenna",
+          "latitude": "-33.91965000",
+          "longitude": "-64.39215000"
+        },
+        {
+          "name": "Villa Allende",
+          "latitude": "-31.29458000",
+          "longitude": "-64.29538000"
+        },
+        {
+          "name": "Villa Ascasubi",
+          "latitude": "-32.16351000",
+          "longitude": "-63.89157000"
+        },
+        {
+          "name": "Villa Berna",
+          "latitude": "-31.91419000",
+          "longitude": "-64.73249000"
+        },
+        {
+          "name": "Villa Carlos Paz",
+          "latitude": "-31.42414000",
+          "longitude": "-64.49778000"
+        },
+        {
+          "name": "Villa Concepción del Tío",
+          "latitude": "-31.32259000",
+          "longitude": "-62.81354000"
+        },
+        {
+          "name": "Villa Cura Brochero",
+          "latitude": "-31.70578000",
+          "longitude": "-65.01796000"
+        },
+        {
+          "name": "Villa de Soto",
+          "latitude": "-30.85523000",
+          "longitude": "-64.99947000"
+        },
+        {
+          "name": "Villa del Dique",
+          "latitude": "-32.17667000",
+          "longitude": "-64.45543000"
+        },
+        {
+          "name": "Villa del Rosario",
+          "latitude": "-31.55660000",
+          "longitude": "-63.53452000"
+        },
+        {
+          "name": "Villa del Totoral",
+          "latitude": "-30.81667000",
+          "longitude": "-63.71667000"
+        },
+        {
+          "name": "Villa Dolores",
+          "latitude": "-31.94585000",
+          "longitude": "-65.18958000"
+        },
+        {
+          "name": "Villa General Belgrano",
+          "latitude": "-31.97828000",
+          "longitude": "-64.55627000"
+        },
+        {
+          "name": "Villa Giardino",
+          "latitude": "-31.03333000",
+          "longitude": "-64.48333000"
+        },
+        {
+          "name": "Villa Huidobro",
+          "latitude": "-34.83826000",
+          "longitude": "-64.58686000"
+        },
+        {
+          "name": "Villa Las Rosas",
+          "latitude": "-31.95021000",
+          "longitude": "-65.05354000"
+        },
+        {
+          "name": "Villa María",
+          "latitude": "-32.40751000",
+          "longitude": "-63.24016000"
+        },
+        {
+          "name": "Villa Nueva",
+          "latitude": "-32.43293000",
+          "longitude": "-63.24763000"
+        },
+        {
+          "name": "Villa Reducción",
+          "latitude": "-33.20105000",
+          "longitude": "-63.86234000"
+        },
+        {
+          "name": "Villa Rumipal",
+          "latitude": "-32.18790000",
+          "longitude": "-64.48027000"
+        },
+        {
+          "name": "Villa Tulumba",
+          "latitude": "-30.39552000",
+          "longitude": "-64.12241000"
+        },
+        {
+          "name": "Villa Valeria",
+          "latitude": "-34.34093000",
+          "longitude": "-64.92030000"
+        },
+        {
+          "name": "Wenceslao Escalante",
+          "latitude": "-33.17303000",
+          "longitude": "-62.77078000"
+        }
+      ]
+    },
+    {
+      "name": "Corrientes",
+      "state_code": "W",
+      "latitude": "-27.46921310",
+      "longitude": "-58.83063490",
+      "cities": [
+        {
+          "name": "Alvear",
+          "latitude": "-29.09683000",
+          "longitude": "-56.55043000"
+        },
+        {
+          "name": "Berón de Astrada",
+          "latitude": "-27.55067000",
+          "longitude": "-57.53460000"
+        },
+        {
+          "name": "Bonpland",
+          "latitude": "-29.81708000",
+          "longitude": "-57.42974000"
+        },
+        {
+          "name": "Chavarría",
+          "latitude": "-28.95489000",
+          "longitude": "-58.57277000"
+        },
+        {
+          "name": "Concepción",
+          "latitude": "-28.39175000",
+          "longitude": "-57.88777000"
+        },
+        {
+          "name": "Corrientes",
+          "latitude": "-27.46784000",
+          "longitude": "-58.83440000"
+        },
+        {
+          "name": "Cruz de los Milagros",
+          "latitude": "-28.83646000",
+          "longitude": "-59.00476000"
+        },
+        {
+          "name": "Curuzú Cuatiá",
+          "latitude": "-29.79171000",
+          "longitude": "-58.05460000"
+        },
+        {
+          "name": "Departamento de Bella Vista",
+          "latitude": "-28.50000000",
+          "longitude": "-58.83333000"
+        },
+        {
+          "name": "Departamento de Berón de Astrada",
+          "latitude": "-27.50000000",
+          "longitude": "-57.66667000"
+        },
+        {
+          "name": "Departamento de Capital",
+          "latitude": "-27.50000000",
+          "longitude": "-58.75000000"
+        },
+        {
+          "name": "Departamento de Concepción",
+          "latitude": "-28.33333000",
+          "longitude": "-58.00000000"
+        },
+        {
+          "name": "Departamento de Curuzú Cuatiá",
+          "latitude": "-29.50000000",
+          "longitude": "-58.50000000"
+        },
+        {
+          "name": "Departamento de Empedrado",
+          "latitude": "-27.83333000",
+          "longitude": "-58.66667000"
+        },
+        {
+          "name": "Departamento de Esquina",
+          "latitude": "-30.00000000",
+          "longitude": "-59.33333000"
+        },
+        {
+          "name": "Departamento de General Alvear",
+          "latitude": "-28.83333000",
+          "longitude": "-56.50000000"
+        },
+        {
+          "name": "Departamento de General Paz",
+          "latitude": "-27.75000000",
+          "longitude": "-57.83333000"
+        },
+        {
+          "name": "Departamento de Goya",
+          "latitude": "-29.50000000",
+          "longitude": "-59.50000000"
+        },
+        {
+          "name": "Departamento de Itatí",
+          "latitude": "-27.33333000",
+          "longitude": "-58.00000000"
+        },
+        {
+          "name": "Departamento de Ituzaingó",
+          "latitude": "-27.90085000",
+          "longitude": "-56.86604000"
+        },
+        {
+          "name": "Departamento de Lavalle",
+          "latitude": "-29.00000000",
+          "longitude": "-58.91667000"
+        },
+        {
+          "name": "Departamento de Mburucuyá",
+          "latitude": "-28.00000000",
+          "longitude": "-58.25000000"
+        },
+        {
+          "name": "Departamento de Mercedes",
+          "latitude": "-29.00000000",
+          "longitude": "-57.83333000"
+        },
+        {
+          "name": "Departamento de Monte Caseros",
+          "latitude": "-30.25000000",
+          "longitude": "-57.83333000"
+        },
+        {
+          "name": "Departamento de Paso de los Libres",
+          "latitude": "-29.66667000",
+          "longitude": "-57.25000000"
+        },
+        {
+          "name": "Departamento de Saladas",
+          "latitude": "-28.25000000",
+          "longitude": "-58.75000000"
+        },
+        {
+          "name": "Departamento de San Cosme",
+          "latitude": "-27.33333000",
+          "longitude": "-58.50000000"
+        },
+        {
+          "name": "Departamento de San Luis del Palmar",
+          "latitude": "-27.50000000",
+          "longitude": "-58.25000000"
+        },
+        {
+          "name": "Departamento de San Martín",
+          "latitude": "-28.83333000",
+          "longitude": "-56.91667000"
+        },
+        {
+          "name": "Departamento de San Miguel",
+          "latitude": "-27.91667000",
+          "longitude": "-57.50000000"
+        },
+        {
+          "name": "Departamento de San Roque",
+          "latitude": "-28.66667000",
+          "longitude": "-58.75000000"
+        },
+        {
+          "name": "Departamento de Santo Tomé",
+          "latitude": "-28.25000000",
+          "longitude": "-56.25000000"
+        },
+        {
+          "name": "Departamento de Sauce",
+          "latitude": "-30.00000000",
+          "longitude": "-58.66667000"
+        },
+        {
+          "name": "Empedrado",
+          "latitude": "-27.95178000",
+          "longitude": "-58.80584000"
+        },
+        {
+          "name": "Esquina",
+          "latitude": "-30.01476000",
+          "longitude": "-59.52890000"
+        },
+        {
+          "name": "Felipe Yofré",
+          "latitude": "-29.10226000",
+          "longitude": "-58.33772000"
+        },
+        {
+          "name": "Garruchos",
+          "latitude": "-28.17208000",
+          "longitude": "-55.65406000"
+        },
+        {
+          "name": "Gobernador Juan E. Martínez",
+          "latitude": "-28.91161000",
+          "longitude": "-58.93594000"
+        },
+        {
+          "name": "Gobernador Virasora",
+          "latitude": "-28.05000000",
+          "longitude": "-56.03333000"
+        },
+        {
+          "name": "Goya",
+          "latitude": "-29.13995000",
+          "longitude": "-59.26343000"
+        },
+        {
+          "name": "Herlitzka",
+          "latitude": "-27.56516000",
+          "longitude": "-58.25557000"
+        },
+        {
+          "name": "Itá Ibaté",
+          "latitude": "-27.42573000",
+          "longitude": "-57.33758000"
+        },
+        {
+          "name": "Itatí",
+          "latitude": "-27.27043000",
+          "longitude": "-58.24458000"
+        },
+        {
+          "name": "Ituzaingó",
+          "latitude": "-27.58162000",
+          "longitude": "-56.68231000"
+        },
+        {
+          "name": "Juan Pujol",
+          "latitude": "-30.41873000",
+          "longitude": "-57.85612000"
+        },
+        {
+          "name": "La Cruz",
+          "latitude": "-29.17443000",
+          "longitude": "-56.64326000"
+        },
+        {
+          "name": "Libertad",
+          "latitude": "-30.04300000",
+          "longitude": "-57.82020000"
+        },
+        {
+          "name": "Lomas de Vallejos",
+          "latitude": "-27.73501000",
+          "longitude": "-57.91850000"
+        },
+        {
+          "name": "Loreto",
+          "latitude": "-27.76834000",
+          "longitude": "-57.27531000"
+        },
+        {
+          "name": "Mariano I. Loza",
+          "latitude": "-29.37667000",
+          "longitude": "-58.19436000"
+        },
+        {
+          "name": "Mburucuyá",
+          "latitude": "-28.04532000",
+          "longitude": "-58.22835000"
+        },
+        {
+          "name": "Mercedes",
+          "latitude": "-29.18416000",
+          "longitude": "-58.07519000"
+        },
+        {
+          "name": "Mocoretá",
+          "latitude": "-30.61891000",
+          "longitude": "-57.96344000"
+        },
+        {
+          "name": "Monte Caseros",
+          "latitude": "-30.25359000",
+          "longitude": "-57.63626000"
+        },
+        {
+          "name": "Nuestra Señora del Rosario de Caa Catí",
+          "latitude": "-27.75072000",
+          "longitude": "-57.62073000"
+        },
+        {
+          "name": "Nueve de Julio",
+          "latitude": "-28.84051000",
+          "longitude": "-58.82650000"
+        },
+        {
+          "name": "Palmar Grande",
+          "latitude": "-27.94195000",
+          "longitude": "-57.90057000"
+        },
+        {
+          "name": "Paso de la Patria",
+          "latitude": "-27.31676000",
+          "longitude": "-58.57197000"
+        },
+        {
+          "name": "Paso de los Libres",
+          "latitude": "-29.71251000",
+          "longitude": "-57.08771000"
+        },
+        {
+          "name": "Pedro R. Fernández",
+          "latitude": "-28.75097000",
+          "longitude": "-58.65583000"
+        },
+        {
+          "name": "Perugorría",
+          "latitude": "-29.34132000",
+          "longitude": "-58.61059000"
+        },
+        {
+          "name": "Pueblo Libertador",
+          "latitude": "-30.22087000",
+          "longitude": "-59.38981000"
+        },
+        {
+          "name": "Riachuelo",
+          "latitude": "-27.58191000",
+          "longitude": "-58.74497000"
+        },
+        {
+          "name": "Saladas",
+          "latitude": "-28.25384000",
+          "longitude": "-58.62591000"
+        },
+        {
+          "name": "San Carlos",
+          "latitude": "-27.74586000",
+          "longitude": "-55.89731000"
+        },
+        {
+          "name": "San Cosme",
+          "latitude": "-27.37123000",
+          "longitude": "-58.51214000"
+        },
+        {
+          "name": "San Lorenzo",
+          "latitude": "-28.13306000",
+          "longitude": "-58.76733000"
+        },
+        {
+          "name": "San Luis del Palmar",
+          "latitude": "-27.50790000",
+          "longitude": "-58.55454000"
+        },
+        {
+          "name": "San Miguel",
+          "latitude": "-27.99585000",
+          "longitude": "-57.58964000"
+        },
+        {
+          "name": "Santa Lucía",
+          "latitude": "-28.98746000",
+          "longitude": "-59.10287000"
+        },
+        {
+          "name": "Santa Rosa",
+          "latitude": "-28.26318000",
+          "longitude": "-58.11891000"
+        },
+        {
+          "name": "Santo Tomé",
+          "latitude": "-28.54939000",
+          "longitude": "-56.04077000"
+        },
+        {
+          "name": "Yapeyú",
+          "latitude": "-29.46914000",
+          "longitude": "-56.81841000"
+        },
+        {
+          "name": "Yataity Calle",
+          "latitude": "-29.01913000",
+          "longitude": "-58.90846000"
+        }
+      ]
+    },
+    {
+      "name": "Entre Ríos Province",
+      "state_code": "E",
+      "latitude": "-31.77466540",
+      "longitude": "-60.49564610",
+      "cities": [
+        {
+          "name": "Aldea San Antonio",
+          "latitude": "-32.62317000",
+          "longitude": "-58.70512000"
+        },
+        {
+          "name": "Aranguren",
+          "latitude": "-32.24252000",
+          "longitude": "-60.16107000"
+        },
+        {
+          "name": "Bovril",
+          "latitude": "-31.34311000",
+          "longitude": "-59.44512000"
+        },
+        {
+          "name": "Caseros",
+          "latitude": "-32.46325000",
+          "longitude": "-58.47872000"
+        },
+        {
+          "name": "Ceibas",
+          "latitude": "-33.43333000",
+          "longitude": "-58.75000000"
+        },
+        {
+          "name": "Chajarí",
+          "latitude": "-30.75048000",
+          "longitude": "-57.97962000"
+        },
+        {
+          "name": "Colón",
+          "latitude": "-32.22312000",
+          "longitude": "-58.14426000"
+        },
+        {
+          "name": "Colonia Elía",
+          "latitude": "-32.67144000",
+          "longitude": "-58.32538000"
+        },
+        {
+          "name": "Concepción del Uruguay",
+          "latitude": "-32.48463000",
+          "longitude": "-58.23217000"
+        },
+        {
+          "name": "Concordia",
+          "latitude": "-31.39296000",
+          "longitude": "-58.02089000"
+        },
+        {
+          "name": "Conscripto Bernardi",
+          "latitude": "-31.04837000",
+          "longitude": "-59.08435000"
+        },
+        {
+          "name": "Crespo",
+          "latitude": "-32.02873000",
+          "longitude": "-60.30658000"
+        },
+        {
+          "name": "Departamento de Gualeguaychú",
+          "latitude": "-33.25000000",
+          "longitude": "-59.00000000"
+        },
+        {
+          "name": "Departamento de Paraná",
+          "latitude": "-31.66667000",
+          "longitude": "-60.00000000"
+        },
+        {
+          "name": "Diamante",
+          "latitude": "-32.06641000",
+          "longitude": "-60.63837000"
+        },
+        {
+          "name": "Domínguez",
+          "latitude": "-31.98710000",
+          "longitude": "-58.96197000"
+        },
+        {
+          "name": "Federación",
+          "latitude": "-31.00621000",
+          "longitude": "-57.89962000"
+        },
+        {
+          "name": "Federal",
+          "latitude": "-30.95465000",
+          "longitude": "-58.78326000"
+        },
+        {
+          "name": "General Campos",
+          "latitude": "-31.52311000",
+          "longitude": "-58.40490000"
+        },
+        {
+          "name": "General Galarza",
+          "latitude": "-32.72034000",
+          "longitude": "-59.39615000"
+        },
+        {
+          "name": "General Ramírez",
+          "latitude": "-32.17601000",
+          "longitude": "-60.20079000"
+        },
+        {
+          "name": "Gobernador Mansilla",
+          "latitude": "-32.54453000",
+          "longitude": "-59.35480000"
+        },
+        {
+          "name": "Gualeguay",
+          "latitude": "-33.14156000",
+          "longitude": "-59.30966000"
+        },
+        {
+          "name": "Gualeguaychú",
+          "latitude": "-33.00937000",
+          "longitude": "-58.51722000"
+        },
+        {
+          "name": "Hasenkamp",
+          "latitude": "-31.51226000",
+          "longitude": "-59.83545000"
+        },
+        {
+          "name": "Hernández",
+          "latitude": "-32.33730000",
+          "longitude": "-60.02160000"
+        },
+        {
+          "name": "Herrera",
+          "latitude": "-32.43401000",
+          "longitude": "-58.63177000"
+        },
+        {
+          "name": "La Criolla",
+          "latitude": "-31.26904000",
+          "longitude": "-58.10558000"
+        },
+        {
+          "name": "La Paz",
+          "latitude": "-30.74179000",
+          "longitude": "-59.64517000"
+        },
+        {
+          "name": "Larroque",
+          "latitude": "-33.03595000",
+          "longitude": "-59.00125000"
+        },
+        {
+          "name": "Los Charrúas",
+          "latitude": "-31.17548000",
+          "longitude": "-58.18774000"
+        },
+        {
+          "name": "Los Conquistadores",
+          "latitude": "-30.59080000",
+          "longitude": "-58.46773000"
+        },
+        {
+          "name": "Lucas González",
+          "latitude": "-32.38430000",
+          "longitude": "-59.53013000"
+        },
+        {
+          "name": "Maciá",
+          "latitude": "-32.17220000",
+          "longitude": "-59.39947000"
+        },
+        {
+          "name": "Nogoyá",
+          "latitude": "-32.39387000",
+          "longitude": "-59.78953000"
+        },
+        {
+          "name": "Oro Verde",
+          "latitude": "-31.82508000",
+          "longitude": "-60.51749000"
+        },
+        {
+          "name": "Paraná",
+          "latitude": "-31.73271000",
+          "longitude": "-60.52897000"
+        },
+        {
+          "name": "Piedras Blancas",
+          "latitude": "-31.18592000",
+          "longitude": "-59.95181000"
+        },
+        {
+          "name": "Pronunciamiento",
+          "latitude": "-32.34480000",
+          "longitude": "-58.44268000"
+        },
+        {
+          "name": "Puerto Ibicuy",
+          "latitude": "-33.75305000",
+          "longitude": "-59.17762000"
+        },
+        {
+          "name": "Puerto Yeruá",
+          "latitude": "-31.53713000",
+          "longitude": "-58.01527000"
+        },
+        {
+          "name": "Rosario del Tala",
+          "latitude": "-32.30286000",
+          "longitude": "-59.14545000"
+        },
+        {
+          "name": "San Benito",
+          "latitude": "-31.78371000",
+          "longitude": "-60.44156000"
+        },
+        {
+          "name": "San Gustavo",
+          "latitude": "-30.68961000",
+          "longitude": "-59.39840000"
+        },
+        {
+          "name": "San José de Feliciano",
+          "latitude": "-30.38452000",
+          "longitude": "-58.75167000"
+        },
+        {
+          "name": "San Justo",
+          "latitude": "-32.44654000",
+          "longitude": "-58.43569000"
+        },
+        {
+          "name": "San Salvador",
+          "latitude": "-31.62487000",
+          "longitude": "-58.50524000"
+        },
+        {
+          "name": "Santa Ana",
+          "latitude": "-30.90004000",
+          "longitude": "-57.93162000"
+        },
+        {
+          "name": "Santa Anita",
+          "latitude": "-32.17476000",
+          "longitude": "-58.78622000"
+        },
+        {
+          "name": "Santa Elena",
+          "latitude": "-30.94432000",
+          "longitude": "-59.78832000"
+        },
+        {
+          "name": "Sauce de Luna",
+          "latitude": "-31.23794000",
+          "longitude": "-59.21872000"
+        },
+        {
+          "name": "Seguí",
+          "latitude": "-31.95642000",
+          "longitude": "-60.12488000"
+        },
+        {
+          "name": "Tabossi",
+          "latitude": "-31.80135000",
+          "longitude": "-59.93477000"
+        },
+        {
+          "name": "Ubajay",
+          "latitude": "-31.79358000",
+          "longitude": "-58.31350000"
+        },
+        {
+          "name": "Urdinarrain",
+          "latitude": "-32.68573000",
+          "longitude": "-58.89323000"
+        },
+        {
+          "name": "Viale",
+          "latitude": "-31.86782000",
+          "longitude": "-60.00722000"
+        },
+        {
+          "name": "Victoria",
+          "latitude": "-32.61841000",
+          "longitude": "-60.15478000"
+        },
+        {
+          "name": "Villa del Rosario",
+          "latitude": "-30.79567000",
+          "longitude": "-57.91257000"
+        },
+        {
+          "name": "Villa Elisa",
+          "latitude": "-32.16320000",
+          "longitude": "-58.40082000"
+        },
+        {
+          "name": "Villa Hernandarias",
+          "latitude": "-31.23097000",
+          "longitude": "-59.98464000"
+        },
+        {
+          "name": "Villa Mantero",
+          "latitude": "-32.39727000",
+          "longitude": "-58.74596000"
+        },
+        {
+          "name": "Villa María Grande",
+          "latitude": "-31.66565000",
+          "longitude": "-59.90182000"
+        },
+        {
+          "name": "Villa Paranacito",
+          "latitude": "-33.71381000",
+          "longitude": "-58.65844000"
+        },
+        {
+          "name": "Villa Urquiza",
+          "latitude": "-31.64757000",
+          "longitude": "-60.37516000"
+        },
+        {
+          "name": "Villaguay",
+          "latitude": "-31.86530000",
+          "longitude": "-59.02689000"
+        }
+      ]
+    },
+    {
+      "name": "Formosa Province",
+      "state_code": "P",
+      "latitude": "-26.18948040",
+      "longitude": "-58.22428060",
+      "cities": [
+        {
+          "name": "Clorinda",
+          "latitude": "-25.28481000",
+          "longitude": "-57.71851000"
+        },
+        {
+          "name": "Comandante Fontana",
+          "latitude": "-25.33453000",
+          "longitude": "-59.68212000"
+        },
+        {
+          "name": "Departamento de Pilcomayo",
+          "latitude": "-25.50000000",
+          "longitude": "-58.08333000"
+        },
+        {
+          "name": "El Colorado",
+          "latitude": "-26.30808000",
+          "longitude": "-59.37291000"
+        },
+        {
+          "name": "Estanislao del Campo",
+          "latitude": "-25.05504000",
+          "longitude": "-60.09218000"
+        },
+        {
+          "name": "Formosa",
+          "latitude": "-26.18489000",
+          "longitude": "-58.17313000"
+        },
+        {
+          "name": "General Enrique Mosconi",
+          "latitude": "-23.21667000",
+          "longitude": "-62.30000000"
+        },
+        {
+          "name": "Herradura",
+          "latitude": "-26.48705000",
+          "longitude": "-58.31198000"
+        },
+        {
+          "name": "Ibarreta",
+          "latitude": "-25.21438000",
+          "longitude": "-59.85851000"
+        },
+        {
+          "name": "Ingeniero Guillermo N. Juárez",
+          "latitude": "-23.90000000",
+          "longitude": "-61.85000000"
+        },
+        {
+          "name": "Laguna Naick-Neck",
+          "latitude": "-25.24769000",
+          "longitude": "-58.09383000"
+        },
+        {
+          "name": "Laguna Yema",
+          "latitude": "-24.25391000",
+          "longitude": "-61.24466000"
+        },
+        {
+          "name": "Las Lomitas",
+          "latitude": "-24.70955000",
+          "longitude": "-60.59303000"
+        },
+        {
+          "name": "Palo Santo",
+          "latitude": "-25.56332000",
+          "longitude": "-59.33781000"
+        },
+        {
+          "name": "Pirané",
+          "latitude": "-25.73239000",
+          "longitude": "-59.10879000"
+        },
+        {
+          "name": "Pozo del Tigre",
+          "latitude": "-24.89682000",
+          "longitude": "-60.32359000"
+        },
+        {
+          "name": "Riacho Eh-Eh",
+          "latitude": "-25.36209000",
+          "longitude": "-58.27750000"
+        },
+        {
+          "name": "San Francisco de Laishí",
+          "latitude": "-26.24262000",
+          "longitude": "-58.63039000"
+        },
+        {
+          "name": "Villa Escolar",
+          "latitude": "-26.62209000",
+          "longitude": "-58.67134000"
+        },
+        {
+          "name": "Villa General Guemes",
+          "latitude": "-24.75530000",
+          "longitude": "-59.48940000"
+        }
+      ]
+    },
+    {
+      "name": "Jujuy Province",
+      "state_code": "Y",
+      "latitude": "-24.18433970",
+      "longitude": "-65.30217700",
+      "cities": [
+        {
+          "name": "Abra Pampa",
+          "latitude": "-22.72049000",
+          "longitude": "-65.69697000"
+        },
+        {
+          "name": "Caimancito",
+          "latitude": "-23.74069000",
+          "longitude": "-64.59370000"
+        },
+        {
+          "name": "Calilegua",
+          "latitude": "-23.77368000",
+          "longitude": "-64.77002000"
+        },
+        {
+          "name": "Departamento de Cochinoca",
+          "latitude": "-23.00000000",
+          "longitude": "-65.83333000"
+        },
+        {
+          "name": "Departamento de Rinconada",
+          "latitude": "-22.50000000",
+          "longitude": "-66.50000000"
+        },
+        {
+          "name": "Departamento de Tumbaya",
+          "latitude": "-23.71667000",
+          "longitude": "-65.66667000"
+        },
+        {
+          "name": "El Aguilar",
+          "latitude": "-23.21572000",
+          "longitude": "-65.68005000"
+        },
+        {
+          "name": "Fraile Pintado",
+          "latitude": "-23.94079000",
+          "longitude": "-64.79943000"
+        },
+        {
+          "name": "Humahuaca",
+          "latitude": "-23.20544000",
+          "longitude": "-65.35048000"
+        },
+        {
+          "name": "Ingenio La Esperanza",
+          "latitude": "-24.22554000",
+          "longitude": "-64.83896000"
+        },
+        {
+          "name": "La Mendieta",
+          "latitude": "-24.31187000",
+          "longitude": "-64.96377000"
+        },
+        {
+          "name": "La Quiaca",
+          "latitude": "-22.10236000",
+          "longitude": "-65.59299000"
+        },
+        {
+          "name": "Libertador General San Martín",
+          "latitude": "-23.80644000",
+          "longitude": "-64.78757000"
+        },
+        {
+          "name": "Maimará",
+          "latitude": "-23.62392000",
+          "longitude": "-65.40797000"
+        },
+        {
+          "name": "Palma Sola",
+          "latitude": "-23.97771000",
+          "longitude": "-64.30311000"
+        },
+        {
+          "name": "Palpalá",
+          "latitude": "-24.25647000",
+          "longitude": "-65.21163000"
+        },
+        {
+          "name": "San Pedro de Jujuy",
+          "latitude": "-24.23127000",
+          "longitude": "-64.86614000"
+        },
+        {
+          "name": "San Salvador de Jujuy",
+          "latitude": "-24.19457000",
+          "longitude": "-65.29712000"
+        },
+        {
+          "name": "Santa Clara",
+          "latitude": "-24.30921000",
+          "longitude": "-64.66253000"
+        },
+        {
+          "name": "Tilcara",
+          "latitude": "-23.57817000",
+          "longitude": "-65.39516000"
+        },
+        {
+          "name": "Yuto",
+          "latitude": "-23.64342000",
+          "longitude": "-64.47194000"
+        }
+      ]
+    },
+    {
+      "name": "La Pampa",
+      "state_code": "L",
+      "latitude": "-36.61475730",
+      "longitude": "-64.28392090",
+      "cities": [
+        {
+          "name": "Alpachiri",
+          "latitude": "-37.37704000",
+          "longitude": "-63.77445000"
+        },
+        {
+          "name": "Alta Italia",
+          "latitude": "-35.33350000",
+          "longitude": "-64.11496000"
+        },
+        {
+          "name": "Anguil",
+          "latitude": "-36.52567000",
+          "longitude": "-64.01025000"
+        },
+        {
+          "name": "Arata",
+          "latitude": "-35.63895000",
+          "longitude": "-64.35621000"
+        },
+        {
+          "name": "Bernardo Larroudé",
+          "latitude": "-35.02449000",
+          "longitude": "-63.58253000"
+        },
+        {
+          "name": "Bernasconi",
+          "latitude": "-37.90459000",
+          "longitude": "-63.74240000"
+        },
+        {
+          "name": "Caleufú",
+          "latitude": "-35.59559000",
+          "longitude": "-64.55778000"
+        },
+        {
+          "name": "Catriló",
+          "latitude": "-36.40597000",
+          "longitude": "-63.42168000"
+        },
+        {
+          "name": "Colonia Barón",
+          "latitude": "-36.15152000",
+          "longitude": "-63.85404000"
+        },
+        {
+          "name": "Departamento de Caleu-Caleu",
+          "latitude": "-38.58333000",
+          "longitude": "-64.00000000"
+        },
+        {
+          "name": "Departamento de Toay",
+          "latitude": "-36.58333000",
+          "longitude": "-64.80000000"
+        },
+        {
+          "name": "Doblas",
+          "latitude": "-37.14967000",
+          "longitude": "-64.01183000"
+        },
+        {
+          "name": "Eduardo Castex",
+          "latitude": "-35.91501000",
+          "longitude": "-64.29448000"
+        },
+        {
+          "name": "Embajador Martini",
+          "latitude": "-35.38633000",
+          "longitude": "-64.28092000"
+        },
+        {
+          "name": "General Acha",
+          "latitude": "-37.37698000",
+          "longitude": "-64.60431000"
+        },
+        {
+          "name": "General Manuel J. Campos",
+          "latitude": "-37.46025000",
+          "longitude": "-63.58537000"
+        },
+        {
+          "name": "General Pico",
+          "latitude": "-35.65662000",
+          "longitude": "-63.75682000"
+        },
+        {
+          "name": "General San Martín",
+          "latitude": "-37.97904000",
+          "longitude": "-63.60449000"
+        },
+        {
+          "name": "Guatraché",
+          "latitude": "-37.66776000",
+          "longitude": "-63.53021000"
+        },
+        {
+          "name": "Ingeniero Luiggi",
+          "latitude": "-35.38585000",
+          "longitude": "-64.46519000"
+        },
+        {
+          "name": "Intendente Alvear",
+          "latitude": "-35.23383000",
+          "longitude": "-63.59205000"
+        },
+        {
+          "name": "Jacinto Arauz",
+          "latitude": "-38.08606000",
+          "longitude": "-63.43169000"
+        },
+        {
+          "name": "La Adela",
+          "latitude": "-38.98333000",
+          "longitude": "-64.08333000"
+        },
+        {
+          "name": "La Maruja",
+          "latitude": "-35.67360000",
+          "longitude": "-64.93997000"
+        },
+        {
+          "name": "Lonquimay",
+          "latitude": "-36.46546000",
+          "longitude": "-63.62429000"
+        },
+        {
+          "name": "Macachín",
+          "latitude": "-37.13598000",
+          "longitude": "-63.66650000"
+        },
+        {
+          "name": "Miguel Riglos",
+          "latitude": "-36.85398000",
+          "longitude": "-63.68842000"
+        },
+        {
+          "name": "Parera",
+          "latitude": "-35.14600000",
+          "longitude": "-64.50089000"
+        },
+        {
+          "name": "Quemú Quemú",
+          "latitude": "-36.05463000",
+          "longitude": "-63.56428000"
+        },
+        {
+          "name": "Rancul",
+          "latitude": "-35.06862000",
+          "longitude": "-64.68107000"
+        },
+        {
+          "name": "Realicó",
+          "latitude": "-35.03658000",
+          "longitude": "-64.24470000"
+        },
+        {
+          "name": "Santa Isabel",
+          "latitude": "-36.22724000",
+          "longitude": "-66.94240000"
+        },
+        {
+          "name": "Santa Rosa",
+          "latitude": "-36.61667000",
+          "longitude": "-64.28333000"
+        },
+        {
+          "name": "Telén",
+          "latitude": "-36.26429000",
+          "longitude": "-65.51018000"
+        },
+        {
+          "name": "Trenel",
+          "latitude": "-35.69837000",
+          "longitude": "-64.13218000"
+        },
+        {
+          "name": "Uriburu",
+          "latitude": "-36.50682000",
+          "longitude": "-63.86225000"
+        },
+        {
+          "name": "Veinticinco de Mayo",
+          "latitude": "-37.77410000",
+          "longitude": "-67.71638000"
+        },
+        {
+          "name": "Victorica",
+          "latitude": "-36.21505000",
+          "longitude": "-65.43586000"
+        },
+        {
+          "name": "Winifreda",
+          "latitude": "-36.22643000",
+          "longitude": "-64.23388000"
+        }
+      ]
+    },
+    {
+      "name": "La Rioja Province",
+      "state_code": "F",
+      "latitude": "-29.41937930",
+      "longitude": "-66.85599320",
+      "cities": [
+        {
+          "name": "Arauco",
+          "latitude": "-28.58071000",
+          "longitude": "-66.79250000"
+        },
+        {
+          "name": "Castro Barros",
+          "latitude": "-30.57952000",
+          "longitude": "-65.72696000"
+        },
+        {
+          "name": "Chamical",
+          "latitude": "-30.36002000",
+          "longitude": "-66.31399000"
+        },
+        {
+          "name": "Chilecito",
+          "latitude": "-29.16195000",
+          "longitude": "-67.49740000"
+        },
+        {
+          "name": "Departamento de Arauco",
+          "latitude": "-28.50000000",
+          "longitude": "-66.83333000"
+        },
+        {
+          "name": "Departamento de General Lamadrid",
+          "latitude": "-28.83333000",
+          "longitude": "-68.66667000"
+        },
+        {
+          "name": "Departamento de Independencia",
+          "latitude": "-30.16667000",
+          "longitude": "-67.41667000"
+        },
+        {
+          "name": "La Rioja",
+          "latitude": "-29.41105000",
+          "longitude": "-66.85067000"
+        },
+        {
+          "name": "Villa Bustos",
+          "latitude": "-29.28636000",
+          "longitude": "-67.02067000"
+        },
+        {
+          "name": "Vinchina",
+          "latitude": "-28.75964000",
+          "longitude": "-68.20692000"
+        }
+      ]
+    },
+    {
+      "name": "Mendoza",
+      "state_code": "M",
+      "latitude": "-32.88945870",
+      "longitude": "-68.84583860",
+      "cities": [
+        {
+          "name": "Departamento de Capital",
+          "latitude": "-32.88469000",
+          "longitude": "-68.85826000"
+        },
+        {
+          "name": "Departamento de General Alvear",
+          "latitude": "-35.16667000",
+          "longitude": "-67.33333000"
+        },
+        {
+          "name": "Departamento de Godoy Cruz",
+          "latitude": "-32.93333000",
+          "longitude": "-68.86667000"
+        },
+        {
+          "name": "Departamento de Guaymallén",
+          "latitude": "-32.88333000",
+          "longitude": "-68.70000000"
+        },
+        {
+          "name": "Departamento de La Paz",
+          "latitude": "-33.66667000",
+          "longitude": "-67.25000000"
+        },
+        {
+          "name": "Departamento de Las Heras",
+          "latitude": "-32.50000000",
+          "longitude": "-69.50000000"
+        },
+        {
+          "name": "Departamento de Lavalle",
+          "latitude": "-32.50000000",
+          "longitude": "-68.00000000"
+        },
+        {
+          "name": "Departamento de Luján",
+          "latitude": "-33.00000000",
+          "longitude": "-69.33333000"
+        },
+        {
+          "name": "Departamento de Maipú",
+          "latitude": "-33.00000000",
+          "longitude": "-68.58333000"
+        },
+        {
+          "name": "Departamento de Malargüe",
+          "latitude": "-36.25000000",
+          "longitude": "-69.25000000"
+        },
+        {
+          "name": "Departamento de Rivadavia",
+          "latitude": "-33.18000000",
+          "longitude": "-68.46600000"
+        },
+        {
+          "name": "Departamento de San Carlos",
+          "latitude": "-34.00000000",
+          "longitude": "-69.00000000"
+        },
+        {
+          "name": "Departamento de San Martín",
+          "latitude": "-32.83730000",
+          "longitude": "-68.24922000"
+        },
+        {
+          "name": "Departamento de San Rafael",
+          "latitude": "-35.00000000",
+          "longitude": "-68.83333000"
+        },
+        {
+          "name": "Departamento de Santa Rosa",
+          "latitude": "-33.50000000",
+          "longitude": "-68.00000000"
+        },
+        {
+          "name": "Departamento de Tunuyán",
+          "latitude": "-33.66667000",
+          "longitude": "-69.50000000"
+        },
+        {
+          "name": "Departamento de Tupungato",
+          "latitude": "-33.25000000",
+          "longitude": "-69.25000000"
+        },
+        {
+          "name": "Godoy Cruz",
+          "latitude": "-32.92863000",
+          "longitude": "-68.83510000"
+        },
+        {
+          "name": "Las Heras",
+          "latitude": "-32.85273000",
+          "longitude": "-68.82837000"
+        },
+        {
+          "name": "Mendoza",
+          "latitude": "-32.89084000",
+          "longitude": "-68.82717000"
+        },
+        {
+          "name": "San Martín",
+          "latitude": "-33.08103000",
+          "longitude": "-68.46814000"
+        },
+        {
+          "name": "San Rafael",
+          "latitude": "-34.61772000",
+          "longitude": "-68.33007000"
+        }
+      ]
+    },
+    {
+      "name": "Misiones Province",
+      "state_code": "N",
+      "latitude": "-27.42692550",
+      "longitude": "-55.94670760",
+      "cities": [
+        {
+          "name": "Alba Posse",
+          "latitude": "-27.56978000",
+          "longitude": "-54.68262000"
+        },
+        {
+          "name": "Almafuerte",
+          "latitude": "-27.50825000",
+          "longitude": "-55.40258000"
+        },
+        {
+          "name": "Aristóbulo del Valle",
+          "latitude": "-27.09625000",
+          "longitude": "-54.89626000"
+        },
+        {
+          "name": "Arroyo del Medio",
+          "latitude": "-27.69748000",
+          "longitude": "-55.40376000"
+        },
+        {
+          "name": "Azara",
+          "latitude": "-28.06160000",
+          "longitude": "-55.67797000"
+        },
+        {
+          "name": "Bernardo de Irigoyen",
+          "latitude": "-26.25520000",
+          "longitude": "-53.64581000"
+        },
+        {
+          "name": "Bonpland",
+          "latitude": "-27.48218000",
+          "longitude": "-55.47756000"
+        },
+        {
+          "name": "Campo Grande",
+          "latitude": "-27.20770000",
+          "longitude": "-54.97977000"
+        },
+        {
+          "name": "Campo Ramón",
+          "latitude": "-27.45490000",
+          "longitude": "-55.02122000"
+        },
+        {
+          "name": "Campo Viera",
+          "latitude": "-27.33271000",
+          "longitude": "-55.05651000"
+        },
+        {
+          "name": "Candelaria",
+          "latitude": "-27.45950000",
+          "longitude": "-55.74536000"
+        },
+        {
+          "name": "Capioví",
+          "latitude": "-26.92998000",
+          "longitude": "-55.06084000"
+        },
+        {
+          "name": "Caraguatay",
+          "latitude": "-26.60587000",
+          "longitude": "-54.78093000"
+        },
+        {
+          "name": "Cerro Azul",
+          "latitude": "-27.63310000",
+          "longitude": "-55.49620000"
+        },
+        {
+          "name": "Cerro Corá",
+          "latitude": "-27.51310000",
+          "longitude": "-55.60896000"
+        },
+        {
+          "name": "Colonia Aurora",
+          "latitude": "-27.47428000",
+          "longitude": "-54.52498000"
+        },
+        {
+          "name": "Concepción de la Sierra",
+          "latitude": "-27.98311000",
+          "longitude": "-55.52031000"
+        },
+        {
+          "name": "Departamento de Apóstoles",
+          "latitude": "-27.91667000",
+          "longitude": "-55.75000000"
+        },
+        {
+          "name": "Departamento de Cainguás",
+          "latitude": "-27.16667000",
+          "longitude": "-54.83333000"
+        },
+        {
+          "name": "Departamento de Candelaria",
+          "latitude": "-27.50000000",
+          "longitude": "-55.50000000"
+        },
+        {
+          "name": "Departamento de Capital",
+          "latitude": "-27.50000000",
+          "longitude": "-55.83333000"
+        },
+        {
+          "name": "Departamento de Concepción de la Sierra",
+          "latitude": "-27.83333000",
+          "longitude": "-55.41667000"
+        },
+        {
+          "name": "Departamento de Eldorado",
+          "latitude": "-26.25000000",
+          "longitude": "-54.41667000"
+        },
+        {
+          "name": "Departamento de General Manuel Belgrano",
+          "latitude": "-26.16667000",
+          "longitude": "-53.91667000"
+        },
+        {
+          "name": "Departamento de Guaraní",
+          "latitude": "-27.16667000",
+          "longitude": "-54.16667000"
+        },
+        {
+          "name": "Departamento de Iguazú",
+          "latitude": "-25.86667000",
+          "longitude": "-54.36667000"
+        },
+        {
+          "name": "Departamento de Leandro N. Alem",
+          "latitude": "-27.56667000",
+          "longitude": "-55.33333000"
+        },
+        {
+          "name": "Departamento de Libertador General San Martín",
+          "latitude": "-26.91667000",
+          "longitude": "-54.91667000"
+        },
+        {
+          "name": "Departamento de Montecarlo",
+          "latitude": "-26.71667000",
+          "longitude": "-54.58333000"
+        },
+        {
+          "name": "Departamento de Oberá",
+          "latitude": "-27.55000000",
+          "longitude": "-55.08333000"
+        },
+        {
+          "name": "Departamento de San Ignacio",
+          "latitude": "-27.25000000",
+          "longitude": "-55.33333000"
+        },
+        {
+          "name": "Departamento de San Javier",
+          "latitude": "-27.77806000",
+          "longitude": "-55.13004000"
+        },
+        {
+          "name": "Departamento de San Pedro",
+          "latitude": "-26.66667000",
+          "longitude": "-54.00000000"
+        },
+        {
+          "name": "Departamento de Veinticinco de Mayo",
+          "latitude": "-27.41667000",
+          "longitude": "-54.66667000"
+        },
+        {
+          "name": "Dos Arroyos",
+          "latitude": "-27.69946000",
+          "longitude": "-55.25207000"
+        },
+        {
+          "name": "Dos de Mayo",
+          "latitude": "-27.02277000",
+          "longitude": "-54.68669000"
+        },
+        {
+          "name": "El Alcázar",
+          "latitude": "-26.71459000",
+          "longitude": "-54.81523000"
+        },
+        {
+          "name": "El Soberbio",
+          "latitude": "-27.29847000",
+          "longitude": "-54.19877000"
+        },
+        {
+          "name": "Florentino Ameghino",
+          "latitude": "-27.56667000",
+          "longitude": "-55.13333000"
+        },
+        {
+          "name": "Garuhapé",
+          "latitude": "-26.81768000",
+          "longitude": "-54.95665000"
+        },
+        {
+          "name": "Garupá",
+          "latitude": "-27.48171000",
+          "longitude": "-55.82921000"
+        },
+        {
+          "name": "General Alvear",
+          "latitude": "-27.42611000",
+          "longitude": "-55.16916000"
+        },
+        {
+          "name": "Gobernador Roca",
+          "latitude": "-27.18636000",
+          "longitude": "-55.46433000"
+        },
+        {
+          "name": "Guaraní",
+          "latitude": "-27.52323000",
+          "longitude": "-55.16077000"
+        },
+        {
+          "name": "Jardín América",
+          "latitude": "-27.04346000",
+          "longitude": "-55.22698000"
+        },
+        {
+          "name": "Loreto",
+          "latitude": "-27.33177000",
+          "longitude": "-55.52499000"
+        },
+        {
+          "name": "Los Helechos",
+          "latitude": "-27.55051000",
+          "longitude": "-55.07908000"
+        },
+        {
+          "name": "Mártires",
+          "latitude": "-27.42265000",
+          "longitude": "-55.37659000"
+        },
+        {
+          "name": "Mojón Grande",
+          "latitude": "-27.71165000",
+          "longitude": "-55.15631000"
+        },
+        {
+          "name": "Montecarlo",
+          "latitude": "-26.56620000",
+          "longitude": "-54.75700000"
+        },
+        {
+          "name": "Oberá",
+          "latitude": "-27.48706000",
+          "longitude": "-55.11994000"
+        },
+        {
+          "name": "Panambí",
+          "latitude": "-27.72369000",
+          "longitude": "-54.91515000"
+        },
+        {
+          "name": "Picada Gobernador López",
+          "latitude": "-27.67069000",
+          "longitude": "-55.24585000"
+        },
+        {
+          "name": "Posadas",
+          "latitude": "-27.36708000",
+          "longitude": "-55.89608000"
+        },
+        {
+          "name": "Puerto Eldorado",
+          "latitude": "-26.40843000",
+          "longitude": "-54.69463000"
+        },
+        {
+          "name": "Puerto Esperanza",
+          "latitude": "-26.02267000",
+          "longitude": "-54.61356000"
+        },
+        {
+          "name": "Puerto Iguazú",
+          "latitude": "-25.59912000",
+          "longitude": "-54.57355000"
+        },
+        {
+          "name": "Puerto Leoni",
+          "latitude": "-26.98762000",
+          "longitude": "-55.16569000"
+        },
+        {
+          "name": "Puerto Libertad",
+          "latitude": "-25.91958000",
+          "longitude": "-54.58229000"
+        },
+        {
+          "name": "Puerto Piray",
+          "latitude": "-26.46937000",
+          "longitude": "-54.70736000"
+        },
+        {
+          "name": "Puerto Rico",
+          "latitude": "-26.79598000",
+          "longitude": "-55.02402000"
+        },
+        {
+          "name": "Ruiz de Montoya",
+          "latitude": "-26.98333000",
+          "longitude": "-55.05000000"
+        },
+        {
+          "name": "San José",
+          "latitude": "-27.76979000",
+          "longitude": "-55.78260000"
+        },
+        {
+          "name": "San Pedro",
+          "latitude": "-26.62207000",
+          "longitude": "-54.10842000"
+        },
+        {
+          "name": "San Vicente",
+          "latitude": "-26.61667000",
+          "longitude": "-54.13333000"
+        },
+        {
+          "name": "Santa María",
+          "latitude": "-27.93490000",
+          "longitude": "-55.40742000"
+        },
+        {
+          "name": "Santo Pipó",
+          "latitude": "-27.14132000",
+          "longitude": "-55.40867000"
+        },
+        {
+          "name": "Tres Capones",
+          "latitude": "-28.00641000",
+          "longitude": "-55.60471000"
+        },
+        {
+          "name": "Veinticinco de Mayo",
+          "latitude": "-27.37679000",
+          "longitude": "-54.74312000"
+        },
+        {
+          "name": "Wanda",
+          "latitude": "-25.96879000",
+          "longitude": "-54.56285000"
+        }
+      ]
+    },
+    {
+      "name": "Neuquén Province",
+      "state_code": "Q",
+      "latitude": "-38.94587000",
+      "longitude": "-68.07309250",
+      "cities": [
+        {
+          "name": "Aluminé",
+          "latitude": "-39.23686000",
+          "longitude": "-70.91970000"
+        },
+        {
+          "name": "Andacollo",
+          "latitude": "-37.17945000",
+          "longitude": "-70.66912000"
+        },
+        {
+          "name": "Añelo",
+          "latitude": "-38.35441000",
+          "longitude": "-68.78840000"
+        },
+        {
+          "name": "Barrancas",
+          "latitude": "-36.82344000",
+          "longitude": "-69.91564000"
+        },
+        {
+          "name": "Buta Ranquil",
+          "latitude": "-37.05222000",
+          "longitude": "-69.87713000"
+        },
+        {
+          "name": "Centenario",
+          "latitude": "-38.82955000",
+          "longitude": "-68.13180000"
+        },
+        {
+          "name": "Chos Malal",
+          "latitude": "-37.37809000",
+          "longitude": "-70.27085000"
+        },
+        {
+          "name": "Cutral-Có",
+          "latitude": "-38.93424000",
+          "longitude": "-69.23052000"
+        },
+        {
+          "name": "Departamento de Aluminé",
+          "latitude": "-39.16667000",
+          "longitude": "-71.00000000"
+        },
+        {
+          "name": "Departamento de Añelo",
+          "latitude": "-38.16667000",
+          "longitude": "-69.00000000"
+        },
+        {
+          "name": "Departamento de Catán-Lil",
+          "latitude": "-39.50000000",
+          "longitude": "-70.33333000"
+        },
+        {
+          "name": "Departamento de Chos-Malal",
+          "latitude": "-36.91667000",
+          "longitude": "-70.16667000"
+        },
+        {
+          "name": "Departamento de Collón-Curá",
+          "latitude": "-40.08333000",
+          "longitude": "-70.16667000"
+        },
+        {
+          "name": "Departamento de Confluencia",
+          "latitude": "-38.83333000",
+          "longitude": "-68.83333000"
+        },
+        {
+          "name": "Departamento de Lácar",
+          "latitude": "-40.25000000",
+          "longitude": "-71.20000000"
+        },
+        {
+          "name": "Departamento de Minas",
+          "latitude": "-36.83333000",
+          "longitude": "-70.83333000"
+        },
+        {
+          "name": "Departamento de Zapala",
+          "latitude": "-39.00000000",
+          "longitude": "-69.83333000"
+        },
+        {
+          "name": "El Huecú",
+          "latitude": "-37.64522000",
+          "longitude": "-70.58006000"
+        },
+        {
+          "name": "Junín de los Andes",
+          "latitude": "-39.95043000",
+          "longitude": "-71.06936000"
+        },
+        {
+          "name": "Las Coloradas",
+          "latitude": "-39.55534000",
+          "longitude": "-70.59491000"
+        },
+        {
+          "name": "Las Lajas",
+          "latitude": "-38.52322000",
+          "longitude": "-70.36745000"
+        },
+        {
+          "name": "Las Ovejas",
+          "latitude": "-36.98881000",
+          "longitude": "-70.74991000"
+        },
+        {
+          "name": "Loncopué",
+          "latitude": "-38.07284000",
+          "longitude": "-70.61609000"
+        },
+        {
+          "name": "Mariano Moreno",
+          "latitude": "-38.75029000",
+          "longitude": "-70.02367000"
+        },
+        {
+          "name": "Neuquén",
+          "latitude": "-38.95161000",
+          "longitude": "-68.05910000"
+        },
+        {
+          "name": "Picún Leufú",
+          "latitude": "-39.51614000",
+          "longitude": "-69.28765000"
+        },
+        {
+          "name": "Piedra del Águila",
+          "latitude": "-40.04811000",
+          "longitude": "-70.07410000"
+        },
+        {
+          "name": "Plaza Huincul",
+          "latitude": "-38.92598000",
+          "longitude": "-69.20863000"
+        },
+        {
+          "name": "Plottier",
+          "latitude": "-38.96667000",
+          "longitude": "-68.23333000"
+        },
+        {
+          "name": "San Martín de los Andes",
+          "latitude": "-40.15789000",
+          "longitude": "-71.35337000"
+        },
+        {
+          "name": "Senillosa",
+          "latitude": "-39.01412000",
+          "longitude": "-68.43281000"
+        },
+        {
+          "name": "Villa La Angostura",
+          "latitude": "-40.76173000",
+          "longitude": "-71.64631000"
+        },
+        {
+          "name": "Vista Alegre",
+          "latitude": "-38.75000000",
+          "longitude": "-68.18333000"
+        },
+        {
+          "name": "Zapala",
+          "latitude": "-38.89916000",
+          "longitude": "-70.05442000"
+        }
+      ]
+    },
+    {
+      "name": "Río Negro Province",
+      "state_code": "R",
+      "latitude": "-40.82614340",
+      "longitude": "-63.02663390",
+      "cities": [
+        {
+          "name": "Allen",
+          "latitude": "-38.97736000",
+          "longitude": "-67.82714000"
+        },
+        {
+          "name": "Catriel",
+          "latitude": "-37.87907000",
+          "longitude": "-67.79560000"
+        },
+        {
+          "name": "Cervantes",
+          "latitude": "-39.05444000",
+          "longitude": "-67.39426000"
+        },
+        {
+          "name": "Chichinales",
+          "latitude": "-39.11505000",
+          "longitude": "-66.92714000"
+        },
+        {
+          "name": "Chimpay",
+          "latitude": "-39.16482000",
+          "longitude": "-66.14236000"
+        },
+        {
+          "name": "Choele Choel",
+          "latitude": "-39.28941000",
+          "longitude": "-65.66060000"
+        },
+        {
+          "name": "Cinco Saltos",
+          "latitude": "-38.82225000",
+          "longitude": "-68.06293000"
+        },
+        {
+          "name": "Cipolletti",
+          "latitude": "-38.93392000",
+          "longitude": "-67.99032000"
+        },
+        {
+          "name": "Comallo",
+          "latitude": "-41.02993000",
+          "longitude": "-70.26784000"
+        },
+        {
+          "name": "Contraalmirante Cordero",
+          "latitude": "-38.72423000",
+          "longitude": "-68.15284000"
+        },
+        {
+          "name": "Coronel Belisle",
+          "latitude": "-39.18688000",
+          "longitude": "-65.95422000"
+        },
+        {
+          "name": "Darwin",
+          "latitude": "-39.20334000",
+          "longitude": "-65.73952000"
+        },
+        {
+          "name": "Departamento de Avellaneda",
+          "latitude": "-39.50000000",
+          "longitude": "-66.50000000"
+        },
+        {
+          "name": "Departamento de Veinticinco de Mayo",
+          "latitude": "-41.25000000",
+          "longitude": "-69.00000000"
+        },
+        {
+          "name": "El Bolsón",
+          "latitude": "-41.96051000",
+          "longitude": "-71.53336000"
+        },
+        {
+          "name": "El Cuy",
+          "latitude": "-39.92685000",
+          "longitude": "-68.34208000"
+        },
+        {
+          "name": "Fray Luis Beltrán",
+          "latitude": "-39.31369000",
+          "longitude": "-65.76002000"
+        },
+        {
+          "name": "General Conesa",
+          "latitude": "-40.10408000",
+          "longitude": "-64.45592000"
+        },
+        {
+          "name": "General Enrique Godoy",
+          "latitude": "-39.07891000",
+          "longitude": "-67.15807000"
+        },
+        {
+          "name": "General Fernández Oro",
+          "latitude": "-38.95297000",
+          "longitude": "-67.92489000"
+        },
+        {
+          "name": "General Roca",
+          "latitude": "-39.03333000",
+          "longitude": "-67.58333000"
+        },
+        {
+          "name": "Ingeniero Jacobacci",
+          "latitude": "-41.32920000",
+          "longitude": "-69.55015000"
+        },
+        {
+          "name": "Ingeniero Luis A. Huergo",
+          "latitude": "-39.07146000",
+          "longitude": "-67.23790000"
+        },
+        {
+          "name": "Lamarque",
+          "latitude": "-39.42304000",
+          "longitude": "-65.70208000"
+        },
+        {
+          "name": "Los Menucos",
+          "latitude": "-40.84402000",
+          "longitude": "-68.08718000"
+        },
+        {
+          "name": "Mainque",
+          "latitude": "-39.06667000",
+          "longitude": "-67.30000000"
+        },
+        {
+          "name": "Maquinchao",
+          "latitude": "-41.24912000",
+          "longitude": "-68.70321000"
+        },
+        {
+          "name": "Ñorquinco",
+          "latitude": "-41.85072000",
+          "longitude": "-70.90173000"
+        },
+        {
+          "name": "Pilcaniyeu",
+          "latitude": "-41.12288000",
+          "longitude": "-70.72152000"
+        },
+        {
+          "name": "Río Colorado",
+          "latitude": "-38.99397000",
+          "longitude": "-64.09295000"
+        },
+        {
+          "name": "San Antonio Oeste",
+          "latitude": "-40.73193000",
+          "longitude": "-64.94769000"
+        },
+        {
+          "name": "San Carlos de Bariloche",
+          "latitude": "-41.14557000",
+          "longitude": "-71.30822000"
+        },
+        {
+          "name": "Sierra Colorada",
+          "latitude": "-40.58487000",
+          "longitude": "-67.75674000"
+        },
+        {
+          "name": "Sierra Grande",
+          "latitude": "-41.60603000",
+          "longitude": "-65.35574000"
+        },
+        {
+          "name": "Valcheta",
+          "latitude": "-40.67989000",
+          "longitude": "-66.16283000"
+        },
+        {
+          "name": "Viedma",
+          "latitude": "-40.81345000",
+          "longitude": "-62.99668000"
+        },
+        {
+          "name": "Villa Regina",
+          "latitude": "-39.10000000",
+          "longitude": "-67.06667000"
+        }
+      ]
+    },
+    {
+      "name": "Salta Province",
+      "state_code": "A",
+      "latitude": "-24.79976880",
+      "longitude": "-65.41503670",
+      "cities": [
+        {
+          "name": "Apolinario Saravia",
+          "latitude": "-24.43276000",
+          "longitude": "-63.99535000"
+        },
+        {
+          "name": "Cachí",
+          "latitude": "-25.12033000",
+          "longitude": "-66.16519000"
+        },
+        {
+          "name": "Cafayate",
+          "latitude": "-26.08333000",
+          "longitude": "-65.83333000"
+        },
+        {
+          "name": "Campo Quijano",
+          "latitude": "-24.90982000",
+          "longitude": "-65.63656000"
+        },
+        {
+          "name": "Chicoana",
+          "latitude": "-25.10502000",
+          "longitude": "-65.53473000"
+        },
+        {
+          "name": "Departamento Capital",
+          "latitude": "-24.83333000",
+          "longitude": "-65.33333000"
+        },
+        {
+          "name": "Departamento de Anta",
+          "latitude": "-24.91667000",
+          "longitude": "-64.00000000"
+        },
+        {
+          "name": "Departamento de Cerrillos",
+          "latitude": "-25.00000000",
+          "longitude": "-65.41667000"
+        },
+        {
+          "name": "Departamento de Chicoana",
+          "latitude": "-25.11583000",
+          "longitude": "-65.59466000"
+        },
+        {
+          "name": "Departamento de General Güemes",
+          "latitude": "-24.79464000",
+          "longitude": "-64.94393000"
+        },
+        {
+          "name": "Departamento de Guachipas",
+          "latitude": "-25.66667000",
+          "longitude": "-65.50000000"
+        },
+        {
+          "name": "Departamento de Iruya",
+          "latitude": "-22.80000000",
+          "longitude": "-64.91667000"
+        },
+        {
+          "name": "Departamento de La Poma",
+          "latitude": "-24.16667000",
+          "longitude": "-66.16667000"
+        },
+        {
+          "name": "Departamento de La Viña",
+          "latitude": "-25.50000000",
+          "longitude": "-65.66667000"
+        },
+        {
+          "name": "Departamento de Los Andes",
+          "latitude": "-24.50000000",
+          "longitude": "-67.33333000"
+        },
+        {
+          "name": "Departamento de Metán",
+          "latitude": "-25.50000000",
+          "longitude": "-64.66667000"
+        },
+        {
+          "name": "Departamento de Rivadavia",
+          "latitude": "-23.66667000",
+          "longitude": "-62.91667000"
+        },
+        {
+          "name": "Departamento de Rosario de la Frontera",
+          "latitude": "-25.91667000",
+          "longitude": "-64.83333000"
+        },
+        {
+          "name": "Departamento de Rosario de Lerma",
+          "latitude": "-24.58333000",
+          "longitude": "-65.83333000"
+        },
+        {
+          "name": "Departamento de San Carlos",
+          "latitude": "-25.75000000",
+          "longitude": "-66.08333000"
+        },
+        {
+          "name": "El Carril",
+          "latitude": "-25.07410000",
+          "longitude": "-65.49174000"
+        },
+        {
+          "name": "El Galpón",
+          "latitude": "-25.38069000",
+          "longitude": "-64.65259000"
+        },
+        {
+          "name": "El Quebrachal",
+          "latitude": "-25.28333000",
+          "longitude": "-64.06667000"
+        },
+        {
+          "name": "Embarcación",
+          "latitude": "-23.21003000",
+          "longitude": "-64.09965000"
+        },
+        {
+          "name": "General Enrique Mosconi",
+          "latitude": "-22.59588000",
+          "longitude": "-63.81255000"
+        },
+        {
+          "name": "Joaquín V. González",
+          "latitude": "-25.11364000",
+          "longitude": "-64.12628000"
+        },
+        {
+          "name": "La Caldera",
+          "latitude": "-24.58333000",
+          "longitude": "-65.41667000"
+        },
+        {
+          "name": "Las Lajitas",
+          "latitude": "-24.72762000",
+          "longitude": "-64.19335000"
+        },
+        {
+          "name": "Salta",
+          "latitude": "-24.78590000",
+          "longitude": "-65.41166000"
+        },
+        {
+          "name": "San Antonio de los Cobres",
+          "latitude": "-24.21804000",
+          "longitude": "-66.31877000"
+        },
+        {
+          "name": "San Ramón de la Nueva Orán",
+          "latitude": "-23.13705000",
+          "longitude": "-64.32426000"
+        },
+        {
+          "name": "Santa Rosa de Tastil",
+          "latitude": "-24.45166000",
+          "longitude": "-65.97452000"
+        },
+        {
+          "name": "Tartagal",
+          "latitude": "-22.51637000",
+          "longitude": "-63.80131000"
+        }
+      ]
+    },
+    {
+      "name": "San Juan Province",
+      "state_code": "J",
+      "latitude": null,
+      "longitude": null,
+      "cities": [
+        {
+          "name": "Albardón",
+          "latitude": "-31.43722000",
+          "longitude": "-68.52556000"
+        },
+        {
+          "name": "Calingasta",
+          "latitude": "-31.33394000",
+          "longitude": "-69.42080000"
+        },
+        {
+          "name": "Caucete",
+          "latitude": "-31.65179000",
+          "longitude": "-68.28105000"
+        },
+        {
+          "name": "Chimbas",
+          "latitude": "-31.48333000",
+          "longitude": "-68.53333000"
+        },
+        {
+          "name": "Departamento de Albardón",
+          "latitude": "-31.28333000",
+          "longitude": "-68.41667000"
+        },
+        {
+          "name": "Departamento de Angaco",
+          "latitude": "-31.20000000",
+          "longitude": "-68.13333000"
+        },
+        {
+          "name": "Departamento de Calingasta",
+          "latitude": "-31.50000000",
+          "longitude": "-69.75000000"
+        },
+        {
+          "name": "Departamento de Capital",
+          "latitude": "-31.53333000",
+          "longitude": "-68.53333000"
+        },
+        {
+          "name": "Departamento de Caucete",
+          "latitude": "-31.45000000",
+          "longitude": "-67.66667000"
+        },
+        {
+          "name": "Departamento de Chimbas",
+          "latitude": "-31.48738000",
+          "longitude": "-68.52691000"
+        },
+        {
+          "name": "Departamento de Iglesia",
+          "latitude": "-29.33333000",
+          "longitude": "-69.58333000"
+        },
+        {
+          "name": "Departamento de Jáchal",
+          "latitude": "-30.50000000",
+          "longitude": "-68.50000000"
+        },
+        {
+          "name": "Departamento de Nueve de Julio",
+          "latitude": "-31.65072000",
+          "longitude": "-68.38925000"
+        },
+        {
+          "name": "Departamento de Rawson",
+          "latitude": "-31.70000000",
+          "longitude": "-68.46667000"
+        },
+        {
+          "name": "Departamento de Rivadavia",
+          "latitude": "-31.56450000",
+          "longitude": "-68.65219000"
+        },
+        {
+          "name": "Departamento de San Martín",
+          "latitude": "-31.50000000",
+          "longitude": "-68.25000000"
+        },
+        {
+          "name": "Departamento de Santa Lucía",
+          "latitude": "-31.53333000",
+          "longitude": "-68.46667000"
+        },
+        {
+          "name": "Departamento de Sarmiento",
+          "latitude": "-32.00000000",
+          "longitude": "-68.66667000"
+        },
+        {
+          "name": "Departamento de Ullúm",
+          "latitude": "-31.00000000",
+          "longitude": "-68.91667000"
+        },
+        {
+          "name": "Departamento de Zonda",
+          "latitude": "-31.68260000",
+          "longitude": "-68.89938000"
+        },
+        {
+          "name": "Nueve de Julio",
+          "latitude": "-31.66914000",
+          "longitude": "-68.39023000"
+        },
+        {
+          "name": "Pocito",
+          "latitude": "-31.68333000",
+          "longitude": "-68.58333000"
+        },
+        {
+          "name": "San Agustín de Valle Fértil",
+          "latitude": "-30.63353000",
+          "longitude": "-67.46821000"
+        },
+        {
+          "name": "San José de Jáchal",
+          "latitude": "-30.24057000",
+          "longitude": "-68.74693000"
+        },
+        {
+          "name": "San Juan",
+          "latitude": "-31.53750000",
+          "longitude": "-68.53639000"
+        },
+        {
+          "name": "San Martín",
+          "latitude": "-31.42957000",
+          "longitude": "-68.50065000"
+        },
+        {
+          "name": "Santa Lucía",
+          "latitude": "-31.53987000",
+          "longitude": "-68.49503000"
+        },
+        {
+          "name": "Villa Basilio Nievas",
+          "latitude": "-31.55000000",
+          "longitude": "-68.73333000"
+        },
+        {
+          "name": "Villa Paula de Sarmiento",
+          "latitude": "-31.49330000",
+          "longitude": "-68.53838000"
+        }
+      ]
+    },
+    {
+      "name": "San Luis Province",
+      "state_code": "D",
+      "latitude": "-33.29620420",
+      "longitude": "-66.32949480",
+      "cities": [
+        {
+          "name": "Buena Esperanza",
+          "latitude": "-34.75647000",
+          "longitude": "-65.25379000"
+        },
+        {
+          "name": "Candelaria",
+          "latitude": "-32.06036000",
+          "longitude": "-65.82477000"
+        },
+        {
+          "name": "Concarán",
+          "latitude": "-32.56009000",
+          "longitude": "-65.24270000"
+        },
+        {
+          "name": "Juan Martín de Pueyrredón",
+          "latitude": "-33.27544000",
+          "longitude": "-66.32017000"
+        },
+        {
+          "name": "Justo Daract",
+          "latitude": "-33.85940000",
+          "longitude": "-65.18277000"
+        },
+        {
+          "name": "La Punta",
+          "latitude": "-33.18368000",
+          "longitude": "-66.31270000"
+        },
+        {
+          "name": "La Toma",
+          "latitude": "-33.05258000",
+          "longitude": "-65.62385000"
+        },
+        {
+          "name": "Luján",
+          "latitude": "-32.36674000",
+          "longitude": "-65.93642000"
+        },
+        {
+          "name": "Merlo",
+          "latitude": "-32.34288000",
+          "longitude": "-65.01396000"
+        },
+        {
+          "name": "Naschel",
+          "latitude": "-32.91656000",
+          "longitude": "-65.37535000"
+        },
+        {
+          "name": "San Francisco del Monte de Oro",
+          "latitude": "-32.59825000",
+          "longitude": "-66.12539000"
+        },
+        {
+          "name": "San Luis",
+          "latitude": "-33.29501000",
+          "longitude": "-66.33563000"
+        },
+        {
+          "name": "Santa Rosa del Conlara",
+          "latitude": "-32.34286000",
+          "longitude": "-65.20323000"
+        },
+        {
+          "name": "Tilisarao",
+          "latitude": "-32.73292000",
+          "longitude": "-65.29109000"
+        },
+        {
+          "name": "Unión",
+          "latitude": "-35.15282000",
+          "longitude": "-65.94602000"
+        },
+        {
+          "name": "Villa General Roca",
+          "latitude": "-32.66535000",
+          "longitude": "-66.45052000"
+        },
+        {
+          "name": "Villa Mercedes",
+          "latitude": "-33.67571000",
+          "longitude": "-65.45783000"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz Province",
+      "state_code": "Z",
+      "latitude": "-51.63528210",
+      "longitude": "-69.24743530",
+      "cities": [
+        {
+          "name": "28 de Noviembre",
+          "latitude": "-51.58390000",
+          "longitude": "-72.21382000"
+        },
+        {
+          "name": "Caleta Olivia",
+          "latitude": "-46.43929000",
+          "longitude": "-67.52814000"
+        },
+        {
+          "name": "Comandante Luis Piedra Buena",
+          "latitude": "-49.98513000",
+          "longitude": "-68.91467000"
+        },
+        {
+          "name": "Departamento de Deseado",
+          "latitude": "-47.33333000",
+          "longitude": "-67.83333000"
+        },
+        {
+          "name": "Departamento de Güer Aike",
+          "latitude": "-51.33333000",
+          "longitude": "-70.33333000"
+        },
+        {
+          "name": "Departamento de Lago Argentino",
+          "latitude": "-49.75000000",
+          "longitude": "-72.00000000"
+        },
+        {
+          "name": "Departamento de Magallanes",
+          "latitude": "-48.75000000",
+          "longitude": "-68.50000000"
+        },
+        {
+          "name": "Departamento de Río Chico",
+          "latitude": "-48.25000000",
+          "longitude": "-71.00000000"
+        },
+        {
+          "name": "El Calafate",
+          "latitude": "-50.34075000",
+          "longitude": "-72.27682000"
+        },
+        {
+          "name": "Gobernador Gregores",
+          "latitude": "-48.75057000",
+          "longitude": "-70.24741000"
+        },
+        {
+          "name": "Las Heras",
+          "latitude": "-46.54186000",
+          "longitude": "-68.93593000"
+        },
+        {
+          "name": "Los Antiguos",
+          "latitude": "-46.54972000",
+          "longitude": "-71.63086000"
+        },
+        {
+          "name": "Perito Moreno",
+          "latitude": "-46.58995000",
+          "longitude": "-70.92975000"
+        },
+        {
+          "name": "Pico Truncado",
+          "latitude": "-46.79490000",
+          "longitude": "-67.95731000"
+        },
+        {
+          "name": "Puerto Deseado",
+          "latitude": "-47.75034000",
+          "longitude": "-65.89382000"
+        },
+        {
+          "name": "Puerto Santa Cruz",
+          "latitude": "-50.01910000",
+          "longitude": "-68.52321000"
+        },
+        {
+          "name": "Río Gallegos",
+          "latitude": "-51.62261000",
+          "longitude": "-69.21813000"
+        },
+        {
+          "name": "Río Turbio",
+          "latitude": "-51.53587000",
+          "longitude": "-72.33673000"
+        },
+        {
+          "name": "San Julián",
+          "latitude": "-49.30554000",
+          "longitude": "-67.72743000"
+        },
+        {
+          "name": "Yacimiento Río Turbio",
+          "latitude": "-51.57321000",
+          "longitude": "-72.35080000"
+        }
+      ]
+    },
+    {
+      "name": "Santa Fe Province",
+      "state_code": "S",
+      "latitude": "-31.58551090",
+      "longitude": "-60.72380160",
+      "cities": [
+        {
+          "name": "Armstrong",
+          "latitude": "-32.78215000",
+          "longitude": "-61.60222000"
+        },
+        {
+          "name": "Arroyo Seco",
+          "latitude": "-33.15489000",
+          "longitude": "-60.50863000"
+        },
+        {
+          "name": "Arrufó",
+          "latitude": "-30.23281000",
+          "longitude": "-61.72862000"
+        },
+        {
+          "name": "Avellaneda",
+          "latitude": "-29.11761000",
+          "longitude": "-59.65834000"
+        },
+        {
+          "name": "Bella Italia",
+          "latitude": "-31.28182000",
+          "longitude": "-61.41092000"
+        },
+        {
+          "name": "Calchaquí",
+          "latitude": "-29.88767000",
+          "longitude": "-60.28697000"
+        },
+        {
+          "name": "Cañada de Gómez",
+          "latitude": "-32.81636000",
+          "longitude": "-61.39493000"
+        },
+        {
+          "name": "Capitán Bermúdez",
+          "latitude": "-32.82262000",
+          "longitude": "-60.71852000"
+        },
+        {
+          "name": "Carcarañá",
+          "latitude": "-32.85679000",
+          "longitude": "-61.15331000"
+        },
+        {
+          "name": "Casilda",
+          "latitude": "-33.04417000",
+          "longitude": "-61.16806000"
+        },
+        {
+          "name": "Ceres",
+          "latitude": "-29.88100000",
+          "longitude": "-61.94504000"
+        },
+        {
+          "name": "Chañar Ladeado",
+          "latitude": "-33.32524000",
+          "longitude": "-62.03831000"
+        },
+        {
+          "name": "Coronda",
+          "latitude": "-31.97263000",
+          "longitude": "-60.91983000"
+        },
+        {
+          "name": "Departamento de Belgrano",
+          "latitude": "-32.50000000",
+          "longitude": "-61.75000000"
+        },
+        {
+          "name": "Departamento de Caseros",
+          "latitude": "-33.25000000",
+          "longitude": "-61.66667000"
+        },
+        {
+          "name": "Departamento de Castellanos",
+          "latitude": "-31.16667000",
+          "longitude": "-61.66667000"
+        },
+        {
+          "name": "Departamento de Constitución",
+          "latitude": "-33.50000000",
+          "longitude": "-60.91667000"
+        },
+        {
+          "name": "Departamento de La Capital",
+          "latitude": "-31.50000000",
+          "longitude": "-60.66667000"
+        },
+        {
+          "name": "Departamento de Nueve de Julio",
+          "latitude": "-28.83333000",
+          "longitude": "-61.33333000"
+        },
+        {
+          "name": "Departamento de San Cristóbal",
+          "latitude": "-30.33333000",
+          "longitude": "-61.33333000"
+        },
+        {
+          "name": "Departamento de San Javier",
+          "latitude": "-30.33333000",
+          "longitude": "-59.91667000"
+        },
+        {
+          "name": "Departamento de San Justo",
+          "latitude": "-30.66667000",
+          "longitude": "-60.50000000"
+        },
+        {
+          "name": "Departamento de San Lorenzo",
+          "latitude": "-33.00000000",
+          "longitude": "-61.00000000"
+        },
+        {
+          "name": "Departamento de San Martín",
+          "latitude": "-32.00000000",
+          "longitude": "-61.83333000"
+        },
+        {
+          "name": "Departamento de Vera",
+          "latitude": "-29.00000000",
+          "longitude": "-60.50000000"
+        },
+        {
+          "name": "El Trébol",
+          "latitude": "-32.20080000",
+          "longitude": "-61.70140000"
+        },
+        {
+          "name": "Esperanza",
+          "latitude": "-31.44880000",
+          "longitude": "-60.93173000"
+        },
+        {
+          "name": "Firmat",
+          "latitude": "-33.45937000",
+          "longitude": "-61.48320000"
+        },
+        {
+          "name": "Fray Luis A. Beltrán",
+          "latitude": "-32.79122000",
+          "longitude": "-60.72819000"
+        },
+        {
+          "name": "Funes",
+          "latitude": "-32.91568000",
+          "longitude": "-60.80995000"
+        },
+        {
+          "name": "Gálvez",
+          "latitude": "-32.02927000",
+          "longitude": "-61.22103000"
+        },
+        {
+          "name": "Gato Colorado",
+          "latitude": "-28.02219000",
+          "longitude": "-61.18663000"
+        },
+        {
+          "name": "Gobernador Gálvez",
+          "latitude": "-33.03016000",
+          "longitude": "-60.64045000"
+        },
+        {
+          "name": "Granadero Baigorria",
+          "latitude": "-32.85683000",
+          "longitude": "-60.71754000"
+        },
+        {
+          "name": "Helvecia",
+          "latitude": "-31.09834000",
+          "longitude": "-60.08830000"
+        },
+        {
+          "name": "Hersilia",
+          "latitude": "-30.00447000",
+          "longitude": "-61.84080000"
+        },
+        {
+          "name": "Iriondo Department",
+          "latitude": "-32.63333000",
+          "longitude": "-61.33333000"
+        },
+        {
+          "name": "Laguna Paiva",
+          "latitude": "-31.30391000",
+          "longitude": "-60.65894000"
+        },
+        {
+          "name": "Las Parejas",
+          "latitude": "-32.68478000",
+          "longitude": "-61.51637000"
+        },
+        {
+          "name": "Las Rosas",
+          "latitude": "-32.47661000",
+          "longitude": "-61.58041000"
+        },
+        {
+          "name": "Las Toscas",
+          "latitude": "-28.35290000",
+          "longitude": "-59.25795000"
+        },
+        {
+          "name": "Los Laureles",
+          "latitude": "-29.36847000",
+          "longitude": "-59.73634000"
+        },
+        {
+          "name": "Malabrigo",
+          "latitude": "-29.34636000",
+          "longitude": "-59.96957000"
+        },
+        {
+          "name": "Melincué",
+          "latitude": "-33.65847000",
+          "longitude": "-61.45459000"
+        },
+        {
+          "name": "Pérez",
+          "latitude": "-32.99835000",
+          "longitude": "-60.76791000"
+        },
+        {
+          "name": "Rafaela",
+          "latitude": "-31.25033000",
+          "longitude": "-61.48670000"
+        },
+        {
+          "name": "Reconquista",
+          "latitude": "-29.15000000",
+          "longitude": "-59.65000000"
+        },
+        {
+          "name": "Recreo",
+          "latitude": "-31.49076000",
+          "longitude": "-60.73299000"
+        },
+        {
+          "name": "Roldán",
+          "latitude": "-32.89846000",
+          "longitude": "-60.90681000"
+        },
+        {
+          "name": "Rosario",
+          "latitude": "-32.94682000",
+          "longitude": "-60.63932000"
+        },
+        {
+          "name": "Rufino",
+          "latitude": "-34.26827000",
+          "longitude": "-62.71262000"
+        },
+        {
+          "name": "San Carlos Centro",
+          "latitude": "-31.72864000",
+          "longitude": "-61.09192000"
+        },
+        {
+          "name": "San Cristóbal",
+          "latitude": "-30.31053000",
+          "longitude": "-61.23724000"
+        },
+        {
+          "name": "San Javier",
+          "latitude": "-30.57781000",
+          "longitude": "-59.93170000"
+        },
+        {
+          "name": "San Jorge",
+          "latitude": "-31.89618000",
+          "longitude": "-61.85984000"
+        },
+        {
+          "name": "San Justo",
+          "latitude": "-30.78913000",
+          "longitude": "-60.59189000"
+        },
+        {
+          "name": "Santa Fe",
+          "latitude": "-31.64881000",
+          "longitude": "-60.70868000"
+        },
+        {
+          "name": "Santo Tomé",
+          "latitude": "-31.66274000",
+          "longitude": "-60.76530000"
+        },
+        {
+          "name": "Sastre",
+          "latitude": "-31.76762000",
+          "longitude": "-61.82887000"
+        },
+        {
+          "name": "Sunchales",
+          "latitude": "-30.94404000",
+          "longitude": "-61.56148000"
+        },
+        {
+          "name": "Tacuarendí",
+          "latitude": "-28.41265000",
+          "longitude": "-59.26000000"
+        },
+        {
+          "name": "Tostado",
+          "latitude": "-29.23202000",
+          "longitude": "-61.76917000"
+        },
+        {
+          "name": "Totoras",
+          "latitude": "-32.58440000",
+          "longitude": "-61.16852000"
+        },
+        {
+          "name": "Venado Tuerto",
+          "latitude": "-33.74556000",
+          "longitude": "-61.96885000"
+        },
+        {
+          "name": "Vera",
+          "latitude": "-29.45930000",
+          "longitude": "-60.21261000"
+        },
+        {
+          "name": "Villa Cañás",
+          "latitude": "-34.00565000",
+          "longitude": "-61.60757000"
+        },
+        {
+          "name": "Villa Constitución",
+          "latitude": "-33.22778000",
+          "longitude": "-60.32970000"
+        },
+        {
+          "name": "Villa Mugueta",
+          "latitude": "-33.31129000",
+          "longitude": "-61.05515000"
+        },
+        {
+          "name": "Villa Ocampo",
+          "latitude": "-28.48752000",
+          "longitude": "-59.35515000"
+        },
+        {
+          "name": "Villa Trinidad",
+          "latitude": "-30.21329000",
+          "longitude": "-61.87597000"
+        }
+      ]
+    },
+    {
+      "name": "Santiago del Estero Province",
+      "state_code": "G",
+      "latitude": "-27.78335740",
+      "longitude": "-64.26416700",
+      "cities": [
+        {
+          "name": "Añatuya",
+          "latitude": "-28.46064000",
+          "longitude": "-62.83472000"
+        },
+        {
+          "name": "Beltrán",
+          "latitude": "-27.82913000",
+          "longitude": "-64.06098000"
+        },
+        {
+          "name": "Campo Gallo",
+          "latitude": "-26.58333000",
+          "longitude": "-62.85000000"
+        },
+        {
+          "name": "Clodomira",
+          "latitude": "-27.57440000",
+          "longitude": "-64.13108000"
+        },
+        {
+          "name": "Colonia Dora",
+          "latitude": "-28.60000000",
+          "longitude": "-62.95000000"
+        },
+        {
+          "name": "Departamento de Aguirre",
+          "latitude": "-29.33333000",
+          "longitude": "-62.50000000"
+        },
+        {
+          "name": "Departamento de Banda",
+          "latitude": "-27.50000000",
+          "longitude": "-64.33333000"
+        },
+        {
+          "name": "Departamento de Choya",
+          "latitude": "-28.75000000",
+          "longitude": "-64.75000000"
+        },
+        {
+          "name": "Departamento de Guasayán",
+          "latitude": "-28.00000000",
+          "longitude": "-64.83333000"
+        },
+        {
+          "name": "Departamento de Loreto",
+          "latitude": "-28.55000000",
+          "longitude": "-64.33333000"
+        },
+        {
+          "name": "Departamento de Moreno",
+          "latitude": "-27.33333000",
+          "longitude": "-62.50000000"
+        },
+        {
+          "name": "Departamento de Río Hondo",
+          "latitude": "-27.58333000",
+          "longitude": "-64.75000000"
+        },
+        {
+          "name": "Departamento de Robles",
+          "latitude": "-27.83333000",
+          "longitude": "-63.91667000"
+        },
+        {
+          "name": "Departamento de San Martín",
+          "latitude": "-28.16667000",
+          "longitude": "-63.83333000"
+        },
+        {
+          "name": "Departamento de Sarmiento",
+          "latitude": "-28.08333000",
+          "longitude": "-63.41667000"
+        },
+        {
+          "name": "El Hoyo",
+          "latitude": "-27.02872000",
+          "longitude": "-63.23197000"
+        },
+        {
+          "name": "La Banda",
+          "latitude": "-27.73348000",
+          "longitude": "-64.24278000"
+        },
+        {
+          "name": "Los Juríes",
+          "latitude": "-28.46539000",
+          "longitude": "-62.10862000"
+        },
+        {
+          "name": "Los Telares",
+          "latitude": "-28.98479000",
+          "longitude": "-63.44889000"
+        },
+        {
+          "name": "Pampa de los Guanacos",
+          "latitude": "-26.23002000",
+          "longitude": "-61.83774000"
+        },
+        {
+          "name": "Quimilí",
+          "latitude": "-27.64615000",
+          "longitude": "-62.41655000"
+        },
+        {
+          "name": "San Pedro",
+          "latitude": "-27.95386000",
+          "longitude": "-65.16651000"
+        },
+        {
+          "name": "Santiago del Estero",
+          "latitude": "-27.79511000",
+          "longitude": "-64.26149000"
+        },
+        {
+          "name": "Sumampa",
+          "latitude": "-29.38470000",
+          "longitude": "-63.46907000"
+        },
+        {
+          "name": "Suncho Corral",
+          "latitude": "-27.93357000",
+          "longitude": "-63.42938000"
+        },
+        {
+          "name": "Termas de Río Hondo",
+          "latitude": "-27.49362000",
+          "longitude": "-64.85972000"
+        },
+        {
+          "name": "Tintina",
+          "latitude": "-27.02687000",
+          "longitude": "-62.70643000"
+        },
+        {
+          "name": "Villa Atamisqui",
+          "latitude": "-28.49609000",
+          "longitude": "-63.81609000"
+        },
+        {
+          "name": "Villa General Mitre",
+          "latitude": "-29.14310000",
+          "longitude": "-62.65248000"
+        },
+        {
+          "name": "Villa Ojo de Agua",
+          "latitude": "-29.50003000",
+          "longitude": "-63.69377000"
+        }
+      ]
+    },
+    {
+      "name": "Tierra del Fuego Province",
+      "state_code": "V",
+      "latitude": "-54.80539980",
+      "longitude": "-68.32420610",
+      "cities": [
+        {
+          "name": "Río Grande",
+          "latitude": "-53.78769000",
+          "longitude": "-67.70946000"
+        },
+        {
+          "name": "Tolhuin",
+          "latitude": "-54.51083000",
+          "longitude": "-67.19550000"
+        },
+        {
+          "name": "Ushuaia",
+          "latitude": "-54.81084000",
+          "longitude": "-68.31591000"
+        }
+      ]
+    },
+    {
+      "name": "Tucumán Province",
+      "state_code": "T",
+      "latitude": "-26.82211270",
+      "longitude": "-65.21929030",
+      "cities": [
+        {
+          "name": "Aguilares",
+          "latitude": "-27.43380000",
+          "longitude": "-65.61427000"
+        },
+        {
+          "name": "Alderetes",
+          "latitude": "-26.81667000",
+          "longitude": "-65.13333000"
+        },
+        {
+          "name": "Bella Vista",
+          "latitude": "-27.03424000",
+          "longitude": "-65.30196000"
+        },
+        {
+          "name": "Burruyacú",
+          "latitude": "-26.49918000",
+          "longitude": "-64.74206000"
+        },
+        {
+          "name": "Departamento de Burruyacú",
+          "latitude": "-26.50000000",
+          "longitude": "-64.91667000"
+        },
+        {
+          "name": "Departamento de Capital",
+          "latitude": "-26.82825000",
+          "longitude": "-65.21126000"
+        },
+        {
+          "name": "Departamento de Cruz Alta",
+          "latitude": "-26.91667000",
+          "longitude": "-64.91667000"
+        },
+        {
+          "name": "Departamento de Famaillá",
+          "latitude": "-26.91667000",
+          "longitude": "-65.50000000"
+        },
+        {
+          "name": "Departamento de Graneros",
+          "latitude": "-27.75000000",
+          "longitude": "-65.33333000"
+        },
+        {
+          "name": "Departamento de La Cocha",
+          "latitude": "-27.77784000",
+          "longitude": "-65.57109000"
+        },
+        {
+          "name": "Departamento de Lules",
+          "latitude": "-26.92886000",
+          "longitude": "-65.33848000"
+        },
+        {
+          "name": "Departamento de Monteros",
+          "latitude": "-27.16667000",
+          "longitude": "-65.58333000"
+        },
+        {
+          "name": "Departamento de Río Chico",
+          "latitude": "-27.43368000",
+          "longitude": "-65.76671000"
+        },
+        {
+          "name": "Departamento de Simoca",
+          "latitude": "-27.26360000",
+          "longitude": "-65.35612000"
+        },
+        {
+          "name": "Departamento de Trancas",
+          "latitude": "-26.41667000",
+          "longitude": "-65.50000000"
+        },
+        {
+          "name": "Departamento de Yerba Buena",
+          "latitude": "-26.81826000",
+          "longitude": "-65.31733000"
+        },
+        {
+          "name": "Famaillá",
+          "latitude": "-27.05413000",
+          "longitude": "-65.40329000"
+        },
+        {
+          "name": "Graneros",
+          "latitude": "-27.64934000",
+          "longitude": "-65.43830000"
+        },
+        {
+          "name": "La Cocha",
+          "latitude": "-27.76927000",
+          "longitude": "-65.58711000"
+        },
+        {
+          "name": "Monteros",
+          "latitude": "-27.16741000",
+          "longitude": "-65.49832000"
+        },
+        {
+          "name": "San Miguel de Tucumán",
+          "latitude": "-26.82414000",
+          "longitude": "-65.22260000"
+        },
+        {
+          "name": "Simoca",
+          "latitude": "-27.26272000",
+          "longitude": "-65.35647000"
+        },
+        {
+          "name": "Tafí del Valle",
+          "latitude": "-26.85275000",
+          "longitude": "-65.70983000"
+        },
+        {
+          "name": "Tafí Viejo",
+          "latitude": "-26.73201000",
+          "longitude": "-65.25921000"
+        },
+        {
+          "name": "Trancas",
+          "latitude": "-26.23136000",
+          "longitude": "-65.28093000"
+        },
+        {
+          "name": "Yerba Buena",
+          "latitude": "-26.81667000",
+          "longitude": "-65.31667000"
+        }
+      ]
+    }
+  ]
+}

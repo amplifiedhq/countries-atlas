@@ -1,0 +1,351 @@
+{
+  "code": "TL",
+  "states": [
+    {
+      "name": "Aileu municipality",
+      "state_code": "AL",
+      "latitude": "-8.70439940",
+      "longitude": "125.60954740",
+      "cities": [
+        {
+          "name": "Aileu",
+          "latitude": "-8.72806000",
+          "longitude": "125.56639000"
+        },
+        {
+          "name": "Lequidoe",
+          "latitude": "-8.69139000",
+          "longitude": "125.63611000"
+        },
+        {
+          "name": "Remexio",
+          "latitude": "-8.61667000",
+          "longitude": "125.66667000"
+        }
+      ]
+    },
+    {
+      "name": "Ainaro Municipality",
+      "state_code": "AN",
+      "latitude": "-9.01131710",
+      "longitude": "125.52200120",
+      "cities": [
+        {
+          "name": "Ainaro",
+          "latitude": "-8.99241000",
+          "longitude": "125.50816000"
+        },
+        {
+          "name": "Hato-Udo",
+          "latitude": "-9.12036000",
+          "longitude": "125.58935000"
+        }
+      ]
+    },
+    {
+      "name": "Baucau Municipality",
+      "state_code": "BA",
+      "latitude": "-8.47143080",
+      "longitude": "126.45759910",
+      "cities": [
+        {
+          "name": "Baguia",
+          "latitude": "-8.62787000",
+          "longitude": "126.65743000"
+        },
+        {
+          "name": "Baucau",
+          "latitude": "-8.46667000",
+          "longitude": "126.45000000"
+        },
+        {
+          "name": "Baukau",
+          "latitude": "-8.47572000",
+          "longitude": "126.45633000"
+        },
+        {
+          "name": "Laga",
+          "latitude": "-8.47411000",
+          "longitude": "126.59228000"
+        },
+        {
+          "name": "Quelicai",
+          "latitude": "-8.60135000",
+          "longitude": "126.55904000"
+        },
+        {
+          "name": "Vemasse",
+          "latitude": "-8.51036000",
+          "longitude": "126.20823000"
+        },
+        {
+          "name": "Venilale",
+          "latitude": "-8.64306000",
+          "longitude": "126.37833000"
+        }
+      ]
+    },
+    {
+      "name": "Bobonaro Municipality",
+      "state_code": "BO",
+      "latitude": "-8.96554060",
+      "longitude": "125.25879640",
+      "cities": [
+        {
+          "name": "Maliana",
+          "latitude": "-8.99167000",
+          "longitude": "125.21972000"
+        }
+      ]
+    },
+    {
+      "name": "Cova Lima Municipality",
+      "state_code": "CO",
+      "latitude": "-9.26503750",
+      "longitude": "125.25879640",
+      "cities": [
+        {
+          "name": "Fatumean",
+          "latitude": "-9.22917000",
+          "longitude": "125.03583000"
+        },
+        {
+          "name": "Fohorem",
+          "latitude": "-9.28361000",
+          "longitude": "125.08944000"
+        },
+        {
+          "name": "Maucatar",
+          "latitude": "-9.21772000",
+          "longitude": "125.22981000"
+        },
+        {
+          "name": "Suai",
+          "latitude": "-9.30000000",
+          "longitude": "125.25000000"
+        },
+        {
+          "name": "Tilomar",
+          "latitude": "-9.34182000",
+          "longitude": "125.10887000"
+        }
+      ]
+    },
+    {
+      "name": "Dili municipality",
+      "state_code": "DI",
+      "latitude": "-8.24496130",
+      "longitude": "125.58766970",
+      "cities": [
+        {
+          "name": "Atauro Island",
+          "latitude": "-8.26785000",
+          "longitude": "125.59699000"
+        },
+        {
+          "name": "Cristo Rei",
+          "latitude": "-8.52047000",
+          "longitude": "125.60837000"
+        },
+        {
+          "name": "Dili",
+          "latitude": "-8.55861000",
+          "longitude": "125.57361000"
+        },
+        {
+          "name": "Metinaro",
+          "latitude": "-8.53007000",
+          "longitude": "125.74163000"
+        }
+      ]
+    },
+    {
+      "name": "Ermera District",
+      "state_code": "ER",
+      "latitude": "-8.75248020",
+      "longitude": "125.39872940",
+      "cities": [
+        {
+          "name": "Ermera Villa",
+          "latitude": "-8.75222000",
+          "longitude": "125.39694000"
+        },
+        {
+          "name": "Gleno",
+          "latitude": "-8.72389000",
+          "longitude": "125.43611000"
+        },
+        {
+          "name": "Hatulia",
+          "latitude": "-8.81667000",
+          "longitude": "125.31667000"
+        },
+        {
+          "name": "Letefoho",
+          "latitude": "-8.83444000",
+          "longitude": "125.42639000"
+        },
+        {
+          "name": "Railaco",
+          "latitude": "-8.67237000",
+          "longitude": "125.42546000"
+        }
+      ]
+    },
+    {
+      "name": "Lautém Municipality",
+      "state_code": "LA",
+      "latitude": "-8.36423070",
+      "longitude": "126.90438450",
+      "cities": [
+        {
+          "name": "Iliomar",
+          "latitude": "-8.70917000",
+          "longitude": "126.82833000"
+        },
+        {
+          "name": "Lautem",
+          "latitude": "-8.36514000",
+          "longitude": "126.90389000"
+        },
+        {
+          "name": "Lospalos",
+          "latitude": "-8.52167000",
+          "longitude": "126.99833000"
+        },
+        {
+          "name": "Luro",
+          "latitude": "-8.54359000",
+          "longitude": "126.83003000"
+        },
+        {
+          "name": "Tutuala",
+          "latitude": "-8.39597000",
+          "longitude": "127.25923000"
+        }
+      ]
+    },
+    {
+      "name": "Liquiçá Municipality",
+      "state_code": "LI",
+      "latitude": "-8.66740950",
+      "longitude": "125.25879640",
+      "cities": [
+        {
+          "name": "Bazartete",
+          "latitude": "-8.62464000",
+          "longitude": "125.38168000"
+        },
+        {
+          "name": "Likisá",
+          "latitude": "-8.58750000",
+          "longitude": "125.34194000"
+        },
+        {
+          "name": "Maubara",
+          "latitude": "-8.61194000",
+          "longitude": "125.20611000"
+        }
+      ]
+    },
+    {
+      "name": "Manatuto District",
+      "state_code": "MT",
+      "latitude": "-8.51556080",
+      "longitude": "126.01592550",
+      "cities": [
+        {
+          "name": "Barique",
+          "latitude": "-8.85472000",
+          "longitude": "126.06556000"
+        },
+        {
+          "name": "Laclo",
+          "latitude": "-8.55000000",
+          "longitude": "125.91667000"
+        },
+        {
+          "name": "Laclubar",
+          "latitude": "-8.74975000",
+          "longitude": "125.91186000"
+        },
+        {
+          "name": "Manatuto",
+          "latitude": "-8.52207000",
+          "longitude": "126.01516000"
+        },
+        {
+          "name": "Manatutu",
+          "latitude": "-8.51139000",
+          "longitude": "126.01306000"
+        },
+        {
+          "name": "Soibada",
+          "latitude": "-8.86000000",
+          "longitude": "125.94000000"
+        }
+      ]
+    },
+    {
+      "name": "Manufahi Municipality",
+      "state_code": "MF",
+      "latitude": "-9.01454950",
+      "longitude": "125.82799590",
+      "cities": [
+        {
+          "name": "Alas",
+          "latitude": "-9.02730000",
+          "longitude": "125.78680000"
+        },
+        {
+          "name": "Fatuberliu",
+          "latitude": "-8.94790000",
+          "longitude": "125.86633000"
+        },
+        {
+          "name": "Same",
+          "latitude": "-9.00000000",
+          "longitude": "125.65000000"
+        },
+        {
+          "name": "Turiscai",
+          "latitude": "-8.82371000",
+          "longitude": "125.70454000"
+        }
+      ]
+    },
+    {
+      "name": "Viqueque Municipality",
+      "state_code": "VI",
+      "latitude": "-8.85979180",
+      "longitude": "126.36335160",
+      "cities": [
+        {
+          "name": "Lacluta",
+          "latitude": "-8.80000000",
+          "longitude": "126.13333000"
+        },
+        {
+          "name": "Ossu",
+          "latitude": "-8.73477000",
+          "longitude": "126.38324000"
+        },
+        {
+          "name": "Uatocarabau",
+          "latitude": "-8.75658000",
+          "longitude": "126.68060000"
+        },
+        {
+          "name": "Uatolari",
+          "latitude": "-8.76277000",
+          "longitude": "126.57353000"
+        },
+        {
+          "name": "Viqueque",
+          "latitude": "-8.85908000",
+          "longitude": "126.36972000"
+        }
+      ]
+    }
+  ]
+}

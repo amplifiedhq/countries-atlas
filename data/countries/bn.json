@@ -1,0 +1,82 @@
+{
+  "code": "BN",
+  "states": [
+    {
+      "name": "Belait District",
+      "state_code": "BE",
+      "latitude": "4.37507490",
+      "longitude": "114.61928990",
+      "cities": [
+        {
+          "name": "Kuala Belait",
+          "latitude": "4.58361000",
+          "longitude": "114.23120000"
+        },
+        {
+          "name": "Seria",
+          "latitude": "4.60637000",
+          "longitude": "114.32476000"
+        }
+      ]
+    },
+    {
+      "name": "Brunei-Muara District",
+      "state_code": "BM",
+      "latitude": "4.93112060",
+      "longitude": "114.95168690",
+      "cities": [
+        {
+          "name": "Bandar Seri Begawan",
+          "latitude": "4.89035000",
+          "longitude": "114.94006000"
+        },
+        {
+          "name": "Berakas A",
+          "latitude": "4.97032000",
+          "longitude": "114.92989000"
+        },
+        {
+          "name": "Kapok",
+          "latitude": "5.02447000",
+          "longitude": "115.04664000"
+        },
+        {
+          "name": "Mentiri",
+          "latitude": "4.97058000",
+          "longitude": "115.02078000"
+        },
+        {
+          "name": "Serasa",
+          "latitude": "5.01718000",
+          "longitude": "115.05841000"
+        }
+      ]
+    },
+    {
+      "name": "Temburong District",
+      "state_code": "TE",
+      "latitude": "4.62041280",
+      "longitude": "115.14148400",
+      "cities": [
+        {
+          "name": "Bangar",
+          "latitude": "4.70861000",
+          "longitude": "115.07167000"
+        }
+      ]
+    },
+    {
+      "name": "Tutong District",
+      "state_code": "TU",
+      "latitude": "4.71403730",
+      "longitude": "114.66679390",
+      "cities": [
+        {
+          "name": "Tutong",
+          "latitude": "4.80278000",
+          "longitude": "114.64917000"
+        }
+      ]
+    }
+  ]
+}

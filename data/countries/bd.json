@@ -1,0 +1,1208 @@
+{
+  "code": "BD",
+  "states": [
+    {
+      "name": "Bagerhat District",
+      "state_code": "05",
+      "latitude": "22.66024360",
+      "longitude": "89.78954780",
+      "cities": []
+    },
+    {
+      "name": "Bahadia",
+      "state_code": "33",
+      "latitude": "23.78987120",
+      "longitude": "90.16714830",
+      "cities": []
+    },
+    {
+      "name": "Bandarban District",
+      "state_code": "01",
+      "latitude": "21.83110020",
+      "longitude": "92.36863210",
+      "cities": []
+    },
+    {
+      "name": "Barguna District",
+      "state_code": "02",
+      "latitude": "22.09529150",
+      "longitude": "90.11206960",
+      "cities": []
+    },
+    {
+      "name": "Barisal District",
+      "state_code": "06",
+      "latitude": "22.70220980",
+      "longitude": "90.36963160",
+      "cities": [
+        {
+          "name": "Barguna",
+          "latitude": "22.13333000",
+          "longitude": "90.13333000"
+        },
+        {
+          "name": "Barisal",
+          "latitude": "22.80000000",
+          "longitude": "90.50000000"
+        },
+        {
+          "name": "Bhāndāria",
+          "latitude": "22.48898000",
+          "longitude": "90.06273000"
+        },
+        {
+          "name": "Bhola",
+          "latitude": "22.36667000",
+          "longitude": "90.81667000"
+        },
+        {
+          "name": "Burhānuddin",
+          "latitude": "22.49518000",
+          "longitude": "90.72391000"
+        },
+        {
+          "name": "Gaurnadi",
+          "latitude": "22.97372000",
+          "longitude": "90.22376000"
+        },
+        {
+          "name": "Jhalokati",
+          "latitude": "22.60000000",
+          "longitude": "90.20000000"
+        },
+        {
+          "name": "Lālmohan",
+          "latitude": "22.33774000",
+          "longitude": "90.73708000"
+        },
+        {
+          "name": "Mathba",
+          "latitude": "22.28616000",
+          "longitude": "89.95883000"
+        },
+        {
+          "name": "Mehendiganj",
+          "latitude": "22.82257000",
+          "longitude": "90.52859000"
+        },
+        {
+          "name": "Nālchiti",
+          "latitude": "22.63696000",
+          "longitude": "90.27195000"
+        },
+        {
+          "name": "Patuakhali",
+          "latitude": "22.33333000",
+          "longitude": "90.33333000"
+        },
+        {
+          "name": "Pirojpur",
+          "latitude": "22.53671000",
+          "longitude": "90.00033000"
+        }
+      ]
+    },
+    {
+      "name": "Barisal Division",
+      "state_code": "A",
+      "latitude": "22.38111310",
+      "longitude": "90.33718890",
+      "cities": []
+    },
+    {
+      "name": "Bhola District",
+      "state_code": "07",
+      "latitude": "22.17853150",
+      "longitude": "90.71010230",
+      "cities": []
+    },
+    {
+      "name": "Bogra District",
+      "state_code": "03",
+      "latitude": "24.85104020",
+      "longitude": "89.36972250",
+      "cities": []
+    },
+    {
+      "name": "Brahmanbaria District",
+      "state_code": "04",
+      "latitude": "23.96081810",
+      "longitude": "91.11150140",
+      "cities": []
+    },
+    {
+      "name": "Chandpur District",
+      "state_code": "09",
+      "latitude": "23.25131480",
+      "longitude": "90.85178460",
+      "cities": []
+    },
+    {
+      "name": "Chapai Nawabganj District",
+      "state_code": "45",
+      "latitude": "24.74131110",
+      "longitude": "88.29120690",
+      "cities": []
+    },
+    {
+      "name": "Chittagong District",
+      "state_code": "10",
+      "latitude": "22.51501050",
+      "longitude": "91.75388170",
+      "cities": []
+    },
+    {
+      "name": "Chittagong Division",
+      "state_code": "B",
+      "latitude": "23.17931570",
+      "longitude": "91.98815270",
+      "cities": [
+        {
+          "name": "Bandarban",
+          "latitude": "22.00000000",
+          "longitude": "92.33333000"
+        },
+        {
+          "name": "Bibir Hat",
+          "latitude": "22.68347000",
+          "longitude": "91.79058000"
+        },
+        {
+          "name": "Brahmanbaria",
+          "latitude": "23.98333000",
+          "longitude": "91.16667000"
+        },
+        {
+          "name": "Chandpur",
+          "latitude": "23.25000000",
+          "longitude": "90.83333000"
+        },
+        {
+          "name": "Chhāgalnāiya",
+          "latitude": "23.02475000",
+          "longitude": "91.51091000"
+        },
+        {
+          "name": "Chittagong",
+          "latitude": "22.48750000",
+          "longitude": "91.96333000"
+        },
+        {
+          "name": "Comilla",
+          "latitude": "23.44170000",
+          "longitude": "91.00987000"
+        },
+        {
+          "name": "Cox's Bazar",
+          "latitude": "21.58389000",
+          "longitude": "92.01528000"
+        },
+        {
+          "name": "Cox’s Bāzār",
+          "latitude": "21.43973000",
+          "longitude": "92.00955000"
+        },
+        {
+          "name": "Feni",
+          "latitude": "22.96667000",
+          "longitude": "91.31667000"
+        },
+        {
+          "name": "Hājīganj",
+          "latitude": "23.25191000",
+          "longitude": "90.85508000"
+        },
+        {
+          "name": "Khagrachhari",
+          "latitude": "23.16667000",
+          "longitude": "91.90000000"
+        },
+        {
+          "name": "Lākshām",
+          "latitude": "23.24018000",
+          "longitude": "91.12143000"
+        },
+        {
+          "name": "Lakshmipur",
+          "latitude": "22.91667000",
+          "longitude": "90.83333000"
+        },
+        {
+          "name": "Manikchari",
+          "latitude": "22.83957000",
+          "longitude": "91.84128000"
+        },
+        {
+          "name": "Nabīnagar",
+          "latitude": "23.88791000",
+          "longitude": "90.96792000"
+        },
+        {
+          "name": "Noakhali",
+          "latitude": "22.75000000",
+          "longitude": "91.16667000"
+        },
+        {
+          "name": "Patiya",
+          "latitude": "22.29543000",
+          "longitude": "91.97900000"
+        },
+        {
+          "name": "Rāipur",
+          "latitude": "23.03910000",
+          "longitude": "90.76808000"
+        },
+        {
+          "name": "Rāmganj",
+          "latitude": "23.10060000",
+          "longitude": "90.84989000"
+        },
+        {
+          "name": "Rangamati",
+          "latitude": "22.63333000",
+          "longitude": "92.20000000"
+        },
+        {
+          "name": "Raojān",
+          "latitude": "22.53511000",
+          "longitude": "91.91919000"
+        },
+        {
+          "name": "Sandwīp",
+          "latitude": "22.51409000",
+          "longitude": "91.45491000"
+        },
+        {
+          "name": "Sātkania",
+          "latitude": "22.07639000",
+          "longitude": "92.04955000"
+        },
+        {
+          "name": "Teknāf",
+          "latitude": "20.85829000",
+          "longitude": "92.29773000"
+        }
+      ]
+    },
+    {
+      "name": "Chuadanga District",
+      "state_code": "12",
+      "latitude": "23.61605120",
+      "longitude": "88.82630060",
+      "cities": []
+    },
+    {
+      "name": "Comilla District",
+      "state_code": "08",
+      "latitude": "23.45756670",
+      "longitude": "91.18089960",
+      "cities": []
+    },
+    {
+      "name": "Cox's Bazar District",
+      "state_code": "11",
+      "latitude": "21.56406260",
+      "longitude": "92.02821290",
+      "cities": []
+    },
+    {
+      "name": "Dhaka District",
+      "state_code": "13",
+      "latitude": "23.81051400",
+      "longitude": "90.33718890",
+      "cities": [
+        {
+          "name": "Azimpur",
+          "latitude": "23.72980000",
+          "longitude": "90.38540000"
+        },
+        {
+          "name": "Bājitpur",
+          "latitude": "24.21623000",
+          "longitude": "90.95002000"
+        },
+        {
+          "name": "Bhairab Bāzār",
+          "latitude": "24.05240000",
+          "longitude": "90.97640000"
+        },
+        {
+          "name": "Char Bhadrāsan",
+          "latitude": "23.30916000",
+          "longitude": "90.22698000"
+        },
+        {
+          "name": "Char Golora",
+          "latitude": "23.82037000",
+          "longitude": "90.12175000"
+        },
+        {
+          "name": "Dhaka",
+          "latitude": "23.81093000",
+          "longitude": "90.36542000"
+        },
+        {
+          "name": "Dohār",
+          "latitude": "23.59311000",
+          "longitude": "90.14251000"
+        },
+        {
+          "name": "Faridpur",
+          "latitude": "23.59419000",
+          "longitude": "89.82147000"
+        },
+        {
+          "name": "Gazipur",
+          "latitude": "24.20689000",
+          "longitude": "90.47241000"
+        },
+        {
+          "name": "Gopalganj",
+          "latitude": "23.16667000",
+          "longitude": "89.91667000"
+        },
+        {
+          "name": "Joymontop",
+          "latitude": "23.78789000",
+          "longitude": "90.16472000"
+        },
+        {
+          "name": "Khanbaniara",
+          "latitude": "23.78225000",
+          "longitude": "90.18382000"
+        },
+        {
+          "name": "Kishoregonj",
+          "latitude": "24.41667000",
+          "longitude": "90.95000000"
+        },
+        {
+          "name": "Kishorganj",
+          "latitude": "24.43944000",
+          "longitude": "90.78291000"
+        },
+        {
+          "name": "Madaripur",
+          "latitude": "23.25000000",
+          "longitude": "90.20000000"
+        },
+        {
+          "name": "Manikganj",
+          "latitude": "23.86667000",
+          "longitude": "89.95000000"
+        },
+        {
+          "name": "Mirzāpur",
+          "latitude": "24.10287000",
+          "longitude": "90.09841000"
+        },
+        {
+          "name": "Munshiganj",
+          "latitude": "23.55000000",
+          "longitude": "90.36667000"
+        },
+        {
+          "name": "Nāgarpur",
+          "latitude": "24.05783000",
+          "longitude": "89.87696000"
+        },
+        {
+          "name": "Narayanganj",
+          "latitude": "23.75000000",
+          "longitude": "90.58333000"
+        },
+        {
+          "name": "Narsingdi",
+          "latitude": "23.92298000",
+          "longitude": "90.71768000"
+        },
+        {
+          "name": "Pālang",
+          "latitude": "23.21824000",
+          "longitude": "90.35076000"
+        },
+        {
+          "name": "Paltan",
+          "latitude": "23.73625000",
+          "longitude": "90.41426000"
+        },
+        {
+          "name": "Parvez Ali",
+          "latitude": "23.81741000",
+          "longitude": "90.11921000"
+        },
+        {
+          "name": "Parvez Ali Hossain",
+          "latitude": "23.78758000",
+          "longitude": "90.16487000"
+        },
+        {
+          "name": "Rajbari",
+          "latitude": "23.66667000",
+          "longitude": "89.55000000"
+        },
+        {
+          "name": "Ramnagar",
+          "latitude": "23.77720000",
+          "longitude": "90.17604000"
+        },
+        {
+          "name": "Sakhipur",
+          "latitude": "24.31988000",
+          "longitude": "90.16943000"
+        },
+        {
+          "name": "Sayani",
+          "latitude": "23.79119000",
+          "longitude": "90.16972000"
+        },
+        {
+          "name": "Shariatpur",
+          "latitude": "23.25000000",
+          "longitude": "90.36667000"
+        },
+        {
+          "name": "Sonārgaon",
+          "latitude": "23.65000000",
+          "longitude": "90.61667000"
+        },
+        {
+          "name": "Tangail",
+          "latitude": "24.33853000",
+          "longitude": "89.98667000"
+        },
+        {
+          "name": "Tungi",
+          "latitude": "23.89154000",
+          "longitude": "90.40232000"
+        },
+        {
+          "name": "Tungipāra",
+          "latitude": "22.89983000",
+          "longitude": "89.90326000"
+        }
+      ]
+    },
+    {
+      "name": "Dhaka Division",
+      "state_code": "C",
+      "latitude": "23.95357420",
+      "longitude": "90.14949880",
+      "cities": []
+    },
+    {
+      "name": "Dinajpur District",
+      "state_code": "14",
+      "latitude": "25.62791230",
+      "longitude": "88.63317580",
+      "cities": []
+    },
+    {
+      "name": "Faridpur District",
+      "state_code": "15",
+      "latitude": "23.54239190",
+      "longitude": "89.63089210",
+      "cities": []
+    },
+    {
+      "name": "Feni District",
+      "state_code": "16",
+      "latitude": "22.94087840",
+      "longitude": "91.40666460",
+      "cities": []
+    },
+    {
+      "name": "Gaibandha District",
+      "state_code": "19",
+      "latitude": "25.32969280",
+      "longitude": "89.54296520",
+      "cities": []
+    },
+    {
+      "name": "Gazipur District",
+      "state_code": "18",
+      "latitude": "24.09581710",
+      "longitude": "90.41251810",
+      "cities": []
+    },
+    {
+      "name": "Gopalganj District",
+      "state_code": "17",
+      "latitude": "26.48315840",
+      "longitude": "84.43655000",
+      "cities": []
+    },
+    {
+      "name": "Habiganj District",
+      "state_code": "20",
+      "latitude": "24.47712360",
+      "longitude": "91.45065650",
+      "cities": []
+    },
+    {
+      "name": "Jamalpur District",
+      "state_code": "21",
+      "latitude": "25.08309260",
+      "longitude": "89.78532180",
+      "cities": []
+    },
+    {
+      "name": "Jessore District",
+      "state_code": "22",
+      "latitude": "23.16340140",
+      "longitude": "89.21816640",
+      "cities": []
+    },
+    {
+      "name": "Jhalokati District",
+      "state_code": "25",
+      "latitude": "22.57208000",
+      "longitude": "90.18696440",
+      "cities": []
+    },
+    {
+      "name": "Jhenaidah District",
+      "state_code": "23",
+      "latitude": "23.54498730",
+      "longitude": "89.17260310",
+      "cities": []
+    },
+    {
+      "name": "Joypurhat District",
+      "state_code": "24",
+      "latitude": "25.09473490",
+      "longitude": "89.09449370",
+      "cities": []
+    },
+    {
+      "name": "Khagrachari District",
+      "state_code": "29",
+      "latitude": "23.13217510",
+      "longitude": "91.94902100",
+      "cities": []
+    },
+    {
+      "name": "Khulna District",
+      "state_code": "27",
+      "latitude": "22.67377350",
+      "longitude": "89.39665810",
+      "cities": [
+        {
+          "name": "Bagerhat",
+          "latitude": "22.40000000",
+          "longitude": "89.75000000"
+        },
+        {
+          "name": "Bhātpāra Abhaynagar",
+          "latitude": "23.01472000",
+          "longitude": "89.43936000"
+        },
+        {
+          "name": "Bherāmāra",
+          "latitude": "24.02452000",
+          "longitude": "88.99234000"
+        },
+        {
+          "name": "Chuadanga",
+          "latitude": "23.63333000",
+          "longitude": "88.85000000"
+        },
+        {
+          "name": "Jessore",
+          "latitude": "23.08333000",
+          "longitude": "89.16667000"
+        },
+        {
+          "name": "Jhenaidah",
+          "latitude": "23.50000000",
+          "longitude": "89.16667000"
+        },
+        {
+          "name": "Jhingergācha",
+          "latitude": "23.11134000",
+          "longitude": "89.09061000"
+        },
+        {
+          "name": "Kālia",
+          "latitude": "23.04300000",
+          "longitude": "89.63094000"
+        },
+        {
+          "name": "Kālīganj",
+          "latitude": "23.40964000",
+          "longitude": "89.13801000"
+        },
+        {
+          "name": "Kesabpur",
+          "latitude": "22.90725000",
+          "longitude": "89.21954000"
+        },
+        {
+          "name": "Khulna",
+          "latitude": "22.50000000",
+          "longitude": "89.33333000"
+        },
+        {
+          "name": "Kushtia",
+          "latitude": "23.83333000",
+          "longitude": "88.91667000"
+        },
+        {
+          "name": "Magura",
+          "latitude": "23.43333000",
+          "longitude": "89.43333000"
+        },
+        {
+          "name": "Meherpur",
+          "latitude": "23.75000000",
+          "longitude": "88.70000000"
+        },
+        {
+          "name": "Morrelgonj",
+          "latitude": "22.45566000",
+          "longitude": "89.85584000"
+        },
+        {
+          "name": "Narail",
+          "latitude": "23.13333000",
+          "longitude": "89.60000000"
+        },
+        {
+          "name": "Nowlamary",
+          "latitude": "23.67346000",
+          "longitude": "88.98885000"
+        },
+        {
+          "name": "Phultala",
+          "latitude": "22.71673000",
+          "longitude": "89.51194000"
+        },
+        {
+          "name": "Sarankhola",
+          "latitude": "22.31006000",
+          "longitude": "89.79113000"
+        },
+        {
+          "name": "Satkhira",
+          "latitude": "22.35000000",
+          "longitude": "89.15000000"
+        },
+        {
+          "name": "Ujalpur",
+          "latitude": "23.80562000",
+          "longitude": "88.62444000"
+        },
+        {
+          "name": "Uttar Char Fasson",
+          "latitude": "22.22647000",
+          "longitude": "90.71275000"
+        }
+      ]
+    },
+    {
+      "name": "Khulna Division",
+      "state_code": "D",
+      "latitude": "22.80878160",
+      "longitude": "89.24671910",
+      "cities": []
+    },
+    {
+      "name": "Kishoreganj District",
+      "state_code": "26",
+      "latitude": "24.42604570",
+      "longitude": "90.98206680",
+      "cities": []
+    },
+    {
+      "name": "Kurigram District",
+      "state_code": "28",
+      "latitude": "25.80724140",
+      "longitude": "89.62947460",
+      "cities": []
+    },
+    {
+      "name": "Kushtia District",
+      "state_code": "30",
+      "latitude": "23.89069950",
+      "longitude": "89.10993680",
+      "cities": []
+    },
+    {
+      "name": "Lakshmipur District",
+      "state_code": "31",
+      "latitude": "22.94467440",
+      "longitude": "90.82819070",
+      "cities": []
+    },
+    {
+      "name": "Lalmonirhat District",
+      "state_code": "32",
+      "latitude": "25.99233980",
+      "longitude": "89.28472510",
+      "cities": []
+    },
+    {
+      "name": "Madaripur District",
+      "state_code": "36",
+      "latitude": "23.23933460",
+      "longitude": "90.18696440",
+      "cities": []
+    },
+    {
+      "name": "Meherpur District",
+      "state_code": "39",
+      "latitude": "23.80519910",
+      "longitude": "88.67235780",
+      "cities": []
+    },
+    {
+      "name": "Moulvibazar District",
+      "state_code": "38",
+      "latitude": "24.30953440",
+      "longitude": "91.73149030",
+      "cities": []
+    },
+    {
+      "name": "Munshiganj District",
+      "state_code": "35",
+      "latitude": "23.49809310",
+      "longitude": "90.41266210",
+      "cities": []
+    },
+    {
+      "name": "Mymensingh District",
+      "state_code": "34",
+      "latitude": "24.75385750",
+      "longitude": "90.40729190",
+      "cities": [
+        {
+          "name": "Gafargaon",
+          "latitude": "24.43200000",
+          "longitude": "90.55850000"
+        },
+        {
+          "name": "Jamalpur",
+          "latitude": "25.00000000",
+          "longitude": "89.83333000"
+        },
+        {
+          "name": "Muktāgācha",
+          "latitude": "24.76484000",
+          "longitude": "90.25698000"
+        },
+        {
+          "name": "Mymensingh",
+          "latitude": "24.75000000",
+          "longitude": "90.40000000"
+        },
+        {
+          "name": "Netrakona",
+          "latitude": "24.86667000",
+          "longitude": "90.86667000"
+        },
+        {
+          "name": "Sarishābāri",
+          "latitude": "24.75127000",
+          "longitude": "89.83126000"
+        },
+        {
+          "name": "Sherpur",
+          "latitude": "25.08333000",
+          "longitude": "90.08333000"
+        }
+      ]
+    },
+    {
+      "name": "Mymensingh Division",
+      "state_code": "H",
+      "latitude": "24.71362000",
+      "longitude": "90.45023680",
+      "cities": []
+    },
+    {
+      "name": "Naogaon District",
+      "state_code": "48",
+      "latitude": "24.91315970",
+      "longitude": "88.75309520",
+      "cities": []
+    },
+    {
+      "name": "Narail District",
+      "state_code": "43",
+      "latitude": "23.11629290",
+      "longitude": "89.58404040",
+      "cities": []
+    },
+    {
+      "name": "Narayanganj District",
+      "state_code": "40",
+      "latitude": "23.71466010",
+      "longitude": "90.56360900",
+      "cities": []
+    },
+    {
+      "name": "Natore District",
+      "state_code": "44",
+      "latitude": "24.41024300",
+      "longitude": "89.00761770",
+      "cities": []
+    },
+    {
+      "name": "Netrokona District",
+      "state_code": "41",
+      "latitude": "24.81032840",
+      "longitude": "90.86564150",
+      "cities": []
+    },
+    {
+      "name": "Nilphamari District",
+      "state_code": "46",
+      "latitude": "25.84827980",
+      "longitude": "88.94141340",
+      "cities": []
+    },
+    {
+      "name": "Noakhali District",
+      "state_code": "47",
+      "latitude": "22.87237890",
+      "longitude": "91.09731840",
+      "cities": []
+    },
+    {
+      "name": "Pabna District",
+      "state_code": "49",
+      "latitude": "24.15850500",
+      "longitude": "89.44807180",
+      "cities": []
+    },
+    {
+      "name": "Panchagarh District",
+      "state_code": "52",
+      "latitude": "26.27087050",
+      "longitude": "88.59517510",
+      "cities": []
+    },
+    {
+      "name": "Patuakhali District",
+      "state_code": "51",
+      "latitude": "22.22486320",
+      "longitude": "90.45475030",
+      "cities": []
+    },
+    {
+      "name": "Pirojpur District",
+      "state_code": "50",
+      "latitude": "22.57907440",
+      "longitude": "89.97592640",
+      "cities": []
+    },
+    {
+      "name": "Rajbari District",
+      "state_code": "53",
+      "latitude": "23.71513400",
+      "longitude": "89.58748190",
+      "cities": []
+    },
+    {
+      "name": "Rajshahi District",
+      "state_code": "54",
+      "latitude": "24.37330870",
+      "longitude": "88.60487160",
+      "cities": [
+        {
+          "name": "Bera",
+          "latitude": "24.07821000",
+          "longitude": "89.63262000"
+        },
+        {
+          "name": "Bogra",
+          "latitude": "24.78333000",
+          "longitude": "89.35000000"
+        },
+        {
+          "name": "Chapai Nababganj",
+          "latitude": "24.68333000",
+          "longitude": "88.25000000"
+        },
+        {
+          "name": "Ishurdi",
+          "latitude": "24.12858000",
+          "longitude": "89.06573000"
+        },
+        {
+          "name": "Joypur Hāt",
+          "latitude": "25.10147000",
+          "longitude": "89.02734000"
+        },
+        {
+          "name": "Joypurhat",
+          "latitude": "25.08333000",
+          "longitude": "89.10000000"
+        },
+        {
+          "name": "Mahasthangarh",
+          "latitude": "24.96111000",
+          "longitude": "89.34278000"
+        },
+        {
+          "name": "Naogaon",
+          "latitude": "24.81180000",
+          "longitude": "88.94657000"
+        },
+        {
+          "name": "Natore",
+          "latitude": "24.35000000",
+          "longitude": "89.08333000"
+        },
+        {
+          "name": "Nawābganj",
+          "latitude": "24.59025000",
+          "longitude": "88.27444000"
+        },
+        {
+          "name": "Pabna",
+          "latitude": "24.00633000",
+          "longitude": "89.33533000"
+        },
+        {
+          "name": "Pār Naogaon",
+          "latitude": "24.80418000",
+          "longitude": "88.94875000"
+        },
+        {
+          "name": "Puthia",
+          "latitude": "24.36537000",
+          "longitude": "88.83431000"
+        },
+        {
+          "name": "Rajshahi",
+          "latitude": "24.36962000",
+          "longitude": "88.60748000"
+        },
+        {
+          "name": "Saidpur",
+          "latitude": "25.77769000",
+          "longitude": "88.89169000"
+        },
+        {
+          "name": "Shāhzādpur",
+          "latitude": "24.17687000",
+          "longitude": "89.59880000"
+        },
+        {
+          "name": "Shibganj",
+          "latitude": "25.00146000",
+          "longitude": "89.32266000"
+        },
+        {
+          "name": "Sirajganj",
+          "latitude": "24.33333000",
+          "longitude": "89.61667000"
+        }
+      ]
+    },
+    {
+      "name": "Rajshahi Division",
+      "state_code": "E",
+      "latitude": "24.71057760",
+      "longitude": "88.94138650",
+      "cities": []
+    },
+    {
+      "name": "Rangamati Hill District",
+      "state_code": "56",
+      "latitude": "22.73241730",
+      "longitude": "92.29851340",
+      "cities": []
+    },
+    {
+      "name": "Rangpur District",
+      "state_code": "55",
+      "latitude": "25.74679250",
+      "longitude": "89.25083350",
+      "cities": [
+        {
+          "name": "Badarganj",
+          "latitude": "25.67419000",
+          "longitude": "89.05377000"
+        },
+        {
+          "name": "Chilmāri",
+          "latitude": "25.55613000",
+          "longitude": "89.67097000"
+        },
+        {
+          "name": "Dinajpur",
+          "latitude": "25.61667000",
+          "longitude": "88.75000000"
+        },
+        {
+          "name": "Gaibandha",
+          "latitude": "25.25000000",
+          "longitude": "89.50000000"
+        },
+        {
+          "name": "Kurigram",
+          "latitude": "25.75000000",
+          "longitude": "89.66667000"
+        },
+        {
+          "name": "Lalmonirhat",
+          "latitude": "25.91719000",
+          "longitude": "89.44595000"
+        },
+        {
+          "name": "Lalmonirhat District",
+          "latitude": "26.00000000",
+          "longitude": "89.25000000"
+        },
+        {
+          "name": "Nageswari",
+          "latitude": "25.96817000",
+          "longitude": "89.69153000"
+        },
+        {
+          "name": "Nilphamari Zila",
+          "latitude": "25.96667000",
+          "longitude": "88.95000000"
+        },
+        {
+          "name": "Panchagarh",
+          "latitude": "26.33333000",
+          "longitude": "88.56667000"
+        },
+        {
+          "name": "Parbatipur",
+          "latitude": "25.66369000",
+          "longitude": "88.93093000"
+        },
+        {
+          "name": "Pīrgaaj",
+          "latitude": "25.85587000",
+          "longitude": "88.35943000"
+        },
+        {
+          "name": "Rangpur",
+          "latitude": "25.73333000",
+          "longitude": "89.25000000"
+        },
+        {
+          "name": "Thakurgaon",
+          "latitude": "25.96667000",
+          "longitude": "88.33333000"
+        }
+      ]
+    },
+    {
+      "name": "Rangpur Division",
+      "state_code": "F",
+      "latitude": "25.84833880",
+      "longitude": "88.94138650",
+      "cities": []
+    },
+    {
+      "name": "Satkhira District",
+      "state_code": "58",
+      "latitude": "22.31548120",
+      "longitude": "89.11145250",
+      "cities": []
+    },
+    {
+      "name": "Shariatpur District",
+      "state_code": "62",
+      "latitude": "23.24232140",
+      "longitude": "90.43477110",
+      "cities": []
+    },
+    {
+      "name": "Sherpur District",
+      "state_code": "57",
+      "latitude": "25.07462350",
+      "longitude": "90.14949040",
+      "cities": []
+    },
+    {
+      "name": "Sirajganj District",
+      "state_code": "59",
+      "latitude": "24.31411150",
+      "longitude": "89.56996150",
+      "cities": []
+    },
+    {
+      "name": "Sunamganj District",
+      "state_code": "61",
+      "latitude": "25.07145350",
+      "longitude": "91.39916270",
+      "cities": []
+    },
+    {
+      "name": "Sylhet District",
+      "state_code": "60",
+      "latitude": "24.89933570",
+      "longitude": "91.87004730",
+      "cities": [
+        {
+          "name": "Baniachang",
+          "latitude": "24.51863000",
+          "longitude": "91.35787000"
+        },
+        {
+          "name": "Chhātak",
+          "latitude": "25.03852000",
+          "longitude": "91.66958000"
+        },
+        {
+          "name": "Habiganj",
+          "latitude": "24.43333000",
+          "longitude": "91.41667000"
+        },
+        {
+          "name": "Jahedpur",
+          "latitude": "24.83333000",
+          "longitude": "91.65000000"
+        },
+        {
+          "name": "Maulavi Bāzār",
+          "latitude": "24.48888000",
+          "longitude": "91.77075000"
+        },
+        {
+          "name": "Maulvibazar",
+          "latitude": "24.50000000",
+          "longitude": "91.83333000"
+        },
+        {
+          "name": "Sunamganj",
+          "latitude": "24.86667000",
+          "longitude": "91.41667000"
+        },
+        {
+          "name": "Sylhet",
+          "latitude": "24.91667000",
+          "longitude": "91.76667000"
+        }
+      ]
+    },
+    {
+      "name": "Sylhet Division",
+      "state_code": "G",
+      "latitude": "24.70498110",
+      "longitude": "91.67606910",
+      "cities": []
+    },
+    {
+      "name": "Tangail District",
+      "state_code": "63",
+      "latitude": "24.39174270",
+      "longitude": "89.99482570",
+      "cities": []
+    },
+    {
+      "name": "Thakurgaon District",
+      "state_code": "64",
+      "latitude": "26.04183920",
+      "longitude": "88.42826160",
+      "cities": []
+    }
+  ]
+}

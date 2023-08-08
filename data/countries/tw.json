@@ -1,0 +1,386 @@
+{
+  "code": "TW",
+  "states": [
+    {
+      "name": "Changhua County",
+      "state_code": "CHA",
+      "latitude": "24.05179630",
+      "longitude": "120.51613520",
+      "cities": [
+        {
+          "name": "Changhua",
+          "latitude": "23.95361000",
+          "longitude": "120.49083000"
+        },
+        {
+          "name": "Yuanlin",
+          "latitude": "23.95671000",
+          "longitude": "120.57608000"
+        }
+      ]
+    },
+    {
+      "name": "Chiayi City",
+      "state_code": "CYQ",
+      "latitude": "23.48007510",
+      "longitude": "120.44911130",
+      "cities": [
+        {
+          "name": "Chiayi County",
+          "latitude": "23.46333000",
+          "longitude": "120.58166000"
+        }
+      ]
+    },
+    {
+      "name": "Chiayi County",
+      "state_code": "CYI",
+      "latitude": "23.45184280",
+      "longitude": "120.25546150",
+      "cities": [
+        {
+          "name": "Chiayi",
+          "latitude": "23.47722000",
+          "longitude": "120.44527000"
+        },
+        {
+          "name": "Pizitou",
+          "latitude": "23.48556000",
+          "longitude": "120.44472000"
+        }
+      ]
+    },
+    {
+      "name": "Hsinchu",
+      "state_code": "HSZ",
+      "latitude": "24.81382870",
+      "longitude": "120.96747980",
+      "cities": [
+        {
+          "name": "Hsinchu County",
+          "latitude": "24.67416000",
+          "longitude": "121.16111000"
+        }
+      ]
+    },
+    {
+      "name": "Hsinchu County",
+      "state_code": "HSQ",
+      "latitude": "24.83872260",
+      "longitude": "121.01772460",
+      "cities": [
+        {
+          "name": "Hsinchu",
+          "latitude": "24.80361000",
+          "longitude": "120.96861000"
+        }
+      ]
+    },
+    {
+      "name": "Hualien County",
+      "state_code": "HUA",
+      "latitude": "23.98715890",
+      "longitude": "121.60157140",
+      "cities": [
+        {
+          "name": "Hualien",
+          "latitude": "23.78166000",
+          "longitude": "121.39333000"
+        },
+        {
+          "name": "Hualien City",
+          "latitude": "23.97694000",
+          "longitude": "121.60444000"
+        }
+      ]
+    },
+    {
+      "name": "Kaohsiung",
+      "state_code": "KHH",
+      "latitude": "22.62727840",
+      "longitude": "120.30143530",
+      "cities": [
+        {
+          "name": "Kaohsiung",
+          "latitude": "22.61626000",
+          "longitude": "120.31333000"
+        }
+      ]
+    },
+    {
+      "name": "Kaohsiung County",
+      "state_code": "KHQ",
+      "latitude": "22.62727840",
+      "longitude": "120.30143530",
+      "cities": []
+    },
+    {
+      "name": "Kinmen",
+      "state_code": "KIN",
+      "latitude": "24.34877920",
+      "longitude": "118.32856440",
+      "cities": [
+        {
+          "name": "Jincheng",
+          "latitude": "24.43415000",
+          "longitude": "118.31712000"
+        },
+        {
+          "name": "Kinmen County",
+          "latitude": "24.45333000",
+          "longitude": "118.38861000"
+        }
+      ]
+    },
+    {
+      "name": "Lienchiang County",
+      "state_code": "LIE",
+      "latitude": "26.15055560",
+      "longitude": "119.92888890",
+      "cities": [
+        {
+          "name": "Lienchiang",
+          "latitude": "26.37004000",
+          "longitude": "120.49545000"
+        },
+        {
+          "name": "Nangan",
+          "latitude": "26.15039000",
+          "longitude": "119.93284000"
+        }
+      ]
+    },
+    {
+      "name": "Miaoli County",
+      "state_code": "MIA",
+      "latitude": "24.56015900",
+      "longitude": "120.82142650",
+      "cities": [
+        {
+          "name": "Miaoli",
+          "latitude": "24.48972000",
+          "longitude": "120.90638000"
+        }
+      ]
+    },
+    {
+      "name": "Nantou County",
+      "state_code": "NAN",
+      "latitude": "23.96099810",
+      "longitude": "120.97186380",
+      "cities": [
+        {
+          "name": "Lugu",
+          "latitude": "23.74639000",
+          "longitude": "120.75250000"
+        },
+        {
+          "name": "Nantou",
+          "latitude": "23.83419000",
+          "longitude": "120.92704000"
+        },
+        {
+          "name": "Puli",
+          "latitude": "23.96639000",
+          "longitude": "120.96952000"
+        },
+        {
+          "name": "Zhongxing New Village",
+          "latitude": "23.95908000",
+          "longitude": "120.68516000"
+        }
+      ]
+    },
+    {
+      "name": "Penghu County",
+      "state_code": "PEN",
+      "latitude": "23.57118990",
+      "longitude": "119.57931570",
+      "cities": [
+        {
+          "name": "Magong",
+          "latitude": "23.56540000",
+          "longitude": "119.58627000"
+        },
+        {
+          "name": "Penghu County",
+          "latitude": "23.57111000",
+          "longitude": "119.61138000"
+        }
+      ]
+    },
+    {
+      "name": "Pingtung County",
+      "state_code": "PIF",
+      "latitude": "22.55197590",
+      "longitude": "120.54875970",
+      "cities": [
+        {
+          "name": "Donggang",
+          "latitude": "22.46515000",
+          "longitude": "120.44927000"
+        },
+        {
+          "name": "Hengchun",
+          "latitude": "22.00417000",
+          "longitude": "120.74389000"
+        },
+        {
+          "name": "Pingtung",
+          "latitude": "22.49555000",
+          "longitude": "120.61444000"
+        }
+      ]
+    },
+    {
+      "name": "Taichung",
+      "state_code": "TXG",
+      "latitude": "24.14773580",
+      "longitude": "120.67364820",
+      "cities": [
+        {
+          "name": "Taichung",
+          "latitude": "24.14690000",
+          "longitude": "120.68390000"
+        },
+        {
+          "name": "Taichung City",
+          "latitude": "24.15472000",
+          "longitude": "120.67297000"
+        }
+      ]
+    },
+    {
+      "name": "Taichung County",
+      "state_code": "TXQ",
+      "latitude": "24.14773580",
+      "longitude": "120.67364820",
+      "cities": []
+    },
+    {
+      "name": "Tainan",
+      "state_code": "TNN",
+      "latitude": "22.99972810",
+      "longitude": "120.22702770",
+      "cities": [
+        {
+          "name": "Tainan",
+          "latitude": "22.99083000",
+          "longitude": "120.21333000"
+        },
+        {
+          "name": "Yujing",
+          "latitude": "23.12493000",
+          "longitude": "120.46138000"
+        }
+      ]
+    },
+    {
+      "name": "Tainan County",
+      "state_code": "TNQ",
+      "latitude": "22.99972810",
+      "longitude": "120.22702770",
+      "cities": []
+    },
+    {
+      "name": "Taipei",
+      "state_code": "TPE",
+      "latitude": "25.03296940",
+      "longitude": "121.56541770",
+      "cities": [
+        {
+          "name": "Banqiao",
+          "latitude": "25.01427000",
+          "longitude": "121.46719000"
+        },
+        {
+          "name": "Jiufen",
+          "latitude": "25.10957000",
+          "longitude": "121.84424000"
+        },
+        {
+          "name": "Taipei",
+          "latitude": "25.04776000",
+          "longitude": "121.53185000"
+        },
+        {
+          "name": "Taipei City",
+          "latitude": "25.08300000",
+          "longitude": "121.55331000"
+        }
+      ]
+    },
+    {
+      "name": "Taitung County",
+      "state_code": "TTT",
+      "latitude": "22.79724470",
+      "longitude": "121.07137020",
+      "cities": [
+        {
+          "name": "Taitung",
+          "latitude": "22.88361000",
+          "longitude": "121.04833000"
+        },
+        {
+          "name": "Taitung City",
+          "latitude": "22.75830000",
+          "longitude": "121.14440000"
+        }
+      ]
+    },
+    {
+      "name": "Taoyuan City",
+      "state_code": "TAO",
+      "latitude": "24.99362810",
+      "longitude": "121.30097980",
+      "cities": [
+        {
+          "name": "Daxi",
+          "latitude": "24.88373000",
+          "longitude": "121.29043000"
+        },
+        {
+          "name": "Taoyuan",
+          "latitude": "24.89500000",
+          "longitude": "121.24611000"
+        },
+        {
+          "name": "Taoyuan City",
+          "latitude": "24.99368000",
+          "longitude": "121.29696000"
+        }
+      ]
+    },
+    {
+      "name": "Yilan County",
+      "state_code": "ILA",
+      "latitude": "24.70210730",
+      "longitude": "121.73775020",
+      "cities": [
+        {
+          "name": "Yilan",
+          "latitude": "24.54250000",
+          "longitude": "121.63361000"
+        }
+      ]
+    },
+    {
+      "name": "Yunlin County",
+      "state_code": "YUN",
+      "latitude": "23.70920330",
+      "longitude": "120.43133730",
+      "cities": [
+        {
+          "name": "Douliu",
+          "latitude": "23.70944000",
+          "longitude": "120.54333000"
+        },
+        {
+          "name": "Yunlin",
+          "latitude": "23.70701000",
+          "longitude": "120.38481000"
+        }
+      ]
+    }
+  ]
+}

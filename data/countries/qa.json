@@ -1,0 +1,143 @@
+{
+  "code": "QA",
+  "states": [
+    {
+      "name": "Al Daayen",
+      "state_code": "ZA",
+      "latitude": "25.57845590",
+      "longitude": "51.48213870",
+      "cities": []
+    },
+    {
+      "name": "Al Khor",
+      "state_code": "KH",
+      "latitude": "25.68040780",
+      "longitude": "51.49685020",
+      "cities": [
+        {
+          "name": "Al Ghuwayrīyah",
+          "latitude": "25.82882000",
+          "longitude": "51.24567000"
+        },
+        {
+          "name": "Al Khawr",
+          "latitude": "25.68389000",
+          "longitude": "51.50583000"
+        }
+      ]
+    },
+    {
+      "name": "Al Rayyan Municipality",
+      "state_code": "RA",
+      "latitude": "25.25225510",
+      "longitude": "51.43887130",
+      "cities": [
+        {
+          "name": "Ar Rayyān",
+          "latitude": "25.29194000",
+          "longitude": "51.42444000"
+        },
+        {
+          "name": "Umm Bāb",
+          "latitude": "25.21417000",
+          "longitude": "50.80722000"
+        }
+      ]
+    },
+    {
+      "name": "Al Wakrah",
+      "state_code": "WA",
+      "latitude": "25.16593140",
+      "longitude": "51.59755240",
+      "cities": [
+        {
+          "name": "Al Wakrah",
+          "latitude": "25.17151000",
+          "longitude": "51.60337000"
+        },
+        {
+          "name": "Al Wukayr",
+          "latitude": "25.15107000",
+          "longitude": "51.53718000"
+        },
+        {
+          "name": "Musay‘īd",
+          "latitude": "24.99226000",
+          "longitude": "51.55067000"
+        }
+      ]
+    },
+    {
+      "name": "Al-Shahaniya",
+      "state_code": "SH",
+      "latitude": "25.41063860",
+      "longitude": "51.18460250",
+      "cities": [
+        {
+          "name": "Al Jumaylīyah",
+          "latitude": "25.61068000",
+          "longitude": "51.09108000"
+        },
+        {
+          "name": "Ash Shīḩānīyah",
+          "latitude": "25.37088000",
+          "longitude": "51.22264000"
+        },
+        {
+          "name": "Dukhān",
+          "latitude": "25.42485000",
+          "longitude": "50.78227000"
+        }
+      ]
+    },
+    {
+      "name": "Doha",
+      "state_code": "DA",
+      "latitude": "25.28544730",
+      "longitude": "51.53103980",
+      "cities": [
+        {
+          "name": "Doha",
+          "latitude": "25.28545000",
+          "longitude": "51.53096000"
+        }
+      ]
+    },
+    {
+      "name": "Madinat ash Shamal",
+      "state_code": "MS",
+      "latitude": "26.11827430",
+      "longitude": "51.21572650",
+      "cities": [
+        {
+          "name": "Ar Ruways",
+          "latitude": "26.13978000",
+          "longitude": "51.21493000"
+        },
+        {
+          "name": "Fuwayriţ",
+          "latitude": "26.02565000",
+          "longitude": "51.36971000"
+        },
+        {
+          "name": "Madīnat ash Shamāl",
+          "latitude": "26.12933000",
+          "longitude": "51.20090000"
+        }
+      ]
+    },
+    {
+      "name": "Umm Salal Municipality",
+      "state_code": "US",
+      "latitude": "25.48752420",
+      "longitude": "51.39656800",
+      "cities": [
+        {
+          "name": "Umm Şalāl Muḩammad",
+          "latitude": "25.41524000",
+          "longitude": "51.40647000"
+        }
+      ]
+    }
+  ]
+}

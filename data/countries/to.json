@@ -1,0 +1,85 @@
+{
+  "code": "TO",
+  "states": [
+    {
+      "name": "Haʻapai",
+      "state_code": "02",
+      "latitude": "-19.75000000",
+      "longitude": "-174.36666700",
+      "cities": [
+        {
+          "name": "Pangai",
+          "latitude": "-19.81468000",
+          "longitude": "-174.35423000"
+        }
+      ]
+    },
+    {
+      "name": "ʻEua",
+      "state_code": "01",
+      "latitude": "37.09024000",
+      "longitude": "-95.71289100",
+      "cities": [
+        {
+          "name": "‘Ohonua",
+          "latitude": "-21.33333000",
+          "longitude": "-174.95000000"
+        }
+      ]
+    },
+    {
+      "name": "Niuas",
+      "state_code": "03",
+      "latitude": "-15.95940000",
+      "longitude": "-173.78300000",
+      "cities": [
+        {
+          "name": "Hihifo",
+          "latitude": "-15.95440000",
+          "longitude": "-173.79616000"
+        }
+      ]
+    },
+    {
+      "name": "Tongatapu",
+      "state_code": "04",
+      "latitude": "-21.14659680",
+      "longitude": "-175.25154820",
+      "cities": [
+        {
+          "name": "Haveluloto",
+          "latitude": "-21.15216000",
+          "longitude": "-175.21333000"
+        },
+        {
+          "name": "Kolonga",
+          "latitude": "-21.13333000",
+          "longitude": "-175.06667000"
+        },
+        {
+          "name": "Nuku‘alofa",
+          "latitude": "-21.13938000",
+          "longitude": "-175.20180000"
+        },
+        {
+          "name": "Vaini",
+          "latitude": "-21.19292000",
+          "longitude": "-175.17678000"
+        }
+      ]
+    },
+    {
+      "name": "Vavaʻu",
+      "state_code": "05",
+      "latitude": "-18.62275600",
+      "longitude": "-173.99029820",
+      "cities": [
+        {
+          "name": "Neiafu",
+          "latitude": "-18.65060000",
+          "longitude": "-173.98404000"
+        }
+      ]
+    }
+  ]
+}

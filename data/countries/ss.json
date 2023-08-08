@@ -1,0 +1,81 @@
+{
+  "code": "SS",
+  "states": [
+    {
+      "name": "Central Equatoria",
+      "state_code": "EC",
+      "latitude": "4.61440630",
+      "longitude": "31.26263660",
+      "cities": []
+    },
+    {
+      "name": "Eastern Equatoria",
+      "state_code": "EE",
+      "latitude": "5.06929950",
+      "longitude": "33.43835300",
+      "cities": []
+    },
+    {
+      "name": "Jonglei State",
+      "state_code": "JG",
+      "latitude": "7.18196190",
+      "longitude": "32.35609520",
+      "cities": []
+    },
+    {
+      "name": "Lakes",
+      "state_code": "LK",
+      "latitude": "37.16282550",
+      "longitude": "-95.69116230",
+      "cities": [
+        {
+          "name": "Yirol",
+          "latitude": "6.55250000",
+          "longitude": "30.49806000"
+        }
+      ]
+    },
+    {
+      "name": "Northern Bahr el Ghazal",
+      "state_code": "BN",
+      "latitude": "8.53604490",
+      "longitude": "26.79678490",
+      "cities": []
+    },
+    {
+      "name": "Unity",
+      "state_code": "UY",
+      "latitude": "37.78712760",
+      "longitude": "-122.40340790",
+      "cities": []
+    },
+    {
+      "name": "Upper Nile",
+      "state_code": "NU",
+      "latitude": "9.88942020",
+      "longitude": "32.71813750",
+      "cities": []
+    },
+    {
+      "name": "Warrap",
+      "state_code": "WR",
+      "latitude": "8.08862380",
+      "longitude": "28.64106410",
+      "cities": []
+    },
+    {
+      "name": "Western Bahr el Ghazal",
+      "state_code": "BW",
+      "latitude": "8.64523990",
+      "longitude": "25.28375850",
+      "cities": []
+    },
+    {
+      "name": "Western Equatoria",
+      "state_code": "EW",
+      "latitude": "5.34717990",
+      "longitude": "28.29943500",
+      "cities": []
+    }
+  ]
+}

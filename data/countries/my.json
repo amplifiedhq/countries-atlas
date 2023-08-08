@@ -1,0 +1,1028 @@
+{
+  "code": "MY",
+  "states": [
+    {
+      "name": "Johor",
+      "state_code": "01",
+      "latitude": "1.48536820",
+      "longitude": "103.76181540",
+      "cities": [
+        {
+          "name": "Bakri",
+          "latitude": "2.04410000",
+          "longitude": "102.65270000"
+        },
+        {
+          "name": "Batu Pahat",
+          "latitude": "1.85480000",
+          "longitude": "102.93250000"
+        },
+        {
+          "name": "Buloh Kasap",
+          "latitude": "2.55360000",
+          "longitude": "102.76400000"
+        },
+        {
+          "name": "Chaah",
+          "latitude": "2.24900000",
+          "longitude": "103.04800000"
+        },
+        {
+          "name": "Daerah Batu Pahat",
+          "latitude": "1.93333000",
+          "longitude": "103.00000000"
+        },
+        {
+          "name": "Daerah Johor Baharu",
+          "latitude": "1.65000000",
+          "longitude": "103.60000000"
+        },
+        {
+          "name": "Daerah Keluang",
+          "latitude": "2.20000000",
+          "longitude": "103.33333000"
+        },
+        {
+          "name": "Daerah Kota Tinggi",
+          "latitude": "1.81667000",
+          "longitude": "103.96667000"
+        },
+        {
+          "name": "Daerah Mersing",
+          "latitude": "2.31667000",
+          "longitude": "103.71667000"
+        },
+        {
+          "name": "Daerah Muar",
+          "latitude": "2.25000000",
+          "longitude": "102.75000000"
+        },
+        {
+          "name": "Daerah Pontian",
+          "latitude": "1.50000000",
+          "longitude": "103.50000000"
+        },
+        {
+          "name": "Daerah Segamat",
+          "latitude": "2.60000000",
+          "longitude": "102.81667000"
+        },
+        {
+          "name": "Johor Bahru",
+          "latitude": "1.46550000",
+          "longitude": "103.75780000"
+        },
+        {
+          "name": "Kampung Pasir Gudang Baru",
+          "latitude": "1.47260000",
+          "longitude": "103.87800000"
+        },
+        {
+          "name": "Kampung Simpang Renggam",
+          "latitude": "1.82780000",
+          "longitude": "103.30000000"
+        },
+        {
+          "name": "Kelapa Sawit",
+          "latitude": "1.66980000",
+          "longitude": "103.53270000"
+        },
+        {
+          "name": "Kluang",
+          "latitude": "2.03046000",
+          "longitude": "103.31689000"
+        },
+        {
+          "name": "Kota Tinggi",
+          "latitude": "1.73810000",
+          "longitude": "103.89990000"
+        },
+        {
+          "name": "Kulai",
+          "latitude": "1.65610000",
+          "longitude": "103.60320000"
+        },
+        {
+          "name": "Labis",
+          "latitude": "2.38500000",
+          "longitude": "103.02100000"
+        },
+        {
+          "name": "Mersing",
+          "latitude": "2.43120000",
+          "longitude": "103.84050000"
+        },
+        {
+          "name": "Muar",
+          "latitude": "2.04420000",
+          "longitude": "102.56890000"
+        },
+        {
+          "name": "Parit Raja",
+          "latitude": "1.86810000",
+          "longitude": "103.11240000"
+        },
+        {
+          "name": "Pekan Nenas",
+          "latitude": "1.51000000",
+          "longitude": "103.51410000"
+        },
+        {
+          "name": "Pontian Kechil",
+          "latitude": "1.48660000",
+          "longitude": "103.38960000"
+        },
+        {
+          "name": "Segamat",
+          "latitude": "2.51480000",
+          "longitude": "102.81580000"
+        },
+        {
+          "name": "Skudai",
+          "latitude": "1.53741000",
+          "longitude": "103.65779000"
+        },
+        {
+          "name": "Taman Senai",
+          "latitude": "1.60060000",
+          "longitude": "103.64190000"
+        },
+        {
+          "name": "Tangkak",
+          "latitude": "2.26730000",
+          "longitude": "102.54530000"
+        },
+        {
+          "name": "Ulu Tiram",
+          "latitude": "1.60000000",
+          "longitude": "103.81667000"
+        },
+        {
+          "name": "Yong Peng",
+          "latitude": "2.01360000",
+          "longitude": "103.06590000"
+        }
+      ]
+    },
+    {
+      "name": "Kedah",
+      "state_code": "02",
+      "latitude": "6.11839640",
+      "longitude": "100.36845950",
+      "cities": [
+        {
+          "name": "Alor Setar",
+          "latitude": "6.12104000",
+          "longitude": "100.36014000"
+        },
+        {
+          "name": "Ayer Hangat",
+          "latitude": "6.42062000",
+          "longitude": "99.82199000"
+        },
+        {
+          "name": "Bedong",
+          "latitude": "5.72743000",
+          "longitude": "100.50876000"
+        },
+        {
+          "name": "Gurun",
+          "latitude": "5.81717000",
+          "longitude": "100.47381000"
+        },
+        {
+          "name": "Jitra",
+          "latitude": "6.26812000",
+          "longitude": "100.42167000"
+        },
+        {
+          "name": "Kampung Kilim",
+          "latitude": "6.40550000",
+          "longitude": "99.85020000"
+        },
+        {
+          "name": "Kampung Kok",
+          "latitude": "6.36759000",
+          "longitude": "99.68252000"
+        },
+        {
+          "name": "Kuah",
+          "latitude": "6.32649000",
+          "longitude": "99.84320000"
+        },
+        {
+          "name": "Kuala Kedah",
+          "latitude": "6.10000000",
+          "longitude": "100.30000000"
+        },
+        {
+          "name": "Kuala Teriang",
+          "latitude": "6.36377000",
+          "longitude": "99.71532000"
+        },
+        {
+          "name": "Kulim",
+          "latitude": "5.36499000",
+          "longitude": "100.56177000"
+        },
+        {
+          "name": "Langkawi",
+          "latitude": "6.35608000",
+          "longitude": "99.78375000"
+        },
+        {
+          "name": "Padang Mat Sirat",
+          "latitude": "6.35423000",
+          "longitude": "99.73404000"
+        },
+        {
+          "name": "Sungai Petani",
+          "latitude": "5.64700000",
+          "longitude": "100.48772000"
+        }
+      ]
+    },
+    {
+      "name": "Kelantan",
+      "state_code": "03",
+      "latitude": "6.12539690",
+      "longitude": "102.23807100",
+      "cities": [
+        {
+          "name": "Gua Musang",
+          "latitude": "4.88441000",
+          "longitude": "101.96857000"
+        },
+        {
+          "name": "Kampong Kadok",
+          "latitude": "6.00000000",
+          "longitude": "102.25000000"
+        },
+        {
+          "name": "Kampong Pangkal Kalong",
+          "latitude": "5.91667000",
+          "longitude": "102.21667000"
+        },
+        {
+          "name": "Kota Bharu",
+          "latitude": "6.12361000",
+          "longitude": "102.24333000"
+        },
+        {
+          "name": "Pasir Mas",
+          "latitude": "6.04934000",
+          "longitude": "102.13987000"
+        },
+        {
+          "name": "Peringat",
+          "latitude": "6.03333000",
+          "longitude": "102.28333000"
+        },
+        {
+          "name": "Tumpat",
+          "latitude": "6.19775000",
+          "longitude": "102.17098000"
+        }
+      ]
+    },
+    {
+      "name": "Kuala Lumpur",
+      "state_code": "14",
+      "latitude": "3.13900300",
+      "longitude": "101.68685500",
+      "cities": [
+        {
+          "name": "Kuala Lumpur",
+          "latitude": "3.14120000",
+          "longitude": "101.68653000"
+        }
+      ]
+    },
+    {
+      "name": "Labuan",
+      "state_code": "15",
+      "latitude": "5.28314560",
+      "longitude": "115.23082500",
+      "cities": [
+        {
+          "name": "Labuan",
+          "latitude": "5.28028000",
+          "longitude": "115.24750000"
+        }
+      ]
+    },
+    {
+      "name": "Malacca",
+      "state_code": "04",
+      "latitude": "2.18959400",
+      "longitude": "102.25008680",
+      "cities": [
+        {
+          "name": "Alor Gajah",
+          "latitude": "2.38040000",
+          "longitude": "102.20890000"
+        },
+        {
+          "name": "Batu Berendam",
+          "latitude": "2.24870000",
+          "longitude": "102.24600000"
+        },
+        {
+          "name": "Bemban",
+          "latitude": "2.26840000",
+          "longitude": "102.37460000"
+        },
+        {
+          "name": "Bukit Rambai",
+          "latitude": "2.25940000",
+          "longitude": "102.18380000"
+        },
+        {
+          "name": "Kampong Masjid Tanah",
+          "latitude": "2.35000000",
+          "longitude": "102.11667000"
+        },
+        {
+          "name": "Kampung Ayer Keroh",
+          "latitude": "2.26540000",
+          "longitude": "102.28010000"
+        },
+        {
+          "name": "Kampung Ayer Molek",
+          "latitude": "2.21390000",
+          "longitude": "102.32780000"
+        },
+        {
+          "name": "Kampung Bukit Baharu",
+          "latitude": "2.21520000",
+          "longitude": "102.28510000"
+        },
+        {
+          "name": "Klebang Besar",
+          "latitude": "2.21860000",
+          "longitude": "102.19950000"
+        },
+        {
+          "name": "Kuala Sungai Baru",
+          "latitude": "2.35940000",
+          "longitude": "102.03530000"
+        },
+        {
+          "name": "Malacca",
+          "latitude": "2.19600000",
+          "longitude": "102.24050000"
+        },
+        {
+          "name": "Pulau Sebang",
+          "latitude": "2.45500000",
+          "longitude": "102.23290000"
+        },
+        {
+          "name": "Sungai Udang",
+          "latitude": "2.26900000",
+          "longitude": "102.14270000"
+        }
+      ]
+    },
+    {
+      "name": "Negeri Sembilan",
+      "state_code": "05",
+      "latitude": "2.72580580",
+      "longitude": "101.94237820",
+      "cities": [
+        {
+          "name": "Bahau",
+          "latitude": "2.80790000",
+          "longitude": "102.40490000"
+        },
+        {
+          "name": "Kampung Baharu Nilai",
+          "latitude": "2.80330000",
+          "longitude": "101.79720000"
+        },
+        {
+          "name": "Kuala Pilah",
+          "latitude": "2.73890000",
+          "longitude": "102.24870000"
+        },
+        {
+          "name": "Port Dickson",
+          "latitude": "2.53718000",
+          "longitude": "101.80571000"
+        },
+        {
+          "name": "Seremban",
+          "latitude": "2.72970000",
+          "longitude": "101.93810000"
+        },
+        {
+          "name": "Tampin",
+          "latitude": "2.47010000",
+          "longitude": "102.23020000"
+        }
+      ]
+    },
+    {
+      "name": "Pahang",
+      "state_code": "06",
+      "latitude": "3.81263180",
+      "longitude": "103.32562040",
+      "cities": [
+        {
+          "name": "Bentong Town",
+          "latitude": "3.52229000",
+          "longitude": "101.90866000"
+        },
+        {
+          "name": "Jerantut",
+          "latitude": "3.93600000",
+          "longitude": "102.36260000"
+        },
+        {
+          "name": "Kampung Bukit Tinggi, Bentong",
+          "latitude": "3.34944000",
+          "longitude": "101.82631000"
+        },
+        {
+          "name": "Kampung Tekek",
+          "latitude": "2.81470000",
+          "longitude": "104.15920000"
+        },
+        {
+          "name": "Kuala Lipis",
+          "latitude": "4.18420000",
+          "longitude": "102.04680000"
+        },
+        {
+          "name": "Kuantan",
+          "latitude": "3.80770000",
+          "longitude": "103.32600000"
+        },
+        {
+          "name": "Mentekab",
+          "latitude": "3.48540000",
+          "longitude": "102.34840000"
+        },
+        {
+          "name": "Pekan",
+          "latitude": "3.48360000",
+          "longitude": "103.39960000"
+        },
+        {
+          "name": "Raub",
+          "latitude": "3.78990000",
+          "longitude": "101.85700000"
+        },
+        {
+          "name": "Tanah Rata",
+          "latitude": "4.46361000",
+          "longitude": "101.37630000"
+        },
+        {
+          "name": "Temerluh",
+          "latitude": "3.45060000",
+          "longitude": "102.41760000"
+        }
+      ]
+    },
+    {
+      "name": "Penang",
+      "state_code": "07",
+      "latitude": "5.41639350",
+      "longitude": "100.33267860",
+      "cities": [
+        {
+          "name": "Batu Feringgi",
+          "latitude": "5.47090000",
+          "longitude": "100.24529000"
+        },
+        {
+          "name": "Bukit Mertajam",
+          "latitude": "5.36301000",
+          "longitude": "100.46670000"
+        },
+        {
+          "name": "Butterworth",
+          "latitude": "5.39910000",
+          "longitude": "100.36382000"
+        },
+        {
+          "name": "George Town",
+          "latitude": "5.41123000",
+          "longitude": "100.33543000"
+        },
+        {
+          "name": "Juru",
+          "latitude": "5.31201000",
+          "longitude": "100.44229000"
+        },
+        {
+          "name": "Kampung Batu Feringgi",
+          "latitude": "5.46948000",
+          "longitude": "100.24449000"
+        },
+        {
+          "name": "Kampung Sungai Ara",
+          "latitude": "5.32699000",
+          "longitude": "100.27348000"
+        },
+        {
+          "name": "Kepala Batas",
+          "latitude": "5.51707000",
+          "longitude": "100.42650000"
+        },
+        {
+          "name": "Nibong Tebal",
+          "latitude": "5.16586000",
+          "longitude": "100.47793000"
+        },
+        {
+          "name": "Perai",
+          "latitude": "5.38333000",
+          "longitude": "100.38333000"
+        },
+        {
+          "name": "Permatang Kuching",
+          "latitude": "5.46339000",
+          "longitude": "100.38144000"
+        },
+        {
+          "name": "Seberang Perai",
+          "latitude": "5.38770000",
+          "longitude": "100.42603000"
+        },
+        {
+          "name": "Tanjung Tokong",
+          "latitude": "5.46061000",
+          "longitude": "100.30742000"
+        },
+        {
+          "name": "Tasek Glugor",
+          "latitude": "5.48032000",
+          "longitude": "100.49849000"
+        },
+        {
+          "name": "Telaga Batu",
+          "latitude": "5.46667000",
+          "longitude": "100.23333000"
+        }
+      ]
+    },
+    {
+      "name": "Perak",
+      "state_code": "08",
+      "latitude": "4.59211260",
+      "longitude": "101.09010900",
+      "cities": [
+        {
+          "name": "Bagan Serai",
+          "latitude": "5.01080000",
+          "longitude": "100.54101000"
+        },
+        {
+          "name": "Batu Gajah",
+          "latitude": "4.46916000",
+          "longitude": "101.04107000"
+        },
+        {
+          "name": "Bidur",
+          "latitude": "4.11667000",
+          "longitude": "101.28333000"
+        },
+        {
+          "name": "Ipoh",
+          "latitude": "4.58410000",
+          "longitude": "101.08290000"
+        },
+        {
+          "name": "Kampar",
+          "latitude": "4.30000000",
+          "longitude": "101.15000000"
+        },
+        {
+          "name": "Kampong Dungun",
+          "latitude": "3.21667000",
+          "longitude": "101.31667000"
+        },
+        {
+          "name": "Kuala Kangsar",
+          "latitude": "4.76667000",
+          "longitude": "100.93333000"
+        },
+        {
+          "name": "Lumut",
+          "latitude": "4.23230000",
+          "longitude": "100.62980000"
+        },
+        {
+          "name": "Pantai Remis",
+          "latitude": "4.45570000",
+          "longitude": "100.62880000"
+        },
+        {
+          "name": "Parit Buntar",
+          "latitude": "5.12671000",
+          "longitude": "100.49316000"
+        },
+        {
+          "name": "Simpang Empat",
+          "latitude": "4.95000000",
+          "longitude": "100.63333000"
+        },
+        {
+          "name": "Taiping",
+          "latitude": "4.85000000",
+          "longitude": "100.73333000"
+        },
+        {
+          "name": "Tapah Road",
+          "latitude": "4.16667000",
+          "longitude": "101.20000000"
+        },
+        {
+          "name": "Teluk Intan",
+          "latitude": "4.02219000",
+          "longitude": "101.02083000"
+        }
+      ]
+    },
+    {
+      "name": "Perlis",
+      "state_code": "09",
+      "latitude": "29.92270940",
+      "longitude": "-90.12285590",
+      "cities": [
+        {
+          "name": "Kangar",
+          "latitude": "6.44140000",
+          "longitude": "100.19862000"
+        },
+        {
+          "name": "Kuala Perlis",
+          "latitude": "6.40000000",
+          "longitude": "100.13333000"
+        },
+        {
+          "name": "Pantai Cenang",
+          "latitude": "6.29369000",
+          "longitude": "99.72786000"
+        }
+      ]
+    },
+    {
+      "name": "Putrajaya",
+      "state_code": "16",
+      "latitude": "2.92636100",
+      "longitude": "101.69644500",
+      "cities": [
+        {
+          "name": "Putrajaya",
+          "latitude": "2.93527000",
+          "longitude": "101.69112000"
+        }
+      ]
+    },
+    {
+      "name": "Sabah",
+      "state_code": "12",
+      "latitude": "5.97883980",
+      "longitude": "116.07531990",
+      "cities": [
+        {
+          "name": "Bandar Labuan",
+          "latitude": "5.28883000",
+          "longitude": "115.26924000"
+        },
+        {
+          "name": "Beaufort",
+          "latitude": "5.34730000",
+          "longitude": "115.74550000"
+        },
+        {
+          "name": "Donggongon",
+          "latitude": "5.90702000",
+          "longitude": "116.10146000"
+        },
+        {
+          "name": "Keningau",
+          "latitude": "5.33780000",
+          "longitude": "116.16020000"
+        },
+        {
+          "name": "Kinarut",
+          "latitude": "5.82310000",
+          "longitude": "116.04660000"
+        },
+        {
+          "name": "Kota Belud",
+          "latitude": "6.35100000",
+          "longitude": "116.43050000"
+        },
+        {
+          "name": "Kota Kinabalu",
+          "latitude": "5.97490000",
+          "longitude": "116.07240000"
+        },
+        {
+          "name": "Kudat",
+          "latitude": "6.88732000",
+          "longitude": "116.82364000"
+        },
+        {
+          "name": "Lahad Datu",
+          "latitude": "5.02298000",
+          "longitude": "118.32897000"
+        },
+        {
+          "name": "Papar",
+          "latitude": "5.73333000",
+          "longitude": "115.93333000"
+        },
+        {
+          "name": "Putatan",
+          "latitude": "5.92580000",
+          "longitude": "116.06094000"
+        },
+        {
+          "name": "Ranau",
+          "latitude": "5.95380000",
+          "longitude": "116.66410000"
+        },
+        {
+          "name": "Sandakan",
+          "latitude": "5.84020000",
+          "longitude": "118.11790000"
+        },
+        {
+          "name": "Semporna",
+          "latitude": "4.48178000",
+          "longitude": "118.61119000"
+        },
+        {
+          "name": "Taman Rajawali",
+          "latitude": "5.89477000",
+          "longitude": "118.04576000"
+        },
+        {
+          "name": "Tawau",
+          "latitude": "4.24482000",
+          "longitude": "117.89115000"
+        }
+      ]
+    },
+    {
+      "name": "Sarawak",
+      "state_code": "13",
+      "latitude": "1.55327830",
+      "longitude": "110.35921270",
+      "cities": [
+        {
+          "name": "Bintulu",
+          "latitude": "3.16667000",
+          "longitude": "113.03333000"
+        },
+        {
+          "name": "Data Kakus",
+          "latitude": "2.65465000",
+          "longitude": "113.62249000"
+        },
+        {
+          "name": "Kapit",
+          "latitude": "1.99546000",
+          "longitude": "112.93254000"
+        },
+        {
+          "name": "Kuching",
+          "latitude": "1.55000000",
+          "longitude": "110.33333000"
+        },
+        {
+          "name": "Lawas",
+          "latitude": "4.86040000",
+          "longitude": "115.40900000"
+        },
+        {
+          "name": "Lidung Jelo",
+          "latitude": "2.64848000",
+          "longitude": "114.78653000"
+        },
+        {
+          "name": "Limbang",
+          "latitude": "4.75000000",
+          "longitude": "115.00000000"
+        },
+        {
+          "name": "Long Ampan Aing or Abanang",
+          "latitude": "2.65671000",
+          "longitude": "114.73675000"
+        },
+        {
+          "name": "Marudi",
+          "latitude": "4.18333000",
+          "longitude": "114.31667000"
+        },
+        {
+          "name": "Miri",
+          "latitude": "4.39928000",
+          "longitude": "113.99163000"
+        },
+        {
+          "name": "Mukah",
+          "latitude": "2.89435000",
+          "longitude": "112.09145000"
+        },
+        {
+          "name": "Sarikei",
+          "latitude": "2.11667000",
+          "longitude": "111.51667000"
+        },
+        {
+          "name": "Sibu",
+          "latitude": "2.30000000",
+          "longitude": "111.81667000"
+        },
+        {
+          "name": "Simanggang",
+          "latitude": "1.24722000",
+          "longitude": "111.45278000"
+        }
+      ]
+    },
+    {
+      "name": "Selangor",
+      "state_code": "10",
+      "latitude": "3.07383790",
+      "longitude": "101.51834690",
+      "cities": [
+        {
+          "name": "Ampang",
+          "latitude": "3.15000000",
+          "longitude": "101.76667000"
+        },
+        {
+          "name": "Bagan Pulau Ketam",
+          "latitude": "3.01667000",
+          "longitude": "101.26667000"
+        },
+        {
+          "name": "Banting",
+          "latitude": "2.81360000",
+          "longitude": "101.50185000"
+        },
+        {
+          "name": "Batang Berjuntai",
+          "latitude": "3.38333000",
+          "longitude": "101.41667000"
+        },
+        {
+          "name": "Batu Arang",
+          "latitude": "3.31667000",
+          "longitude": "101.46667000"
+        },
+        {
+          "name": "Jenjarum",
+          "latitude": "2.87240000",
+          "longitude": "101.49484000"
+        },
+        {
+          "name": "Kampong Baharu Balakong",
+          "latitude": "3.03333000",
+          "longitude": "101.75000000"
+        },
+        {
+          "name": "Kampung Baru Subang",
+          "latitude": "3.15000000",
+          "longitude": "101.53333000"
+        },
+        {
+          "name": "Kampung Tanjung Karang",
+          "latitude": "3.42420000",
+          "longitude": "101.18490000"
+        },
+        {
+          "name": "Klang",
+          "latitude": "3.03667000",
+          "longitude": "101.44333000"
+        },
+        {
+          "name": "Kuala Selangor",
+          "latitude": "3.35000000",
+          "longitude": "101.25000000"
+        },
+        {
+          "name": "Kuang",
+          "latitude": "3.25940000",
+          "longitude": "101.55410000"
+        },
+        {
+          "name": "Ladang Seri Kundang",
+          "latitude": "3.28560000",
+          "longitude": "101.51900000"
+        },
+        {
+          "name": "Pelabuhan Klang",
+          "latitude": "2.99959000",
+          "longitude": "101.39287000"
+        },
+        {
+          "name": "Petaling Jaya",
+          "latitude": "3.10726000",
+          "longitude": "101.60671000"
+        },
+        {
+          "name": "Putra Heights",
+          "latitude": "2.99361000",
+          "longitude": "101.57255000"
+        },
+        {
+          "name": "Rawang",
+          "latitude": "3.32130000",
+          "longitude": "101.57670000"
+        },
+        {
+          "name": "Semenyih",
+          "latitude": "2.95160000",
+          "longitude": "101.84300000"
+        },
+        {
+          "name": "Serendah",
+          "latitude": "3.36460000",
+          "longitude": "101.60410000"
+        },
+        {
+          "name": "Shah Alam",
+          "latitude": "3.08507000",
+          "longitude": "101.53281000"
+        },
+        {
+          "name": "Subang Jaya",
+          "latitude": "3.04384000",
+          "longitude": "101.58062000"
+        },
+        {
+          "name": "Sungai Besar",
+          "latitude": "3.67460000",
+          "longitude": "100.98670000"
+        },
+        {
+          "name": "Sungai Pelek New Village",
+          "latitude": "2.65000000",
+          "longitude": "101.70000000"
+        },
+        {
+          "name": "Tanjung Sepat",
+          "latitude": "2.65790000",
+          "longitude": "101.56290000"
+        }
+      ]
+    },
+    {
+      "name": "Terengganu",
+      "state_code": "11",
+      "latitude": "5.31169160",
+      "longitude": "103.13241540",
+      "cities": [
+        {
+          "name": "Cukai",
+          "latitude": "4.25000000",
+          "longitude": "103.41667000"
+        },
+        {
+          "name": "Jertih",
+          "latitude": "5.73360000",
+          "longitude": "102.48970000"
+        },
+        {
+          "name": "Kampung Kuala Besut",
+          "latitude": "5.83297000",
+          "longitude": "102.55061000"
+        },
+        {
+          "name": "Kertih",
+          "latitude": "4.51410000",
+          "longitude": "103.44830000"
+        },
+        {
+          "name": "Kuala Besut",
+          "latitude": "5.83303000",
+          "longitude": "102.55514000"
+        },
+        {
+          "name": "Kuala Terengganu",
+          "latitude": "5.33020000",
+          "longitude": "103.14080000"
+        },
+        {
+          "name": "Marang",
+          "latitude": "5.20560000",
+          "longitude": "103.20590000"
+        },
+        {
+          "name": "Paka",
+          "latitude": "4.63740000",
+          "longitude": "103.43680000"
+        }
+      ]
+    }
+  ]
+}

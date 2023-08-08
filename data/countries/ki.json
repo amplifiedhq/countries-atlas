@@ -1,0 +1,219 @@
+{
+  "code": "KI",
+  "states": [
+    {
+      "name": "Gilbert Islands",
+      "state_code": "G",
+      "latitude": "0.35242620",
+      "longitude": "174.75526340",
+      "cities": [
+        {
+          "name": "Abaiang",
+          "latitude": "1.85293000",
+          "longitude": "172.94369000"
+        },
+        {
+          "name": "Abemama",
+          "latitude": "0.40000000",
+          "longitude": "173.86667000"
+        },
+        {
+          "name": "Ambo Village",
+          "latitude": "1.35317000",
+          "longitude": "173.04259000"
+        },
+        {
+          "name": "Aranuka",
+          "latitude": "0.16428000",
+          "longitude": "173.60579000"
+        },
+        {
+          "name": "Arorae",
+          "latitude": "-2.63493000",
+          "longitude": "176.82229000"
+        },
+        {
+          "name": "Bairiki Village",
+          "latitude": "1.32924000",
+          "longitude": "172.97522000"
+        },
+        {
+          "name": "Banaba",
+          "latitude": "-0.85500000",
+          "longitude": "169.53800000"
+        },
+        {
+          "name": "Banraeaba Village",
+          "latitude": "1.34540000",
+          "longitude": "173.03464000"
+        },
+        {
+          "name": "Beru",
+          "latitude": "-1.32957000",
+          "longitude": "175.98072000"
+        },
+        {
+          "name": "Betio Village",
+          "latitude": "1.35797000",
+          "longitude": "172.92105000"
+        },
+        {
+          "name": "Bikenibeu Village",
+          "latitude": "1.36730000",
+          "longitude": "173.12415000"
+        },
+        {
+          "name": "Bonriki Village",
+          "latitude": "1.38081000",
+          "longitude": "173.13887000"
+        },
+        {
+          "name": "Buota Village",
+          "latitude": "1.39078000",
+          "longitude": "173.13082000"
+        },
+        {
+          "name": "Butaritari",
+          "latitude": "3.17205000",
+          "longitude": "172.79675000"
+        },
+        {
+          "name": "Eita Village",
+          "latitude": "1.36154000",
+          "longitude": "173.08113000"
+        },
+        {
+          "name": "Kuria",
+          "latitude": "0.26522000",
+          "longitude": "173.38881000"
+        },
+        {
+          "name": "Maiana",
+          "latitude": "0.91869000",
+          "longitude": "172.99759000"
+        },
+        {
+          "name": "Makin",
+          "latitude": "3.38816000",
+          "longitude": "172.99656000"
+        },
+        {
+          "name": "Makin Village",
+          "latitude": "3.36440000",
+          "longitude": "172.98352000"
+        },
+        {
+          "name": "Marakei",
+          "latitude": "2.01077000",
+          "longitude": "173.27637000"
+        },
+        {
+          "name": "Nawerewere Village",
+          "latitude": "1.36362000",
+          "longitude": "173.13935000"
+        },
+        {
+          "name": "Nikunau",
+          "latitude": "-1.36567000",
+          "longitude": "176.46412000"
+        },
+        {
+          "name": "Nonouti",
+          "latitude": "-0.66667000",
+          "longitude": "174.35000000"
+        },
+        {
+          "name": "Onotoa",
+          "latitude": "-1.88587000",
+          "longitude": "175.56393000"
+        },
+        {
+          "name": "Rawannawi Village",
+          "latitude": "2.05379000",
+          "longitude": "173.26354000"
+        },
+        {
+          "name": "Tabiteuea",
+          "latitude": "-1.42241000",
+          "longitude": "174.89805000"
+        },
+        {
+          "name": "Tamana",
+          "latitude": "-2.50113000",
+          "longitude": "175.98621000"
+        },
+        {
+          "name": "Tarawa",
+          "latitude": "1.32780000",
+          "longitude": "172.97696000"
+        },
+        {
+          "name": "Teaoraereke Village",
+          "latitude": "1.33309000",
+          "longitude": "173.01162000"
+        },
+        {
+          "name": "Temaiku Village",
+          "latitude": "1.36292000",
+          "longitude": "173.16226000"
+        }
+      ]
+    },
+    {
+      "name": "Line Islands",
+      "state_code": "L",
+      "latitude": "1.74294390",
+      "longitude": "-157.21328260",
+      "cities": [
+        {
+          "name": "Banana Village",
+          "latitude": "1.98329000",
+          "longitude": "-157.36526000"
+        },
+        {
+          "name": "Kiritimati",
+          "latitude": "1.94000000",
+          "longitude": "-157.47500000"
+        },
+        {
+          "name": "London Village",
+          "latitude": "1.98487000",
+          "longitude": "-157.47502000"
+        },
+        {
+          "name": "Napari Village",
+          "latitude": "3.90806000",
+          "longitude": "-159.38832000"
+        },
+        {
+          "name": "Tabuaeran",
+          "latitude": "3.86667000",
+          "longitude": "-159.33333000"
+        },
+        {
+          "name": "Tabwakea Village",
+          "latitude": "2.01643000",
+          "longitude": "-157.48773000"
+        },
+        {
+          "name": "Teraina",
+          "latitude": "4.68764000",
+          "longitude": "-160.38803000"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Islands",
+      "state_code": "P",
+      "latitude": "33.32843690",
+      "longitude": "-111.98247740",
+      "cities": [
+        {
+          "name": "Kanton",
+          "latitude": "-2.81000000",
+          "longitude": "-171.67800000"
+        }
+      ]
+    }
+  ]
+}

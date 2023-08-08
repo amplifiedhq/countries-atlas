@@ -1,0 +1,977 @@
+{
+  "code": "KE",
+  "states": [
+    {
+      "name": "Baringo County",
+      "state_code": "01",
+      "latitude": "0.85549880",
+      "longitude": "36.08934060",
+      "cities": [
+        {
+          "name": "Baringo",
+          "latitude": "0.46667000",
+          "longitude": "35.96667000"
+        },
+        {
+          "name": "Eldama Ravine",
+          "latitude": "0.05196000",
+          "longitude": "35.72734000"
+        },
+        {
+          "name": "Kabarnet",
+          "latitude": "0.49194000",
+          "longitude": "35.74303000"
+        }
+      ]
+    },
+    {
+      "name": "Bomet County",
+      "state_code": "02",
+      "latitude": "-0.80150090",
+      "longitude": "35.30272260",
+      "cities": [
+        {
+          "name": "Sotik",
+          "latitude": "-0.69069000",
+          "longitude": "35.11102000"
+        },
+        {
+          "name": "Sotik Post",
+          "latitude": "-0.78129000",
+          "longitude": "35.34156000"
+        }
+      ]
+    },
+    {
+      "name": "Bungoma County",
+      "state_code": "03",
+      "latitude": "0.56952520",
+      "longitude": "34.55837660",
+      "cities": [
+        {
+          "name": "Bungoma",
+          "latitude": "0.56350000",
+          "longitude": "34.56055000"
+        },
+        {
+          "name": "Malikisi",
+          "latitude": "0.67694000",
+          "longitude": "34.42167000"
+        },
+        {
+          "name": "Webuye",
+          "latitude": "0.60040000",
+          "longitude": "34.77119000"
+        }
+      ]
+    },
+    {
+      "name": "Busia County",
+      "state_code": "04",
+      "latitude": "0.43465060",
+      "longitude": "34.24215970",
+      "cities": [
+        {
+          "name": "Busia",
+          "latitude": "0.46005000",
+          "longitude": "34.11169000"
+        },
+        {
+          "name": "Luanda",
+          "latitude": "0.31354000",
+          "longitude": "34.07146000"
+        },
+        {
+          "name": "Lugulu",
+          "latitude": "0.39337000",
+          "longitude": "34.30399000"
+        },
+        {
+          "name": "Malaba",
+          "latitude": "0.63513000",
+          "longitude": "34.28165000"
+        },
+        {
+          "name": "Nambare",
+          "latitude": "0.45813000",
+          "longitude": "34.25353000"
+        },
+        {
+          "name": "Port Victoria",
+          "latitude": "0.09809000",
+          "longitude": "33.97248000"
+        }
+      ]
+    },
+    {
+      "name": "Central Province",
+      "state_code": "200",
+      "latitude": null,
+      "longitude": null,
+      "cities": []
+    },
+    {
+      "name": "Coast Province",
+      "state_code": "300",
+      "latitude": "39.13733050",
+      "longitude": "-76.72941440",
+      "cities": []
+    },
+    {
+      "name": "Eastern Province",
+      "state_code": "400",
+      "latitude": null,
+      "longitude": null,
+      "cities": []
+    },
+    {
+      "name": "Elgeyo-Marakwet County",
+      "state_code": "05",
+      "latitude": "1.04982370",
+      "longitude": "35.47819260",
+      "cities": []
+    },
+    {
+      "name": "Embu County",
+      "state_code": "06",
+      "latitude": "-0.65604770",
+      "longitude": "37.72376780",
+      "cities": [
+        {
+          "name": "Embu",
+          "latitude": "-0.53987000",
+          "longitude": "37.45743000"
+        }
+      ]
+    },
+    {
+      "name": "Garissa County",
+      "state_code": "07",
+      "latitude": "-0.45322930",
+      "longitude": "39.64609880",
+      "cities": [
+        {
+          "name": "Garissa",
+          "latitude": "-0.45275000",
+          "longitude": "39.64601000"
+        }
+      ]
+    },
+    {
+      "name": "Homa Bay County",
+      "state_code": "08",
+      "latitude": "-0.62206550",
+      "longitude": "34.33103640",
+      "cities": [
+        {
+          "name": "Homa Bay",
+          "latitude": "-0.52731000",
+          "longitude": "34.45714000"
+        },
+        {
+          "name": "Oyugis",
+          "latitude": "-0.50974000",
+          "longitude": "34.73067000"
+        },
+        {
+          "name": "Rachuonyo District",
+          "latitude": "-0.44000000",
+          "longitude": "34.73900000"
+        }
+      ]
+    },
+    {
+      "name": "Isiolo County",
+      "state_code": "09",
+      "latitude": "0.35243520",
+      "longitude": "38.48499230",
+      "cities": [
+        {
+          "name": "Isiolo",
+          "latitude": "0.35462000",
+          "longitude": "37.58218000"
+        }
+      ]
+    },
+    {
+      "name": "Kajiado County",
+      "state_code": "10",
+      "latitude": "-2.09807510",
+      "longitude": "36.78195050",
+      "cities": [
+        {
+          "name": "Kajiado",
+          "latitude": "-1.85238000",
+          "longitude": "36.77683000"
+        },
+        {
+          "name": "Magadi",
+          "latitude": "-1.90122000",
+          "longitude": "36.28700000"
+        },
+        {
+          "name": "Ngong",
+          "latitude": "-1.35270000",
+          "longitude": "36.66990000"
+        }
+      ]
+    },
+    {
+      "name": "Kakamega County",
+      "state_code": "11",
+      "latitude": "0.30789400",
+      "longitude": "34.77407930",
+      "cities": [
+        {
+          "name": "Butere",
+          "latitude": "0.20694000",
+          "longitude": "34.49006000"
+        },
+        {
+          "name": "Kakamega",
+          "latitude": "0.28422000",
+          "longitude": "34.75229000"
+        },
+        {
+          "name": "Mumias",
+          "latitude": "0.33474000",
+          "longitude": "34.48796000"
+        }
+      ]
+    },
+    {
+      "name": "Kericho County",
+      "state_code": "12",
+      "latitude": "-0.18279130",
+      "longitude": "35.47819260",
+      "cities": [
+        {
+          "name": "Kericho",
+          "latitude": "-0.36774000",
+          "longitude": "35.28314000"
+        },
+        {
+          "name": "Kipkelion",
+          "latitude": "-0.19982000",
+          "longitude": "35.46735000"
+        },
+        {
+          "name": "Litein",
+          "latitude": "-0.58249000",
+          "longitude": "35.18969000"
+        },
+        {
+          "name": "Londiani",
+          "latitude": "-0.16552000",
+          "longitude": "35.59359000"
+        }
+      ]
+    },
+    {
+      "name": "Kiambu County",
+      "state_code": "13",
+      "latitude": "-1.03137010",
+      "longitude": "36.86807910",
+      "cities": [
+        {
+          "name": "Kiambu",
+          "latitude": "-1.17139000",
+          "longitude": "36.83556000"
+        },
+        {
+          "name": "Kikuyu",
+          "latitude": "-1.24627000",
+          "longitude": "36.66291000"
+        },
+        {
+          "name": "Limuru",
+          "latitude": "-1.11360000",
+          "longitude": "36.64205000"
+        }
+      ]
+    },
+    {
+      "name": "Kilifi County",
+      "state_code": "14",
+      "latitude": "-3.51065080",
+      "longitude": "39.90932690",
+      "cities": [
+        {
+          "name": "Iten",
+          "latitude": "0.67028000",
+          "longitude": "35.50806000"
+        },
+        {
+          "name": "Kapsowar",
+          "latitude": "0.97890000",
+          "longitude": "35.55854000"
+        },
+        {
+          "name": "Kilifi",
+          "latitude": "-3.63045000",
+          "longitude": "39.84992000"
+        },
+        {
+          "name": "Malindi",
+          "latitude": "-3.21799000",
+          "longitude": "40.11692000"
+        },
+        {
+          "name": "Mariakani",
+          "latitude": "-3.86261000",
+          "longitude": "39.47458000"
+        },
+        {
+          "name": "Takaungu",
+          "latitude": "-3.68350000",
+          "longitude": "39.85687000"
+        }
+      ]
+    },
+    {
+      "name": "Kirinyaga County",
+      "state_code": "15",
+      "latitude": "-0.65905650",
+      "longitude": "37.38272340",
+      "cities": [
+        {
+          "name": "Kerugoya",
+          "latitude": "-0.49887000",
+          "longitude": "37.28031000"
+        },
+        {
+          "name": "Sagana",
+          "latitude": "-0.66806000",
+          "longitude": "37.20875000"
+        }
+      ]
+    },
+    {
+      "name": "Kisii County",
+      "state_code": "16",
+      "latitude": "-0.67733400",
+      "longitude": "34.77960300",
+      "cities": [
+        {
+          "name": "Kisii",
+          "latitude": "-0.68174000",
+          "longitude": "34.76666000"
+        },
+        {
+          "name": "Ogembo",
+          "latitude": "-0.80116000",
+          "longitude": "34.72579000"
+        }
+      ]
+    },
+    {
+      "name": "Kisumu County",
+      "state_code": "17",
+      "latitude": "-0.09170160",
+      "longitude": "34.76795680",
+      "cities": [
+        {
+          "name": "Ahero",
+          "latitude": "-0.17359000",
+          "longitude": "34.91890000"
+        },
+        {
+          "name": "Kisumu",
+          "latitude": "-0.10221000",
+          "longitude": "34.76171000"
+        },
+        {
+          "name": "Muhoroni",
+          "latitude": "-0.15816000",
+          "longitude": "35.19645000"
+        }
+      ]
+    },
+    {
+      "name": "Kitui County",
+      "state_code": "18",
+      "latitude": "-1.68328220",
+      "longitude": "38.31657250",
+      "cities": [
+        {
+          "name": "Kitui",
+          "latitude": "-1.36696000",
+          "longitude": "38.01055000"
+        },
+        {
+          "name": "Mwingi",
+          "latitude": "-0.93605000",
+          "longitude": "38.05955000"
+        }
+      ]
+    },
+    {
+      "name": "Kwale County",
+      "state_code": "19",
+      "latitude": "-4.18161150",
+      "longitude": "39.46056120",
+      "cities": [
+        {
+          "name": "Gazi",
+          "latitude": "-4.42402000",
+          "longitude": "39.50588000"
+        },
+        {
+          "name": "Kinango",
+          "latitude": "-4.13723000",
+          "longitude": "39.31528000"
+        },
+        {
+          "name": "Kwale",
+          "latitude": "-4.17375000",
+          "longitude": "39.45206000"
+        },
+        {
+          "name": "Sawa Sawa",
+          "latitude": "-4.47166000",
+          "longitude": "39.48463000"
+        },
+        {
+          "name": "Shimoni",
+          "latitude": "-4.64756000",
+          "longitude": "39.38175000"
+        }
+      ]
+    },
+    {
+      "name": "Laikipia County",
+      "state_code": "20",
+      "latitude": "0.36060630",
+      "longitude": "36.78195050",
+      "cities": [
+        {
+          "name": "Nanyuki",
+          "latitude": "0.00624000",
+          "longitude": "37.07398000"
+        },
+        {
+          "name": "Nyahururu",
+          "latitude": "0.03813000",
+          "longitude": "36.36339000"
+        },
+        {
+          "name": "Rumuruti",
+          "latitude": "0.27250000",
+          "longitude": "36.53806000"
+        }
+      ]
+    },
+    {
+      "name": "Lamu County",
+      "state_code": "21",
+      "latitude": "-2.23550580",
+      "longitude": "40.47200040",
+      "cities": [
+        {
+          "name": "Lamu",
+          "latitude": "-2.27169000",
+          "longitude": "40.90201000"
+        },
+        {
+          "name": "Witu",
+          "latitude": "-2.38892000",
+          "longitude": "40.43827000"
+        }
+      ]
+    },
+    {
+      "name": "Machakos County",
+      "state_code": "22",
+      "latitude": "-1.51768370",
+      "longitude": "37.26341460",
+      "cities": [
+        {
+          "name": "Athi River",
+          "latitude": "-1.45630000",
+          "longitude": "36.97826000"
+        },
+        {
+          "name": "Kangundo",
+          "latitude": "-1.30342000",
+          "longitude": "37.34813000"
+        },
+        {
+          "name": "Konza",
+          "latitude": "-1.73947000",
+          "longitude": "37.13195000"
+        },
+        {
+          "name": "Machakos",
+          "latitude": "-1.52233000",
+          "longitude": "37.26521000"
+        }
+      ]
+    },
+    {
+      "name": "Makueni County",
+      "state_code": "23",
+      "latitude": "-2.25587340",
+      "longitude": "37.89366630",
+      "cities": [
+        {
+          "name": "Makueni Boma",
+          "latitude": "-1.80388000",
+          "longitude": "37.62405000"
+        },
+        {
+          "name": "Mtito Andei",
+          "latitude": "-2.68987000",
+          "longitude": "38.16687000"
+        },
+        {
+          "name": "Wote",
+          "latitude": "-1.78079000",
+          "longitude": "37.62882000"
+        }
+      ]
+    },
+    {
+      "name": "Mandera County",
+      "state_code": "24",
+      "latitude": "3.57379910",
+      "longitude": "40.95868800",
+      "cities": [
+        {
+          "name": "Mandera",
+          "latitude": "3.93726000",
+          "longitude": "41.85688000"
+        }
+      ]
+    },
+    {
+      "name": "Marsabit County",
+      "state_code": "25",
+      "latitude": "2.44264030",
+      "longitude": "37.97845850",
+      "cities": [
+        {
+          "name": "Marsabit",
+          "latitude": "2.33468000",
+          "longitude": "37.99086000"
+        },
+        {
+          "name": "Moyale",
+          "latitude": "3.52661000",
+          "longitude": "39.05610000"
+        }
+      ]
+    },
+    {
+      "name": "Meru County",
+      "state_code": "26",
+      "latitude": "0.35571740",
+      "longitude": "37.80876930",
+      "cities": [
+        {
+          "name": "Maua",
+          "latitude": "0.23320000",
+          "longitude": "37.94086000"
+        },
+        {
+          "name": "Meru",
+          "latitude": "0.04626000",
+          "longitude": "37.65587000"
+        }
+      ]
+    },
+    {
+      "name": "Migori County",
+      "state_code": "27",
+      "latitude": "-0.93657020",
+      "longitude": "34.41982430",
+      "cities": [
+        {
+          "name": "Kihancha",
+          "latitude": "-1.19347000",
+          "longitude": "34.61967000"
+        },
+        {
+          "name": "Migori",
+          "latitude": "-1.06343000",
+          "longitude": "34.47313000"
+        }
+      ]
+    },
+    {
+      "name": "Mombasa County",
+      "state_code": "28",
+      "latitude": "-3.97682910",
+      "longitude": "39.71371810",
+      "cities": [
+        {
+          "name": "Mombasa",
+          "latitude": "-4.05466000",
+          "longitude": "39.66359000"
+        }
+      ]
+    },
+    {
+      "name": "Muranga County",
+      "state_code": "29",
+      "latitude": "-0.78392810",
+      "longitude": "37.04003390",
+      "cities": [
+        {
+          "name": "Kangema",
+          "latitude": "-0.68553000",
+          "longitude": "36.96463000"
+        },
+        {
+          "name": "Karuri",
+          "latitude": "-0.70000000",
+          "longitude": "37.18333000"
+        },
+        {
+          "name": "Maragua",
+          "latitude": "-0.79602000",
+          "longitude": "37.13292000"
+        },
+        {
+          "name": "Murang’a",
+          "latitude": "-0.72104000",
+          "longitude": "37.15259000"
+        }
+      ]
+    },
+    {
+      "name": "Nairobi",
+      "state_code": "110",
+      "latitude": "-1.29206590",
+      "longitude": "36.82194620",
+      "cities": [
+        {
+          "name": "Nairobi",
+          "latitude": "-1.28333000",
+          "longitude": "36.81667000"
+        },
+        {
+          "name": "Pumwani",
+          "latitude": "-1.28333000",
+          "longitude": "36.85000000"
+        },
+        {
+          "name": "Thika",
+          "latitude": "-1.03326000",
+          "longitude": "37.06933000"
+        }
+      ]
+    },
+    {
+      "name": "Nakuru District",
+      "state_code": "31",
+      "latitude": "-0.30309880",
+      "longitude": "36.08002600",
+      "cities": [
+        {
+          "name": "Kijabe",
+          "latitude": "-0.93334000",
+          "longitude": "36.57233000"
+        },
+        {
+          "name": "Molo",
+          "latitude": "-0.24849000",
+          "longitude": "35.73194000"
+        },
+        {
+          "name": "Naivasha",
+          "latitude": "-0.71383000",
+          "longitude": "36.43261000"
+        },
+        {
+          "name": "Nakuru",
+          "latitude": "-0.30719000",
+          "longitude": "36.07225000"
+        },
+        {
+          "name": "Rongai",
+          "latitude": "-0.17344000",
+          "longitude": "35.86313000"
+        }
+      ]
+    },
+    {
+      "name": "Nandi District",
+      "state_code": "32",
+      "latitude": "0.18358670",
+      "longitude": "35.12687810",
+      "cities": [
+        {
+          "name": "Kapsabet",
+          "latitude": "0.20387000",
+          "longitude": "35.10500000"
+        },
+        {
+          "name": "Nandi Hills",
+          "latitude": "0.10366000",
+          "longitude": "35.18426000"
+        }
+      ]
+    },
+    {
+      "name": "Narok County",
+      "state_code": "33",
+      "latitude": "-1.10411100",
+      "longitude": "36.08934060",
+      "cities": [
+        {
+          "name": "Narok",
+          "latitude": "-1.08083000",
+          "longitude": "35.87111000"
+        }
+      ]
+    },
+    {
+      "name": "North Eastern Province",
+      "state_code": "500",
+      "latitude": "7.78530510",
+      "longitude": "81.42789840",
+      "cities": []
+    },
+    {
+      "name": "Nyamira District",
+      "state_code": "34",
+      "latitude": "-0.56694050",
+      "longitude": "34.93412340",
+      "cities": [
+        {
+          "name": "Keroka",
+          "latitude": "-0.77612000",
+          "longitude": "34.94678000"
+        },
+        {
+          "name": "Nyamira",
+          "latitude": "-0.56333000",
+          "longitude": "34.93583000"
+        }
+      ]
+    },
+    {
+      "name": "Nyandarua County",
+      "state_code": "35",
+      "latitude": "-0.18038550",
+      "longitude": "36.52296410",
+      "cities": [
+        {
+          "name": "Ol Kalou",
+          "latitude": "-0.27088000",
+          "longitude": "36.37917000"
+        }
+      ]
+    },
+    {
+      "name": "Nyanza Province",
+      "state_code": "600",
+      "latitude": "-0.08898940",
+      "longitude": "34.77179120",
+      "cities": []
+    },
+    {
+      "name": "Nyeri County",
+      "state_code": "36",
+      "latitude": "-0.41969150",
+      "longitude": "37.04003390",
+      "cities": [
+        {
+          "name": "Naro Moru",
+          "latitude": "-0.16357000",
+          "longitude": "37.01773000"
+        },
+        {
+          "name": "Nyeri",
+          "latitude": "-0.42013000",
+          "longitude": "36.94759000"
+        },
+        {
+          "name": "Othaya",
+          "latitude": "-0.54655000",
+          "longitude": "36.93178000"
+        }
+      ]
+    },
+    {
+      "name": "Rift Valley Province",
+      "state_code": "700",
+      "latitude": "11.40987370",
+      "longitude": "41.28085770",
+      "cities": []
+    },
+    {
+      "name": "Samburu County",
+      "state_code": "37",
+      "latitude": "1.21545060",
+      "longitude": "36.95410700",
+      "cities": [
+        {
+          "name": "Maralal",
+          "latitude": "1.09667000",
+          "longitude": "36.69806000"
+        }
+      ]
+    },
+    {
+      "name": "Siaya County",
+      "state_code": "38",
+      "latitude": "-0.06173280",
+      "longitude": "34.24215970",
+      "cities": [
+        {
+          "name": "Bondo",
+          "latitude": "0.23522000",
+          "longitude": "34.28086000"
+        },
+        {
+          "name": "Siaya",
+          "latitude": "0.06070000",
+          "longitude": "34.28806000"
+        },
+        {
+          "name": "Yala",
+          "latitude": "0.09438000",
+          "longitude": "34.53602000"
+        }
+      ]
+    },
+    {
+      "name": "Taita–Taveta County",
+      "state_code": "39",
+      "latitude": "-3.31606870",
+      "longitude": "38.48499230",
+      "cities": []
+    },
+    {
+      "name": "Tana River County",
+      "state_code": "40",
+      "latitude": "-1.65184680",
+      "longitude": "39.65181650",
+      "cities": [
+        {
+          "name": "Hola",
+          "latitude": "-1.48256000",
+          "longitude": "40.03341000"
+        },
+        {
+          "name": "Kipini",
+          "latitude": "-2.52565000",
+          "longitude": "40.52620000"
+        }
+      ]
+    },
+    {
+      "name": "Tharaka Nithi County",
+      "state_code": "41",
+      "latitude": "-0.29648510",
+      "longitude": "37.72376780",
+      "cities": [
+        {
+          "name": "Chuka",
+          "latitude": "-0.33316000",
+          "longitude": "37.64587000"
+        }
+      ]
+    },
+    {
+      "name": "Trans-Nzoia District",
+      "state_code": "42",
+      "latitude": "1.05666670",
+      "longitude": "34.95066250",
+      "cities": [
+        {
+          "name": "Kitale",
+          "latitude": "1.01572000",
+          "longitude": "35.00622000"
+        }
+      ]
+    },
+    {
+      "name": "Turkana County",
+      "state_code": "43",
+      "latitude": "3.31224770",
+      "longitude": "35.56578620",
+      "cities": [
+        {
+          "name": "Lodwar",
+          "latitude": "3.11988000",
+          "longitude": "35.59642000"
+        }
+      ]
+    },
+    {
+      "name": "Uasin Gishu District",
+      "state_code": "44",
+      "latitude": "0.55276380",
+      "longitude": "35.30272260",
+      "cities": [
+        {
+          "name": "Eldoret",
+          "latitude": "0.52036000",
+          "longitude": "35.26993000"
+        }
+      ]
+    },
+    {
+      "name": "Vihiga District",
+      "state_code": "45",
+      "latitude": "0.07675530",
+      "longitude": "34.70776650",
+      "cities": []
+    },
+    {
+      "name": "Wajir County",
+      "state_code": "46",
+      "latitude": "1.63604750",
+      "longitude": "40.30886260",
+      "cities": [
+        {
+          "name": "Wajir",
+          "latitude": "1.74710000",
+          "longitude": "40.05732000"
+        }
+      ]
+    },
+    {
+      "name": "West Pokot County",
+      "state_code": "47",
+      "latitude": "1.62100760",
+      "longitude": "35.39050460",
+      "cities": [
+        {
+          "name": "Chepareria",
+          "latitude": "1.30583000",
+          "longitude": "35.20365000"
+        },
+        {
+          "name": "Kapenguria",
+          "latitude": "1.23889000",
+          "longitude": "35.11194000"
+        },
+        {
+          "name": "Taveta",
+          "latitude": "-3.39879000",
+          "longitude": "37.68336000"
+        },
+        {
+          "name": "Voi",
+          "latitude": "-3.39605000",
+          "longitude": "38.55609000"
+        },
+        {
+          "name": "Wundanyi",
+          "latitude": "-3.39642000",
+          "longitude": "38.35729000"
+        }
+      ]
+    },
+    {
+      "name": "Western Province",
+      "state_code": "800",
+      "latitude": null,
+      "longitude": null,
+      "cities": []
+    }
+  ]
+}

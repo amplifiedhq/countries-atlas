@@ -1,0 +1,246 @@
+{
+  "code": "OM",
+  "states": [
+    {
+      "name": "Ad Dakhiliyah Governorate",
+      "state_code": "DA",
+      "latitude": "22.85887580",
+      "longitude": "57.53943560",
+      "cities": [
+        {
+          "name": "Adam",
+          "latitude": "22.37934000",
+          "longitude": "57.52718000"
+        },
+        {
+          "name": "Bahlā’",
+          "latitude": "22.97886000",
+          "longitude": "57.30470000"
+        },
+        {
+          "name": "Bidbid",
+          "latitude": "23.40787000",
+          "longitude": "58.12830000"
+        },
+        {
+          "name": "Izkī",
+          "latitude": "22.93333000",
+          "longitude": "57.76667000"
+        },
+        {
+          "name": "Nizwá",
+          "latitude": "22.93333000",
+          "longitude": "57.53333000"
+        },
+        {
+          "name": "Sufālat Samā’il",
+          "latitude": "23.31667000",
+          "longitude": "58.01667000"
+        }
+      ]
+    },
+    {
+      "name": "Ad Dhahirah Governorate",
+      "state_code": "ZA",
+      "latitude": "23.21616740",
+      "longitude": "56.49074440",
+      "cities": [
+        {
+          "name": "‘Ibrī",
+          "latitude": "23.22573000",
+          "longitude": "56.51572000"
+        },
+        {
+          "name": "Yanqul",
+          "latitude": "23.58645000",
+          "longitude": "56.53969000"
+        }
+      ]
+    },
+    {
+      "name": "Al Batinah North Governorate",
+      "state_code": "BS",
+      "latitude": "24.34198460",
+      "longitude": "56.72989040",
+      "cities": [
+        {
+          "name": "Al Khābūrah",
+          "latitude": "23.97144000",
+          "longitude": "57.09313000"
+        },
+        {
+          "name": "As Suwayq",
+          "latitude": "23.84944000",
+          "longitude": "57.43861000"
+        },
+        {
+          "name": "Liwá",
+          "latitude": "24.53077000",
+          "longitude": "56.56300000"
+        },
+        {
+          "name": "Şaḩam",
+          "latitude": "24.17222000",
+          "longitude": "56.88861000"
+        },
+        {
+          "name": "Shināş",
+          "latitude": "24.74260000",
+          "longitude": "56.46698000"
+        },
+        {
+          "name": "Sohar",
+          "latitude": "24.34745000",
+          "longitude": "56.70937000"
+        }
+      ]
+    },
+    {
+      "name": "Al Batinah Region",
+      "state_code": "BA",
+      "latitude": "24.34198460",
+      "longitude": "56.72989040",
+      "cities": [
+        {
+          "name": "Barkā’",
+          "latitude": "23.67872000",
+          "longitude": "57.88605000"
+        },
+        {
+          "name": "Bayt al ‘Awābī",
+          "latitude": "23.30324000",
+          "longitude": "57.52459000"
+        },
+        {
+          "name": "Oman Smart Future City",
+          "latitude": "23.65270000",
+          "longitude": "57.59926000"
+        },
+        {
+          "name": "Rustaq",
+          "latitude": "23.39083000",
+          "longitude": "57.42444000"
+        }
+      ]
+    },
+    {
+      "name": "Al Batinah South Governorate",
+      "state_code": "BJ",
+      "latitude": "23.43149030",
+      "longitude": "57.42397960",
+      "cities": []
+    },
+    {
+      "name": "Al Buraimi Governorate",
+      "state_code": "BU",
+      "latitude": "24.16714130",
+      "longitude": "56.11422530",
+      "cities": [
+        {
+          "name": "Al Buraymī",
+          "latitude": "24.25088000",
+          "longitude": "55.79312000"
+        }
+      ]
+    },
+    {
+      "name": "Al Wusta Governorate",
+      "state_code": "WU",
+      "latitude": "19.95710780",
+      "longitude": "56.27568460",
+      "cities": [
+        {
+          "name": "Haymā’",
+          "latitude": "19.95931000",
+          "longitude": "56.27575000"
+        }
+      ]
+    },
+    {
+      "name": "Ash Sharqiyah North Governorate",
+      "state_code": "SS",
+      "latitude": "22.71411960",
+      "longitude": "58.53080640",
+      "cities": []
+    },
+    {
+      "name": "Ash Sharqiyah Region",
+      "state_code": "SH",
+      "latitude": "22.71411960",
+      "longitude": "58.53080640",
+      "cities": [
+        {
+          "name": "Sur",
+          "latitude": "22.56667000",
+          "longitude": "59.52889000"
+        }
+      ]
+    },
+    {
+      "name": "Ash Sharqiyah South Governorate",
+      "state_code": "SJ",
+      "latitude": "22.01582490",
+      "longitude": "59.32519220",
+      "cities": []
+    },
+    {
+      "name": "Dhofar Governorate",
+      "state_code": "ZU",
+      "latitude": "17.03221210",
+      "longitude": "54.14252140",
+      "cities": [
+        {
+          "name": "Şalālah",
+          "latitude": "17.01505000",
+          "longitude": "54.09237000"
+        }
+      ]
+    },
+    {
+      "name": "Musandam Governorate",
+      "state_code": "MU",
+      "latitude": "26.19861440",
+      "longitude": "56.24609490",
+      "cities": [
+        {
+          "name": "Dib Dibba",
+          "latitude": "26.19778000",
+          "longitude": "56.25778000"
+        },
+        {
+          "name": "Khasab",
+          "latitude": "26.17993000",
+          "longitude": "56.24774000"
+        },
+        {
+          "name": "Madḩā’ al Jadīdah",
+          "latitude": "25.28345000",
+          "longitude": "56.33280000"
+        }
+      ]
+    },
+    {
+      "name": "Muscat Governorate",
+      "state_code": "MA",
+      "latitude": "23.58803070",
+      "longitude": "58.38287170",
+      "cities": [
+        {
+          "name": "Bawshar",
+          "latitude": "23.57769000",
+          "longitude": "58.39982000"
+        },
+        {
+          "name": "Muscat",
+          "latitude": "23.58413000",
+          "longitude": "58.40778000"
+        },
+        {
+          "name": "Seeb",
+          "latitude": "23.67027000",
+          "longitude": "58.18911000"
+        }
+      ]
+    }
+  ]
+}

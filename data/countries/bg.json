@@ -1,0 +1,2749 @@
+{
+  "code": "BG",
+  "states": [
+    {
+      "name": "Blagoevgrad Province",
+      "state_code": "01",
+      "latitude": "42.02086140",
+      "longitude": "23.09433560",
+      "cities": [
+        {
+          "name": "Bansko",
+          "latitude": "41.83830000",
+          "longitude": "23.48851000"
+        },
+        {
+          "name": "Belitsa",
+          "latitude": "41.95694000",
+          "longitude": "23.57250000"
+        },
+        {
+          "name": "Blagoevgrad",
+          "latitude": "42.01667000",
+          "longitude": "23.10000000"
+        },
+        {
+          "name": "Garmen",
+          "latitude": "41.60000000",
+          "longitude": "23.81667000"
+        },
+        {
+          "name": "Gotse Delchev",
+          "latitude": "41.56667000",
+          "longitude": "23.73333000"
+        },
+        {
+          "name": "Hadzhidimovo",
+          "latitude": "41.52222000",
+          "longitude": "23.86861000"
+        },
+        {
+          "name": "Kolarovo",
+          "latitude": "41.36385000",
+          "longitude": "23.10669000"
+        },
+        {
+          "name": "Kresna",
+          "latitude": "41.73333000",
+          "longitude": "23.15000000"
+        },
+        {
+          "name": "Obshtina Bansko",
+          "latitude": "41.80000000",
+          "longitude": "23.60000000"
+        },
+        {
+          "name": "Obshtina Belitsa",
+          "latitude": "42.01667000",
+          "longitude": "23.58333000"
+        },
+        {
+          "name": "Obshtina Blagoevgrad",
+          "latitude": "42.01667000",
+          "longitude": "23.16667000"
+        },
+        {
+          "name": "Obshtina Garmen",
+          "latitude": "41.70000000",
+          "longitude": "23.85000000"
+        },
+        {
+          "name": "Obshtina Gotse Delchev",
+          "latitude": "41.63333000",
+          "longitude": "23.68333000"
+        },
+        {
+          "name": "Obshtina Kresna",
+          "latitude": "41.76667000",
+          "longitude": "23.23333000"
+        },
+        {
+          "name": "Obshtina Petrich",
+          "latitude": "41.45000000",
+          "longitude": "23.16667000"
+        },
+        {
+          "name": "Obshtina Razlog",
+          "latitude": "41.95000000",
+          "longitude": "23.46667000"
+        },
+        {
+          "name": "Obshtina Sandanski",
+          "latitude": "41.56667000",
+          "longitude": "23.45000000"
+        },
+        {
+          "name": "Obshtina Satovcha",
+          "latitude": "41.59848000",
+          "longitude": "24.00781000"
+        },
+        {
+          "name": "Obshtina Simitli",
+          "latitude": "41.88333000",
+          "longitude": "23.16667000"
+        },
+        {
+          "name": "Obshtina Strumyani",
+          "latitude": "41.63333000",
+          "longitude": "23.20000000"
+        },
+        {
+          "name": "Obshtina Yakoruda",
+          "latitude": "42.08333000",
+          "longitude": "23.70000000"
+        },
+        {
+          "name": "Petrich",
+          "latitude": "41.39846000",
+          "longitude": "23.20702000"
+        },
+        {
+          "name": "Razlog",
+          "latitude": "41.88630000",
+          "longitude": "23.46714000"
+        },
+        {
+          "name": "Sandanski",
+          "latitude": "41.56667000",
+          "longitude": "23.28333000"
+        },
+        {
+          "name": "Satovcha",
+          "latitude": "41.61667000",
+          "longitude": "23.98333000"
+        },
+        {
+          "name": "Simitli",
+          "latitude": "41.88333000",
+          "longitude": "23.11667000"
+        },
+        {
+          "name": "Stara Kresna",
+          "latitude": "41.80000000",
+          "longitude": "23.18333000"
+        },
+        {
+          "name": "Strumyani",
+          "latitude": "41.63333000",
+          "longitude": "23.20000000"
+        },
+        {
+          "name": "Yakoruda",
+          "latitude": "42.02528000",
+          "longitude": "23.68417000"
+        }
+      ]
+    },
+    {
+      "name": "Burgas Province",
+      "state_code": "02",
+      "latitude": "42.50480000",
+      "longitude": "27.46260790",
+      "cities": [
+        {
+          "name": "Aheloy",
+          "latitude": "42.64987000",
+          "longitude": "27.64838000"
+        },
+        {
+          "name": "Ahtopol",
+          "latitude": "42.09768000",
+          "longitude": "27.93961000"
+        },
+        {
+          "name": "Aytos",
+          "latitude": "42.70000000",
+          "longitude": "27.25000000"
+        },
+        {
+          "name": "Bata",
+          "latitude": "42.73802000",
+          "longitude": "27.49643000"
+        },
+        {
+          "name": "Burgas",
+          "latitude": "42.50606000",
+          "longitude": "27.46781000"
+        },
+        {
+          "name": "Chernomorets",
+          "latitude": "42.44408000",
+          "longitude": "27.63902000"
+        },
+        {
+          "name": "Kameno",
+          "latitude": "42.57084000",
+          "longitude": "27.29875000"
+        },
+        {
+          "name": "Karnobat",
+          "latitude": "42.65000000",
+          "longitude": "26.98333000"
+        },
+        {
+          "name": "Kiten",
+          "latitude": "42.23424000",
+          "longitude": "27.77490000"
+        },
+        {
+          "name": "Malko Tarnovo",
+          "latitude": "41.97958000",
+          "longitude": "27.52477000"
+        },
+        {
+          "name": "Nesebar",
+          "latitude": "42.65921000",
+          "longitude": "27.73602000"
+        },
+        {
+          "name": "Obshtina Aytos",
+          "latitude": "42.70000000",
+          "longitude": "27.25000000"
+        },
+        {
+          "name": "Obshtina Burgas",
+          "latitude": "42.50000000",
+          "longitude": "27.46667000"
+        },
+        {
+          "name": "Obshtina Kameno",
+          "latitude": "42.51667000",
+          "longitude": "27.18333000"
+        },
+        {
+          "name": "Obshtina Karnobat",
+          "latitude": "42.65000000",
+          "longitude": "26.98333000"
+        },
+        {
+          "name": "Obshtina Malko Tarnovo",
+          "latitude": "42.08333000",
+          "longitude": "27.53333000"
+        },
+        {
+          "name": "Obshtina Nesebar",
+          "latitude": "42.78333000",
+          "longitude": "27.73333000"
+        },
+        {
+          "name": "Obshtina Pomorie",
+          "latitude": "42.73333000",
+          "longitude": "27.55000000"
+        },
+        {
+          "name": "Obshtina Primorsko",
+          "latitude": "42.25000000",
+          "longitude": "27.63333000"
+        },
+        {
+          "name": "Obshtina Sozopol",
+          "latitude": "42.31123000",
+          "longitude": "27.51733000"
+        },
+        {
+          "name": "Obshtina Sungurlare",
+          "latitude": "42.83333000",
+          "longitude": "26.83333000"
+        },
+        {
+          "name": "Obzor",
+          "latitude": "42.81998000",
+          "longitude": "27.88007000"
+        },
+        {
+          "name": "Pomorie",
+          "latitude": "42.56326000",
+          "longitude": "27.62986000"
+        },
+        {
+          "name": "Primorsko",
+          "latitude": "42.26791000",
+          "longitude": "27.75611000"
+        },
+        {
+          "name": "Ravda",
+          "latitude": "42.64185000",
+          "longitude": "27.67713000"
+        },
+        {
+          "name": "Ruen",
+          "latitude": "42.80000000",
+          "longitude": "27.28333000"
+        },
+        {
+          "name": "Sarafovo",
+          "latitude": "42.56079000",
+          "longitude": "27.52195000"
+        },
+        {
+          "name": "Sozopol",
+          "latitude": "42.41801000",
+          "longitude": "27.69560000"
+        },
+        {
+          "name": "Sredets",
+          "latitude": "42.34747000",
+          "longitude": "27.17898000"
+        },
+        {
+          "name": "Sungurlare",
+          "latitude": "42.76667000",
+          "longitude": "26.78333000"
+        },
+        {
+          "name": "Sveti Vlas",
+          "latitude": "42.71360000",
+          "longitude": "27.75867000"
+        },
+        {
+          "name": "Tsarevo",
+          "latitude": "42.16955000",
+          "longitude": "27.84541000"
+        }
+      ]
+    },
+    {
+      "name": "Dobrich Province",
+      "state_code": "08",
+      "latitude": "43.57278600",
+      "longitude": "27.82728020",
+      "cities": [
+        {
+          "name": "Balchik",
+          "latitude": "43.42166000",
+          "longitude": "28.15848000"
+        },
+        {
+          "name": "Dobrich",
+          "latitude": "43.56667000",
+          "longitude": "27.83333000"
+        },
+        {
+          "name": "General Toshevo",
+          "latitude": "43.70123000",
+          "longitude": "28.03787000"
+        },
+        {
+          "name": "Kavarna",
+          "latitude": "43.43601000",
+          "longitude": "28.33953000"
+        },
+        {
+          "name": "Krushari",
+          "latitude": "43.81675000",
+          "longitude": "27.75552000"
+        },
+        {
+          "name": "Obshtina Balchik",
+          "latitude": "43.50000000",
+          "longitude": "28.13333000"
+        },
+        {
+          "name": "Obshtina Dobrich",
+          "latitude": "43.57763000",
+          "longitude": "27.80628000"
+        },
+        {
+          "name": "Obshtina Dobrich-Selska",
+          "latitude": "43.63333000",
+          "longitude": "27.73333000"
+        },
+        {
+          "name": "Obshtina General Toshevo",
+          "latitude": "43.73333000",
+          "longitude": "28.08333000"
+        },
+        {
+          "name": "Obshtina Kavarna",
+          "latitude": "43.50000000",
+          "longitude": "28.38333000"
+        },
+        {
+          "name": "Obshtina Krushari",
+          "latitude": "43.88333000",
+          "longitude": "27.75000000"
+        },
+        {
+          "name": "Obshtina Shabla",
+          "latitude": "43.61667000",
+          "longitude": "28.51667000"
+        },
+        {
+          "name": "Obshtina Tervel",
+          "latitude": "43.75000000",
+          "longitude": "27.40000000"
+        },
+        {
+          "name": "Shabla",
+          "latitude": "43.53983000",
+          "longitude": "28.53429000"
+        },
+        {
+          "name": "Tervel",
+          "latitude": "43.74789000",
+          "longitude": "27.40911000"
+        }
+      ]
+    },
+    {
+      "name": "Gabrovo Province",
+      "state_code": "07",
+      "latitude": "42.86847000",
+      "longitude": "25.31688900",
+      "cities": [
+        {
+          "name": "Dryanovo",
+          "latitude": "42.97897000",
+          "longitude": "25.47850000"
+        },
+        {
+          "name": "Gabrovo",
+          "latitude": "42.87472000",
+          "longitude": "25.33417000"
+        },
+        {
+          "name": "Obshtina Dryanovo",
+          "latitude": "43.00000000",
+          "longitude": "25.46667000"
+        },
+        {
+          "name": "Obshtina Gabrovo",
+          "latitude": "42.90000000",
+          "longitude": "25.30000000"
+        },
+        {
+          "name": "Obshtina Sevlievo",
+          "latitude": "43.01667000",
+          "longitude": "25.10000000"
+        },
+        {
+          "name": "Obshtina Tryavna",
+          "latitude": "42.85000000",
+          "longitude": "25.55000000"
+        },
+        {
+          "name": "Sevlievo",
+          "latitude": "43.02583000",
+          "longitude": "25.11361000"
+        },
+        {
+          "name": "Tryavna",
+          "latitude": "42.86667000",
+          "longitude": "25.50000000"
+        }
+      ]
+    },
+    {
+      "name": "Haskovo Province",
+      "state_code": "26",
+      "latitude": "41.93441780",
+      "longitude": "25.55546720",
+      "cities": [
+        {
+          "name": "Dimitrovgrad",
+          "latitude": "42.05000000",
+          "longitude": "25.60000000"
+        },
+        {
+          "name": "Harmanli",
+          "latitude": "41.93333000",
+          "longitude": "25.90000000"
+        },
+        {
+          "name": "Haskovo",
+          "latitude": "41.93415000",
+          "longitude": "25.55557000"
+        },
+        {
+          "name": "Ivaylovgrad",
+          "latitude": "41.52672000",
+          "longitude": "26.12490000"
+        },
+        {
+          "name": "Lyubimets",
+          "latitude": "41.83333000",
+          "longitude": "26.08333000"
+        },
+        {
+          "name": "Madzharovo",
+          "latitude": "41.63461000",
+          "longitude": "25.86439000"
+        },
+        {
+          "name": "Mineralni Bani",
+          "latitude": "41.91667000",
+          "longitude": "25.35000000"
+        },
+        {
+          "name": "Obshtina Dimitrovgrad",
+          "latitude": "42.05000000",
+          "longitude": "25.60000000"
+        },
+        {
+          "name": "Obshtina Harmanli",
+          "latitude": "41.93333000",
+          "longitude": "25.98333000"
+        },
+        {
+          "name": "Obshtina Haskovo",
+          "latitude": "41.88333000",
+          "longitude": "25.61667000"
+        },
+        {
+          "name": "Obshtina Ivaylovgrad",
+          "latitude": "41.48333000",
+          "longitude": "26.00000000"
+        },
+        {
+          "name": "Obshtina Madzharovo",
+          "latitude": "41.68333000",
+          "longitude": "25.90000000"
+        },
+        {
+          "name": "Obshtina Mineralni Bani",
+          "latitude": "41.90000000",
+          "longitude": "25.33333000"
+        },
+        {
+          "name": "Obshtina Stambolovo",
+          "latitude": "41.73333000",
+          "longitude": "25.70000000"
+        },
+        {
+          "name": "Obshtina Svilengrad",
+          "latitude": "41.86667000",
+          "longitude": "26.31667000"
+        },
+        {
+          "name": "Obshtina Topolovgrad",
+          "latitude": "42.08333000",
+          "longitude": "26.33333000"
+        },
+        {
+          "name": "Simeonovgrad",
+          "latitude": "42.03333000",
+          "longitude": "25.83333000"
+        },
+        {
+          "name": "Svilengrad",
+          "latitude": "41.76667000",
+          "longitude": "26.20000000"
+        },
+        {
+          "name": "Topolovgrad",
+          "latitude": "42.08333000",
+          "longitude": "26.33333000"
+        }
+      ]
+    },
+    {
+      "name": "Kardzhali Province",
+      "state_code": "09",
+      "latitude": "41.63384160",
+      "longitude": "25.37766870",
+      "cities": [
+        {
+          "name": "Ardino",
+          "latitude": "41.58333000",
+          "longitude": "25.13333000"
+        },
+        {
+          "name": "Dzhebel",
+          "latitude": "41.49566000",
+          "longitude": "25.30363000"
+        },
+        {
+          "name": "Kardzhali",
+          "latitude": "41.65000000",
+          "longitude": "25.36667000"
+        },
+        {
+          "name": "Kirkovo",
+          "latitude": "41.32715000",
+          "longitude": "25.36379000"
+        },
+        {
+          "name": "Krumovgrad",
+          "latitude": "41.47127000",
+          "longitude": "25.65485000"
+        },
+        {
+          "name": "Obshtina Ardino",
+          "latitude": "41.60000000",
+          "longitude": "25.15000000"
+        },
+        {
+          "name": "Obshtina Chernoochene",
+          "latitude": "41.78333000",
+          "longitude": "25.25000000"
+        },
+        {
+          "name": "Obshtina Dzhebel",
+          "latitude": "41.50000000",
+          "longitude": "25.26667000"
+        },
+        {
+          "name": "Obshtina Kardzhali",
+          "latitude": "41.68333000",
+          "longitude": "25.43333000"
+        },
+        {
+          "name": "Obshtina Kirkovo",
+          "latitude": "41.35816000",
+          "longitude": "25.33731000"
+        },
+        {
+          "name": "Obshtina Momchilgrad",
+          "latitude": "41.53333000",
+          "longitude": "25.50000000"
+        }
+      ]
+    },
+    {
+      "name": "Kyustendil Province",
+      "state_code": "10",
+      "latitude": "42.28687990",
+      "longitude": "22.69396350",
+      "cities": [
+        {
+          "name": "Boboshevo",
+          "latitude": "42.15296000",
+          "longitude": "23.00146000"
+        },
+        {
+          "name": "Bobov Dol",
+          "latitude": "42.36256000",
+          "longitude": "23.00324000"
+        },
+        {
+          "name": "Dupnitsa",
+          "latitude": "42.26667000",
+          "longitude": "23.11667000"
+        },
+        {
+          "name": "Kocherinovo",
+          "latitude": "42.08439000",
+          "longitude": "23.05710000"
+        },
+        {
+          "name": "Kyustendil",
+          "latitude": "42.28389000",
+          "longitude": "22.69111000"
+        },
+        {
+          "name": "Nevestino",
+          "latitude": "42.25551000",
+          "longitude": "22.85175000"
+        },
+        {
+          "name": "Obshtina Boboshevo",
+          "latitude": "42.18333000",
+          "longitude": "23.02731000"
+        },
+        {
+          "name": "Obshtina Bobov Dol",
+          "latitude": "42.31667000",
+          "longitude": "22.98333000"
+        },
+        {
+          "name": "Obshtina Dupnitsa",
+          "latitude": "42.28333000",
+          "longitude": "23.15000000"
+        },
+        {
+          "name": "Obshtina Kocherinovo",
+          "latitude": "42.09909000",
+          "longitude": "23.02942000"
+        },
+        {
+          "name": "Obshtina Kyustendil",
+          "latitude": "42.28333000",
+          "longitude": "22.68333000"
+        },
+        {
+          "name": "Obshtina Nevestino",
+          "latitude": "42.16667000",
+          "longitude": "22.83333000"
+        },
+        {
+          "name": "Obshtina Rila",
+          "latitude": "42.15000000",
+          "longitude": "23.31667000"
+        },
+        {
+          "name": "Obshtina Sapareva Banya",
+          "latitude": "42.28333000",
+          "longitude": "23.31667000"
+        },
+        {
+          "name": "Obshtina Treklyano",
+          "latitude": "42.55000000",
+          "longitude": "22.60000000"
+        },
+        {
+          "name": "Rila",
+          "latitude": "42.13333000",
+          "longitude": "23.13333000"
+        },
+        {
+          "name": "Sapareva Banya",
+          "latitude": "42.28333000",
+          "longitude": "23.26667000"
+        }
+      ]
+    },
+    {
+      "name": "Lovech Province",
+      "state_code": "11",
+      "latitude": "43.13677980",
+      "longitude": "24.71393350",
+      "cities": [
+        {
+          "name": "Apriltsi",
+          "latitude": "42.84142000",
+          "longitude": "24.91759000"
+        },
+        {
+          "name": "Letnitsa",
+          "latitude": "43.31167000",
+          "longitude": "25.07333000"
+        },
+        {
+          "name": "Lovech",
+          "latitude": "43.13333000",
+          "longitude": "24.71667000"
+        },
+        {
+          "name": "Lukovit",
+          "latitude": "43.20000000",
+          "longitude": "24.16667000"
+        },
+        {
+          "name": "Obshtina Lovech",
+          "latitude": "43.16667000",
+          "longitude": "24.80000000"
+        },
+        {
+          "name": "Obshtina Teteven",
+          "latitude": "42.91667000",
+          "longitude": "24.26667000"
+        },
+        {
+          "name": "Obshtina Ugarchin",
+          "latitude": "43.10000000",
+          "longitude": "24.41667000"
+        },
+        {
+          "name": "Teteven",
+          "latitude": "42.91667000",
+          "longitude": "24.26667000"
+        },
+        {
+          "name": "Troyan",
+          "latitude": "42.89427000",
+          "longitude": "24.71589000"
+        },
+        {
+          "name": "Ugarchin",
+          "latitude": "43.10000000",
+          "longitude": "24.41667000"
+        },
+        {
+          "name": "Yablanitsa",
+          "latitude": "43.03139000",
+          "longitude": "24.11278000"
+        }
+      ]
+    },
+    {
+      "name": "Montana Province",
+      "state_code": "12",
+      "latitude": "43.40851480",
+      "longitude": "23.22575890",
+      "cities": [
+        {
+          "name": "Berkovitsa",
+          "latitude": "43.23581000",
+          "longitude": "23.12738000"
+        },
+        {
+          "name": "Boychinovtsi",
+          "latitude": "43.47222000",
+          "longitude": "23.33583000"
+        },
+        {
+          "name": "Brusartsi",
+          "latitude": "43.66075000",
+          "longitude": "23.06732000"
+        },
+        {
+          "name": "Chiprovtsi",
+          "latitude": "43.38417000",
+          "longitude": "22.88083000"
+        },
+        {
+          "name": "Lom",
+          "latitude": "43.82106000",
+          "longitude": "23.23677000"
+        },
+        {
+          "name": "Medkovets",
+          "latitude": "43.62403000",
+          "longitude": "23.16876000"
+        },
+        {
+          "name": "Montana",
+          "latitude": "43.41250000",
+          "longitude": "23.22500000"
+        },
+        {
+          "name": "Obshtina Boychinovtsi",
+          "latitude": "43.53333000",
+          "longitude": "23.43333000"
+        },
+        {
+          "name": "Obshtina Chiprovtsi",
+          "latitude": "43.41667000",
+          "longitude": "22.90000000"
+        },
+        {
+          "name": "Obshtina Georgi Damyanovo",
+          "latitude": "43.35000000",
+          "longitude": "23.00000000"
+        },
+        {
+          "name": "Obshtina Lom",
+          "latitude": "43.81667000",
+          "longitude": "23.23333000"
+        },
+        {
+          "name": "Obshtina Montana",
+          "latitude": "43.46667000",
+          "longitude": "23.20000000"
+        },
+        {
+          "name": "Obshtina Valchedram",
+          "latitude": "43.71667000",
+          "longitude": "23.51667000"
+        },
+        {
+          "name": "Obshtina Varshets",
+          "latitude": "43.21667000",
+          "longitude": "23.33333000"
+        },
+        {
+          "name": "Obshtina Yakimovo",
+          "latitude": "43.63333000",
+          "longitude": "23.33333000"
+        },
+        {
+          "name": "Valchedram",
+          "latitude": "43.69281000",
+          "longitude": "23.44518000"
+        },
+        {
+          "name": "Varshets",
+          "latitude": "43.19356000",
+          "longitude": "23.28680000"
+        },
+        {
+          "name": "Yakimovo",
+          "latitude": "43.63472000",
+          "longitude": "23.35350000"
+        }
+      ]
+    },
+    {
+      "name": "Pazardzhik Province",
+      "state_code": "13",
+      "latitude": "42.19275670",
+      "longitude": "24.33362260",
+      "cities": [
+        {
+          "name": "Batak",
+          "latitude": "41.94225000",
+          "longitude": "24.21843000"
+        },
+        {
+          "name": "Belovo",
+          "latitude": "42.21239000",
+          "longitude": "24.02081000"
+        },
+        {
+          "name": "Bratsigovo",
+          "latitude": "42.01667000",
+          "longitude": "24.36667000"
+        },
+        {
+          "name": "Lesichovo",
+          "latitude": "42.35626000",
+          "longitude": "24.11190000"
+        },
+        {
+          "name": "Obshtina Batak",
+          "latitude": "41.86667000",
+          "longitude": "24.21667000"
+        },
+        {
+          "name": "Obshtina Belovo",
+          "latitude": "42.20000000",
+          "longitude": "23.93333000"
+        },
+        {
+          "name": "Obshtina Bratsigovo",
+          "latitude": "42.00000000",
+          "longitude": "24.40000000"
+        },
+        {
+          "name": "Obshtina Lesichovo",
+          "latitude": "42.36667000",
+          "longitude": "24.15000000"
+        },
+        {
+          "name": "Obshtina Panagyurishte",
+          "latitude": "42.50000000",
+          "longitude": "24.16667000"
+        },
+        {
+          "name": "Obshtina Pazardzhik",
+          "latitude": "42.20000000",
+          "longitude": "24.33333000"
+        },
+        {
+          "name": "Obshtina Peshtera",
+          "latitude": "42.03333000",
+          "longitude": "24.30000000"
+        },
+        {
+          "name": "Obshtina Rakitovo",
+          "latitude": "41.99965000",
+          "longitude": "24.10877000"
+        },
+        {
+          "name": "Obshtina Septemvri",
+          "latitude": "42.26667000",
+          "longitude": "24.13333000"
+        },
+        {
+          "name": "Obshtina Strelcha",
+          "latitude": "42.46667000",
+          "longitude": "24.36667000"
+        },
+        {
+          "name": "Obshtina Velingrad",
+          "latitude": "41.96667000",
+          "longitude": "23.93333000"
+        },
+        {
+          "name": "Panagyurishte",
+          "latitude": "42.49518000",
+          "longitude": "24.19021000"
+        },
+        {
+          "name": "Pazardzhik",
+          "latitude": "42.20000000",
+          "longitude": "24.33333000"
+        },
+        {
+          "name": "Peshtera",
+          "latitude": "42.03372000",
+          "longitude": "24.29995000"
+        },
+        {
+          "name": "Rakitovo",
+          "latitude": "41.99012000",
+          "longitude": "24.08730000"
+        },
+        {
+          "name": "Sarnitsa",
+          "latitude": "41.73835000",
+          "longitude": "24.02435000"
+        },
+        {
+          "name": "Sarnitsa Obshtina",
+          "latitude": "41.73333000",
+          "longitude": "24.03333000"
+        },
+        {
+          "name": "Septemvri",
+          "latitude": "42.21138000",
+          "longitude": "24.12946000"
+        },
+        {
+          "name": "Strelcha",
+          "latitude": "42.50000000",
+          "longitude": "24.31667000"
+        },
+        {
+          "name": "Velingrad",
+          "latitude": "42.02754000",
+          "longitude": "23.99155000"
+        }
+      ]
+    },
+    {
+      "name": "Pernik Province",
+      "state_code": "14",
+      "latitude": "42.60519900",
+      "longitude": "23.03779160",
+      "cities": [
+        {
+          "name": "Batanovtsi",
+          "latitude": "42.59692000",
+          "longitude": "22.95634000"
+        },
+        {
+          "name": "Breznik",
+          "latitude": "42.74085000",
+          "longitude": "22.90723000"
+        },
+        {
+          "name": "Obshtina Kovachevtsi",
+          "latitude": "42.55000000",
+          "longitude": "22.83333000"
+        },
+        {
+          "name": "Obshtina Pernik",
+          "latitude": "42.61667000",
+          "longitude": "23.08333000"
+        },
+        {
+          "name": "Obshtina Radomir",
+          "latitude": "42.46667000",
+          "longitude": "23.01667000"
+        },
+        {
+          "name": "Obshtina Zemen",
+          "latitude": "42.55067000",
+          "longitude": "22.71440000"
+        },
+        {
+          "name": "Pernik",
+          "latitude": "42.60000000",
+          "longitude": "23.03333000"
+        },
+        {
+          "name": "Radomir",
+          "latitude": "42.54565000",
+          "longitude": "22.96553000"
+        },
+        {
+          "name": "Tran",
+          "latitude": "42.83528000",
+          "longitude": "22.65167000"
+        },
+        {
+          "name": "Zemen",
+          "latitude": "42.47889000",
+          "longitude": "22.74917000"
+        }
+      ]
+    },
+    {
+      "name": "Pleven Province",
+      "state_code": "15",
+      "latitude": "43.41701690",
+      "longitude": "24.60667080",
+      "cities": [
+        {
+          "name": "Belene",
+          "latitude": "43.64594000",
+          "longitude": "25.12627000"
+        },
+        {
+          "name": "Cherven Bryag",
+          "latitude": "43.26667000",
+          "longitude": "24.10000000"
+        },
+        {
+          "name": "Dolna Mitropolia",
+          "latitude": "43.46667000",
+          "longitude": "24.53333000"
+        },
+        {
+          "name": "Dolni Dabnik",
+          "latitude": "43.40000000",
+          "longitude": "24.43333000"
+        },
+        {
+          "name": "Gulyantsi",
+          "latitude": "43.64109000",
+          "longitude": "24.69368000"
+        },
+        {
+          "name": "Iskar",
+          "latitude": "43.45000000",
+          "longitude": "24.26667000"
+        },
+        {
+          "name": "Knezha",
+          "latitude": "43.50000000",
+          "longitude": "24.08333000"
+        },
+        {
+          "name": "Koynare",
+          "latitude": "43.35000000",
+          "longitude": "24.13333000"
+        },
+        {
+          "name": "Levski",
+          "latitude": "43.36667000",
+          "longitude": "25.13333000"
+        },
+        {
+          "name": "Nikopol",
+          "latitude": "43.70528000",
+          "longitude": "24.89521000"
+        },
+        {
+          "name": "Obshtina Belene",
+          "latitude": "43.63333000",
+          "longitude": "25.13333000"
+        },
+        {
+          "name": "Obshtina Cherven Bryag",
+          "latitude": "43.33333000",
+          "longitude": "24.13333000"
+        },
+        {
+          "name": "Obshtina Dolna Mitropolia",
+          "latitude": "43.58333000",
+          "longitude": "24.41667000"
+        },
+        {
+          "name": "Obshtina Dolni Dabnik",
+          "latitude": "43.36667000",
+          "longitude": "24.41667000"
+        },
+        {
+          "name": "Obshtina Gulyantsi",
+          "latitude": "43.68333000",
+          "longitude": "24.65000000"
+        },
+        {
+          "name": "Obshtina Iskar",
+          "latitude": "43.50000000",
+          "longitude": "24.28333000"
+        },
+        {
+          "name": "Obshtina Knezha",
+          "latitude": "43.50000000",
+          "longitude": "24.11667000"
+        },
+        {
+          "name": "Obshtina Levski",
+          "latitude": "43.43333000",
+          "longitude": "25.10000000"
+        },
+        {
+          "name": "Obshtina Nikopol",
+          "latitude": "43.60000000",
+          "longitude": "24.93333000"
+        },
+        {
+          "name": "Obshtina Pleven",
+          "latitude": "43.40000000",
+          "longitude": "24.70000000"
+        },
+        {
+          "name": "Obshtina Pordim",
+          "latitude": "43.38333000",
+          "longitude": "24.90000000"
+        },
+        {
+          "name": "Pleven",
+          "latitude": "43.41667000",
+          "longitude": "24.61667000"
+        },
+        {
+          "name": "Pordim",
+          "latitude": "43.38333000",
+          "longitude": "24.85000000"
+        },
+        {
+          "name": "Slavyanovo",
+          "latitude": "43.46667000",
+          "longitude": "24.86667000"
+        }
+      ]
+    },
+    {
+      "name": "Plovdiv Province",
+      "state_code": "16",
+      "latitude": "42.13540790",
+      "longitude": "24.74529040",
+      "cities": [
+        {
+          "name": "Asenovgrad",
+          "latitude": "42.01667000",
+          "longitude": "24.86667000"
+        },
+        {
+          "name": "Brezovo",
+          "latitude": "42.35000000",
+          "longitude": "25.08333000"
+        },
+        {
+          "name": "Hisarya",
+          "latitude": "42.50000000",
+          "longitude": "24.70000000"
+        },
+        {
+          "name": "Kalofer",
+          "latitude": "42.61667000",
+          "longitude": "24.98333000"
+        },
+        {
+          "name": "Kaloyanovo",
+          "latitude": "42.35000000",
+          "longitude": "24.73333000"
+        },
+        {
+          "name": "Karlovo",
+          "latitude": "42.63333000",
+          "longitude": "24.80000000"
+        },
+        {
+          "name": "Klisura",
+          "latitude": "42.70000000",
+          "longitude": "24.45000000"
+        },
+        {
+          "name": "Krichim",
+          "latitude": "42.05000000",
+          "longitude": "24.46667000"
+        },
+        {
+          "name": "Laki",
+          "latitude": "41.85000000",
+          "longitude": "24.81667000"
+        },
+        {
+          "name": "Obshtina Asenovgrad",
+          "latitude": "41.95000000",
+          "longitude": "24.96667000"
+        },
+        {
+          "name": "Obshtina Hisarya",
+          "latitude": "42.50000000",
+          "longitude": "24.60000000"
+        },
+        {
+          "name": "Obshtina Kaloyanovo",
+          "latitude": "42.38333000",
+          "longitude": "24.81667000"
+        },
+        {
+          "name": "Obshtina Karlovo",
+          "latitude": "42.68333000",
+          "longitude": "24.66667000"
+        },
+        {
+          "name": "Obshtina Krichim",
+          "latitude": "42.00439000",
+          "longitude": "24.47235000"
+        },
+        {
+          "name": "Obshtina Kuklen",
+          "latitude": "42.03725000",
+          "longitude": "24.77949000"
+        },
+        {
+          "name": "Obshtina Laki",
+          "latitude": "41.81667000",
+          "longitude": "24.85000000"
+        },
+        {
+          "name": "Obshtina Maritsa",
+          "latitude": "42.23333000",
+          "longitude": "24.80000000"
+        },
+        {
+          "name": "Obshtina Parvomay",
+          "latitude": "42.03333000",
+          "longitude": "25.20000000"
+        },
+        {
+          "name": "Obshtina Perushtitsa",
+          "latitude": "42.06667000",
+          "longitude": "24.55000000"
+        },
+        {
+          "name": "Obshtina Plovdiv",
+          "latitude": "42.15000000",
+          "longitude": "24.75000000"
+        },
+        {
+          "name": "Obshtina Rakovski",
+          "latitude": "42.26667000",
+          "longitude": "24.98333000"
+        },
+        {
+          "name": "Obshtina Rodopi",
+          "latitude": "42.03333000",
+          "longitude": "24.68333000"
+        },
+        {
+          "name": "Obshtina Sadovo",
+          "latitude": "42.13333000",
+          "longitude": "25.00000000"
+        },
+        {
+          "name": "Obshtina Saedinenie",
+          "latitude": "42.31667000",
+          "longitude": "24.58333000"
+        },
+        {
+          "name": "Obshtina Sopot",
+          "latitude": "42.65214000",
+          "longitude": "24.74310000"
+        },
+        {
+          "name": "Obshtina Stamboliyski",
+          "latitude": "42.11667000",
+          "longitude": "24.51667000"
+        },
+        {
+          "name": "Parvomay",
+          "latitude": "42.10000000",
+          "longitude": "25.21667000"
+        },
+        {
+          "name": "Perushtitsa",
+          "latitude": "42.05000000",
+          "longitude": "24.55000000"
+        },
+        {
+          "name": "Plovdiv",
+          "latitude": "42.15000000",
+          "longitude": "24.75000000"
+        },
+        {
+          "name": "Rakovski",
+          "latitude": "42.27408000",
+          "longitude": "24.94083000"
+        },
+        {
+          "name": "Sadovo",
+          "latitude": "42.13178000",
+          "longitude": "24.93999000"
+        },
+        {
+          "name": "Saedinenie",
+          "latitude": "42.26667000",
+          "longitude": "24.55000000"
+        },
+        {
+          "name": "Stamboliyski",
+          "latitude": "42.13333000",
+          "longitude": "24.53333000"
+        },
+        {
+          "name": "Topolovo",
+          "latitude": "41.90000000",
+          "longitude": "25.00000000"
+        }
+      ]
+    },
+    {
+      "name": "Razgrad Province",
+      "state_code": "17",
+      "latitude": "43.52717050",
+      "longitude": "26.52412280",
+      "cities": [
+        {
+          "name": "Isperih",
+          "latitude": "43.71667000",
+          "longitude": "26.83333000"
+        },
+        {
+          "name": "Kubrat",
+          "latitude": "43.79658000",
+          "longitude": "26.50063000"
+        },
+        {
+          "name": "Loznitsa",
+          "latitude": "43.36667000",
+          "longitude": "26.60000000"
+        },
+        {
+          "name": "Medovene",
+          "latitude": "43.76667000",
+          "longitude": "26.51667000"
+        },
+        {
+          "name": "Obshtina Isperih",
+          "latitude": "43.71667000",
+          "longitude": "26.83333000"
+        },
+        {
+          "name": "Obshtina Kubrat",
+          "latitude": "43.86667000",
+          "longitude": "26.48333000"
+        },
+        {
+          "name": "Obshtina Loznitsa",
+          "latitude": "43.41667000",
+          "longitude": "26.58333000"
+        },
+        {
+          "name": "Obshtina Razgrad",
+          "latitude": "43.53333000",
+          "longitude": "26.51667000"
+        },
+        {
+          "name": "Obshtina Samuil",
+          "latitude": "43.60000000",
+          "longitude": "26.80000000"
+        },
+        {
+          "name": "Obshtina Tsar Kaloyan",
+          "latitude": "43.60000000",
+          "longitude": "26.21667000"
+        },
+        {
+          "name": "Obshtina Zavet",
+          "latitude": "43.76667000",
+          "longitude": "26.68333000"
+        },
+        {
+          "name": "Razgrad",
+          "latitude": "43.53333000",
+          "longitude": "26.51667000"
+        },
+        {
+          "name": "Samuil",
+          "latitude": "43.51667000",
+          "longitude": "26.75000000"
+        },
+        {
+          "name": "Tsar Kaloyan",
+          "latitude": "43.61667000",
+          "longitude": "26.25000000"
+        },
+        {
+          "name": "Zavet",
+          "latitude": "43.76036000",
+          "longitude": "26.68063000"
+        }
+      ]
+    },
+    {
+      "name": "Ruse Province",
+      "state_code": "18",
+      "latitude": "43.83559640",
+      "longitude": "25.96561440",
+      "cities": [
+        {
+          "name": "Borovo",
+          "latitude": "43.50086000",
+          "longitude": "25.80992000"
+        },
+        {
+          "name": "Dve Mogili",
+          "latitude": "43.59258000",
+          "longitude": "25.87486000"
+        },
+        {
+          "name": "Ivanovo",
+          "latitude": "43.68568000",
+          "longitude": "25.95565000"
+        },
+        {
+          "name": "Obshtina Borovo",
+          "latitude": "43.60000000",
+          "longitude": "25.80000000"
+        },
+        {
+          "name": "Obshtina Byala",
+          "latitude": "43.41667000",
+          "longitude": "25.83333000"
+        },
+        {
+          "name": "Obshtina Dve Mogili",
+          "latitude": "43.51667000",
+          "longitude": "25.96667000"
+        },
+        {
+          "name": "Obshtina Ivanovo",
+          "latitude": "43.70000000",
+          "longitude": "25.98333000"
+        },
+        {
+          "name": "Obshtina Ruse",
+          "latitude": "43.85000000",
+          "longitude": "26.08333000"
+        },
+        {
+          "name": "Obshtina Slivo Pole",
+          "latitude": "43.96667000",
+          "longitude": "26.30000000"
+        },
+        {
+          "name": "Obshtina Tsenovo",
+          "latitude": "43.58333000",
+          "longitude": "25.61667000"
+        },
+        {
+          "name": "Obshtina Vetovo",
+          "latitude": "43.71667000",
+          "longitude": "26.33333000"
+        },
+        {
+          "name": "Ruse",
+          "latitude": "43.84872000",
+          "longitude": "25.95340000"
+        },
+        {
+          "name": "Senovo",
+          "latitude": "43.65000000",
+          "longitude": "26.36667000"
+        },
+        {
+          "name": "Slivo Pole",
+          "latitude": "43.94248000",
+          "longitude": "26.20464000"
+        },
+        {
+          "name": "Tsenovo",
+          "latitude": "43.53588000",
+          "longitude": "25.65764000"
+        },
+        {
+          "name": "Vetovo",
+          "latitude": "43.70000000",
+          "longitude": "26.26667000"
+        }
+      ]
+    },
+    {
+      "name": "Shumen",
+      "state_code": "27",
+      "latitude": "43.27123980",
+      "longitude": "26.93612860",
+      "cities": [
+        {
+          "name": "Shumen",
+          "latitude": "43.28333300",
+          "longitude": "26.93333300"
+        }
+      ]
+    },
+    {
+      "name": "Silistra Province",
+      "state_code": "19",
+      "latitude": "44.11471010",
+      "longitude": "27.26714540",
+      "cities": [
+        {
+          "name": "Alfatar",
+          "latitude": "43.94525000",
+          "longitude": "27.28751000"
+        },
+        {
+          "name": "Dulovo",
+          "latitude": "43.81667000",
+          "longitude": "27.15000000"
+        },
+        {
+          "name": "Glavinitsa",
+          "latitude": "43.91667000",
+          "longitude": "26.83333000"
+        },
+        {
+          "name": "Kaynardzha",
+          "latitude": "43.99278000",
+          "longitude": "27.50713000"
+        },
+        {
+          "name": "Obshtina Alfatar",
+          "latitude": "43.90000000",
+          "longitude": "27.33333000"
+        },
+        {
+          "name": "Obshtina Dulovo",
+          "latitude": "43.81667000",
+          "longitude": "27.08333000"
+        },
+        {
+          "name": "Obshtina Glavinitsa",
+          "latitude": "43.95000000",
+          "longitude": "26.85000000"
+        },
+        {
+          "name": "Obshtina Kaynardzha",
+          "latitude": "43.95000000",
+          "longitude": "27.53333000"
+        },
+        {
+          "name": "Obshtina Silistra",
+          "latitude": "44.03333000",
+          "longitude": "27.20000000"
+        },
+        {
+          "name": "Obshtina Sitovo",
+          "latitude": "44.01667000",
+          "longitude": "27.00000000"
+        },
+        {
+          "name": "Obshtina Tutrakan",
+          "latitude": "44.00000000",
+          "longitude": "26.60000000"
+        },
+        {
+          "name": "Silistra",
+          "latitude": "44.11710000",
+          "longitude": "27.26056000"
+        },
+        {
+          "name": "Sitovo",
+          "latitude": "44.02730000",
+          "longitude": "27.01982000"
+        },
+        {
+          "name": "Tutrakan",
+          "latitude": "44.04906000",
+          "longitude": "26.61206000"
+        }
+      ]
+    },
+    {
+      "name": "Sliven Province",
+      "state_code": "20",
+      "latitude": "42.68167020",
+      "longitude": "26.32285690",
+      "cities": [
+        {
+          "name": "Kermen",
+          "latitude": "42.50000000",
+          "longitude": "26.25000000"
+        },
+        {
+          "name": "Kotel",
+          "latitude": "42.88333000",
+          "longitude": "26.45000000"
+        },
+        {
+          "name": "Nova Zagora",
+          "latitude": "42.48333000",
+          "longitude": "26.01667000"
+        },
+        {
+          "name": "Obshtina Kotel",
+          "latitude": "42.88333000",
+          "longitude": "26.45000000"
+        },
+        {
+          "name": "Obshtina Nova Zagora",
+          "latitude": "42.45000000",
+          "longitude": "26.05000000"
+        },
+        {
+          "name": "Obshtina Sliven",
+          "latitude": "42.66667000",
+          "longitude": "26.31667000"
+        },
+        {
+          "name": "Obshtina Tvarditsa",
+          "latitude": "42.73333000",
+          "longitude": "26.00000000"
+        },
+        {
+          "name": "Sliven",
+          "latitude": "42.68583000",
+          "longitude": "26.32917000"
+        },
+        {
+          "name": "Tvarditsa",
+          "latitude": "42.70000000",
+          "longitude": "25.90000000"
+        }
+      ]
+    },
+    {
+      "name": "Smolyan Province",
+      "state_code": "21",
+      "latitude": "41.57741480",
+      "longitude": "24.70108710",
+      "cities": [
+        {
+          "name": "Banite",
+          "latitude": "41.61667000",
+          "longitude": "25.01667000"
+        },
+        {
+          "name": "Borino",
+          "latitude": "41.68408000",
+          "longitude": "24.29300000"
+        },
+        {
+          "name": "Chepelare",
+          "latitude": "41.73333000",
+          "longitude": "24.68333000"
+        },
+        {
+          "name": "Devin",
+          "latitude": "41.74327000",
+          "longitude": "24.40003000"
+        },
+        {
+          "name": "Dospat",
+          "latitude": "41.64462000",
+          "longitude": "24.15857000"
+        },
+        {
+          "name": "Gyovren",
+          "latitude": "41.66326000",
+          "longitude": "24.37557000"
+        },
+        {
+          "name": "Madan",
+          "latitude": "41.49869000",
+          "longitude": "24.93973000"
+        },
+        {
+          "name": "Nedelino",
+          "latitude": "41.45602000",
+          "longitude": "25.08008000"
+        },
+        {
+          "name": "Obshtina Banite",
+          "latitude": "41.70000000",
+          "longitude": "25.00000000"
+        },
+        {
+          "name": "Obshtina Borino",
+          "latitude": "41.64834000",
+          "longitude": "24.31694000"
+        },
+        {
+          "name": "Obshtina Chepelare",
+          "latitude": "41.80000000",
+          "longitude": "24.68333000"
+        },
+        {
+          "name": "Obshtina Devin",
+          "latitude": "41.74346000",
+          "longitude": "24.40192000"
+        },
+        {
+          "name": "Obshtina Dospat",
+          "latitude": "41.63228000",
+          "longitude": "24.18765000"
+        },
+        {
+          "name": "Obshtina Madan",
+          "latitude": "41.53333000",
+          "longitude": "24.96667000"
+        },
+        {
+          "name": "Obshtina Nedelino",
+          "latitude": "41.46894000",
+          "longitude": "25.09481000"
+        },
+        {
+          "name": "Obshtina Rudozem",
+          "latitude": "41.45439000",
+          "longitude": "24.83690000"
+        },
+        {
+          "name": "Obshtina Smolyan",
+          "latitude": "41.57516000",
+          "longitude": "24.71302000"
+        },
+        {
+          "name": "Obshtina Zlatograd",
+          "latitude": "41.40028000",
+          "longitude": "25.04591000"
+        },
+        {
+          "name": "Rudozem",
+          "latitude": "41.48751000",
+          "longitude": "24.84945000"
+        },
+        {
+          "name": "Smolyan",
+          "latitude": "41.57439000",
+          "longitude": "24.71204000"
+        },
+        {
+          "name": "Zlatograd",
+          "latitude": "41.37950000",
+          "longitude": "25.09605000"
+        }
+      ]
+    },
+    {
+      "name": "Sofia City Province",
+      "state_code": "22",
+      "latitude": "42.75701090",
+      "longitude": "23.45046830",
+      "cities": [
+        {
+          "name": "Buhovo",
+          "latitude": "42.76667000",
+          "longitude": "23.56667000"
+        },
+        {
+          "name": "Sofia",
+          "latitude": "42.69751000",
+          "longitude": "23.32415000"
+        },
+        {
+          "name": "Stolichna Obshtina",
+          "latitude": "42.68647000",
+          "longitude": "23.30561000"
+        }
+      ]
+    },
+    {
+      "name": "Sofia Province",
+      "state_code": "23",
+      "latitude": "42.67344000",
+      "longitude": "23.83349370",
+      "cities": [
+        {
+          "name": "Anton",
+          "latitude": "42.75000000",
+          "longitude": "24.28333000"
+        },
+        {
+          "name": "Botevgrad",
+          "latitude": "42.90000000",
+          "longitude": "23.78333000"
+        },
+        {
+          "name": "Bozhurishte",
+          "latitude": "42.75000000",
+          "longitude": "23.20000000"
+        },
+        {
+          "name": "Chavdar",
+          "latitude": "42.65000000",
+          "longitude": "24.05000000"
+        },
+        {
+          "name": "Chelopech",
+          "latitude": "42.70000000",
+          "longitude": "24.08333000"
+        },
+        {
+          "name": "Dolna Banya",
+          "latitude": "42.30000000",
+          "longitude": "23.76667000"
+        },
+        {
+          "name": "Dragoman",
+          "latitude": "42.92191000",
+          "longitude": "22.93109000"
+        },
+        {
+          "name": "Elin Pelin",
+          "latitude": "42.66667000",
+          "longitude": "23.60000000"
+        },
+        {
+          "name": "Etropole",
+          "latitude": "42.83333000",
+          "longitude": "24.00000000"
+        },
+        {
+          "name": "Godech",
+          "latitude": "43.01682000",
+          "longitude": "23.04852000"
+        },
+        {
+          "name": "Gorna Malina",
+          "latitude": "42.68333000",
+          "longitude": "23.70000000"
+        },
+        {
+          "name": "Ihtiman",
+          "latitude": "42.43333000",
+          "longitude": "23.81667000"
+        },
+        {
+          "name": "Koprivshtitsa",
+          "latitude": "42.63333000",
+          "longitude": "24.35000000"
+        },
+        {
+          "name": "Kostinbrod",
+          "latitude": "42.81667000",
+          "longitude": "23.21667000"
+        },
+        {
+          "name": "Lakatnik",
+          "latitude": "43.05000000",
+          "longitude": "23.40000000"
+        },
+        {
+          "name": "Mirkovo",
+          "latitude": "42.70000000",
+          "longitude": "23.98333000"
+        },
+        {
+          "name": "Obshtina Anton",
+          "latitude": "42.76667000",
+          "longitude": "24.30000000"
+        },
+        {
+          "name": "Obshtina Botevgrad",
+          "latitude": "42.95000000",
+          "longitude": "23.75000000"
+        },
+        {
+          "name": "Obshtina Bozhurishte",
+          "latitude": "42.78333000",
+          "longitude": "23.11667000"
+        },
+        {
+          "name": "Obshtina Chavdar",
+          "latitude": "42.61667000",
+          "longitude": "24.08333000"
+        },
+        {
+          "name": "Obshtina Chelopech",
+          "latitude": "42.71667000",
+          "longitude": "24.06667000"
+        },
+        {
+          "name": "Obshtina Dolna Banya",
+          "latitude": "42.30000000",
+          "longitude": "23.76667000"
+        },
+        {
+          "name": "Obshtina Dragoman",
+          "latitude": "42.93333000",
+          "longitude": "22.93333000"
+        },
+        {
+          "name": "Obshtina Elin Pelin",
+          "latitude": "42.66667000",
+          "longitude": "23.60000000"
+        },
+        {
+          "name": "Obshtina Etropole",
+          "latitude": "42.85000000",
+          "longitude": "24.03333000"
+        },
+        {
+          "name": "Obshtina Gorna Malina",
+          "latitude": "42.71667000",
+          "longitude": "23.80000000"
+        },
+        {
+          "name": "Obshtina Koprivshtitsa",
+          "latitude": "42.61667000",
+          "longitude": "24.38333000"
+        },
+        {
+          "name": "Obshtina Kostenets",
+          "latitude": "42.30000000",
+          "longitude": "23.86667000"
+        },
+        {
+          "name": "Obshtina Kostinbrod",
+          "latitude": "42.88333000",
+          "longitude": "23.20000000"
+        },
+        {
+          "name": "Obshtina Mirkovo",
+          "latitude": "42.66667000",
+          "longitude": "23.96667000"
+        },
+        {
+          "name": "Obshtina Pirdop",
+          "latitude": "42.70000000",
+          "longitude": "24.23333000"
+        },
+        {
+          "name": "Obshtina Pravets",
+          "latitude": "42.96667000",
+          "longitude": "23.98333000"
+        },
+        {
+          "name": "Obshtina Samokov",
+          "latitude": "42.33333000",
+          "longitude": "23.55000000"
+        },
+        {
+          "name": "Obshtina Slivnitsa",
+          "latitude": "42.85000000",
+          "longitude": "22.98333000"
+        },
+        {
+          "name": "Obshtina Svoge",
+          "latitude": "43.00000000",
+          "longitude": "23.40000000"
+        },
+        {
+          "name": "Obshtina Zlatitsa",
+          "latitude": "42.70000000",
+          "longitude": "24.13333000"
+        },
+        {
+          "name": "Pirdop",
+          "latitude": "42.70000000",
+          "longitude": "24.18333000"
+        },
+        {
+          "name": "Pravets",
+          "latitude": "42.88333000",
+          "longitude": "23.91667000"
+        },
+        {
+          "name": "Samokov",
+          "latitude": "42.33700000",
+          "longitude": "23.55280000"
+        },
+        {
+          "name": "Slivnitsa",
+          "latitude": "42.85182000",
+          "longitude": "23.03792000"
+        },
+        {
+          "name": "Svoge",
+          "latitude": "42.96667000",
+          "longitude": "23.35000000"
+        },
+        {
+          "name": "Zlatitsa",
+          "latitude": "42.71667000",
+          "longitude": "24.13333000"
+        }
+      ]
+    },
+    {
+      "name": "Stara Zagora Province",
+      "state_code": "24",
+      "latitude": "42.42577090",
+      "longitude": "25.63448550",
+      "cities": [
+        {
+          "name": "Asen",
+          "latitude": "42.65000000",
+          "longitude": "25.20000000"
+        },
+        {
+          "name": "Chirpan",
+          "latitude": "42.20000000",
+          "longitude": "25.33333000"
+        },
+        {
+          "name": "Gŭlŭbovo",
+          "latitude": "42.13333000",
+          "longitude": "25.85000000"
+        },
+        {
+          "name": "Gurkovo",
+          "latitude": "42.66667000",
+          "longitude": "25.80000000"
+        },
+        {
+          "name": "Kazanlak",
+          "latitude": "42.61667000",
+          "longitude": "25.40000000"
+        },
+        {
+          "name": "Maglizh",
+          "latitude": "42.60000000",
+          "longitude": "25.55000000"
+        },
+        {
+          "name": "Nikolaevo",
+          "latitude": "42.63333000",
+          "longitude": "25.80000000"
+        },
+        {
+          "name": "Obshtina Bratya Daskalovi",
+          "latitude": "42.30000000",
+          "longitude": "25.21667000"
+        },
+        {
+          "name": "Obshtina Chirpan",
+          "latitude": "42.23333000",
+          "longitude": "25.38333000"
+        },
+        {
+          "name": "Obshtina Galabovo",
+          "latitude": "42.15000000",
+          "longitude": "25.96667000"
+        },
+        {
+          "name": "Obshtina Gurkovo",
+          "latitude": "42.71667000",
+          "longitude": "25.80000000"
+        },
+        {
+          "name": "Obshtina Kazanlŭk",
+          "latitude": "42.61943000",
+          "longitude": "25.39885000"
+        },
+        {
+          "name": "Obshtina Maglizh",
+          "latitude": "42.63333000",
+          "longitude": "25.61667000"
+        },
+        {
+          "name": "Obshtina Nikolaevo",
+          "latitude": "42.60000000",
+          "longitude": "25.78333000"
+        },
+        {
+          "name": "Obshtina Opan",
+          "latitude": "42.21667000",
+          "longitude": "25.70000000"
+        },
+        {
+          "name": "Obshtina Pavel Banya",
+          "latitude": "42.63333000",
+          "longitude": "25.13333000"
+        },
+        {
+          "name": "Obshtina Radnevo",
+          "latitude": "42.30000000",
+          "longitude": "25.93333000"
+        },
+        {
+          "name": "Obshtina Stara Zagora",
+          "latitude": "42.41667000",
+          "longitude": "25.63333000"
+        },
+        {
+          "name": "Pavel Banya",
+          "latitude": "42.60000000",
+          "longitude": "25.20000000"
+        },
+        {
+          "name": "Radnevo",
+          "latitude": "42.30000000",
+          "longitude": "25.93333000"
+        },
+        {
+          "name": "Shipka",
+          "latitude": "42.71667000",
+          "longitude": "25.33333000"
+        },
+        {
+          "name": "Stara Zagora",
+          "latitude": "42.43278000",
+          "longitude": "25.64194000"
+        }
+      ]
+    },
+    {
+      "name": "Targovishte Province",
+      "state_code": "25",
+      "latitude": "43.24623490",
+      "longitude": "26.56912510",
+      "cities": [
+        {
+          "name": "Antonovo",
+          "latitude": "43.15000000",
+          "longitude": "26.16667000"
+        },
+        {
+          "name": "Obshtina Antonovo",
+          "latitude": "43.11667000",
+          "longitude": "26.20000000"
+        },
+        {
+          "name": "Obshtina Omurtag",
+          "latitude": "43.08333000",
+          "longitude": "26.48333000"
+        },
+        {
+          "name": "Obshtina Opaka",
+          "latitude": "43.46667000",
+          "longitude": "26.15000000"
+        },
+        {
+          "name": "Obshtina Popovo",
+          "latitude": "43.35000000",
+          "longitude": "26.23333000"
+        },
+        {
+          "name": "Obshtina Targovishte",
+          "latitude": "43.25000000",
+          "longitude": "26.56667000"
+        },
+        {
+          "name": "Omurtag",
+          "latitude": "43.10000000",
+          "longitude": "26.41667000"
+        },
+        {
+          "name": "Opaka",
+          "latitude": "43.45000000",
+          "longitude": "26.16667000"
+        },
+        {
+          "name": "Popovo",
+          "latitude": "43.35000000",
+          "longitude": "26.23333000"
+        },
+        {
+          "name": "Targovishte",
+          "latitude": "43.25120000",
+          "longitude": "26.57215000"
+        }
+      ]
+    },
+    {
+      "name": "Varna Province",
+      "state_code": "03",
+      "latitude": "43.20464770",
+      "longitude": "27.91054880",
+      "cities": [
+        {
+          "name": "Aksakovo",
+          "latitude": "43.25615000",
+          "longitude": "27.82105000"
+        },
+        {
+          "name": "Asparuhovo",
+          "latitude": "43.18067000",
+          "longitude": "27.88823000"
+        },
+        {
+          "name": "Balgarevo",
+          "latitude": "43.40296000",
+          "longitude": "28.41189000"
+        },
+        {
+          "name": "Beloslav",
+          "latitude": "43.18960000",
+          "longitude": "27.70429000"
+        },
+        {
+          "name": "Byala",
+          "latitude": "42.87426000",
+          "longitude": "27.88865000"
+        },
+        {
+          "name": "Dalgopol",
+          "latitude": "43.05000000",
+          "longitude": "27.35000000"
+        },
+        {
+          "name": "Devnya",
+          "latitude": "43.22222000",
+          "longitude": "27.56944000"
+        },
+        {
+          "name": "Dolni Chiflik",
+          "latitude": "42.99296000",
+          "longitude": "27.71596000"
+        },
+        {
+          "name": "Kiten",
+          "latitude": "43.08333000",
+          "longitude": "27.31667000"
+        },
+        {
+          "name": "Obshtina Aksakovo",
+          "latitude": "43.31667000",
+          "longitude": "27.85000000"
+        },
+        {
+          "name": "Obshtina Avren",
+          "latitude": "43.10000000",
+          "longitude": "27.71667000"
+        },
+        {
+          "name": "Obshtina Beloslav",
+          "latitude": "43.20000000",
+          "longitude": "27.73333000"
+        },
+        {
+          "name": "Obshtina Byala",
+          "latitude": "42.88333000",
+          "longitude": "27.81667000"
+        },
+        {
+          "name": "Obshtina Dalgopol",
+          "latitude": "43.05000000",
+          "longitude": "27.35000000"
+        },
+        {
+          "name": "Obshtina Devnya",
+          "latitude": "43.22056000",
+          "longitude": "27.60052000"
+        },
+        {
+          "name": "Obshtina Dolni Chiflik",
+          "latitude": "42.96667000",
+          "longitude": "27.68333000"
+        },
+        {
+          "name": "Obshtina Provadia",
+          "latitude": "43.18333000",
+          "longitude": "27.40000000"
+        },
+        {
+          "name": "Obshtina Suvorovo",
+          "latitude": "43.33333000",
+          "longitude": "27.65000000"
+        },
+        {
+          "name": "Obshtina Valchidol",
+          "latitude": "43.45000000",
+          "longitude": "27.50000000"
+        },
+        {
+          "name": "Obshtina Varna",
+          "latitude": "43.21667000",
+          "longitude": "27.91667000"
+        },
+        {
+          "name": "Obshtina Vetrino",
+          "latitude": "43.31667000",
+          "longitude": "27.43333000"
+        },
+        {
+          "name": "Provadia",
+          "latitude": "43.18333000",
+          "longitude": "27.43333000"
+        },
+        {
+          "name": "Suvorovo",
+          "latitude": "43.33058000",
+          "longitude": "27.59908000"
+        },
+        {
+          "name": "Valchidol",
+          "latitude": "43.40000000",
+          "longitude": "27.55000000"
+        },
+        {
+          "name": "Varna",
+          "latitude": "43.21667000",
+          "longitude": "27.91667000"
+        },
+        {
+          "name": "Vetrino",
+          "latitude": "43.31667000",
+          "longitude": "27.43333000"
+        },
+        {
+          "name": "Zlatni Pyasatsi",
+          "latitude": "43.28500000",
+          "longitude": "28.04180000"
+        }
+      ]
+    },
+    {
+      "name": "Veliko Tarnovo Province",
+      "state_code": "04",
+      "latitude": "43.07565390",
+      "longitude": "25.61715000",
+      "cities": [
+        {
+          "name": "Byala Cherkva",
+          "latitude": "43.20000000",
+          "longitude": "25.30000000"
+        },
+        {
+          "name": "Debelets",
+          "latitude": "43.03333000",
+          "longitude": "25.61667000"
+        },
+        {
+          "name": "Elena",
+          "latitude": "42.93333000",
+          "longitude": "25.88333000"
+        },
+        {
+          "name": "Gorna Oryahovitsa",
+          "latitude": "43.12778000",
+          "longitude": "25.70167000"
+        },
+        {
+          "name": "Kilifarevo",
+          "latitude": "42.98333000",
+          "longitude": "25.63333000"
+        },
+        {
+          "name": "Lyaskovets",
+          "latitude": "43.11111000",
+          "longitude": "25.72833000"
+        },
+        {
+          "name": "Obshtina Elena",
+          "latitude": "42.91667000",
+          "longitude": "25.95000000"
+        },
+        {
+          "name": "Obshtina Gorna Oryahovitsa",
+          "latitude": "43.21667000",
+          "longitude": "25.75000000"
+        },
+        {
+          "name": "Obshtina Lyaskovets",
+          "latitude": "43.13333000",
+          "longitude": "25.85000000"
+        },
+        {
+          "name": "Obshtina Pavlikeni",
+          "latitude": "43.28333000",
+          "longitude": "25.35000000"
+        },
+        {
+          "name": "Obshtina Polski Trambesh",
+          "latitude": "43.35000000",
+          "longitude": "25.58333000"
+        },
+        {
+          "name": "Obshtina Strazhitsa",
+          "latitude": "43.26667000",
+          "longitude": "25.98333000"
+        },
+        {
+          "name": "Obshtina Suhindol",
+          "latitude": "43.16667000",
+          "longitude": "25.20000000"
+        },
+        {
+          "name": "Obshtina Svishtov",
+          "latitude": "43.53333000",
+          "longitude": "25.35000000"
+        },
+        {
+          "name": "Obshtina Veliko Tŭrnovo",
+          "latitude": "43.08241000",
+          "longitude": "25.63202000"
+        },
+        {
+          "name": "Obshtina Zlataritsa",
+          "latitude": "43.06667000",
+          "longitude": "25.98333000"
+        },
+        {
+          "name": "Parvomaytsi",
+          "latitude": "43.15000000",
+          "longitude": "25.65000000"
+        },
+        {
+          "name": "Pavlikeni",
+          "latitude": "43.24278000",
+          "longitude": "25.32194000"
+        },
+        {
+          "name": "Polski Trambesh",
+          "latitude": "43.37233000",
+          "longitude": "25.63525000"
+        },
+        {
+          "name": "Strazhitsa",
+          "latitude": "43.23333000",
+          "longitude": "25.96667000"
+        },
+        {
+          "name": "Suhindol",
+          "latitude": "43.19167000",
+          "longitude": "25.18111000"
+        },
+        {
+          "name": "Svishtov",
+          "latitude": "43.61875000",
+          "longitude": "25.35033000"
+        },
+        {
+          "name": "Veliko Tŭrnovo",
+          "latitude": "43.08124000",
+          "longitude": "25.62904000"
+        },
+        {
+          "name": "Zlataritsa",
+          "latitude": "43.05000000",
+          "longitude": "25.90000000"
+        }
+      ]
+    },
+    {
+      "name": "Vidin Province",
+      "state_code": "05",
+      "latitude": "43.99617390",
+      "longitude": "22.86795150",
+      "cities": [
+        {
+          "name": "Belogradchik",
+          "latitude": "43.62722000",
+          "longitude": "22.68361000"
+        },
+        {
+          "name": "Boynitsa",
+          "latitude": "43.95650000",
+          "longitude": "22.53255000"
+        },
+        {
+          "name": "Bregovo",
+          "latitude": "44.15167000",
+          "longitude": "22.64250000"
+        },
+        {
+          "name": "Chuprene",
+          "latitude": "43.51806000",
+          "longitude": "22.66611000"
+        },
+        {
+          "name": "Dimovo",
+          "latitude": "43.74167000",
+          "longitude": "22.72694000"
+        },
+        {
+          "name": "Drenovets",
+          "latitude": "43.69134000",
+          "longitude": "22.97365000"
+        },
+        {
+          "name": "Dunavtsi",
+          "latitude": "43.92111000",
+          "longitude": "22.82111000"
+        },
+        {
+          "name": "Gramada",
+          "latitude": "43.83738000",
+          "longitude": "22.65279000"
+        },
+        {
+          "name": "Kula",
+          "latitude": "43.88833000",
+          "longitude": "22.52139000"
+        },
+        {
+          "name": "Makresh",
+          "latitude": "43.76794000",
+          "longitude": "22.66406000"
+        },
+        {
+          "name": "Novo Selo",
+          "latitude": "44.16214000",
+          "longitude": "22.78376000"
+        },
+        {
+          "name": "Obshtina Belogradchik",
+          "latitude": "43.65000000",
+          "longitude": "22.60000000"
+        },
+        {
+          "name": "Obshtina Boynitsa",
+          "latitude": "44.00000000",
+          "longitude": "22.55000000"
+        },
+        {
+          "name": "Obshtina Dimovo",
+          "latitude": "43.75000000",
+          "longitude": "22.81667000"
+        },
+        {
+          "name": "Obshtina Gramada",
+          "latitude": "43.83333000",
+          "longitude": "22.65000000"
+        },
+        {
+          "name": "Obshtina Kula",
+          "latitude": "43.90000000",
+          "longitude": "22.56667000"
+        },
+        {
+          "name": "Obshtina Ruzhintsi",
+          "latitude": "43.65000000",
+          "longitude": "22.90000000"
+        },
+        {
+          "name": "Obshtina Vidin",
+          "latitude": "44.00000000",
+          "longitude": "22.83333000"
+        },
+        {
+          "name": "Ruzhintsi",
+          "latitude": "43.62179000",
+          "longitude": "22.83286000"
+        },
+        {
+          "name": "Vidin",
+          "latitude": "43.99159000",
+          "longitude": "22.88236000"
+        }
+      ]
+    },
+    {
+      "name": "Vratsa Province",
+      "state_code": "06",
+      "latitude": "43.21018060",
+      "longitude": "23.55292100",
+      "cities": [
+        {
+          "name": "Borovan",
+          "latitude": "43.43333000",
+          "longitude": "23.75000000"
+        },
+        {
+          "name": "Byala Slatina",
+          "latitude": "43.46667000",
+          "longitude": "23.93333000"
+        },
+        {
+          "name": "Hayredin",
+          "latitude": "43.60193000",
+          "longitude": "23.66135000"
+        },
+        {
+          "name": "Kozloduy",
+          "latitude": "43.77864000",
+          "longitude": "23.72058000"
+        },
+        {
+          "name": "Krivodol",
+          "latitude": "43.37444000",
+          "longitude": "23.48444000"
+        },
+        {
+          "name": "Mezdra",
+          "latitude": "43.15000000",
+          "longitude": "23.70000000"
+        },
+        {
+          "name": "Mizia",
+          "latitude": "43.68623000",
+          "longitude": "23.85371000"
+        },
+        {
+          "name": "Obshtina Borovan",
+          "latitude": "43.43333000",
+          "longitude": "23.75000000"
+        },
+        {
+          "name": "Obshtina Hayredin",
+          "latitude": "43.58333000",
+          "longitude": "23.66667000"
+        },
+        {
+          "name": "Obshtina Kozloduy",
+          "latitude": "43.71667000",
+          "longitude": "23.73333000"
+        },
+        {
+          "name": "Obshtina Krivodol",
+          "latitude": "43.38333000",
+          "longitude": "23.48333000"
+        },
+        {
+          "name": "Obshtina Mezdra",
+          "latitude": "43.13333000",
+          "longitude": "23.73333000"
+        },
+        {
+          "name": "Obshtina Mizia",
+          "latitude": "43.63333000",
+          "longitude": "23.85000000"
+        },
+        {
+          "name": "Obshtina Oryahovo",
+          "latitude": "43.69038000",
+          "longitude": "23.98643000"
+        },
+        {
+          "name": "Obshtina Roman",
+          "latitude": "43.15000000",
+          "longitude": "23.91667000"
+        },
+        {
+          "name": "Obshtina Vratsa",
+          "latitude": "43.28333000",
+          "longitude": "23.60000000"
+        },
+        {
+          "name": "Oryahovo",
+          "latitude": "43.73618000",
+          "longitude": "23.96052000"
+        },
+        {
+          "name": "Roman",
+          "latitude": "43.15000000",
+          "longitude": "23.91667000"
+        },
+        {
+          "name": "Vratsa",
+          "latitude": "43.21000000",
+          "longitude": "23.56250000"
+        }
+      ]
+    },
+    {
+      "name": "Yambol Province",
+      "state_code": "28",
+      "latitude": "42.48414940",
+      "longitude": "26.50352960",
+      "cities": [
+        {
+          "name": "Bolyarovo",
+          "latitude": "42.14962000",
+          "longitude": "26.81116000"
+        },
+        {
+          "name": "Elhovo",
+          "latitude": "42.16667000",
+          "longitude": "26.56667000"
+        },
+        {
+          "name": "Obshtina Bolyarovo",
+          "latitude": "42.15000000",
+          "longitude": "26.85000000"
+        },
+        {
+          "name": "Obshtina Elhovo",
+          "latitude": "42.11667000",
+          "longitude": "26.61667000"
+        },
+        {
+          "name": "Obshtina Straldzha",
+          "latitude": "42.48333000",
+          "longitude": "26.78333000"
+        },
+        {
+          "name": "Obshtina Tundzha",
+          "latitude": "42.35000000",
+          "longitude": "26.45000000"
+        },
+        {
+          "name": "Obshtina Yambol",
+          "latitude": "42.48333000",
+          "longitude": "26.50000000"
+        },
+        {
+          "name": "Straldzha",
+          "latitude": "42.60000000",
+          "longitude": "26.68333000"
+        },
+        {
+          "name": "Yambol",
+          "latitude": "42.48333000",
+          "longitude": "26.50000000"
+        }
+      ]
+    }
+  ]
+}

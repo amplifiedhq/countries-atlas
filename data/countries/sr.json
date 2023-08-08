@@ -1,0 +1,149 @@
+{
+  "code": "SR",
+  "states": [
+    {
+      "name": "Brokopondo District",
+      "state_code": "BR",
+      "latitude": "4.77102470",
+      "longitude": "-55.04933750",
+      "cities": [
+        {
+          "name": "Brokopondo",
+          "latitude": "5.05594000",
+          "longitude": "-54.98043000"
+        },
+        {
+          "name": "Brownsweg",
+          "latitude": "5.00435000",
+          "longitude": "-55.15333000"
+        }
+      ]
+    },
+    {
+      "name": "Commewijne District",
+      "state_code": "CM",
+      "latitude": "5.74021100",
+      "longitude": "-54.87312190",
+      "cities": [
+        {
+          "name": "Mariënburg",
+          "latitude": "5.87722000",
+          "longitude": "-55.04322000"
+        },
+        {
+          "name": "Nieuw Amsterdam",
+          "latitude": "5.88573000",
+          "longitude": "-55.08871000"
+        }
+      ]
+    },
+    {
+      "name": "Coronie District",
+      "state_code": "CR",
+      "latitude": "5.69432710",
+      "longitude": "-56.29293810",
+      "cities": [
+        {
+          "name": "Totness",
+          "latitude": "5.87618000",
+          "longitude": "-56.32572000"
+        }
+      ]
+    },
+    {
+      "name": "Marowijne District",
+      "state_code": "MA",
+      "latitude": "5.62681280",
+      "longitude": "-54.25931180",
+      "cities": [
+        {
+          "name": "Albina",
+          "latitude": "5.49788000",
+          "longitude": "-54.05522000"
+        },
+        {
+          "name": "Moengo",
+          "latitude": "5.61411000",
+          "longitude": "-54.40121000"
+        }
+      ]
+    },
+    {
+      "name": "Nickerie District",
+      "state_code": "NI",
+      "latitude": "5.58554690",
+      "longitude": "-56.83111170",
+      "cities": [
+        {
+          "name": "Nieuw Nickerie",
+          "latitude": "5.92606000",
+          "longitude": "-56.97297000"
+        },
+        {
+          "name": "Wageningen",
+          "latitude": "5.76010000",
+          "longitude": "-56.66523000"
+        }
+      ]
+    },
+    {
+      "name": "Para District",
+      "state_code": "PR",
+      "latitude": "5.48173180",
+      "longitude": "-55.22592070",
+      "cities": [
+        {
+          "name": "Onverwacht",
+          "latitude": "5.58983000",
+          "longitude": "-55.19462000"
+        }
+      ]
+    },
+    {
+      "name": "Paramaribo District",
+      "state_code": "PM",
+      "latitude": "5.85203550",
+      "longitude": "-55.20382780",
+      "cities": [
+        {
+          "name": "Paramaribo",
+          "latitude": "5.86638000",
+          "longitude": "-55.16682000"
+        }
+      ]
+    },
+    {
+      "name": "Saramacca District",
+      "state_code": "SA",
+      "latitude": "5.72408130",
+      "longitude": "-55.66896360",
+      "cities": [
+        {
+          "name": "Groningen",
+          "latitude": "5.80000000",
+          "longitude": "-55.46667000"
+        }
+      ]
+    },
+    {
+      "name": "Sipaliwini District",
+      "state_code": "SI",
+      "latitude": "3.65673820",
+      "longitude": "-56.20353870",
+      "cities": []
+    },
+    {
+      "name": "Wanica District",
+      "state_code": "WA",
+      "latitude": "5.73237620",
+      "longitude": "-55.27012350",
+      "cities": [
+        {
+          "name": "Lelydorp",
+          "latitude": "5.70000000",
+          "longitude": "-55.23333000"
+        }
+      ]
+    }
+  ]
+}

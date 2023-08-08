@@ -1,0 +1,199 @@
+{
+  "code": "LB",
+  "states": [
+    {
+      "name": "Akkar Governorate",
+      "state_code": "AK",
+      "latitude": "34.53287630",
+      "longitude": "36.13281320",
+      "cities": [
+        {
+          "name": "Caza de Aakkar",
+          "latitude": "34.53333000",
+          "longitude": "36.16667000"
+        }
+      ]
+    },
+    {
+      "name": "Baalbek-Hermel Governorate",
+      "state_code": "BH",
+      "latitude": "34.26585560",
+      "longitude": "36.34980970",
+      "cities": [
+        {
+          "name": "Baalbek",
+          "latitude": "34.00583000",
+          "longitude": "36.21806000"
+        },
+        {
+          "name": "Caza de Baalbek",
+          "latitude": "34.09822000",
+          "longitude": "36.27157000"
+        }
+      ]
+    },
+    {
+      "name": "Beirut Governorate",
+      "state_code": "BA",
+      "latitude": "33.88861060",
+      "longitude": "35.49547720",
+      "cities": [
+        {
+          "name": "Beirut",
+          "latitude": "33.89332000",
+          "longitude": "35.50157000"
+        },
+        {
+          "name": "Ra’s Bayrūt",
+          "latitude": "33.90000000",
+          "longitude": "35.48333000"
+        }
+      ]
+    },
+    {
+      "name": "Beqaa Governorate",
+      "state_code": "BI",
+      "latitude": "33.84626620",
+      "longitude": "35.90194890",
+      "cities": [
+        {
+          "name": "Aanjar",
+          "latitude": "33.72778000",
+          "longitude": "35.93111000"
+        },
+        {
+          "name": "Zahlé",
+          "latitude": "33.84675000",
+          "longitude": "35.90203000"
+        }
+      ]
+    },
+    {
+      "name": "Mount Lebanon Governorate",
+      "state_code": "JL",
+      "latitude": "33.81008580",
+      "longitude": "35.59731390",
+      "cities": [
+        {
+          "name": "Baabda",
+          "latitude": "33.83389000",
+          "longitude": "35.54417000"
+        },
+        {
+          "name": "Bhamdoun",
+          "latitude": "33.79500000",
+          "longitude": "35.65111000"
+        },
+        {
+          "name": "Bhamdoûn el Mhatta",
+          "latitude": "33.80861000",
+          "longitude": "35.65972000"
+        },
+        {
+          "name": "Caza de Baabda",
+          "latitude": "33.84592000",
+          "longitude": "35.66791000"
+        },
+        {
+          "name": "Jbaïl",
+          "latitude": "34.12111000",
+          "longitude": "35.64806000"
+        },
+        {
+          "name": "Jounieh",
+          "latitude": "33.98083000",
+          "longitude": "35.61778000"
+        }
+      ]
+    },
+    {
+      "name": "Nabatieh Governorate",
+      "state_code": "NA",
+      "latitude": "33.37716930",
+      "longitude": "35.48382930",
+      "cities": [
+        {
+          "name": "Ain Ebel",
+          "latitude": "33.11023000",
+          "longitude": "35.40251000"
+        },
+        {
+          "name": "Caza de Bent Jbaïl",
+          "latitude": "33.15964000",
+          "longitude": "35.41137000"
+        },
+        {
+          "name": "Caza de Nabatîyé",
+          "latitude": "33.39435000",
+          "longitude": "35.44483000"
+        },
+        {
+          "name": "Habboûch",
+          "latitude": "33.40729000",
+          "longitude": "35.48169000"
+        },
+        {
+          "name": "Marjayoûn",
+          "latitude": "33.36028000",
+          "longitude": "35.59111000"
+        },
+        {
+          "name": "Nabatîyé et Tahta",
+          "latitude": "33.37889000",
+          "longitude": "35.48389000"
+        }
+      ]
+    },
+    {
+      "name": "North Governorate",
+      "state_code": "AS",
+      "latitude": "34.43806250",
+      "longitude": "35.83082330",
+      "cities": [
+        {
+          "name": "Batroûn",
+          "latitude": "34.25528000",
+          "longitude": "35.65806000"
+        },
+        {
+          "name": "Bcharré",
+          "latitude": "34.25083000",
+          "longitude": "36.01056000"
+        },
+        {
+          "name": "Tripoli",
+          "latitude": "34.43352000",
+          "longitude": "35.84415000"
+        }
+      ]
+    },
+    {
+      "name": "South Governorate",
+      "state_code": "JA",
+      "latitude": "33.27214790",
+      "longitude": "35.20327780",
+      "cities": [
+        {
+          "name": "En Nâqoûra",
+          "latitude": "33.11806000",
+          "longitude": "35.13972000"
+        },
+        {
+          "name": "Ghazieh",
+          "latitude": "33.51750000",
+          "longitude": "35.36889000"
+        },
+        {
+          "name": "Sidon",
+          "latitude": "33.55751000",
+          "longitude": "35.37148000"
+        },
+        {
+          "name": "Tyre",
+          "latitude": "33.27333000",
+          "longitude": "35.19389000"
+        }
+      ]
+    }
+  ]
+}

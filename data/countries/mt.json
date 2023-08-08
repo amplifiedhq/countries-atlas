@@ -1,0 +1,872 @@
+{
+  "code": "MT",
+  "states": [
+    {
+      "name": "Attard",
+      "state_code": "01",
+      "latitude": "35.89049670",
+      "longitude": "14.41993220",
+      "cities": [
+        {
+          "name": "Attard",
+          "latitude": "35.88972000",
+          "longitude": "14.44250000"
+        }
+      ]
+    },
+    {
+      "name": "Balzan",
+      "state_code": "02",
+      "latitude": "35.89574140",
+      "longitude": "14.45340650",
+      "cities": [
+        {
+          "name": "Balzan",
+          "latitude": "35.90028000",
+          "longitude": "14.45500000"
+        }
+      ]
+    },
+    {
+      "name": "Birgu",
+      "state_code": "03",
+      "latitude": "35.88792140",
+      "longitude": "14.52256200",
+      "cities": [
+        {
+          "name": "Vittoriosa",
+          "latitude": "35.89222000",
+          "longitude": "14.51833000"
+        }
+      ]
+    },
+    {
+      "name": "Birkirkara",
+      "state_code": "04",
+      "latitude": "35.89547060",
+      "longitude": "14.46650720",
+      "cities": [
+        {
+          "name": "Birkirkara",
+          "latitude": "35.89722000",
+          "longitude": "14.46111000"
+        }
+      ]
+    },
+    {
+      "name": "Birżebbuġa",
+      "state_code": "05",
+      "latitude": "35.81359890",
+      "longitude": "14.52474630",
+      "cities": [
+        {
+          "name": "Birżebbuġa",
+          "latitude": "35.82583000",
+          "longitude": "14.52694000"
+        }
+      ]
+    },
+    {
+      "name": "Cospicua",
+      "state_code": "06",
+      "latitude": "35.88067530",
+      "longitude": "14.52183380",
+      "cities": [
+        {
+          "name": "Cospicua",
+          "latitude": "35.88556000",
+          "longitude": "14.52750000"
+        }
+      ]
+    },
+    {
+      "name": "Dingli",
+      "state_code": "07",
+      "latitude": "35.86273090",
+      "longitude": "14.38501070",
+      "cities": [
+        {
+          "name": "Dingli",
+          "latitude": "35.86139000",
+          "longitude": "14.38222000"
+        }
+      ]
+    },
+    {
+      "name": "Fgura",
+      "state_code": "08",
+      "latitude": "35.87382690",
+      "longitude": "14.52329010",
+      "cities": [
+        {
+          "name": "Fgura",
+          "latitude": "35.87028000",
+          "longitude": "14.51333000"
+        }
+      ]
+    },
+    {
+      "name": "Floriana",
+      "state_code": "09",
+      "latitude": "45.49521850",
+      "longitude": "-73.71395760",
+      "cities": [
+        {
+          "name": "Floriana",
+          "latitude": "35.89583000",
+          "longitude": "14.50833000"
+        }
+      ]
+    },
+    {
+      "name": "Fontana",
+      "state_code": "10",
+      "latitude": "34.09223350",
+      "longitude": "-117.43504800",
+      "cities": [
+        {
+          "name": "Fontana",
+          "latitude": "36.03750000",
+          "longitude": "14.23611000"
+        }
+      ]
+    },
+    {
+      "name": "Għajnsielem",
+      "state_code": "13",
+      "latitude": "36.02479660",
+      "longitude": "14.28029610",
+      "cities": [
+        {
+          "name": "Għajnsielem",
+          "latitude": "36.02639000",
+          "longitude": "14.28500000"
+        },
+        {
+          "name": "Hal Gharghur",
+          "latitude": "35.92409000",
+          "longitude": "14.45118000"
+        }
+      ]
+    },
+    {
+      "name": "Għarb",
+      "state_code": "14",
+      "latitude": "36.06890900",
+      "longitude": "14.20180980",
+      "cities": []
+    },
+    {
+      "name": "Għargħur",
+      "state_code": "15",
+      "latitude": "35.92205690",
+      "longitude": "14.45631760",
+      "cities": [
+        {
+          "name": "Għaxaq",
+          "latitude": "35.84889000",
+          "longitude": "14.51667000"
+        }
+      ]
+    },
+    {
+      "name": "Għasri",
+      "state_code": "16",
+      "latitude": "36.06680750",
+      "longitude": "14.21924750",
+      "cities": [
+        {
+          "name": "Gudja",
+          "latitude": "35.84917000",
+          "longitude": "14.50306000"
+        }
+      ]
+    },
+    {
+      "name": "Għaxaq",
+      "state_code": "17",
+      "latitude": "35.84403590",
+      "longitude": "14.51600900",
+      "cities": [
+        {
+          "name": "Gżira",
+          "latitude": "35.90583000",
+          "longitude": "14.48806000"
+        }
+      ]
+    },
+    {
+      "name": "Gudja",
+      "state_code": "11",
+      "latitude": "35.84698030",
+      "longitude": "14.50290400",
+      "cities": []
+    },
+    {
+      "name": "Gżira",
+      "state_code": "12",
+      "latitude": "35.90589700",
+      "longitude": "14.49533380",
+      "cities": [
+        {
+          "name": "Għarb",
+          "latitude": "36.06000000",
+          "longitude": "14.20889000"
+        }
+      ]
+    },
+    {
+      "name": "Ħamrun",
+      "state_code": "18",
+      "latitude": "35.88612370",
+      "longitude": "14.48834420",
+      "cities": [
+        {
+          "name": "Ħamrun",
+          "latitude": "35.88472000",
+          "longitude": "14.48444000"
+        }
+      ]
+    },
+    {
+      "name": "Iklin",
+      "state_code": "19",
+      "latitude": "35.90987740",
+      "longitude": "14.45777320",
+      "cities": [
+        {
+          "name": "L-Iklin",
+          "latitude": "35.90414000",
+          "longitude": "14.45415000"
+        }
+      ]
+    },
+    {
+      "name": "Kalkara",
+      "state_code": "21",
+      "latitude": "35.89142420",
+      "longitude": "14.53202780",
+      "cities": [
+        {
+          "name": "Imġarr",
+          "latitude": "35.92056000",
+          "longitude": "14.36639000"
+        },
+        {
+          "name": "Mġarr",
+          "latitude": "36.02528000",
+          "longitude": "14.29500000"
+        }
+      ]
+    },
+    {
+      "name": "Kerċem",
+      "state_code": "22",
+      "latitude": "36.04479390",
+      "longitude": "14.22506050",
+      "cities": [
+        {
+          "name": "Mqabba",
+          "latitude": "35.84763000",
+          "longitude": "14.46824000"
+        }
+      ]
+    },
+    {
+      "name": "Kirkop",
+      "state_code": "23",
+      "latitude": "35.84378620",
+      "longitude": "14.48543240",
+      "cities": [
+        {
+          "name": "Imsida",
+          "latitude": "35.89250000",
+          "longitude": "14.48278000"
+        },
+        {
+          "name": "Kirkop",
+          "latitude": "35.84222000",
+          "longitude": "14.48528000"
+        }
+      ]
+    },
+    {
+      "name": "Lija",
+      "state_code": "24",
+      "latitude": "49.18007600",
+      "longitude": "-123.10331700",
+      "cities": [
+        {
+          "name": "Imtarfa",
+          "latitude": "35.89333000",
+          "longitude": "14.39889000"
+        },
+        {
+          "name": "Lija",
+          "latitude": "35.90056000",
+          "longitude": "14.44639000"
+        }
+      ]
+    },
+    {
+      "name": "Luqa",
+      "state_code": "25",
+      "latitude": "35.85828650",
+      "longitude": "14.48688830",
+      "cities": [
+        {
+          "name": "Luqa",
+          "latitude": "35.85889000",
+          "longitude": "14.48861000"
+        },
+        {
+          "name": "Senglea",
+          "latitude": "35.88750000",
+          "longitude": "14.51694000"
+        }
+      ]
+    },
+    {
+      "name": "Marsa",
+      "state_code": "26",
+      "latitude": "34.03195870",
+      "longitude": "-118.44555350",
+      "cities": [
+        {
+          "name": "Kalkara",
+          "latitude": "35.88917000",
+          "longitude": "14.53278000"
+        }
+      ]
+    },
+    {
+      "name": "Marsaskala",
+      "state_code": "27",
+      "latitude": "35.86036400",
+      "longitude": "14.55678760",
+      "cities": [
+        {
+          "name": "Kerċem",
+          "latitude": "36.04194000",
+          "longitude": "14.22667000"
+        },
+        {
+          "name": "Marsaskala",
+          "latitude": "35.86220000",
+          "longitude": "14.56701000"
+        }
+      ]
+    },
+    {
+      "name": "Marsaxlokk",
+      "state_code": "28",
+      "latitude": "35.84116990",
+      "longitude": "14.53930970",
+      "cities": [
+        {
+          "name": "Marsaxlokk",
+          "latitude": "35.84194000",
+          "longitude": "14.54306000"
+        }
+      ]
+    },
+    {
+      "name": "Mdina",
+      "state_code": "29",
+      "latitude": "35.88809300",
+      "longitude": "14.40683570",
+      "cities": []
+    },
+    {
+      "name": "Mellieħa",
+      "state_code": "30",
+      "latitude": "35.95235290",
+      "longitude": "14.35009750",
+      "cities": []
+    },
+    {
+      "name": "Mġarr",
+      "state_code": "31",
+      "latitude": "35.91893270",
+      "longitude": "14.36173430",
+      "cities": [
+        {
+          "name": "Marsa",
+          "latitude": "35.87917000",
+          "longitude": "14.49528000"
+        }
+      ]
+    },
+    {
+      "name": "Mosta",
+      "state_code": "32",
+      "latitude": "35.91415040",
+      "longitude": "14.42284270",
+      "cities": []
+    },
+    {
+      "name": "Mqabba",
+      "state_code": "33",
+      "latitude": "35.84441430",
+      "longitude": "14.46941860",
+      "cities": []
+    },
+    {
+      "name": "Msida",
+      "state_code": "34",
+      "latitude": "35.89563880",
+      "longitude": "14.48688830",
+      "cities": [
+        {
+          "name": "Mellieħa",
+          "latitude": "35.95639000",
+          "longitude": "14.36222000"
+        }
+      ]
+    },
+    {
+      "name": "Mtarfa",
+      "state_code": "35",
+      "latitude": "35.88951250",
+      "longitude": "14.39519530",
+      "cities": []
+    },
+    {
+      "name": "Munxar",
+      "state_code": "36",
+      "latitude": "36.02880580",
+      "longitude": "14.22506050",
+      "cities": [
+        {
+          "name": "Munxar",
+          "latitude": "36.03000000",
+          "longitude": "14.23333000"
+        }
+      ]
+    },
+    {
+      "name": "Nadur",
+      "state_code": "37",
+      "latitude": "36.04470190",
+      "longitude": "14.29192730",
+      "cities": [
+        {
+          "name": "Nadur",
+          "latitude": "36.03778000",
+          "longitude": "14.29417000"
+        }
+      ]
+    },
+    {
+      "name": "Naxxar",
+      "state_code": "38",
+      "latitude": "35.93175180",
+      "longitude": "14.43157460",
+      "cities": [
+        {
+          "name": "Naxxar",
+          "latitude": "35.91361000",
+          "longitude": "14.44361000"
+        }
+      ]
+    },
+    {
+      "name": "Paola",
+      "state_code": "39",
+      "latitude": "38.57223530",
+      "longitude": "-94.87912940",
+      "cities": [
+        {
+          "name": "Paola",
+          "latitude": "35.87306000",
+          "longitude": "14.49889000"
+        }
+      ]
+    },
+    {
+      "name": "Pembroke",
+      "state_code": "40",
+      "latitude": "34.68016260",
+      "longitude": "-79.19503730",
+      "cities": [
+        {
+          "name": "Pembroke",
+          "latitude": "35.93056000",
+          "longitude": "14.47639000"
+        }
+      ]
+    },
+    {
+      "name": "Pietà",
+      "state_code": "41",
+      "latitude": "42.21862000",
+      "longitude": "-83.73464700",
+      "cities": [
+        {
+          "name": "Pietà",
+          "latitude": "35.89472000",
+          "longitude": "14.49500000"
+        }
+      ]
+    },
+    {
+      "name": "Qala",
+      "state_code": "42",
+      "latitude": "36.03886280",
+      "longitude": "14.31810100",
+      "cities": [
+        {
+          "name": "Qala",
+          "latitude": "36.03611000",
+          "longitude": "14.30944000"
+        }
+      ]
+    },
+    {
+      "name": "Qormi",
+      "state_code": "43",
+      "latitude": "35.87643880",
+      "longitude": "14.46941860",
+      "cities": [
+        {
+          "name": "Qormi",
+          "latitude": "35.87601000",
+          "longitude": "14.47200000"
+        }
+      ]
+    },
+    {
+      "name": "Qrendi",
+      "state_code": "44",
+      "latitude": "35.83284880",
+      "longitude": "14.45486210",
+      "cities": [
+        {
+          "name": "Qrendi",
+          "latitude": "35.83472000",
+          "longitude": "14.45833000"
+        }
+      ]
+    },
+    {
+      "name": "Rabat",
+      "state_code": "46",
+      "latitude": "33.97159040",
+      "longitude": "-6.84981290",
+      "cities": []
+    },
+    {
+      "name": "Saint Lawrence",
+      "state_code": "50",
+      "latitude": "38.95780560",
+      "longitude": "-95.25656890",
+      "cities": [
+        {
+          "name": "San Lawrenz",
+          "latitude": "36.05556000",
+          "longitude": "14.20361000"
+        }
+      ]
+    },
+    {
+      "name": "San Ġwann",
+      "state_code": "49",
+      "latitude": "35.90773650",
+      "longitude": "14.47524160",
+      "cities": [
+        {
+          "name": "San Ġiljan",
+          "latitude": "35.91839000",
+          "longitude": "14.48977000"
+        }
+      ]
+    },
+    {
+      "name": "Sannat",
+      "state_code": "52",
+      "latitude": "36.01926430",
+      "longitude": "14.25994370",
+      "cities": [
+        {
+          "name": "San Pawl il-Baħar",
+          "latitude": "35.95064000",
+          "longitude": "14.41561000"
+        },
+        {
+          "name": "Sannat",
+          "latitude": "36.02444000",
+          "longitude": "14.24278000"
+        }
+      ]
+    },
+    {
+      "name": "Santa Luċija",
+      "state_code": "53",
+      "latitude": "35.85614200",
+      "longitude": "14.50436000",
+      "cities": [
+        {
+          "name": "Santa Venera",
+          "latitude": "35.89083000",
+          "longitude": "14.47417000"
+        }
+      ]
+    },
+    {
+      "name": "Santa Venera",
+      "state_code": "54",
+      "latitude": "35.89022010",
+      "longitude": "14.47669740",
+      "cities": []
+    },
+    {
+      "name": "Senglea",
+      "state_code": "20",
+      "latitude": "35.88730410",
+      "longitude": "14.51673710",
+      "cities": [
+        {
+          "name": "Imdina",
+          "latitude": "35.88694000",
+          "longitude": "14.40250000"
+        }
+      ]
+    },
+    {
+      "name": "Siġġiewi",
+      "state_code": "55",
+      "latitude": "35.84637420",
+      "longitude": "14.43157460",
+      "cities": [
+        {
+          "name": "Siġġiewi",
+          "latitude": "35.85556000",
+          "longitude": "14.43639000"
+        }
+      ]
+    },
+    {
+      "name": "Sliema",
+      "state_code": "56",
+      "latitude": "35.91100810",
+      "longitude": "14.50290400",
+      "cities": [
+        {
+          "name": "Sliema",
+          "latitude": "35.91250000",
+          "longitude": "14.50194000"
+        }
+      ]
+    },
+    {
+      "name": "St. Julian's",
+      "state_code": "48",
+      "latitude": "42.21225130",
+      "longitude": "-85.89171270",
+      "cities": [
+        {
+          "name": "Saint John",
+          "latitude": "35.90556000",
+          "longitude": "14.47611000"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Bay",
+      "state_code": "51",
+      "latitude": "35.93601700",
+      "longitude": "14.39665030",
+      "cities": [
+        {
+          "name": "Mosta",
+          "latitude": "35.90917000",
+          "longitude": "14.42556000"
+        },
+        {
+          "name": "Saint Lucia",
+          "latitude": "36.04306000",
+          "longitude": "14.21722000"
+        },
+        {
+          "name": "Santa Luċija",
+          "latitude": "35.86278000",
+          "longitude": "14.50750000"
+        }
+      ]
+    },
+    {
+      "name": "Swieqi",
+      "state_code": "57",
+      "latitude": "35.91911820",
+      "longitude": "14.46941860",
+      "cities": [
+        {
+          "name": "Swieqi",
+          "latitude": "35.92250000",
+          "longitude": "14.48000000"
+        }
+      ]
+    },
+    {
+      "name": "Ta' Xbiex",
+      "state_code": "58",
+      "latitude": "35.89914480",
+      "longitude": "14.49635190",
+      "cities": [
+        {
+          "name": "Ta’ Xbiex",
+          "latitude": "35.89917000",
+          "longitude": "14.49444000"
+        }
+      ]
+    },
+    {
+      "name": "Tarxien",
+      "state_code": "59",
+      "latitude": "35.86725520",
+      "longitude": "14.51164050",
+      "cities": [
+        {
+          "name": "Tarxien",
+          "latitude": "35.86583000",
+          "longitude": "14.51500000"
+        }
+      ]
+    },
+    {
+      "name": "Valletta",
+      "state_code": "60",
+      "latitude": "35.89890850",
+      "longitude": "14.51455280",
+      "cities": [
+        {
+          "name": "Valletta",
+          "latitude": "35.89972000",
+          "longitude": "14.51472000"
+        }
+      ]
+    },
+    {
+      "name": "Victoria",
+      "state_code": "45",
+      "latitude": "28.80526740",
+      "longitude": "-97.00359820",
+      "cities": [
+        {
+          "name": "Rabat",
+          "latitude": "35.88152000",
+          "longitude": "14.39872000"
+        },
+        {
+          "name": "Victoria",
+          "latitude": "36.04444000",
+          "longitude": "14.23972000"
+        }
+      ]
+    },
+    {
+      "name": "Xagħra",
+      "state_code": "61",
+      "latitude": "36.05084500",
+      "longitude": "14.26748200",
+      "cities": [
+        {
+          "name": "Xagħra",
+          "latitude": "36.05000000",
+          "longitude": "14.26444000"
+        }
+      ]
+    },
+    {
+      "name": "Xewkija",
+      "state_code": "62",
+      "latitude": "36.02992360",
+      "longitude": "14.25994370",
+      "cities": [
+        {
+          "name": "Xewkija",
+          "latitude": "36.03278000",
+          "longitude": "14.25806000"
+        }
+      ]
+    },
+    {
+      "name": "Xgħajra",
+      "state_code": "63",
+      "latitude": "35.88682820",
+      "longitude": "14.54723910",
+      "cities": [
+        {
+          "name": "Xgħajra",
+          "latitude": "35.88556000",
+          "longitude": "14.54750000"
+        }
+      ]
+    },
+    {
+      "name": "Żabbar",
+      "state_code": "64",
+      "latitude": "35.87247150",
+      "longitude": "14.54513540",
+      "cities": [
+        {
+          "name": "Żabbar",
+          "latitude": "35.87611000",
+          "longitude": "14.53500000"
+        }
+      ]
+    },
+    {
+      "name": "Żebbuġ Gozo",
+      "state_code": "65",
+      "latitude": "36.07164030",
+      "longitude": "14.24540800",
+      "cities": [
+        {
+          "name": "Haz-Zebbug",
+          "latitude": "35.87194000",
+          "longitude": "14.44111000"
+        }
+      ]
+    },
+    {
+      "name": "Żebbuġ Malta",
+      "state_code": "66",
+      "latitude": "35.87646480",
+      "longitude": "14.43908400",
+      "cities": [
+        {
+          "name": "Żebbuġ",
+          "latitude": "36.07222000",
+          "longitude": "14.23583000"
+        }
+      ]
+    },
+    {
+      "name": "Żejtun",
+      "state_code": "67",
+      "latitude": "35.85487140",
+      "longitude": "14.53639690",
+      "cities": [
+        {
+          "name": "Żejtun",
+          "latitude": "35.85583000",
+          "longitude": "14.53306000"
+        }
+      ]
+    },
+    {
+      "name": "Żurrieq",
+      "state_code": "68",
+      "latitude": "35.82163060",
+      "longitude": "14.48106480",
+      "cities": [
+        {
+          "name": "Żurrieq",
+          "latitude": "35.83111000",
+          "longitude": "14.47417000"
+        }
+      ]
+    }
+  ]
+}
