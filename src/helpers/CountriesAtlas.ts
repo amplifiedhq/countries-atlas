@@ -1,4 +1,4 @@
-import countriesData from '../../data/atlas.json';
+import countriesData from '../data/atlas.json';
 import { Country } from '../types/country.interface';
 import { PhoneCode } from '../types/phone-code.interface';
 import { State } from '../types/state.interface';
@@ -35,7 +35,7 @@ export class CountriesAtlas {
     states(iso2: string): Promise<State[]> | undefined {
         const country = this.find(iso2)
         if (country) {
-            return import(`../../data/countries/${country.iso2}.json`)
+            return import(`../data/countries/${country.iso2}.json`)
             .then(statesData => statesData.default.states)
             .catch(() => undefined)
         }
@@ -45,7 +45,7 @@ export class CountriesAtlas {
     state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
         const country = this.find(iso2)
         if (country) {
-            return import(`../../data/countries/${country.iso2}.json`)
+            return import(`../data/countries/${country.iso2}.json`)
             .then(statesData => statesData.default.states.find((state: State) => state.state_code === stateCode))
             .catch(() => undefined)
         }
