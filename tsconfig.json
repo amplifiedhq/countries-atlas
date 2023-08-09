@@ -62,9 +62,14 @@
   },
   "include": [
     "src",
-    "data/**/*",
-    "flags/**/*",
+    "src/data",
+    "src/data/countries/*.json",
   ],
+  // "files": [
+  //   "src/flags/css/flags.css",
+  //   "src/flags/scss/flags.scss",
+  //   // all the svg files in src/flags/svg
+  // ],
   "exclude": [
     "node_modules",
     "**/__tests__/*"

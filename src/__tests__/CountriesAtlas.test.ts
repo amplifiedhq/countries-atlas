@@ -1,8 +1,8 @@
-import countriesData from '../../data/atlas.json';
+import countriesData from '../data/atlas.json';
 import CountriesAtlas from '../helpers/CountriesAtlas';
-import USAStates from '../../data/countries/us.json';
+import USAStates from '../data/countries/us.json';
 import { State } from '../types/state.interface';
-import { City } from '../../lib/src/types/city.type';
+import { City } from '../types/city.type';
 
 describe('CountriesAtlas', () => {
     describe('getCountries', () => {
@@ -33,7 +33,7 @@ describe('CountriesAtlas', () => {
         })
 
         it('returns undefined if no country is found', () => {
-            const country = CountriesAtlas.find('XX')
+            const country = CountriesAtlas.find('XX') 
             expect(country).toBeUndefined()
         })
 
