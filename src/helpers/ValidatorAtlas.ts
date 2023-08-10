@@ -17,12 +17,12 @@ class ValidatorAtlas {
         return CountriesAtlas.getTimezones().some(tz => tz.zoneName === timezone);
     }
 
-    static isValidCallingCode(callingCode: string): boolean {
+    static isValidCallingCode(callingCode: string|number): boolean {
         return CountriesAtlas.getCallingCodes().some(code => code.phone === callingCode);
     }
 
     static isValidStateCode(iso2: string, stateCode: string): boolean {
-        return !!CountriesAtlas.find(iso2)?.states && CountriesAtlas.find(iso2)?.states.includes(stateCode);
+        return !!CountriesAtlas.state(iso2, stateCode);
     }
 }
 
