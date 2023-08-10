@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# for OS X users
+.DS_Store
+
+# Automation to Build Json Data
+*.py
+**/*.zip
+backup
+**/*.min.json
+

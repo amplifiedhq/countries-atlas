@@ -132,4 +132,33 @@ describe('CountriesAtlas', () => {
             expect(callingCode).toBeUndefined()
         })
     })
+
+    describe('getCurrencies', () => {
+        it('returns all currencies', () => {
+            const currencies = CountriesAtlas.getCurrencies()
+            expect(currencies.length).toEqual(countriesData.map(country => country.currency).length)
+        })
+
+        it('returns all currencies with only the code and name properties', () => {
+            const currencies = CountriesAtlas.getCurrencies()
+            expect(currencies.length).toEqual(countriesData.map(country => country.currency).length)
+            currencies.forEach(currency => {
+                expect(currency?.currency_symbol).toBeDefined()
+                expect(currency?.name).toBeDefined()
+            })
+        })
+    })
+
+    describe('currency', () => {
+        it('returns a currency for a country', () => {
+            const currency = CountriesAtlas.currency('US')
+            expect(currency).toBeDefined();
+        })
+
+        it('returns undefined if no currency is found', () => {
+            const currency = CountriesAtlas.currency('XX')
+            expect(currency).toBeUndefined()
+        })
+    })
+
 })
