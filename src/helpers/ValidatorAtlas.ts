@@ -21,8 +21,9 @@ class ValidatorAtlas {
         return CountriesAtlas.getCallingCodes().some(code => code.phone === callingCode);
     }
 
-    static isValidStateCode(iso2: string, stateCode: string): boolean {
-        return !!CountriesAtlas.state(iso2, stateCode);
+    static async isValidStateCode(iso2: string, stateCode: string): Promise<boolean> {
+        const state = await CountriesAtlas.state(iso2, stateCode);
+        return !!state;
     }
 }
 
