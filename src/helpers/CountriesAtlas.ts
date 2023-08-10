@@ -5,7 +5,6 @@ import { PhoneCode } from '../types/phone-code.interface';
 import { StateData } from '../types/state-data.type';
 import { State } from '../types/state.interface';
 import { Timezone } from '../types/timezone.type';
-import requireCountryStates from '../utils/requireCountryStates';
 
 export class CountriesAtlas {
     private countries: Country[]
@@ -35,44 +34,25 @@ export class CountriesAtlas {
         return this.countries.find(country => country.iso3?.toUpperCase() === iso3.toUpperCase())
     }
 
-    // states(iso2: string): Promise<State[]> | undefined {
-    //     const country = this.find(iso2)
-    //     if (country) {
-    //         return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-    //         .then(statesData => statesData.states)
-    //         .catch(() => undefined)
-    //     }
-    //     return undefined
-    // }
-
-    states(iso2: string): State[] | undefined {
+    states(iso2: string): Promise<State[]> | undefined {
         const country = this.find(iso2)
         if (country) {
-            const statesData = requireCountryStates(country.iso2?.toLowerCase() as string)
-            return statesData.states
+            return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
+            .then(statesData => statesData.states)
+            .catch(() => undefined)
         }
         return undefined
     }
 
-    // state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
-    //     const country = this.find(iso2);
-    //     if (country) {
-    //         return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-    //             .then((statesData: StateData) => {
-    //                 const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
-    //                 return state ? state : undefined;
-    //             })
-    //             .catch(() => undefined);
-    //     }
-    //     return undefined;
-    // }
-
-    state(iso2: string, stateCode: string): State | undefined {
-        const country = this.find(iso2)
+    state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
+        const country = this.find(iso2);
         if (country) {
-            const statesData = requireCountryStates(country.iso2?.toLowerCase() as string)
-            const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
-            return state ? state : undefined;
+            return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
+                .then((statesData: StateData) => {
+                    const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
+                    return state ? state : undefined;
+                })
+                .catch(() => undefined);
         }
         return undefined;
     }
