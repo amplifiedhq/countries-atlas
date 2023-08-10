@@ -109,14 +109,14 @@ export class CountriesAtlas {
         }) as Currency[]
     }
 
-    currency(iso2: string): Currency | undefined {
+    currency(iso2: string): Currency[] | Currency | undefined {
         const country = this.find(iso2)
         if (country) {
             return {
                 name: country.name as string,
                 iso2: country.iso2 as string,
                 currency: country.currency as string,
-                symbol: country.currency_symbol as string,
+                currency_symbol: country.currency_symbol as string,
             }
         }
         return undefined
