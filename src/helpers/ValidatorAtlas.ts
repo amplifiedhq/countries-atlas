@@ -22,8 +22,7 @@ class ValidatorAtlas {
     }
 
     static async isValidStateCode(iso2: string, stateCode: string): Promise<boolean> {
-        const state = await CountriesAtlas.state(iso2, stateCode);
-        return !!state;
+        return !!(await CountriesAtlas.state(iso2, stateCode));
     }
 }
 

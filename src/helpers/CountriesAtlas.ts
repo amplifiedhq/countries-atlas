@@ -34,7 +34,7 @@ export class CountriesAtlas {
         return this.countries.find(country => country.iso3?.toUpperCase() === iso3.toUpperCase())
     }
 
-    states(iso2: string): Promise<State[]> | undefined {
+    getStates(iso2: string): Promise<State[]> | undefined {
         const country = this.find(iso2)
         if (country) {
             return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
@@ -104,7 +104,7 @@ export class CountriesAtlas {
         return this.getCountries(['name', 'iso2', 'currency', 'currency_symbol']).map(country => {
             return {
                 ...country,
-                // flag: 
+                flag: `flag flag-${country.iso2}`
             }
         }) as Currency[]
     }

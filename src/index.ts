@@ -22,7 +22,7 @@ export { default as CountriesAtlas } from './helpers/CountriesAtlas';
 
 // export ValidatorAtlas from './helpers/ValidatorAtlas';
 export { default as ValidatorAtlas } from './helpers/ValidatorAtlas';
-
+export {default as ngFlag} from '../flags/svg/ng.svg'
 // Export css in /flags/css/flags.css
 // Export .min.css in /flags/css/flags.min.css
 // Export .scss in /flags/scss/flags.scss
