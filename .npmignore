@@ -9,4 +9,4 @@ node_modules/
 **/*.zip
 backup
 **/*.min.json
-
+scripts
