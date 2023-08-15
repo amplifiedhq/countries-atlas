@@ -53,10 +53,11 @@ describe('CountriesAtlas', () => {
         })
     })
 
-    describe('states', () => {
+    describe('getStates', () => {
         it('returns states for a country', async () => {
             const states = await CountriesAtlas.getStates('US')
             expect(states).toBeDefined()
+            expect(states?.[0].state_code).toEqual('AL')
             expect(states?.length).toEqual(USAStates.states.length)
         })
 
