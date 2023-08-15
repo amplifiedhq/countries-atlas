@@ -52,14 +52,25 @@ describe('ValidatorAtlas', () => {
     });
 
     describe('isValidStateCode', () => {
-        it('should return true if the state code is valid', async () => {
-            const isValid = await ValidatorAtlas.isValidStateCode('US', 'AZ');
-            expect(isValid).toBe(true);
+        // eslint-disable-next-line jest/no-commented-out-tests
+        // it('should return true if the state code is valid', async () => {
+        //     const isValid = await ValidatorAtlas.isValidStateCode('US', 'AZ');
+        //     expect(isValid).toBe(true);
+        // });
+
+        // eslint-disable-next-line jest/no-commented-out-tests
+        // it('should return false if the state code is invalid', async () => {
+        //     const isValid = await ValidatorAtlas.isValidStateCode('US', 'XX');
+        //     expect(isValid).toBe(false);
+        // });
+
+        it('should return true if the state code is valid', () => {
+            expect(ValidatorAtlas.isValidStateCode('US', 'AZ')).toBe(true);
         });
 
-        it('should return false if the state code is invalid', async () => {
-            const isValid = await ValidatorAtlas.isValidStateCode('US', 'XX');
-            expect(isValid).toBe(false);
+        it('should return false if the state code is invalid', () => {
+            expect(ValidatorAtlas.isValidStateCode('US', 'XX')).toBe(false);
         });
     });
+
 });
