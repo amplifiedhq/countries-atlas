@@ -19,4 +19,5 @@
  */
 
 export { default as CountriesAtlas } from './helpers/CountriesAtlas';
+
 export { default as ValidatorAtlas } from './helpers/ValidatorAtlas';
