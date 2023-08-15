@@ -121,7 +121,8 @@ dist
 .idea/
 
 # Automation to Build Json Data
-*.py
+automate.py
+minify.py
 **/*.zip
 backup
 **/*.min.json

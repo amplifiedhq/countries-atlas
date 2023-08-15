@@ -12,20 +12,20 @@ export class CountriesAtlas {
     constructor() {
         this.countries = countriesData
     }
-
+    
     getCountries(properties?: string[]): Country[] {
         if (properties) {
-          return this.countries.map(country => {
-            const newCountry: Country = {};
-            properties.forEach(property => {
-              newCountry[property] = country[property as keyof Country];
+            return this.countries.map(country => {
+                const newCountry: Country = {};
+                properties.forEach(property => {
+                    newCountry[property] = country[property as keyof Country];
+                });
+                return newCountry;
             });
-            return newCountry;
-          });
         }
         return this.countries;
-      }
-    
+    }
+
     find(iso2: string): Country | undefined {
         return this.countries.find(country => country.iso2?.toUpperCase() === iso2.toUpperCase())
     }
@@ -34,25 +34,50 @@ export class CountriesAtlas {
         return this.countries.find(country => country.iso3?.toUpperCase() === iso3.toUpperCase())
     }
 
-    getStates(iso2: string): Promise<State[]> | undefined {
+    // getStates(iso2: string): Promise<State[]> | undefined {
+    //     const country = this.find(iso2)
+    //     if (country) {
+    //         return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
+    //             .then(statesData => {
+    //                 return statesData.states
+    //             })
+    //             .catch(() => {
+    //                 return undefined
+    //             })
+    //     }
+    //     return undefined
+    // }
+
+    getStates(iso2: string): State[] | undefined {
         const country = this.find(iso2)
         if (country) {
-            return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-            .then(statesData => statesData.states)
-            .catch(() => undefined)
+            // eslint-disable-next-line @typescript-eslint/no-var-requires
+            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`)
+            return statesData.states
         }
         return undefined
     }
 
-    state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
+    // state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
+    //     const country = this.find(iso2);
+    //     if (country) {
+    //         return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
+    //             .then((statesData: StateData) => {
+    //                 const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
+    //                 return state ? state : undefined;
+    //             })
+    //             .catch(() => undefined);
+    //     }
+    //     return undefined;
+    // }
+    
+    state(iso2: string, stateCode: string): State | undefined {
         const country = this.find(iso2);
         if (country) {
-            return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-                .then((statesData: StateData) => {
-                    const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
-                    return state ? state : undefined;
-                })
-                .catch(() => undefined);
+            // eslint-disable-next-line @typescript-eslint/no-var-requires
+            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`) as StateData
+            const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
+            return state ? state : undefined;
         }
         return undefined;
     }
@@ -92,7 +117,7 @@ export class CountriesAtlas {
         if (country) {
             return {
                 name: country.name as string,
-                phone: country.phone as string|number,
+                phone: country.phone as string | number,
                 iso2: country.iso2 as string,
                 phone_code: `+${country.phone}`,
                 flag: `flag flag-${country.iso2?.toLowerCase()}`
