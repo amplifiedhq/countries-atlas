@@ -9,7 +9,7 @@
  * 
  * @example
  * import { CountriesAtlas } from '@amplifiedhq/countries-atlas';
- * 
+ * import { ValidatorAtlas } from '@amplifiedhq/countries-atlas';
  * const countries = CountriesAtlas.getCountries();
  * const country = CountriesAtlas.find('US');
  * 
