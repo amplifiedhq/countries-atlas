@@ -527,6 +527,47 @@ In order to use the flag class, you need to add the flag class to the element, f
 <span class="flag flag-ae"></span>
 ```
 
+## Flags Import 🚩
+You can import the flags in your project, you can do that by importing the `flags` folder from the library, for example, if you want to import the flags in your app, you can do the following:
+- Vue.js
+```javascript
+<template>
+  <div>
+    <img :src="AD" />
+    <img :src="AE" />
+    </div>
+</template>
+
+<script>
+import { AD, AE } from '@amplifiedhq/countries-atlas/dist/flags';
+
+export default {
+  name: 'App',
+  data() {
+    return {
+      AD,
+      AE,
+    }
+  }
+}
+</script>
+```
+- React.js
+```jsx
+import { AD, AE } from '@amplifiedhq/countries-atlas/dist/flags';
+
+const App = () => {
+  return (
+    <div>
+      <img src={AD} />
+      <img src={AE} />
+    </div>
+  );
+}
+
+export default App;
+```
+
 ## Contributing 🤝
 Contributions, issues and feature requests are welcome. After cloning & setting up project locally, you can just submit a PR to this repo and it will be deployed once it's accepted.
 
