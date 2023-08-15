@@ -55,13 +55,13 @@ describe('CountriesAtlas', () => {
 
     describe('states', () => {
         it('returns states for a country', async () => {
-            const states = await CountriesAtlas.states('US')
+            const states = await CountriesAtlas.getStates('US')
             expect(states).toBeDefined()
             expect(states?.length).toEqual(USAStates.states.length)
         })
 
         it('returns undefined if no country is found', async () => {
-            const states = await CountriesAtlas.states('XX')
+            const states = await CountriesAtlas.getStates('XX')
             expect(states).toBeUndefined()
         })
     })
