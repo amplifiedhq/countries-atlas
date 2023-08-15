@@ -34,7 +34,7 @@ export class CountriesAtlas {
         return this.countries.find(country => country.iso3?.toUpperCase() === iso3.toUpperCase())
     }
 
-    states(iso2: string): Promise<State[]> | undefined {
+    getStates(iso2: string): Promise<State[]> | undefined {
         const country = this.find(iso2)
         if (country) {
             return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
@@ -82,7 +82,7 @@ export class CountriesAtlas {
             return {
                 ...country,
                 phone_code: `+${country.phone}`,
-                // flag: 
+                flag: `flag flag-${country.iso2?.toLowerCase()}`
             }
         }) as PhoneCode[]
     }
@@ -95,6 +95,7 @@ export class CountriesAtlas {
                 phone: country.phone as string|number,
                 iso2: country.iso2 as string,
                 phone_code: `+${country.phone}`,
+                flag: `flag flag-${country.iso2?.toLowerCase()}`
             }
         }
         return undefined
@@ -104,7 +105,7 @@ export class CountriesAtlas {
         return this.getCountries(['name', 'iso2', 'currency', 'currency_symbol']).map(country => {
             return {
                 ...country,
-                // flag: 
+                flag: `flag flag-${country.iso2?.toLowerCase()}`
             }
         }) as Currency[]
     }
@@ -117,6 +118,7 @@ export class CountriesAtlas {
                 iso2: country.iso2 as string,
                 currency: country.currency as string,
                 currency_symbol: country.currency_symbol as string,
+                flag: `flag flag-${country.iso2?.toLowerCase()}`
             }
         }
         return undefined
