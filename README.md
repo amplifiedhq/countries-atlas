@@ -1,6 +1,7 @@
 # CountryAtlas 🌎
 Uncover the world with a single lightweight library - countries, codes, currencies, flags, languages, cities, and more 🌎
 
+![GitHub license](https://img.shields.io/github/license/amplifiedhq/countries-atlas) ![npm version](https://img.shields.io/npm/v/@amplifiedhq/countries-atlas) ![npm downloads](https://img.shields.io/npm/dt/@amplifiedhq/countries-atlas) ![GitHub issues](https://img.shields.io/github/issues/amplifiedhq/countries-atlas) ![GitHub action](https://img.shields.io/github/actions/workflow/status/amplifiedhq/countries-atlas/.github/workflows/coverage.yml?branch=main)
 ## Installation 📦
 You can install CountryAtlas using npm registry, run the following command:
 ```bash
@@ -229,7 +230,7 @@ The `getStates()` method will return an array of states, which contains all the 
 - cities: The cities of the state.
 ```typescript
 import { CountriesAtlas } from '@amplifiedhq/countries-atlas'
-const states = await CountriesAtlas.getStates('AD')
+const states = CountriesAtlas.getStates('AD')
 // [
 //     {
 //       "name": "Andorra la Vella",
@@ -250,7 +251,7 @@ const states = await CountriesAtlas.getStates('AD')
 The `state()` method is used to get the state by the given `iso2` and `state_code` properties, it will return the state if it exists, otherwise it will return `undefined`. For example, if you want to get the state, you can do the following:
 ```typescript
 import { CountriesAtlas } from '@amplifiedhq/countries-atlas'
-const state = await CountriesAtlas.state('AD', '07')
+const state = CountriesAtlas.state('AD', '07')
 //{
 //  "name": "Andorra la Vella",
 //  "state_code": "07",
@@ -266,7 +267,7 @@ const state = await CountriesAtlas.state('AD', '07')
 //}
 
 // You can also get any property you want from the state by using the . operator
-const stateName = await CountriesAtlas.state('AD', '07').name
+const stateName = CountriesAtlas.state('AD', '07').name
 // Andorra la Vella
 ```
 ### getTimezones() ⏰ Method
@@ -459,9 +460,9 @@ The `isValidStateCode()` method is used to validate the given `stateCode` proper
 ```typescript
 import { ValidatorAtlas } from '@amplifiedhq/countries-atlas'
 
-const isValid = await ValidatorAtlas.isValidStateCode('AD', '07')
+const isValid = ValidatorAtlas.isValidStateCode('AD', '07')
 // true
-const isValid = await ValidatorAtlas.isValidStateCode('AD', 'ABC')
+const isValid = ValidatorAtlas.isValidStateCode('AD', 'ABC')
 // false
 ```
 
@@ -471,7 +472,7 @@ The library provides a way to use the flags of the countries, you can use the fl
 ### Flag CSS File 🚩
 In order to use the flag class, you need to import the flag css file from the library, you can do that by adding the following line in your `index.html` file:
 ```html
-<link rel="stylesheet" href="https://unpkg.com/@amplifiedhq/countries-atlas@1.0.0/dist/flags/css/flags.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/@amplifiedhq/countries-atlas/dist/flags/css/flags.min.css" />
 
 <!-- Or you can use the local file -->
 <link rel="stylesheet" href="node_modules/@amplifiedhq/countries-atlas/dist/flags/css/flags.min.css" />
@@ -484,13 +485,13 @@ You can also import the css in your `css` file:
 @import '~@amplifiedhq/countries-atlas/dist/flags/css/flags.min.css';
 
 /* Or you can use the CDN */
-@import 'https://cdn.jsdelivr.net/npm/@amplifiedhq/countries-atlas/dist/flags/css/flags.min';
+@import 'https://cdn.jsdelivr.net/npm/@amplifiedhq/countries-atlas/dist/flags/css/flags.min.css';
 
 /* Or you can use the local file */
-@import 'node_modules/@amplifiedhq/countries-atlas/dist/flags/css/flags.min';
+@import 'node_modules/@amplifiedhq/countries-atlas/dist/flags/css/flags.min.css';
 
 /* Or you can use the unpkg */
-@import 'https://unpkg.com/@amplifiedhq/countries-atlas@1.0.0/dist/flags/css/flags.min.css';
+@import 'https://unpkg.com/@amplifiedhq/countries-atlas/dist/flags/css/flags.min.css';
 ```
 In order to use the flag class, you need to add the flag class to the element, for example, if you want to display the flag of the country, you can do the following:
 ```html
@@ -503,22 +504,22 @@ In order to use the flag class, you need to import the flag scss file from the l
 <link rel="stylesheet" href="node_modules/@amplifiedhq/countries-atlas/dist/flags/scss/flags.scss" />
 
 <!-- Or you can use the CDN -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@amplifiedhq/countries-atlas/dist/flags/scss/flags">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@amplifiedhq/countries-atlas/dist/flags/scss/flags.scss">
 
 <!-- Or you can use the unpkg -->
-<link rel="stylesheet" href="https://unpkg.com/@amplifiedhq/countries-atlas/dist/flags/scss/flags">
+<link rel="stylesheet" href="https://unpkg.com/@amplifiedhq/countries-atlas/dist/flags/scss/flags.scss">
 ```
 You can also import the scss in your `scss` file:
 ```scss
-@import '~@amplifiedhq/countries-atlas/dist/flags/scss/flags';
+@import '~@amplifiedhq/countries-atlas/dist/flags/scss/flags.scss';
 
 /* Or you can use the CDN */
 
-@import 'https://cdn.jsdelivr.net/npm/@amplifiedhq/countries-atlas/dist/flags/scss/flags';
+@import 'https://cdn.jsdelivr.net/npm/@amplifiedhq/countries-atlas/dist/flags/scss/flags.scss';
 
 /* Or you can use the unpkg */
 
-@import 'https://unpkg.com/@amplifiedhq/countries-atlas/dist/flags/scss/flags';
+@import 'https://unpkg.com/@amplifiedhq/countries-atlas/dist/flags/scss/flags.scss';
 ```
 
 In order to use the flag class, you need to add the flag class to the element, for example, if you want to display the flag of the country, you can do the following:
