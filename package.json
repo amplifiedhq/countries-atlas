@@ -1,6 +1,6 @@
 {
   "name": "@amplifiedhq/countries-atlas",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Uncover the world with a single lightweight library - countries, codes, currencies, flags, languages, cities, and more 🌎",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
