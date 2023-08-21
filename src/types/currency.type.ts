@@ -4,4 +4,5 @@ export interface Currency {
     currency: string;
     currency_symbol?: string;
     flag?: string
+    currency_name?: string;
 }

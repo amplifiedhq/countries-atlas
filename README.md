@@ -1,9 +1,9 @@
-# CountryAtlas 🌎
+# CountriesAtlas 🌎
 Uncover the world with a single lightweight library - countries, codes, currencies, flags, languages, cities, and more 🌎
 
 ![GitHub license](https://img.shields.io/github/license/amplifiedhq/countries-atlas) ![npm version](https://img.shields.io/npm/v/@amplifiedhq/countries-atlas) ![npm downloads](https://img.shields.io/npm/dt/@amplifiedhq/countries-atlas) ![GitHub issues](https://img.shields.io/github/issues/amplifiedhq/countries-atlas) ![GitHub action](https://img.shields.io/github/actions/workflow/status/amplifiedhq/countries-atlas/.github/workflows/coverage.yml?branch=main)
 ## Installation 📦
-You can install CountryAtlas using npm registry, run the following command:
+You can install CountriesAtlas using npm registry, run the following command:
 ```bash
 npm install @amplifiedhq/countries-atlas
 ```
@@ -27,7 +27,7 @@ npm install @amplifiedhq/countries-atlas
     - Timezone Input
     - etc.
 ## Usage 🚀
-### CountryAtlas Class 🌎
+### CountriesAtlas Class 🌎
 In order to use the country atlas class, you need to import the class from the library, and create an instance of the class.
 ```typescript
 import { CountriesAtlas } from '@amplifiedhq/countries-atlas'
@@ -53,6 +53,7 @@ The `getCountries()` method will return an array of countries, which contains al
 - longitude: The longitude of the country.
 - emoji: The emoji of the country.
 - emojiU: The emoji unicode of the country.
+- currency_name: The currency name of the country.
 ```typescript
 import { CountriesAtlas } from '@amplifiedhq/countries-atlas'
 const countries = CountriesAtlas.getCountries()
@@ -97,7 +98,8 @@ const countries = CountriesAtlas.getCountries()
 //     "latitude": "42.50000000",
 //     "longitude": "1.50000000",
 //     "emoji": "🇦🇩",
-//     "emojiU": "U+1F1E6 U+1F1E9"
+//     "emojiU": "U+1F1E6 U+1F1E9",
+//     "currency_name": "Euro"
 //   },
 //]
 ```
@@ -159,7 +161,8 @@ const country = CountriesAtlas.find('AD')
 //     "latitude": "42.50000000",
 //     "longitude": "1.50000000",
 //     "emoji": "🇦🇩",
-//     "emojiU": "U+1F1E6 U+1F1E9"
+//     "emojiU": "U+1F1E6 U+1F1E9",
+//     "currency_name": "Euro"
 //   },
 //]
 
@@ -213,7 +216,8 @@ const country = CountriesAtlas.findByIso3('AND')
 //     "latitude": "42.50000000",
 //     "longitude": "1.50000000",
 //     "emoji": "🇦🇩",
-//     "emojiU": "U+1F1E6 U+1F1E9"
+//     "emojiU": "U+1F1E6 U+1F1E9",
+//     "currency_name": "Euro"
 //   },
 //]
 
@@ -373,6 +377,7 @@ const currencies = CountriesAtlas.getCurrencies()
 //     "iso2": "AD",
 //     "currency": "EUR",
 //     "currency_symbol": "€",
+//     "currency_name": "Euro",
 //     "flag": "flag flag-ad"
 //   },
 //   {
@@ -396,6 +401,7 @@ const currency = CountriesAtlas.currency('AD')
 //   "iso2": "AD",
 //   "currency": "EUR",
 //   "currency_symbol": "€",
+//   "currency_name": "Euro",
 //   "flag": "flag flag-ad"
 // }
 ```
