@@ -127,7 +127,7 @@ export class CountriesAtlas {
     }
 
     getCurrencies(): Currency[] {
-        return this.getCountries(['name', 'iso2', 'currency', 'currency_symbol']).map(country => {
+        return this.getCountries(['name', 'iso2', 'currency', 'currency_symbol', 'currency_name']).map(country => {
             return {
                 ...country,
                 flag: `flag flag-${country.iso2?.toLowerCase()}`
@@ -143,6 +143,7 @@ export class CountriesAtlas {
                 iso2: country.iso2 as string,
                 currency: country.currency as string,
                 currency_symbol: country.currency_symbol as string,
+                currency_name: country.currency_name as string,
                 flag: `flag flag-${country.iso2?.toLowerCase()}`
             }
         }
