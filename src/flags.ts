@@ -266,5 +266,3 @@ export { default as QA } from '../dist/flags/svg/qa.svg';
 export { default as GL } from '../dist/flags/svg/gl.svg';
 export { default as ES } from '../dist/flags/svg/es.svg';
 export { default as HT } from '../dist/flags/svg/ht.svg';
-
-
