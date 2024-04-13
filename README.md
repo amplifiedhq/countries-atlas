@@ -234,7 +234,7 @@ The `getStates()` method will return an array of states, which contains all the 
 - cities: The cities of the state.
 ```typescript
 import { CountriesAtlas } from '@amplifiedhq/countries-atlas'
-const states = CountriesAtlas.getStates('AD')
+const states = await CountriesAtlas.getStates('AD')
 // [
 //     {
 //       "name": "Andorra la Vella",
@@ -255,7 +255,7 @@ const states = CountriesAtlas.getStates('AD')
 The `state()` method is used to get the state by the given `iso2` and `state_code` properties, it will return the state if it exists, otherwise it will return `undefined`. For example, if you want to get the state, you can do the following:
 ```typescript
 import { CountriesAtlas } from '@amplifiedhq/countries-atlas'
-const state = CountriesAtlas.state('AD', '07')
+const state = await CountriesAtlas.state('AD', '07')
 //{
 //  "name": "Andorra la Vella",
 //  "state_code": "07",

@@ -72,14 +72,17 @@ export class CountriesAtlas {
      * @param {string} iso2 - ISO2 code of the country.
      * @returns {State[] | undefined} - Array of state objects or undefined if not found.
      */
-    getStates(iso2: string): State[] | undefined {
+    async getStates(iso2: string): Promise<State[] | undefined> {
         const country = this.find(iso2)
         if (country) {
-            // eslint-disable-next-line @typescript-eslint/no-var-requires
-            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-            return statesData.states
+            try {
+                const statesData = await import(`../data/countries/${country.iso2?.toLowerCase()}.json`);
+                return statesData.states as State[];
+            } catch (err) {
+                return undefined;
+            }
         }
-        return undefined
+        return undefined;
     }
 
     // state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
@@ -102,13 +105,17 @@ export class CountriesAtlas {
      * @param {string} stateCode - State code of the state to find.
      * @returns {State | undefined} - State object or undefined if not found.
      */
-    state(iso2: string, stateCode: string): State | undefined {
+    async state(iso2: string, stateCode: string): Promise<State | undefined> {
         const country = this.find(iso2);
         if (country) {
             // eslint-disable-next-line @typescript-eslint/no-var-requires
-            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`) as StateData
-            const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
-            return state ? state : undefined;
+            try {
+                const statesData = await import(`../data/countries/${country.iso2?.toLowerCase()}.json`) as StateData;
+                const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
+                return state ? state : undefined;
+            } catch (err) {
+                return undefined;
+            }
         }
         return undefined;
     }
