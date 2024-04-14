@@ -64,12 +64,12 @@ describe('ValidatorAtlas', () => {
         //     expect(isValid).toBe(false);
         // });
 
-        it('should return true if the state code is valid', () => {
-            expect(ValidatorAtlas.isValidStateCode('US', 'AZ')).toBe(true);
+        it('should return true if the state code is valid', async () => {
+            expect(await ValidatorAtlas.isValidStateCode('US', 'AZ')).toBe(true);
         });
 
-        it('should return false if the state code is invalid', () => {
-            expect(ValidatorAtlas.isValidStateCode('US', 'XX')).toBe(false);
+        it('should return false if the state code is invalid', async () => {
+            expect(await ValidatorAtlas.isValidStateCode('US', 'XX')).toBe(false);
         });
     });
 

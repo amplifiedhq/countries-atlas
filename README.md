@@ -466,9 +466,9 @@ The `isValidStateCode()` method is used to validate the given `stateCode` proper
 ```typescript
 import { ValidatorAtlas } from '@amplifiedhq/countries-atlas'
 
-const isValid = ValidatorAtlas.isValidStateCode('AD', '07')
+const isValid = await ValidatorAtlas.isValidStateCode('AD', '07')
 // true
-const isValid = ValidatorAtlas.isValidStateCode('AD', 'ABC')
+const isValid = await ValidatorAtlas.isValidStateCode('AD', 'ABC')
 // false
 ```
 

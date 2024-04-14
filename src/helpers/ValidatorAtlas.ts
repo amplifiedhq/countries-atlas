@@ -60,10 +60,10 @@ class ValidatorAtlas {
      * 
      * @param {string} iso2 - ISO2 code of the country.
      * @param {string} stateCode - State code.
-     * @returns {boolean} - True if valid, false otherwise.
+     * @returns {Promise<boolean>} - True if valid, false otherwise.
      */
-    static isValidStateCode(iso2: string, stateCode: string): boolean {
-        return !!CountriesAtlas.state(iso2, stateCode);
+    static async isValidStateCode(iso2: string, stateCode: string): Promise<boolean> {
+        return !!(await CountriesAtlas.state(iso2, stateCode));
     }
 }
 
