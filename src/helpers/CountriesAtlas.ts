@@ -70,7 +70,7 @@ export class CountriesAtlas {
      * Retrieve all states of a country by its ISO2 code.
      * 
      * @param {string} iso2 - ISO2 code of the country.
-     * @returns {State[] | undefined} - Array of state objects or undefined if not found.
+     * @returns {Promise<State[] | undefined>} - Array of state objects or undefined if not found.
      */
     async getStates(iso2: string): Promise<State[] | undefined> {
         const country = this.find(iso2)
@@ -103,7 +103,7 @@ export class CountriesAtlas {
      * 
      * @param {string} iso2 - ISO2 code of the country.
      * @param {string} stateCode - State code of the state to find.
-     * @returns {State | undefined} - State object or undefined if not found.
+     * @returns {Promise<State | undefined>} - State object or undefined if not found.
      */
     async state(iso2: string, stateCode: string): Promise<State | undefined> {
         const country = this.find(iso2);
