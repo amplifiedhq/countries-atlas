@@ -68,5 +68,8 @@
   },
   "files": [
     "dist/**/*"
-  ]
+  ],
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7"
+  }
 }
