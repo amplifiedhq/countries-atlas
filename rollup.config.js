@@ -1,11 +1,16 @@
+// rollup.config.js
 import commonjs from '@rollup/plugin-commonjs';
+import copy from 'rollup-plugin-copy';
 
 export default {
-  // Other Rollup config options...
+  // other configurations...
   plugins: [
     commonjs({
-      dynamicRequireTargets: [
-        'src/data/countries/*.json',
+      ignoreDynamicRequires: true
+    }),
+    copy({
+      targets: [
+        { src: 'src/data/countries/*.json', dest: 'dist/data/countries' }
       ]
     })
   ]

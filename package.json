@@ -70,6 +70,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "@rollup/plugin-commonjs": "^25.0.7"
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "rollup-plugin-copy": "^3.5.0"
   }
 }
