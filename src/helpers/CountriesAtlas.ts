@@ -52,20 +52,6 @@ export class CountriesAtlas {
         return this.countries.find(country => country.iso3?.toUpperCase() === iso3.toUpperCase())
     }
 
-    // getStates(iso2: string): Promise<State[]> | undefined {
-    //     const country = this.find(iso2)
-    //     if (country) {
-    //         return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-    //             .then(statesData => {
-    //                 return statesData.states
-    //             })
-    //             .catch(() => {
-    //                 return undefined
-    //             })
-    //     }
-    //     return undefined
-    // }
-
     /**
      * Retrieve all states of a country by its ISO2 code.
      * 
@@ -84,19 +70,6 @@ export class CountriesAtlas {
         }
         return undefined;
     }
-
-    // state(iso2: string, stateCode: string): Promise<State | undefined> | undefined {
-    //     const country = this.find(iso2);
-    //     if (country) {
-    //         return import(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-    //             .then((statesData: StateData) => {
-    //                 const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
-    //                 return state ? state : undefined;
-    //             })
-    //             .catch(() => undefined);
-    //     }
-    //     return undefined;
-    // }
 
     /**
      * Find a state by its state code and country ISO2 code.
