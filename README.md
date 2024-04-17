@@ -27,6 +27,10 @@ npm install @amplifiedhq/countries-atlas
     - Timezone Input
     - etc.
 ## Usage 🚀
+
+> [!WARNING]
+> If you are using Vite.js as your build tool, follow the [Vite.js Setup](#vitejs-setup) section after the installation.
+
 ### CountriesAtlas Class 🌎
 In order to use the country atlas class, you need to import the class from the library, and create an instance of the class.
 ```typescript
@@ -226,7 +230,7 @@ const countryName = CountriesAtlas.findByIso3('AND').name
 // Andorra
 ```
 ### getStates() 🌎 Method
-The `getStates()` method will return an array of states, which contains all the states in a country. It also contains the following properties:
+The `getStates()` method will return an array of states by `iso2` property, which contains all the states in a country. It also contains the following properties:
 - name: The name of the state.
 - state_code: The state code of the state.
 - longitude: The longitude of the state.
@@ -574,6 +578,32 @@ const App = () => {
 
 export default App;
 ```
+
+### Vite.js Setup
+If you are using Vite.js as your build tool, you need to install the `@rollup/plugin-commonjs'` plugin, you can do that by running the following command:
+```bash
+npm install @rollup/plugin-commonjs'
+```
+Then you need to add the following configuration in your `vite.config.js` file to avoid CommonJS Dynamic Require Error:
+```javascript
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
+import commonjs from '@rollup/plugin-commonjs';
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [
+    vue(),
+    commonjs({
+      dynamicRequireTargets: [
+        // include using a glob pattern (either a string or an array of strings)
+        'node_modules/@amplifiedhq/countries-atlas/dist/data/**/*.json',
+      ]
+    }),
+  ],
+})
+```
+
 
 ## Contributing 🤝
 Contributions, issues and feature requests are welcome. After cloning & setting up project locally, you can just submit a PR to this repo and it will be deployed once it's accepted.
