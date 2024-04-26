@@ -580,7 +580,7 @@ export default App;
 ```
 
 ### Vite.js Setup
-If you are using Vite.js as your build tool, you need to install the `@rollup/plugin-commonjs'` plugin, you can do that by running the following command:
+If you are using Vite.js as your build tool, you need to install the `@rollup/plugin-commonjs` plugin, you can do that by running the following command:
 ```bash
 npm install @rollup/plugin-commonjs'
 ```
