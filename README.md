@@ -614,7 +614,7 @@ export default defineNuxtConfig({
 
 If you still face the issue, you can install the patch version, which uses static imports instead of dynamic imports, you can do that by running the following command:
 ```bash
-npm install @amplifiedhq/countries-atlas@1.4.12
+npm install @amplifiedhq/countries-atlas@1.4.13
 ```
 This patch version is only for Vite.js and Nuxt.js users, if you are using other build tools, you can use the latest version. The patch version may use more memory and may not have the latest features, so it's recommended to use the latest version if you are not using Vite.js or Nuxt.js.
 
