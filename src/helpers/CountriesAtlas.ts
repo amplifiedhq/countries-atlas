@@ -1,4 +1,5 @@
 import countriesData from '../data/atlas.json';
+import countryImport from '../country-import';
 import { Country } from '../types/country.interface';
 import { Currency } from '../types/currency.type';
 import { PhoneCode } from '../types/phone-code.interface';
@@ -75,9 +76,10 @@ export class CountriesAtlas {
     getStates(iso2: string): State[] | undefined {
         const country = this.find(iso2)
         if (country) {
-            // eslint-disable-next-line @typescript-eslint/no-var-requires
-            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-            return statesData.states
+            const statesData = countryImport[iso2.toUpperCase()];
+            if (statesData) {
+                return statesData.states as State[]
+            }
         }
         return undefined
     }
