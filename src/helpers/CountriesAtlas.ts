@@ -107,9 +107,8 @@ export class CountriesAtlas {
     state(iso2: string, stateCode: string): State | undefined {
         const country = this.find(iso2);
         if (country) {
-            // eslint-disable-next-line @typescript-eslint/no-var-requires
-            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`) as StateData
-            const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
+            const statesData = countryImport[iso2.toUpperCase()];
+            const state = statesData.states?.find((s: State) => s.state_code?.toUpperCase() === stateCode);
             return state ? state : undefined;
         }
         return undefined;
