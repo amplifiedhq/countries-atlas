@@ -29,7 +29,7 @@ npm install @amplifiedhq/countries-atlas
 ## Usage 🚀
 
 > [!WARNING]
-> If you are using Vite.js as your build tool, follow the [Vite.js Setup](#vitejs-setup) section after the installation.
+> If you are using Vite.js as your build tool or Nuxt, follow the [Vite.js and Nuxt Setup](#vitejs-and-nuxt-setup) section.
 
 ### CountriesAtlas Class 🌎
 In order to use the country atlas class, you need to import the class from the library, and create an instance of the class.
@@ -579,7 +579,7 @@ const App = () => {
 export default App;
 ```
 
-### Vite.js Setup
+### Vite.js and Nuxt Setup
 If you are using Vite.js as your build tool, you need to install the `@rollup/plugin-commonjs` plugin, you can do that by running the following command:
 ```bash
 npm install @rollup/plugin-commonjs'
@@ -603,7 +603,20 @@ export default defineConfig({
   ],
 })
 ```
+For Nuxt.js, you need to add the following configuration in your `nuxt.config.js` file to avoid CommonJS Dynamic Require Error:
+```javascript
+export default {
+  build: {
+    transpile: ['@amplifiedhq/countries-atlas'],
+  }
+}
+```
 
+If you still face the issue, you can install the patch version, which uses static imports instead of dynamic imports, you can do that by running the following command:
+```bash
+npm install @amplifiedhq/countries-atlas@1.4.12
+```
+This patch version is only for Vite.js and Nuxt.js users, if you are using other build tools, you can use the latest version. The patch version may use more memory and may not have the latest features, so it's recommended to use the latest version if you are not using Vite.js or Nuxt.js.
 
 ## Contributing 🤝
 Contributions, issues and feature requests are welcome. After cloning & setting up project locally, you can just submit a PR to this repo and it will be deployed once it's accepted.
