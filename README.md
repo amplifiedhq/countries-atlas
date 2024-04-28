@@ -605,7 +605,7 @@ export default defineConfig({
 ```
 For Nuxt.js, you need to add the following configuration in your `nuxt.config.js` file to avoid CommonJS Dynamic Require Error:
 ```javascript
-export default {
+export default defineNuxtConfig({
   build: {
     transpile: ['@amplifiedhq/countries-atlas'],
   }
