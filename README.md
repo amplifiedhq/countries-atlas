@@ -171,7 +171,7 @@ const country = CountriesAtlas.find('AD')
 //]
 
 // You can also get any property you want from the country by using the . operator
-const countryName = CountriesAtlas.find('AD').name
+const countryName = CountriesAtlas.find('AD')?.name
 // Andorra
 ```
 ### findByIso3() 🌎 Method
@@ -226,7 +226,7 @@ const country = CountriesAtlas.findByIso3('AND')
 //]
 
 // You can also get any property you want from the country by using the . operator
-const countryName = CountriesAtlas.findByIso3('AND').name
+const countryName = CountriesAtlas.findByIso3('AND')?.name
 // Andorra
 ```
 ### getStates() 🌎 Method
@@ -275,7 +275,7 @@ const state = CountriesAtlas.state('AD', '07')
 //}
 
 // You can also get any property you want from the state by using the . operator
-const stateName = CountriesAtlas.state('AD', '07').name
+const stateName = CountriesAtlas.state('AD', '07')?.name
 // Andorra la Vella
 ```
 ### getTimezones() ⏰ Method
@@ -320,7 +320,7 @@ const timezone = CountriesAtlas.timezone('AD')
 // }
 
 // You can also get any property you want from the timezone by using the . operator
-const timezoneName = CountriesAtlas.timezone('AD').tzName
+const timezoneName = CountriesAtlas.timezone('AD')?.[0]?.tzName
 // Central European Time
 ```
 ### getCallingCodes() ☎️ Method
@@ -582,7 +582,7 @@ export default App;
 ### Vite.js and Nuxt Setup
 If you are using Vite.js as your build tool, you need to install the `@rollup/plugin-commonjs` plugin, you can do that by running the following command:
 ```bash
-npm install @rollup/plugin-commonjs'
+npm install @rollup/plugin-commonjs
 ```
 Then you need to add the following configuration in your `vite.config.js` file to avoid CommonJS Dynamic Require Error:
 ```javascript

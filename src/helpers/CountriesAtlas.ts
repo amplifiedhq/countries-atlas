@@ -74,10 +74,14 @@ export class CountriesAtlas {
      */
     getStates(iso2: string): State[] | undefined {
         const country = this.find(iso2)
-        if (country) {
-            // eslint-disable-next-line @typescript-eslint/no-var-requires
-            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`)
-            return statesData.states
+        if (country && country.iso2) {
+            try {
+                // eslint-disable-next-line @typescript-eslint/no-var-requires
+                const statesData = require(`../data/countries/${country.iso2.toLowerCase()}.json`)
+                return statesData.states
+            } catch (error) {
+                return undefined
+            }
         }
         return undefined
     }
@@ -104,11 +108,15 @@ export class CountriesAtlas {
      */
     state(iso2: string, stateCode: string): State | undefined {
         const country = this.find(iso2);
-        if (country) {
-            // eslint-disable-next-line @typescript-eslint/no-var-requires
-            const statesData = require(`../data/countries/${country.iso2?.toLowerCase()}.json`) as StateData
-            const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode);
-            return state ? state : undefined;
+        if (country && country.iso2) {
+            try {
+                // eslint-disable-next-line @typescript-eslint/no-var-requires
+                const statesData = require(`../data/countries/${country.iso2.toLowerCase()}.json`) as StateData
+                const state = statesData.states.find((s: State) => s.state_code?.toUpperCase() === stateCode.toUpperCase());
+                return state;
+            } catch (error) {
+                return undefined;
+            }
         }
         return undefined;
     }
@@ -119,15 +127,13 @@ export class CountriesAtlas {
      * @returns {Timezone[]} - Array of timezone objects.
      */
     getTimezones(): Timezone[] {
-        const timezones: Timezone[] = []
+        const timezoneSet = new Set<Timezone>()
         this.countries.forEach(country => {
             country.timezones?.forEach(timezone => {
-                if (!timezones.includes(timezone)) {
-                    timezones.push(timezone)
-                }
+                timezoneSet.add(timezone)
             })
         })
-        return timezones
+        return Array.from(timezoneSet)
     }
 
     /**
@@ -199,7 +205,7 @@ export class CountriesAtlas {
      * @param {string} iso2 - ISO2 code of the country.
      * @returns {Currency | undefined} - Currency object or undefined if not found.
      */
-    currency(iso2: string): Currency[] | Currency | undefined {
+    currency(iso2: string): Currency | undefined {
         const country = this.find(iso2)
         if (country) {
             return {
