@@ -123,5 +123,9 @@
       "version": ">=20.19",
       "onFail": "warn"
     }
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
   }
 }

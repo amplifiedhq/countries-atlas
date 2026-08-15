@@ -32,7 +32,20 @@ jobs:
           registry-url: https://registry.npmjs.org/
           cache: npm
       - run: npm ci
+
+      - name: Check the npm token can publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "$NODE_AUTH_TOKEN" ]; then
+            echo "::error::NPM_TOKEN secret is empty or not set on this repository."
+            exit 1
+          fi
+          echo "authenticated as: $(npm whoami)"
+          npm access list packages --json >/dev/null 2>&1 \
+            || echo "::warning::could not list package access; token may be scoped narrowly"
+
       - run: npm run build
-      - run: npm publish --provenance --access public
+      - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
