@@ -1,0 +1,123 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version: [20.x, 22.x, 24.x]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+
+      - run: npm ci
+
+      # The packed data modules are generated, not committed.
+      - run: npm run validate
+      - run: npm run build:data
+
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+
+  consumers:
+    needs: verify
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version: [18.x, 20.x, 22.x, 24.x]
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: npm pack --pack-destination /tmp --ignore-scripts
+
+      - name: ES module consumer
+        run: |
+          mkdir -p /tmp/esm && cd /tmp/esm
+          npm init -y >/dev/null && npm pkg set type=module
+          npm install /tmp/amplifiedhq-countries-atlas-*.tgz
+          cat > test.mjs <<'JS'
+          import assert from 'node:assert/strict';
+          import { getCountry, getCurrencies } from '@amplifiedhq/countries-atlas';
+          import { getStates } from '@amplifiedhq/countries-atlas/states';
+          import { getCities } from '@amplifiedhq/countries-atlas/cities';
+          import { flagEmoji, flagClass } from '@amplifiedhq/countries-atlas/flags';
+          import { getTranslation } from '@amplifiedhq/countries-atlas/translations';
+          assert.equal(getCountry('US').name, 'United States');
+          assert.equal(getCurrencies().length, 155);
+          assert.equal((await getStates('US')).length, 66);
+          assert.equal((await getCities('US', 'CA')).length, 1123);
+          assert.equal(flagEmoji('US'), '\u{1F1FA}\u{1F1F8}');
+          assert.equal(flagClass('US'), 'flag flag-us');
+          assert.equal(getTranslation('AD', 'fr'), 'Andorre');
+          console.log('ESM consumer OK');
+          JS
+          node test.mjs
+
+      - name: CommonJS consumer, dynamic import
+        run: |
+          mkdir -p /tmp/cjs && cd /tmp/cjs
+          npm init -y >/dev/null && npm pkg set type=commonjs
+          npm install /tmp/amplifiedhq-countries-atlas-*.tgz
+          cat > test.cjs <<'JS'
+          const assert = require('node:assert/strict');
+          (async () => {
+            const { getCountry } = await import('@amplifiedhq/countries-atlas');
+            const { getCities } = await import('@amplifiedhq/countries-atlas/cities');
+            assert.equal(getCountry('US').name, 'United States');
+            assert.equal((await getCities('US', 'CA')).length, 1123);
+            console.log('CommonJS dynamic import OK');
+          })();
+          JS
+          node test.cjs
+
+      - name: Flag assets resolve by deep import
+        run: |
+          cd /tmp/esm
+          cat > flags.mjs <<'JS'
+          import assert from 'node:assert/strict';
+          import { createRequire } from 'node:module';
+          import { readFileSync } from 'node:fs';
+          const require = createRequire(import.meta.url);
+          for (const p of [
+            '@amplifiedhq/countries-atlas/flags/svg/us.svg',
+            '@amplifiedhq/countries-atlas/flags/css/flags.min.css',
+            '@amplifiedhq/countries-atlas/flags/scss/flags.scss',
+          ]) assert.ok(readFileSync(require.resolve(p)).length > 0, p);
+          const css = readFileSync(require.resolve('@amplifiedhq/countries-atlas/flags/css/flags.min.css'), 'utf8');
+          assert.equal((css.match(/\.flag-[a-z]{2}\{/g) || []).length, 250);
+          console.log('Flag assets OK');
+          JS
+          node flags.mjs
+
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+          cache: npm
+      - run: npm ci
+      - run: npm audit --audit-level=high
+      - run: npm run build
+      - run: npm pack --dry-run

@@ -1,25 +1,58 @@
 {
   "name": "@amplifiedhq/countries-atlas",
-  "version": "1.4.16",
+  "version": "2.0.0",
   "description": "Uncover the world with a single lightweight library - countries, codes, currencies, flags, languages, cities, and more 🌎",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": [
+    "**/*.css",
+    "**/*.scss"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./states": {
+      "types": "./dist/states.d.ts",
+      "default": "./dist/states.js"
+    },
+    "./cities": {
+      "types": "./dist/cities.d.ts",
+      "default": "./dist/cities.js"
+    },
+    "./flags": {
+      "types": "./dist/flags.d.ts",
+      "default": "./dist/flags.js"
+    },
+    "./flags/*": "./flags/*",
+    "./translations": {
+      "types": "./dist/translations.d.ts",
+      "default": "./dist/translations.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
-    "build": "rm -rf dist && tsc && copyfiles flags/**/*.{png,svg,css,scss} dist",
-    "format": "prettier --write \"src/**/*.(js|ts)\"",
-    "lint": "eslint src --ext .js,.ts",
-    "lint:fix": "eslint src --fix --ext .js,.ts",
-    "test": "jest --config jest.config.js",
-    "sync": "python3 scripts/sync.py",
-    "prepare": "npm run build",
-    "prepublishOnly": "npm test && npm run lint && npm run sync",
-    "preversion": "npm run lint",
-    "version": "npm run format && git add -A src",
-    "postversion": "git push && git push --tags"
+    "build:data": "node scripts/build-data.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "build": "rm -rf dist && npm run build:data && tsc -p tsconfig.build.json && npm run build:flags && node scripts/finalize-dist.mjs",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write \"src/**/*.ts\" \"scripts/**/*.mjs\"",
+    "lint": "eslint src scripts",
+    "lint:fix": "eslint src scripts --fix",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepack": "npm run build",
+    "preversion": "npm run lint && npm run test",
+    "build:flags": "node scripts/build-flags.mjs"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amplifiedhq/countries-atlas.git"
+    "url": "git+https://github.com/amplifiedhq/countries-atlas.git"
   },
   "contributors": [
     {
@@ -55,18 +88,40 @@
   },
   "homepage": "https://github.com/amplifiedhq/countries-atlas#readme",
   "devDependencies": {
-    "@types/jest": "29.4.0",
-    "@typescript-eslint/eslint-plugin": "5.54.0",
-    "@typescript-eslint/parser": "5.52.0",
-    "copyfiles": "^2.4.1",
-    "eslint": "8.35.0",
-    "eslint-plugin-jest": "27.2.1",
-    "jest": "29.4.3",
-    "prettier": "2.8.4",
-    "ts-jest": "29.0.5",
-    "typescript": "4.9.5"
+    "@eslint/js": "^9.39.5",
+    "@types/node": "^26.2.0",
+    "eslint": "^9.39.5",
+    "prettier": "^3.9.6",
+    "svgo": "^3.3.4",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.67.0",
+    "vitest": "^4.1.10"
   },
   "files": [
-    "dist/**/*"
-  ]
+    "dist",
+    "flags"
+  ],
+  "typesVersions": {
+    "*": {
+      "states": [
+        "./dist/states.d.ts"
+      ],
+      "cities": [
+        "./dist/cities.d.ts"
+      ],
+      "flags": [
+        "./dist/flags.d.ts"
+      ],
+      "translations": [
+        "./dist/translations.d.ts"
+      ]
+    }
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": ">=20.19",
+      "onFail": "warn"
+    }
+  }
 }
