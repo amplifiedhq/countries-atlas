@@ -116,5 +116,12 @@
         "./dist/translations.d.ts"
       ]
     }
+  },
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": ">=20.19",
+      "onFail": "warn"
+    }
   }
 }
