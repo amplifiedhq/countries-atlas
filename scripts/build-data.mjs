@@ -87,13 +87,19 @@ function assertClean(values, label, { allowEmpty = true } = {}) {
       !s.includes(COL) && !s.includes(UNIT) && !s.includes(GROUP),
       `${label} contains a reserved separator: ${JSON.stringify(s)}`
     );
-    assert(allowEmpty || s !== '', `${label} is empty, which shifts every later value in its column`);
+    assert(
+      allowEmpty || s !== '',
+      `${label} is empty, which shifts every later value in its column`
+    );
   }
 }
 
 function assertFiniteCoords(pairs, label) {
   for (const [lat, lon] of pairs) {
-    for (const [v, axis] of [[lat, 'latitude'], [lon, 'longitude']]) {
+    for (const [v, axis] of [
+      [lat, 'latitude'],
+      [lon, 'longitude'],
+    ]) {
       if (v == null) continue;
       const n = Number(v);
       assert(Number.isFinite(n), `${label} has a non-numeric ${axis}: ${JSON.stringify(v)}`);
@@ -110,10 +116,6 @@ atlas.sort((a, b) => a.iso2.localeCompare(b.iso2));
 
 function buildCore() {
   const iso2 = atlas.map((c) => c.iso2);
-
-
-
-
 
   const zoneByName = new Map();
   for (const c of atlas) {
@@ -216,9 +218,20 @@ function buildCountryChunks() {
     const list = parsed.states ?? [];
     totalStates += list.length;
 
-    assertClean(list.map((s) => s.name), `state name in ${file}`, { allowEmpty: false });
-    assertClean(list.map((s) => s.state_code), `state code in ${file}`, { allowEmpty: false });
-    assertFiniteCoords(list.map((s) => [s.latitude, s.longitude]), `state in ${file}`);
+    assertClean(
+      list.map((s) => s.name),
+      `state name in ${file}`,
+      { allowEmpty: false }
+    );
+    assertClean(
+      list.map((s) => s.state_code),
+      `state code in ${file}`,
+      { allowEmpty: false }
+    );
+    assertFiniteCoords(
+      list.map((s) => [s.latitude, s.longitude]),
+      `state in ${file}`
+    );
 
     // The runtime indexes states and cities by uppercase code.
     const codes = list.map((s) => (s.state_code ?? '').toUpperCase());
@@ -242,8 +255,15 @@ function buildCountryChunks() {
     for (const s of list) {
       const own = s.cities ?? [];
       totalCities += own.length;
-      assertClean(own.map((c) => c.name), `city name in ${file}`, { allowEmpty: false });
-      assertFiniteCoords(own.map((c) => [c.latitude, c.longitude]), `city in ${file}`);
+      assertClean(
+        own.map((c) => c.name),
+        `city name in ${file}`,
+        { allowEmpty: false }
+      );
+      assertFiniteCoords(
+        own.map((c) => [c.latitude, c.longitude]),
+        `city in ${file}`
+      );
       cityNames.push(own.map((c) => c.name).join(GROUP));
       for (const c of own) cityPairs.push([c.latitude, c.longitude]);
     }
@@ -303,7 +323,9 @@ for (const [code, payload] of cities) cityBytes += emit(`cities/${code}.ts`, pay
 function emitLoader(name, keys, dir) {
   // A Map, not an object literal: `loaders['__proto__']` on a literal returns
   // Object.prototype instead of undefined, which crashes the caller.
-  const entries = keys.map((code) => `  ['${code}', () => import('./${dir}/${code}.js')],`).join('\n');
+  const entries = keys
+    .map((code) => `  ['${code}', () => import('./${dir}/${code}.js')],`)
+    .join('\n');
   writeFileSync(
     join(OUT, `${name}.ts`),
     `${BANNER}type Loader = () => Promise<{ default: string }>;\n\n` +

@@ -83,8 +83,16 @@ export function validate() {
     check(c.emoji === flagEmojiFor(c.iso2), `${at}: emoji does not match its country code`);
 
     for (const field of [
-      'name', 'native', 'capital', 'currency_symbol', 'currency_name',
-      'iso2', 'iso3', 'currency', 'languages', 'phone',
+      'name',
+      'native',
+      'capital',
+      'currency_symbol',
+      'currency_name',
+      'iso2',
+      'iso3',
+      'currency',
+      'languages',
+      'phone',
     ]) {
       checkClean(c[field], `${at}: ${field}`);
     }
@@ -163,7 +171,10 @@ export function validate() {
   }
 
   if (problems.length > 0) {
-    const shown = problems.slice(0, 20).map((p) => `  - ${p}`).join('\n');
+    const shown = problems
+      .slice(0, 20)
+      .map((p) => `  - ${p}`)
+      .join('\n');
     const more = problems.length > 20 ? `\n  ...and ${problems.length - 20} more` : '';
     throw new Error(`data validation failed with ${problems.length} problem(s):\n${shown}${more}`);
   }

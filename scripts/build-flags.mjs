@@ -7,13 +7,7 @@
  *
  * The SVGs are never modified. See docs/FLAGS.md for why they are not minified.
  */
-import {
-  readdirSync,
-  writeFileSync,
-  mkdirSync,
-  rmSync,
-  statSync,
-} from 'node:fs';
+import { readdirSync, writeFileSync, mkdirSync, rmSync, statSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validate } from './validate-data.mjs';

@@ -2,7 +2,7 @@
  * @packageDocumentation
  * @module amplifiedhq/countries-atlas/flags
  * @author AmplifiedHQ
- * 
+ *
  * Helpers for the flag assets shipped under
  * `@amplifiedhq/countries-atlas/flags/*`.
  *

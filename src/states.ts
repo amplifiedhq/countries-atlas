@@ -2,7 +2,7 @@
  * @packageDocumentation
  * @module amplifiedhq/countries-atlas/states
  * @author AmplifiedHQ
- * 
+ *
  * States and provinces, loaded on demand per country.
  *
  * @example
@@ -95,10 +95,7 @@ export async function getStates(countryCode: string): Promise<readonly State[]> 
  * @param countryCode - ISO 3166-1 alpha-2 code, case-insensitive.
  * @param stateCode - Subdivision code, case-insensitive.
  */
-export async function getState(
-  countryCode: string,
-  stateCode: string
-): Promise<State | undefined> {
+export async function getState(countryCode: string, stateCode: string): Promise<State | undefined> {
   return (await indexOf(countryCode))?.byCode.get(key(stateCode));
 }
 

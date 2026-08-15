@@ -2,7 +2,7 @@
  * @packageDocumentation
  * @module amplifiedhq/countries-atlas/translations
  * @author AmplifiedHQ
- * 
+ *
  *
  * Country name translations.
  *

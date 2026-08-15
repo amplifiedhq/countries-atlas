@@ -2,7 +2,7 @@
  * @packageDocumentation
  * @module amplifiedhq/countries-atlas/cities
  * @author AmplifiedHQ
- * 
+ *
  * Cities and towns, loaded on demand per country.
  *
  * @example
@@ -81,10 +81,7 @@ function decode(payload: string, states: readonly State[]): Index {
  * @returns The cities, ordered by state then as in the source dataset, or an
  *   empty array when the country or state is unknown.
  */
-export async function getCities(
-  countryCode: string,
-  stateCode?: string
-): Promise<readonly City[]> {
+export async function getCities(countryCode: string, stateCode?: string): Promise<readonly City[]> {
   const index = await indexOf(countryCode);
   if (index === undefined) return EMPTY;
 

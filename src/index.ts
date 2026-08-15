@@ -2,7 +2,7 @@
  * @packageDocumentation
  * @module amplifiedhq/countries-atlas
  * @author AmplifiedHQ
- * 
+ *
  * Countries, ISO codes, currencies, calling codes, languages, and time zones.
  *
  * @example
